@@ -1,8 +1,7 @@
 # Garmin Watchface Assets
 
-Static 195x195 JPG backgrounds for the Pulse Orbit Connect IQ watch face test.
+Live image endpoint for the Pulse Orbit Connect IQ watch face test.
 
-- frame-0: aurora mountains
-- frame-1: deep ocean
-- frame-2: desert sunrise
-- frame-3: neon city
+- `latest.jpg` is the only background the watch face requests.
+- Replace `latest.jpg`, commit, and push to change the watch background wirelessly on the next sync.
+- The watch app adds a cache-busting query string when it fetches this file.
