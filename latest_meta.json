@@ -1,11 +1,11 @@
 {
-  "data_summary": "Prioritize rest tonight. - HRV balanced \u2014 good recovery state. - Good sleep: 7.6h last night. - Step goal achieved (8,137). Well done.",
-  "expires_at": "2026-07-04T04:20:44+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-03T22:20:44+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
-  "url": ""
+  "data_summary": "next-hour temp 9.6C; rain below 15% notice threshold",
+  "expires_at": "2026-07-04T05:20:46+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-03T23:20:46+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
