@@ -1,11 +1,11 @@
 {
-  "data_summary": "next-hour temp 9.6C; rain below 15% notice threshold",
-  "expires_at": "2026-07-04T05:20:46+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-03T23:20:46+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "data_summary": "The sky is blue because air scatters shorter blue wavelengths more strongly. Caption: AIR DOING A TRICK",
+  "expires_at": "2026-07-04T05:40:47+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-03T23:40:47+10:00",
+  "title": "Curious Fact: SKY SCATTERS BLUE",
+  "topic_key": "curious_fact_blue_sky",
+  "url": "https://www.google.com/search?q=The+sky+is+blue+because+air+scatters+shorter+blue+wavelengths+more+strongly.+Caption%3A+AIR+DOING+A+TRICK"
 }
