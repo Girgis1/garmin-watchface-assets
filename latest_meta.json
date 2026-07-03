@@ -1,11 +1,11 @@
 {
-  "data_summary": "HRV BALANCED, avg 70 ms, 2 day balanced streak",
-  "expires_at": "2026-07-04T14:40:06+10:00",
+  "data_summary": "Prioritize rest tonight. - HRV balanced \u2014 good recovery state. - Good sleep: 7.6h last night. - Step goal achieved (8,404). Well done.",
+  "expires_at": "2026-07-04T15:20:08+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-04T08:40:06+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_balanced",
+  "published_at": "2026-07-04T09:20:08+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
