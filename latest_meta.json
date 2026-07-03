@@ -1,11 +1,11 @@
 {
-  "data_summary": "waning gibbous, 87% illuminated",
-  "expires_at": "2026-07-04T03:50:18+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-07-03T21:50:18+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "data_summary": "Prioritize rest tonight. - HRV balanced \u2014 good recovery state. - Good sleep: 7.6h last night. - Step goal achieved (8,137). Well done.",
+  "expires_at": "2026-07-04T04:20:44+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-03T22:20:44+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
+  "url": ""
 }
