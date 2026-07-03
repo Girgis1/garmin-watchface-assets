@@ -1,11 +1,11 @@
 {
-  "data_summary": "sleep 7.6h, score 88, 21-day avg 6.9h",
-  "expires_at": "2026-07-04T06:00:48+10:00",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-07-04T14:00:05+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-04T00:00:48+10:00",
-  "title": "Sleep Recovery",
-  "topic_key": "health_sleep_recovery",
+  "published_at": "2026-07-04T08:00:05+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
