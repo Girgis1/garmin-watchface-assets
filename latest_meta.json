@@ -1,11 +1,11 @@
 {
-  "data_summary": "next-hour temp 10.2C; rain below 15% notice threshold",
-  "expires_at": "2026-07-05T03:20:41+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-04T21:20:41+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "data_summary": "US lifts export restrictions on Anthropic\u2019s Fable 5 AI model",
+  "expires_at": "2026-07-05T03:40:42+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-04T21:40:42+10:00",
+  "title": "News: US lifts export restrictions on Anthropic\u2019s",
+  "topic_key": "interesting_signal",
+  "url": "https://www.google.com/search?q=US+lifts+export+restrictions+on+Anthropic%E2%80%99s+Fable+5+AI+model"
 }
