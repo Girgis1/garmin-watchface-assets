@@ -1,11 +1,11 @@
 {
-  "data_summary": "- HRV balanced \u2014 good recovery state. Calm day.",
-  "expires_at": "2026-07-04T20:20:19+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-04T14:20:19+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
-  "url": ""
+  "data_summary": "Anthropic says US has lifted export controls on Fable and Mythos AI models after security fears",
+  "expires_at": "2026-07-04T21:00:28+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-04T15:00:28+10:00",
+  "title": "News: Anthropic says US has lifted export",
+  "topic_key": "interesting_signal",
+  "url": "https://www.google.com/search?q=Anthropic+says+US+has+lifted+export+controls+on+Fable+and+Mythos+AI+models+after+security+fears"
 }
