@@ -1,11 +1,11 @@
 {
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-07-04T16:40:10+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-04T10:40:10+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "data_summary": "Moonlight is sunlight reflected from the Moon. Caption: SUNLIGHT WITH ADMIN",
+  "expires_at": "2026-07-04T17:00:11+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-04T11:00:11+10:00",
+  "title": "Curious Fact: MOONLIGHT IS OLD SUN",
+  "topic_key": "curious_fact_light_moon",
+  "url": "https://www.google.com/search?q=Moonlight+is+sunlight+reflected+from+the+Moon.+Caption%3A+SUNLIGHT+WITH+ADMIN"
 }
