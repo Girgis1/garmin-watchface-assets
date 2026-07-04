@@ -1,11 +1,11 @@
 {
-  "data_summary": "HRV BALANCED, avg 71 ms, 2 day balanced streak",
-  "expires_at": "2026-07-05T05:00:45+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-04T23:00:45+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_balanced",
-  "url": ""
+  "data_summary": "The sky is blue because air scatters shorter blue wavelengths more strongly. Caption: AIR DOING A TRICK",
+  "expires_at": "2026-07-05T05:20:46+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-04T23:20:46+10:00",
+  "title": "Curious Fact: SKY SCATTERS BLUE",
+  "topic_key": "curious_fact_blue_sky",
+  "url": "https://www.google.com/search?q=The+sky+is+blue+because+air+scatters+shorter+blue+wavelengths+more+strongly.+Caption%3A+AIR+DOING+A+TRICK"
 }
