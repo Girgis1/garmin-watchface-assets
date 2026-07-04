@@ -1,11 +1,11 @@
 {
-  "data_summary": "waning gibbous, 81% illuminated",
-  "expires_at": "2026-07-04T22:20:30+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-07-04T16:20:30+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "data_summary": "Sound needs a medium, so open space is effectively silent. Caption: LOUDNESS FAILED",
+  "expires_at": "2026-07-04T23:20:32+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-04T17:20:32+10:00",
+  "title": "Curious Fact: SPACE IS QUIET",
+  "topic_key": "curious_fact_sound_vacuum",
+  "url": "https://www.google.com/search?q=Sound+needs+a+medium%2C+so+open+space+is+effectively+silent.+Caption%3A+LOUDNESS+FAILED"
 }
