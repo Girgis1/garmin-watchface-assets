@@ -1,11 +1,11 @@
 {
-  "data_summary": "next-hour temp 12.0C; rain below 15% notice threshold",
-  "expires_at": "2026-07-04T15:40:08+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-04T09:40:08+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "data_summary": "NextDC S7 Australian data center to offer 612MW of capacity, OpenAI Stargate planned as customer",
+  "expires_at": "2026-07-04T16:00:09+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-04T10:00:09+10:00",
+  "title": "News: NextDC S7 Australian data center to",
+  "topic_key": "interesting_signal",
+  "url": "https://www.google.com/search?q=NextDC+S7+Australian+data+center+to+offer+612MW+of+capacity%2C+OpenAI+Stargate+planned+as+customer"
 }
