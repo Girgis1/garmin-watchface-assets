@@ -1,11 +1,11 @@
 {
-  "data_summary": "Old window glass looks wavy from manufacturing, not because it slowly flows. Caption: RUMOUR CANCELLED",
-  "expires_at": "2026-07-04T19:40:17+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-04T13:40:17+10:00",
-  "title": "Curious Fact: GLASS IS SOLID",
-  "topic_key": "curious_fact_glass_flows",
-  "url": "https://www.google.com/search?q=Old+window+glass+looks+wavy+from+manufacturing%2C+not+because+it+slowly+flows.+Caption%3A+RUMOUR+CANCELLED"
+  "data_summary": "waning gibbous, 82% illuminated",
+  "expires_at": "2026-07-04T20:00:18+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-07-04T14:00:18+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
