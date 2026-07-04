@@ -1,11 +1,11 @@
 {
-  "data_summary": "NextDC S7 Australian data center to offer 612MW of capacity, OpenAI Stargate planned as customer",
-  "expires_at": "2026-07-04T16:00:09+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-04T10:00:09+10:00",
-  "title": "News: NextDC S7 Australian data center to",
-  "topic_key": "interesting_signal",
-  "url": "https://www.google.com/search?q=NextDC+S7+Australian+data+center+to+offer+612MW+of+capacity%2C+OpenAI+Stargate+planned+as+customer"
+  "data_summary": "HRV BALANCED, avg 71 ms, 2 day balanced streak",
+  "expires_at": "2026-07-04T16:20:10+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-04T10:20:10+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
+  "url": ""
 }
