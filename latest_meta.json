@@ -1,11 +1,11 @@
 {
-  "data_summary": "waning gibbous, 82% illuminated",
-  "expires_at": "2026-07-04T20:00:18+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-07-04T14:00:18+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "data_summary": "- HRV balanced \u2014 good recovery state. Calm day.",
+  "expires_at": "2026-07-04T20:20:19+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-04T14:20:19+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
+  "url": ""
 }
