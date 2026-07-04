@@ -1,11 +1,11 @@
 {
-  "data_summary": "Prioritize rest tonight. - HRV balanced \u2014 good recovery state. - Good sleep: 7.6h last night. - Step goal achieved (8,404). Well done.",
-  "expires_at": "2026-07-04T17:20:12+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-04T11:20:12+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
-  "url": ""
+  "data_summary": "NextDC S7 Australian data center to offer 612MW of capacity, OpenAI Stargate planned as customer",
+  "expires_at": "2026-07-04T18:00:14+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-04T12:00:14+10:00",
+  "title": "News: NextDC S7 Australian data center to",
+  "topic_key": "interesting_signal",
+  "url": "https://www.google.com/search?q=NextDC+S7+Australian+data+center+to+offer+612MW+of+capacity%2C+OpenAI+Stargate+planned+as+customer"
 }
