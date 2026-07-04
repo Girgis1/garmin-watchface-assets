@@ -1,11 +1,11 @@
 {
-  "data_summary": "waning gibbous, 78% illuminated",
-  "expires_at": "2026-07-05T05:40:47+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-07-04T23:40:47+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-07-05T14:00:06+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-05T08:00:06+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
+  "url": ""
 }
