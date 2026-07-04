@@ -1,11 +1,11 @@
 {
-  "data_summary": "HRV BALANCED, avg 71 ms, 2 day balanced streak",
-  "expires_at": "2026-07-05T00:40:35+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-04T18:40:35+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_balanced",
-  "url": ""
+  "data_summary": "Anthropic says US has lifted export controls on Fable and Mythos AI models after security fears",
+  "expires_at": "2026-07-05T01:00:36+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-04T19:00:36+10:00",
+  "title": "News: Anthropic says US has lifted export",
+  "topic_key": "interesting_signal",
+  "url": "https://www.google.com/search?q=Anthropic+says+US+has+lifted+export+controls+on+Fable+and+Mythos+AI+models+after+security+fears"
 }
