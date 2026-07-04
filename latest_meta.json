@@ -1,11 +1,11 @@
 {
-  "data_summary": "Moonlight is sunlight reflected from the Moon. Caption: SUNLIGHT WITH ADMIN",
-  "expires_at": "2026-07-04T17:00:11+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-04T11:00:11+10:00",
-  "title": "Curious Fact: MOONLIGHT IS OLD SUN",
-  "topic_key": "curious_fact_light_moon",
-  "url": "https://www.google.com/search?q=Moonlight+is+sunlight+reflected+from+the+Moon.+Caption%3A+SUNLIGHT+WITH+ADMIN"
+  "data_summary": "Prioritize rest tonight. - HRV balanced \u2014 good recovery state. - Good sleep: 7.6h last night. - Step goal achieved (8,404). Well done.",
+  "expires_at": "2026-07-04T17:20:12+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-04T11:20:12+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
+  "url": ""
 }
