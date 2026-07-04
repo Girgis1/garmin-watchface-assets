@@ -1,11 +1,11 @@
 {
-  "data_summary": "next-hour temp 10.4C; rain below 15% notice threshold",
-  "expires_at": "2026-07-05T15:20:09+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-05T09:20:09+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "data_summary": "NSW government \u2018absolutely thrilled\u2019 to welcome OpenAI ... until someone mentioned the Terminator fi",
+  "expires_at": "2026-07-05T15:40:09+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-05T09:40:09+10:00",
+  "title": "News: NSW government \u2018absolutely thrilled\u2019 to",
+  "topic_key": "interesting_signal",
+  "url": "https://www.google.com/search?q=NSW+government+%E2%80%98absolutely+thrilled%E2%80%99+to+welcome+OpenAI+...+until+someone+mentioned+the+Terminator+fi"
 }
