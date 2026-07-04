@@ -1,11 +1,11 @@
 {
-  "data_summary": "HRV BALANCED, avg 71 ms, 2 day balanced streak",
-  "expires_at": "2026-07-05T03:00:41+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-04T21:00:41+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_balanced",
-  "url": ""
+  "data_summary": "next-hour temp 10.2C; rain below 15% notice threshold",
+  "expires_at": "2026-07-05T03:20:41+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-04T21:20:41+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
