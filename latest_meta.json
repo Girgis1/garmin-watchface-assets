@@ -1,11 +1,11 @@
 {
-  "data_summary": "- HRV balanced \u2014 good recovery state. Calm day.",
-  "expires_at": "2026-07-04T23:40:33+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-04T17:40:33+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
-  "url": ""
+  "data_summary": "next-hour temp 11.5C; rain below 15% notice threshold",
+  "expires_at": "2026-07-05T00:20:34+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-04T18:20:34+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
