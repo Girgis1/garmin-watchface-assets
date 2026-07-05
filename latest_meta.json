@@ -1,11 +1,11 @@
 {
-  "data_summary": "Graphite and diamond are both forms of carbon. Caption: SAME STUFF, POSHER",
-  "expires_at": "2026-07-06T04:40:39+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-05T22:40:39+10:00",
-  "title": "Curious Fact: CARBON HAS RANGE",
-  "topic_key": "curious_fact_graphite_diamond",
-  "url": "https://www.google.com/search?q=Graphite+and+diamond+are+both+forms+of+carbon.+Caption%3A+SAME+STUFF%2C+POSHER"
+  "data_summary": "goodnight stage soft: The pillow has requested a meeting.; RAIN 34% 11PM",
+  "expires_at": "2026-07-06T05:00:40+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "goodnight",
+  "published_at": "2026-07-05T23:00:40+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
+  "url": ""
 }
