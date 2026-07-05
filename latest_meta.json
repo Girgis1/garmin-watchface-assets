@@ -1,11 +1,11 @@
 {
-  "data_summary": "Old window glass looks wavy from manufacturing, not because it slowly flows. Caption: RUMOUR CANCELLED",
-  "expires_at": "2026-07-06T02:40:34+10:00",
+  "data_summary": "Graphite and diamond are both forms of carbon. Caption: SAME STUFF, POSHER",
+  "expires_at": "2026-07-06T03:00:35+10:00",
   "kind": "fact",
   "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-05T20:40:34+10:00",
-  "title": "Curious Fact: GLASS IS SOLID",
-  "topic_key": "curious_fact_glass_flows",
-  "url": "https://www.google.com/search?q=Old+window+glass+looks+wavy+from+manufacturing%2C+not+because+it+slowly+flows.+Caption%3A+RUMOUR+CANCELLED"
+  "published_at": "2026-07-05T21:00:35+10:00",
+  "title": "Curious Fact: CARBON HAS RANGE",
+  "topic_key": "curious_fact_graphite_diamond",
+  "url": "https://www.google.com/search?q=Graphite+and+diamond+are+both+forms+of+carbon.+Caption%3A+SAME+STUFF%2C+POSHER"
 }
