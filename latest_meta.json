@@ -1,11 +1,11 @@
 {
-  "data_summary": "A day on Venus is longer than its year. Caption: CALENDAR TEAM IN BITS",
-  "expires_at": "2026-07-05T21:20:22+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-05T15:20:22+10:00",
-  "title": "Curious Fact: VENUS DAY > YEAR",
-  "topic_key": "curious_fact_venus_calendar",
-  "url": "https://www.google.com/search?q=A+day+on+Venus+is+longer+than+its+year.+Caption%3A+CALENDAR+TEAM+IN+BITS"
+  "data_summary": "waning gibbous, 72% illuminated",
+  "expires_at": "2026-07-05T21:40:23+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-07-05T15:40:23+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
