@@ -1,11 +1,11 @@
 {
-  "data_summary": "Prioritize rest tonight. - HRV balanced \u2014 good recovery state. Calm day.",
-  "expires_at": "2026-07-05T19:40:18+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-05T13:40:18+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
-  "url": ""
+  "data_summary": "upcoming-hour rain 1%, 0.2 mm, temp 13.4C",
+  "expires_at": "2026-07-05T20:00:19+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-05T14:00:19+10:00",
+  "title": "Rain Flood",
+  "topic_key": "rain_flood",
+  "url": "https://www.google.com/search?q=Sydney+rain+radar+Meadowbank"
 }
