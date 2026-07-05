@@ -1,11 +1,11 @@
 {
-  "data_summary": "Mars looks red because iron minerals oxidised on its surface. Caption: PLANET NEEDS A WIPE",
-  "expires_at": "2026-07-05T17:20:13+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-05T11:20:13+10:00",
-  "title": "Curious Fact: MARS IS RUSTY",
-  "topic_key": "curious_fact_rust_space",
-  "url": "https://www.google.com/search?q=Mars+looks+red+because+iron+minerals+oxidised+on+its+surface.+Caption%3A+PLANET+NEEDS+A+WIPE"
+  "data_summary": "Prioritize rest tonight. - HRV balanced \u2014 good recovery state. Calm day.",
+  "expires_at": "2026-07-05T17:40:14+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-05T11:40:14+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
+  "url": ""
 }
