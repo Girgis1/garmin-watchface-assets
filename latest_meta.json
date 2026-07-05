@@ -1,11 +1,11 @@
 {
-  "data_summary": "A day on Venus is longer than its year. Caption: CALENDAR TEAM IN BITS",
-  "expires_at": "2026-07-05T16:00:10+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-05T10:00:10+10:00",
-  "title": "Curious Fact: VENUS DAY > YEAR",
-  "topic_key": "curious_fact_venus_calendar",
-  "url": "https://www.google.com/search?q=A+day+on+Venus+is+longer+than+its+year.+Caption%3A+CALENDAR+TEAM+IN+BITS"
+  "data_summary": "sleep 7.7h, score 87, 21-day avg 6.9h",
+  "expires_at": "2026-07-05T16:20:11+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-05T10:20:11+10:00",
+  "title": "Sleep Recovery",
+  "topic_key": "health_sleep_recovery",
+  "url": ""
 }
