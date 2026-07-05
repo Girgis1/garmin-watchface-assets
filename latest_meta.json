@@ -1,11 +1,11 @@
 {
-  "data_summary": "Sound needs a medium, so open space is effectively silent. Caption: LOUDNESS FAILED",
-  "expires_at": "2026-07-06T01:40:32+10:00",
+  "data_summary": "The sky is blue because air scatters shorter blue wavelengths more strongly. Caption: AIR DOING A TRICK",
+  "expires_at": "2026-07-06T02:20:34+10:00",
   "kind": "fact",
   "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-05T19:40:32+10:00",
-  "title": "Curious Fact: SPACE IS QUIET",
-  "topic_key": "curious_fact_sound_vacuum",
-  "url": "https://www.google.com/search?q=Sound+needs+a+medium%2C+so+open+space+is+effectively+silent.+Caption%3A+LOUDNESS+FAILED"
+  "published_at": "2026-07-05T20:20:34+10:00",
+  "title": "Curious Fact: SKY SCATTERS BLUE",
+  "topic_key": "curious_fact_blue_sky",
+  "url": "https://www.google.com/search?q=The+sky+is+blue+because+air+scatters+shorter+blue+wavelengths+more+strongly.+Caption%3A+AIR+DOING+A+TRICK"
 }
