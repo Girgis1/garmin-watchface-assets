@@ -1,11 +1,11 @@
 {
-  "data_summary": "upcoming-hour rain 24%, 0.2 mm, temp 10.5C",
-  "expires_at": "2026-07-06T04:20:39+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-05T22:20:39+10:00",
-  "title": "Rain Flood",
-  "topic_key": "rain_flood",
-  "url": "https://www.google.com/search?q=Sydney+rain+radar+Meadowbank"
+  "data_summary": "Graphite and diamond are both forms of carbon. Caption: SAME STUFF, POSHER",
+  "expires_at": "2026-07-06T04:40:39+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-05T22:40:39+10:00",
+  "title": "Curious Fact: CARBON HAS RANGE",
+  "topic_key": "curious_fact_graphite_diamond",
+  "url": "https://www.google.com/search?q=Graphite+and+diamond+are+both+forms+of+carbon.+Caption%3A+SAME+STUFF%2C+POSHER"
 }
