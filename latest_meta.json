@@ -1,11 +1,11 @@
 {
-  "data_summary": "next-hour temp 13.4C, rain 1%, 0.2 mm",
-  "expires_at": "2026-07-05T20:40:21+10:00",
+  "data_summary": "departure-window temp 12C, rain 25%, 0.1 mm",
+  "expires_at": "2026-07-05T21:00:22+10:00",
   "kind": "weather",
   "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-05T14:40:21+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
+  "lane": "weather_departure",
+  "published_at": "2026-07-05T15:00:22+10:00",
+  "title": "Departure Weather",
+  "topic_key": "leave_work_weather",
   "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
