@@ -1,11 +1,11 @@
 {
-  "data_summary": "upcoming-hour rain 4%, 0.1 mm, temp 12.8C",
-  "expires_at": "2026-07-05T22:20:25+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-05T16:20:25+10:00",
-  "title": "Rain Flood",
-  "topic_key": "rain_flood",
-  "url": "https://www.google.com/search?q=Sydney+rain+radar+Meadowbank"
+  "data_summary": "- HRV balanced \u2014 good recovery state. - Good sleep: 7.7h last night. Calm day.",
+  "expires_at": "2026-07-05T22:40:25+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-05T16:40:25+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
+  "url": ""
 }
