@@ -1,11 +1,11 @@
 {
-  "data_summary": "- HRV balanced \u2014 good recovery state. - Good sleep: 7.7h last night. Calm day.",
-  "expires_at": "2026-07-05T22:40:25+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-05T16:40:25+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
-  "url": ""
+  "data_summary": "NSW government \u2018absolutely thrilled\u2019 to welcome OpenAI ... until someone mentioned the Terminator fi",
+  "expires_at": "2026-07-05T23:00:26+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-05T17:00:26+10:00",
+  "title": "News: NSW government \u2018absolutely thrilled\u2019 to",
+  "topic_key": "interesting_signal",
+  "url": "https://www.google.com/search?q=NSW+government+%E2%80%98absolutely+thrilled%E2%80%99+to+welcome+OpenAI+...+until+someone+mentioned+the+Terminator+fi"
 }
