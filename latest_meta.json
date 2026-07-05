@@ -1,11 +1,11 @@
 {
-  "data_summary": "waning gibbous, 72% illuminated",
-  "expires_at": "2026-07-05T21:40:23+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-07-05T15:40:23+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "data_summary": "departure-window temp 12C, rain 25%, 0.1 mm",
+  "expires_at": "2026-07-05T22:00:24+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-07-05T16:00:24+10:00",
+  "title": "Departure Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
