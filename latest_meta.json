@@ -1,11 +1,11 @@
 {
-  "data_summary": "sleep 7.7h, score 87",
-  "expires_at": "2026-07-05T16:40:12+10:00",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-07-05T17:00:13+10:00",
   "kind": "none",
   "label": "",
-  "lane": "sleep",
-  "published_at": "2026-07-05T10:40:12+10:00",
-  "title": "Sleep Recovery",
-  "topic_key": "sleep",
+  "lane": "health",
+  "published_at": "2026-07-05T11:00:13+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
