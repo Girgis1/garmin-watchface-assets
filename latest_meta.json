@@ -1,11 +1,11 @@
 {
-  "data_summary": "The sky is blue because air scatters shorter blue wavelengths more strongly. Caption: AIR DOING A TRICK",
-  "expires_at": "2026-07-06T02:20:34+10:00",
+  "data_summary": "Old window glass looks wavy from manufacturing, not because it slowly flows. Caption: RUMOUR CANCELLED",
+  "expires_at": "2026-07-06T02:40:34+10:00",
   "kind": "fact",
   "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-05T20:20:34+10:00",
-  "title": "Curious Fact: SKY SCATTERS BLUE",
-  "topic_key": "curious_fact_blue_sky",
-  "url": "https://www.google.com/search?q=The+sky+is+blue+because+air+scatters+shorter+blue+wavelengths+more+strongly.+Caption%3A+AIR+DOING+A+TRICK"
+  "published_at": "2026-07-05T20:40:34+10:00",
+  "title": "Curious Fact: GLASS IS SOLID",
+  "topic_key": "curious_fact_glass_flows",
+  "url": "https://www.google.com/search?q=Old+window+glass+looks+wavy+from+manufacturing%2C+not+because+it+slowly+flows.+Caption%3A+RUMOUR+CANCELLED"
 }
