@@ -1,11 +1,11 @@
 {
-  "data_summary": "sleep 7.7h, score 87, 21-day avg 6.9h",
-  "expires_at": "2026-07-05T18:40:16+10:00",
+  "data_summary": "Prioritize rest tonight. - HRV balanced \u2014 good recovery state. Calm day.",
+  "expires_at": "2026-07-05T19:00:17+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-05T12:40:16+10:00",
-  "title": "Sleep Recovery",
-  "topic_key": "health_sleep_recovery",
+  "published_at": "2026-07-05T13:00:17+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
