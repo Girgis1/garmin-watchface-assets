@@ -1,11 +1,11 @@
 {
-  "data_summary": "Scientists expect diamond rain inside Neptune and Uranus. Caption: FORECAST: FANCY",
-  "expires_at": "2026-07-06T00:20:29+10:00",
+  "data_summary": "Moonlight is sunlight reflected from the Moon. Caption: SUNLIGHT WITH ADMIN",
+  "expires_at": "2026-07-06T01:00:31+10:00",
   "kind": "fact",
   "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-05T18:20:29+10:00",
-  "title": "Curious Fact: DIAMOND RAIN",
-  "topic_key": "curious_fact_diamond_rain",
-  "url": "https://www.google.com/search?q=Scientists+expect+diamond+rain+inside+Neptune+and+Uranus.+Caption%3A+FORECAST%3A+FANCY"
+  "published_at": "2026-07-05T19:00:31+10:00",
+  "title": "Curious Fact: MOONLIGHT IS OLD SUN",
+  "topic_key": "curious_fact_light_moon",
+  "url": "https://www.google.com/search?q=Moonlight+is+sunlight+reflected+from+the+Moon.+Caption%3A+SUNLIGHT+WITH+ADMIN"
 }
