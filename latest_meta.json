@@ -1,11 +1,11 @@
 {
-  "data_summary": "Graphite and diamond are both forms of carbon. Caption: SAME STUFF, POSHER",
-  "expires_at": "2026-07-06T03:00:35+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-05T21:00:35+10:00",
-  "title": "Curious Fact: CARBON HAS RANGE",
-  "topic_key": "curious_fact_graphite_diamond",
-  "url": "https://www.google.com/search?q=Graphite+and+diamond+are+both+forms+of+carbon.+Caption%3A+SAME+STUFF%2C+POSHER"
+  "data_summary": "upcoming-hour rain 29%, 0.1 mm, temp 10.4C",
+  "expires_at": "2026-07-06T03:20:36+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-05T21:20:36+10:00",
+  "title": "Rain Flood",
+  "topic_key": "rain_flood",
+  "url": "https://www.google.com/search?q=Sydney+rain+radar+Meadowbank"
 }
