@@ -1,11 +1,11 @@
 {
-  "data_summary": "Mars looks red because iron minerals oxidised on its surface. Caption: PLANET NEEDS A WIPE",
-  "expires_at": "2026-07-06T01:20:32+10:00",
+  "data_summary": "Sound needs a medium, so open space is effectively silent. Caption: LOUDNESS FAILED",
+  "expires_at": "2026-07-06T01:40:32+10:00",
   "kind": "fact",
   "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-05T19:20:32+10:00",
-  "title": "Curious Fact: MARS IS RUSTY",
-  "topic_key": "curious_fact_rust_space",
-  "url": "https://www.google.com/search?q=Mars+looks+red+because+iron+minerals+oxidised+on+its+surface.+Caption%3A+PLANET+NEEDS+A+WIPE"
+  "published_at": "2026-07-05T19:40:32+10:00",
+  "title": "Curious Fact: SPACE IS QUIET",
+  "topic_key": "curious_fact_sound_vacuum",
+  "url": "https://www.google.com/search?q=Sound+needs+a+medium%2C+so+open+space+is+effectively+silent.+Caption%3A+LOUDNESS+FAILED"
 }
