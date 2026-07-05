@@ -1,11 +1,11 @@
 {
-  "data_summary": "NSW government \u2018absolutely thrilled\u2019 to welcome OpenAI ... until someone mentioned the Terminator fi",
-  "expires_at": "2026-07-05T15:40:09+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-05T09:40:09+10:00",
-  "title": "News: NSW government \u2018absolutely thrilled\u2019 to",
-  "topic_key": "interesting_signal",
-  "url": "https://www.google.com/search?q=NSW+government+%E2%80%98absolutely+thrilled%E2%80%99+to+welcome+OpenAI+...+until+someone+mentioned+the+Terminator+fi"
+  "data_summary": "A day on Venus is longer than its year. Caption: CALENDAR TEAM IN BITS",
+  "expires_at": "2026-07-05T16:00:10+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-05T10:00:10+10:00",
+  "title": "Curious Fact: VENUS DAY > YEAR",
+  "topic_key": "curious_fact_venus_calendar",
+  "url": "https://www.google.com/search?q=A+day+on+Venus+is+longer+than+its+year.+Caption%3A+CALENDAR+TEAM+IN+BITS"
 }
