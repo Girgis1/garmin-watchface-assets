@@ -1,11 +1,11 @@
 {
-  "data_summary": "- HRV balanced \u2014 good recovery state. - Good sleep: 7.5h last night. Calm day.",
-  "expires_at": "2026-07-06T20:20:16+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-06T14:20:16+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
-  "url": ""
+  "data_summary": "waning gibbous, 63% illuminated",
+  "expires_at": "2026-07-06T20:40:17+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-07-06T14:40:17+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
