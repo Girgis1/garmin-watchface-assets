@@ -1,11 +1,11 @@
 {
-  "data_summary": "Scientists expect diamond rain inside Neptune and Uranus. Caption: FORECAST: FANCY",
-  "expires_at": "2026-07-06T21:20:18+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-06T15:20:18+10:00",
-  "title": "Curious Fact: DIAMOND RAIN",
-  "topic_key": "curious_fact_diamond_rain",
-  "url": "https://www.google.com/search?q=Scientists+expect+diamond+rain+inside+Neptune+and+Uranus.+Caption%3A+FORECAST%3A+FANCY"
+  "data_summary": "SpO2 97%, respiration 14.0",
+  "expires_at": "2026-07-06T21:40:19+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-06T15:40:19+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
+  "url": ""
 }
