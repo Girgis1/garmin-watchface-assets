@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase midday, temp 14C",
-  "expires_at": "2026-07-06T19:40:14+10:00",
+  "data_summary": "- HRV balanced \u2014 good recovery state. - Good sleep: 7.5h last night. Calm day.",
+  "expires_at": "2026-07-06T20:20:16+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-06T13:40:14+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-07-06T14:20:16+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
