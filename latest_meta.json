@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase evening, temp 12C",
-  "expires_at": "2026-07-07T00:20:26+10:00",
+  "data_summary": "goodnight stage soft: Alright, wind it down. Be sensible for once.; RAIN 33% 11PM",
+  "expires_at": "2026-07-07T05:00:37+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-06T18:20:26+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
+  "lane": "goodnight",
+  "published_at": "2026-07-06T23:00:37+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
