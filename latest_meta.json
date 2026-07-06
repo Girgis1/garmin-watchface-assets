@@ -1,11 +1,11 @@
 {
-  "data_summary": "morning briefing: GOOD SLEEP 7.5H; RAIN 66% FROM 9AM",
-  "expires_at": "2026-07-06T15:40:05+10:00",
+  "data_summary": "sleep 7.5h, score 90, 21-day avg 7.0h",
+  "expires_at": "2026-07-06T16:00:06+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-07-06T09:40:05+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-07-06T10:00:06+10:00",
+  "title": "Sleep Recovery",
+  "topic_key": "health_sleep_recovery",
   "url": ""
 }
