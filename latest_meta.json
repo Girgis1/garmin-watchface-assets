@@ -1,10 +1,10 @@
 {
-  "data_summary": "morning briefing: RAIN 5% FROM 11AM",
-  "expires_at": "2026-07-07T15:00:58+10:00",
+  "data_summary": "morning briefing: GOOD SLEEP 8.4H; RAIN 29% FROM 9AM",
+  "expires_at": "2026-07-07T15:40:00+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-07-07T09:00:58+10:00",
+  "published_at": "2026-07-07T09:40:00+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
