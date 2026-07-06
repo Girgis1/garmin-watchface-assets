@@ -1,11 +1,11 @@
 {
-  "data_summary": "SpO2 97%, respiration 14.0",
-  "expires_at": "2026-07-06T21:40:19+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-06T15:40:19+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
-  "url": ""
+  "data_summary": "upcoming-hour rain 65%, 0.2 mm, temp 13.7C",
+  "expires_at": "2026-07-06T22:00:20+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-06T16:00:20+10:00",
+  "title": "Rain Flood",
+  "topic_key": "rain_flood",
+  "url": "https://www.google.com/search?q=Sydney+rain+radar+Meadowbank"
 }
