@@ -1,11 +1,11 @@
 {
-  "data_summary": "sleep 7.5h, score 90, 21-day avg 7.0h",
-  "expires_at": "2026-07-06T16:00:06+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-06T10:00:06+10:00",
-  "title": "Sleep Recovery",
-  "topic_key": "health_sleep_recovery",
-  "url": ""
+  "data_summary": "Old window glass looks wavy from manufacturing, not because it slowly flows. Caption: RUMOUR CANCELLED",
+  "expires_at": "2026-07-06T16:20:07+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-06T10:20:07+10:00",
+  "title": "Curious Fact: GLASS IS SOLID",
+  "topic_key": "curious_fact_glass_flows",
+  "url": "https://www.google.com/search?q=Old+window+glass+looks+wavy+from+manufacturing%2C+not+because+it+slowly+flows.+Caption%3A+RUMOUR+CANCELLED"
 }
