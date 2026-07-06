@@ -1,11 +1,11 @@
 {
-  "data_summary": "departure-window temp 12C, rain 0%, 0.1 mm",
-  "expires_at": "2026-07-06T21:00:18+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather_departure",
-  "published_at": "2026-07-06T15:00:18+10:00",
-  "title": "Departure Weather",
-  "topic_key": "leave_work_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "data_summary": "Scientists expect diamond rain inside Neptune and Uranus. Caption: FORECAST: FANCY",
+  "expires_at": "2026-07-06T21:20:18+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-06T15:20:18+10:00",
+  "title": "Curious Fact: DIAMOND RAIN",
+  "topic_key": "curious_fact_diamond_rain",
+  "url": "https://www.google.com/search?q=Scientists+expect+diamond+rain+inside+Neptune+and+Uranus.+Caption%3A+FORECAST%3A+FANCY"
 }
