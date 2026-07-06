@@ -1,11 +1,11 @@
 {
-  "data_summary": "upcoming-hour rain 65%, 0.2 mm, temp 13.7C",
-  "expires_at": "2026-07-06T22:00:20+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-06T16:00:20+10:00",
-  "title": "Rain Flood",
-  "topic_key": "rain_flood",
-  "url": "https://www.google.com/search?q=Sydney+rain+radar+Meadowbank"
+  "data_summary": "\u2018Utter disregard for the risk to human life\u2019: Florida sues OpenAI and Sam Altman over AI safety",
+  "expires_at": "2026-07-06T22:20:21+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-06T16:20:21+10:00",
+  "title": "News: \u2018Utter disregard for the risk to",
+  "topic_key": "interesting_signal",
+  "url": "https://www.google.com/search?q=%E2%80%98Utter+disregard+for+the+risk+to+human+life%E2%80%99%3A+Florida+sues+OpenAI+and+Sam+Altman+over+AI+safety"
 }
