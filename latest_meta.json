@@ -1,11 +1,11 @@
 {
-  "data_summary": "SpO2 97%, respiration 12.0",
-  "expires_at": "2026-07-06T17:00:09+10:00",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-07-06T17:20:09+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-06T11:00:09+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
+  "published_at": "2026-07-06T11:20:09+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
