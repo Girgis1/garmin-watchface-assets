@@ -1,11 +1,11 @@
 {
-  "data_summary": "morning briefing: GOOD SLEEP 8.4H; RAIN 29% FROM 9AM",
-  "expires_at": "2026-07-07T15:40:00+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "morning",
-  "published_at": "2026-07-07T09:40:00+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
-  "url": ""
+  "data_summary": "Moonlight is sunlight reflected from the Moon. Caption: SUNLIGHT WITH ADMIN",
+  "expires_at": "2026-07-07T16:20:02+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-07T10:20:02+10:00",
+  "title": "Curious Fact: MOONLIGHT IS OLD SUN",
+  "topic_key": "curious_fact_light_moon",
+  "url": "https://www.google.com/search?q=Moonlight+is+sunlight+reflected+from+the+Moon.+Caption%3A+SUNLIGHT+WITH+ADMIN"
 }
