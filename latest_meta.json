@@ -1,11 +1,11 @@
 {
-  "data_summary": "Moonlight is sunlight reflected from the Moon. Caption: SUNLIGHT WITH ADMIN",
-  "expires_at": "2026-07-07T16:20:02+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-07T10:20:02+10:00",
-  "title": "Curious Fact: MOONLIGHT IS OLD SUN",
-  "topic_key": "curious_fact_light_moon",
-  "url": "https://www.google.com/search?q=Moonlight+is+sunlight+reflected+from+the+Moon.+Caption%3A+SUNLIGHT+WITH+ADMIN"
+  "data_summary": "sleep 8.4h, score 88",
+  "expires_at": "2026-07-07T16:40:02+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "sleep",
+  "published_at": "2026-07-07T10:40:02+10:00",
+  "title": "Sleep Recovery",
+  "topic_key": "sleep",
+  "url": ""
 }
