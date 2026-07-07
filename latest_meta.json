@@ -1,11 +1,11 @@
 {
-  "data_summary": "Sound needs a medium, so open space is effectively silent. Caption: LOUDNESS FAILED",
-  "expires_at": "2026-07-07T19:40:09+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
+  "data_summary": "daily phase afternoon, temp 15C",
+  "expires_at": "2026-07-07T20:00:10+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-07-07T13:40:09+10:00",
-  "title": "Curious Fact: SPACE IS QUIET",
-  "topic_key": "curious_fact_sound_vacuum",
-  "url": "https://www.google.com/search?q=Sound+needs+a+medium%2C+so+open+space+is+effectively+silent.+Caption%3A+LOUDNESS+FAILED"
+  "published_at": "2026-07-07T14:00:10+10:00",
+  "title": "Daily Context",
+  "topic_key": "daily_context",
+  "url": ""
 }
