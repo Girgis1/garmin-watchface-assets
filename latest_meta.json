@@ -1,11 +1,11 @@
 {
-  "data_summary": "\u2018Utter disregard for the risk to human life\u2019: Florida sues OpenAI and Sam Altman over AI safety",
-  "expires_at": "2026-07-07T17:00:03+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-07T11:00:03+10:00",
-  "title": "News: \u2018Utter disregard for the risk to",
-  "topic_key": "interesting_signal",
-  "url": "https://www.google.com/search?q=%E2%80%98Utter+disregard+for+the+risk+to+human+life%E2%80%99%3A+Florida+sues+OpenAI+and+Sam+Altman+over+AI+safety"
+  "data_summary": "upcoming-hour rain 1%, 0.1 mm, temp 14.7C",
+  "expires_at": "2026-07-07T17:20:04+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-07T11:20:04+10:00",
+  "title": "Rain Flood",
+  "topic_key": "rain_flood",
+  "url": "https://www.google.com/search?q=Sydney+rain+radar+Meadowbank"
 }
