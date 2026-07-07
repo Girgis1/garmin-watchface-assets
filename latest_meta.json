@@ -1,11 +1,11 @@
 {
-  "data_summary": "Recovery mode essential. - HRV balanced \u2014 good recovery state. - Good sleep: 7.5h last night.",
-  "expires_at": "2026-07-07T17:40:05+10:00",
+  "data_summary": "HRV BALANCED, avg 71 ms, 5 day balanced streak",
+  "expires_at": "2026-07-07T18:00:06+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-07T11:40:05+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-07-07T12:00:06+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
   "url": ""
 }
