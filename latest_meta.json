@@ -1,11 +1,11 @@
 {
-  "data_summary": "next-hour temp 15.3C, rain 14%, 0.1 mm",
-  "expires_at": "2026-07-07T19:20:08+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-07T13:20:08+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "data_summary": "Sound needs a medium, so open space is effectively silent. Caption: LOUDNESS FAILED",
+  "expires_at": "2026-07-07T19:40:09+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-07T13:40:09+10:00",
+  "title": "Curious Fact: SPACE IS QUIET",
+  "topic_key": "curious_fact_sound_vacuum",
+  "url": "https://www.google.com/search?q=Sound+needs+a+medium%2C+so+open+space+is+effectively+silent.+Caption%3A+LOUDNESS+FAILED"
 }
