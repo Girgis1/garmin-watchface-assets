@@ -1,11 +1,11 @@
 {
-  "data_summary": "upcoming-hour rain 14%, 0.2 mm, temp 14.9C",
-  "expires_at": "2026-07-07T20:20:11+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-07T14:20:11+10:00",
-  "title": "Rain Flood",
-  "topic_key": "rain_flood",
-  "url": "https://www.google.com/search?q=Sydney+rain+radar+Meadowbank"
+  "data_summary": "last quarter, 52% illuminated",
+  "expires_at": "2026-07-07T21:00:13+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-07-07T15:00:13+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
