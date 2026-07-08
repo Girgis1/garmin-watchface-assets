@@ -1,11 +1,11 @@
 {
-  "kind": "manual_background",
-  "label": "CRYSTAL FOREST",
-  "title": "Luxury Crystal Forest",
-  "topic_key": "luxury_crystal_forest_background",
-  "lane": "manual",
-  "data_summary": "Manual luxury sapphire crystal watch background with lush forest behind glass.",
-  "published_at": "2026-07-09T02:14:43+10:00",
-  "expires_at": "2026-07-11T02:14:43+10:00",
+  "data_summary": "morning briefing: RAIN 44% FROM 8AM",
+  "expires_at": "2026-07-09T14:00:52+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "morning",
+  "published_at": "2026-07-09T08:00:52+10:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
