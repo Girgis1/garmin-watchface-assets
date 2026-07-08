@@ -1,11 +1,11 @@
 {
-  "data_summary": "goodnight stage midnight_strict: GO TO BED. You have lost browsing privileges.; no extra alerts",
-  "expires_at": "2026-07-08T06:00:34+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-07-08T00:00:34+10:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "kind": "diagnostic",
+  "label": "JETSON OFFLINE",
+  "title": "Manual Rescue: Jetson Offline",
+  "topic_key": "manual_network_rescue",
+  "lane": "diagnostic",
+  "data_summary": "Jetson Wi-Fi is connected but has no usable internet route; manual Windows publish used.",
+  "published_at": "2026-07-08T22:54:32+10:00",
+  "expires_at": "2026-07-09T06:54:32+10:00",
   "url": ""
 }
