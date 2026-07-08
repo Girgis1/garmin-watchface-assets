@@ -1,11 +1,11 @@
 {
-  "kind": "diagnostic",
-  "label": "JETSON OFFLINE",
-  "title": "Manual Rescue: Jetson Offline",
-  "topic_key": "manual_network_rescue",
-  "lane": "diagnostic",
-  "data_summary": "Jetson Wi-Fi is connected but has no usable internet route; manual Windows publish used.",
-  "published_at": "2026-07-08T22:54:32+10:00",
-  "expires_at": "2026-07-09T06:54:32+10:00",
-  "url": ""
+  "kind": "weather",
+  "label": "TOMORROW WEATHER",
+  "title": "Tomorrow Sydney: Soft Rain Clouds",
+  "topic_key": "tomorrow_weather_simple_background",
+  "lane": "weather",
+  "data_summary": "Sydney Friday 2026-07-10: rain around 9-10am, then mostly cloudy, cool 10-16C.",
+  "published_at": "2026-07-09T02:11:20+10:00",
+  "expires_at": "2026-07-11T02:11:20+10:00",
+  "url": "https://www.google.com/search?q=Sydney+weather+Friday+2026-07-10"
 }
