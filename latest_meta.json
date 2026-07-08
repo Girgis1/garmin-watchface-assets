@@ -1,11 +1,11 @@
 {
-  "kind": "weather",
-  "label": "TOMORROW WEATHER",
-  "title": "Tomorrow Sydney: Soft Rain Clouds",
-  "topic_key": "tomorrow_weather_simple_background",
-  "lane": "weather",
-  "data_summary": "Sydney Friday 2026-07-10: rain around 9-10am, then mostly cloudy, cool 10-16C.",
-  "published_at": "2026-07-09T02:11:20+10:00",
-  "expires_at": "2026-07-11T02:11:20+10:00",
-  "url": "https://www.google.com/search?q=Sydney+weather+Friday+2026-07-10"
+  "kind": "manual_background",
+  "label": "CRYSTAL FOREST",
+  "title": "Luxury Crystal Forest",
+  "topic_key": "luxury_crystal_forest_background",
+  "lane": "manual",
+  "data_summary": "Manual luxury sapphire crystal watch background with lush forest behind glass.",
+  "published_at": "2026-07-09T02:14:43+10:00",
+  "expires_at": "2026-07-11T02:14:43+10:00",
+  "url": ""
 }
