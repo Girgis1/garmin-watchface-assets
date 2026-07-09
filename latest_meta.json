@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase sunset, temp 14C",
-  "expires_at": "2026-07-09T22:40:13+10:00",
-  "kind": "none",
-  "label": "",
+  "data_summary": "Periodical cicadas emerge on 13- or 17-year cycles. Caption: CALENDAR EXPLOIT",
+  "expires_at": "2026-07-09T23:00:15+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-09T16:40:13+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "published_at": "2026-07-09T17:00:15+10:00",
+  "title": "Curious Fact: CICADAS USE PRIME-NUMBER TIMERS",
+  "topic_key": "curious_fact_cicada_prime_cycles",
+  "url": "https://www.google.com/search?q=Periodical+cicadas+emerge+on+13-+or+17-year+cycles.+Caption%3A+CALENDAR+EXPLOIT"
 }
