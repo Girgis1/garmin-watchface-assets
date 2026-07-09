@@ -1,11 +1,11 @@
 {
-  "data_summary": "morning briefing: RAIN 24% FROM 9AM",
-  "expires_at": "2026-07-09T15:20:55+10:00",
+  "data_summary": "## Key Finding - HRV balanced \u2014 good recovery state. - Sleep debt: only 0.0h last night. Need 7+ hours. Calm day.",
+  "expires_at": "2026-07-09T16:00:57+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-07-09T09:20:55+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-07-09T10:00:57+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
