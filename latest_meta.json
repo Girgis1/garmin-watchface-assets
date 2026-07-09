@@ -1,11 +1,11 @@
 {
-  "data_summary": "Passenger and freight trains in NSW cancelled due to Telstra network outage - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-  "expires_at": "2026-07-09T22:20:13+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-09T16:20:13+10:00",
-  "title": "News: Passenger and freight trains in NSW",
-  "topic_key": "interesting_signal_passenger_and_freight_trains_in_nsw",
-  "url": "https://www.google.com/search?q=Passenger+and+freight+trains+in+NSW+cancelled+due+to+Telstra+network+outage+-+ABC+News+%26+Headlines+%E2%80%93+Australian+Broadcasting+Corporation"
+  "data_summary": "context phase sunset, temp 14C",
+  "expires_at": "2026-07-09T22:40:13+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-07-09T16:40:13+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
