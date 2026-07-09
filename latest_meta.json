@@ -1,11 +1,11 @@
 {
-  "data_summary": "Passenger and freight trains in NSW cancelled due to Telstra network outage",
-  "expires_at": "2026-07-10T03:40:26+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-09T21:40:26+10:00",
-  "title": "News: NSW trains cancelled after Telstra outage",
-  "topic_key": "interesting_signal_nsw_trains_cancelled_after_telstra_o",
-  "url": "https://www.google.com/search?q=Passenger+and+freight+trains+in+NSW+cancelled+due+to+Telstra+network+outage"
+  "data_summary": "Octopuses and other coleoid cephalopods extensively edit RNA in nervous-system genes. Caption: LIVE PATCH NOTES",
+  "expires_at": "2026-07-10T04:20:27+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-09T22:20:27+10:00",
+  "title": "Curious Fact: OCTOPUSES EDIT NEURAL RNA",
+  "topic_key": "curious_fact_octopus_rna_editing",
+  "url": "https://www.google.com/search?q=Octopuses+and+other+coleoid+cephalopods+extensively+edit+RNA+in+nervous-system+genes.+Caption%3A+LIVE+PATCH+NOTES"
 }
