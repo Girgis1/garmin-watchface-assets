@@ -1,11 +1,11 @@
 {
-  "data_summary": "goodnight stage midnight_strict: GO TO BED. This is the whole message.; no extra alerts",
-  "expires_at": "2026-07-10T06:00:32+10:00",
+  "data_summary": "morning briefing: RAIN 10% FROM 11AM",
+  "expires_at": "2026-07-10T14:00:52+10:00",
   "kind": "none",
   "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-07-10T00:00:32+10:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "lane": "morning",
+  "published_at": "2026-07-10T08:00:52+10:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
