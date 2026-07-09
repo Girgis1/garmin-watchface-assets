@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase night, temp 9C",
-  "expires_at": "2026-07-10T04:40:28+10:00",
+  "data_summary": "goodnight stage soft: The pillow has requested a meeting.; no extra alerts",
+  "expires_at": "2026-07-10T05:00:30+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-09T22:40:28+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
+  "lane": "goodnight",
+  "published_at": "2026-07-09T23:00:30+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
