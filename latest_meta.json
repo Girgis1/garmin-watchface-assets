@@ -1,11 +1,11 @@
 {
-  "data_summary": "Telstra outage hits Triple Zero calls, regional trains",
-  "expires_at": "2026-07-09T18:40:04+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-09T12:40:04+10:00",
-  "title": "News: Telstra outage hits Triple Zero calls,",
-  "topic_key": "interesting_signal_telstra_outage_hits_triple_zero_call",
-  "url": "https://www.google.com/search?q=Telstra+outage+hits+Triple+Zero+calls%2C+regional+trains"
+  "data_summary": "context phase midday, temp 16C",
+  "expires_at": "2026-07-09T19:00:05+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-07-09T13:00:05+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
+  "url": ""
 }
