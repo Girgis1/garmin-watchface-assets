@@ -1,11 +1,11 @@
 {
-  "data_summary": "## Key Finding - HRV balanced \u2014 good recovery state. - Sleep debt: only 0.0h last night. Need 7+ hours. Calm day.",
-  "expires_at": "2026-07-09T16:00:57+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-09T10:00:57+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
-  "url": ""
+  "data_summary": "upcoming-hour rain 18%, 0.0 mm, temp 12.2C",
+  "expires_at": "2026-07-09T16:20:58+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-09T10:20:58+10:00",
+  "title": "Rain Flood",
+  "topic_key": "rain_flood",
+  "url": "https://www.google.com/search?q=Sydney+rain+radar+Meadowbank"
 }
