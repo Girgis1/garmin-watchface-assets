@@ -1,11 +1,11 @@
 {
-  "data_summary": "waning crescent, 31% illuminated",
-  "expires_at": "2026-07-09T21:40:11+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-07-09T15:40:11+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "data_summary": "departure-window temp 11C; rain below 15% notice threshold",
+  "expires_at": "2026-07-09T22:00:12+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-07-09T16:00:12+10:00",
+  "title": "Departure Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
