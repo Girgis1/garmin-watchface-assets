@@ -1,11 +1,11 @@
 {
-  "data_summary": "Graphite and diamond are both forms of carbon. Caption: SAME STUFF, POSHER",
-  "expires_at": "2026-07-09T16:40:59+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-09T10:40:59+10:00",
-  "title": "Curious Fact: CARBON HAS RANGE",
-  "topic_key": "curious_fact_graphite_diamond",
-  "url": "https://www.google.com/search?q=Graphite+and+diamond+are+both+forms+of+carbon.+Caption%3A+SAME+STUFF%2C+POSHER"
+  "data_summary": "HRV BALANCED, avg 73 ms, 7 day balanced streak",
+  "expires_at": "2026-07-09T17:00:00+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-09T11:00:00+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
+  "url": ""
 }
