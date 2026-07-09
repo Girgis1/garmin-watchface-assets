@@ -1,11 +1,11 @@
 {
-  "data_summary": "Electric eels can produce powerful electric shocks. Caption: FISH BATTERY INCIDENT",
-  "expires_at": "2026-07-09T20:40:09+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-09T14:40:09+10:00",
-  "title": "Curious Fact: ELECTRIC EELS MAKE SHOCKS",
-  "topic_key": "curious_fact_electric_eel_shock",
-  "url": "https://www.google.com/search?q=Electric+eels+can+produce+powerful+electric+shocks.+Caption%3A+FISH+BATTERY+INCIDENT"
+  "data_summary": "SpO2 98%, respiration 14.0",
+  "expires_at": "2026-07-09T21:20:11+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-09T15:20:11+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
+  "url": ""
 }
