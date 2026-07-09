@@ -1,11 +1,11 @@
 {
-  "data_summary": "Periodical cicadas emerge on 13- or 17-year cycles. Caption: CALENDAR EXPLOIT",
-  "expires_at": "2026-07-09T23:00:15+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-09T17:00:15+10:00",
-  "title": "Curious Fact: CICADAS USE PRIME-NUMBER TIMERS",
-  "topic_key": "curious_fact_cicada_prime_cycles",
-  "url": "https://www.google.com/search?q=Periodical+cicadas+emerge+on+13-+or+17-year+cycles.+Caption%3A+CALENDAR+EXPLOIT"
+  "data_summary": "training intensity minutes today 0",
+  "expires_at": "2026-07-09T23:20:15+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-09T17:20:15+10:00",
+  "title": "Training Nudge",
+  "topic_key": "health_training_minutes",
+  "url": ""
 }
