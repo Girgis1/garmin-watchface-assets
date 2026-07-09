@@ -1,11 +1,11 @@
 {
-  "data_summary": "upcoming-hour rain 23%, 0.1 mm, temp 15.4C",
-  "expires_at": "2026-07-09T20:00:08+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-09T14:00:08+10:00",
-  "title": "Rain Flood",
-  "topic_key": "rain_flood",
-  "url": "https://www.google.com/search?q=Sydney+rain+radar+Meadowbank"
+  "data_summary": "First Western Sydney Airport metro train arrives in Australia",
+  "expires_at": "2026-07-09T20:20:08+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-09T14:20:08+10:00",
+  "title": "News: First Western Sydney Airport metro train",
+  "topic_key": "interesting_signal_first_western_sydney_airport_metro_t",
+  "url": "https://www.google.com/search?q=First+Western+Sydney+Airport+metro+train+arrives+in+Australia"
 }
