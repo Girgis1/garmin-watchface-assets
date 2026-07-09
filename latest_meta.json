@@ -1,11 +1,11 @@
 {
-  "data_summary": "daily phase midday, temp 16C",
-  "expires_at": "2026-07-09T19:40:06+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-09T13:40:06+10:00",
-  "title": "Daily Context",
-  "topic_key": "daily_context",
-  "url": ""
+  "data_summary": "upcoming-hour rain 23%, 0.1 mm, temp 15.4C",
+  "expires_at": "2026-07-09T20:00:08+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-09T14:00:08+10:00",
+  "title": "Rain Flood",
+  "topic_key": "rain_flood",
+  "url": "https://www.google.com/search?q=Sydney+rain+radar+Meadowbank"
 }
