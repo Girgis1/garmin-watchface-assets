@@ -1,11 +1,11 @@
 {
-  "data_summary": "Archerfish shoot water jets while compensating for light bending at the water surface. Caption: SNIPER FISH PHYSICS",
-  "expires_at": "2026-07-11T02:20:02+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
+  "data_summary": "CN to EP leave times: 20:31 20:41 20:51",
+  "expires_at": "2026-07-11T02:40:03+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-07-10T20:20:02+10:00",
-  "title": "Curious Fact: ARCHERFISH AIM THROUGH REFRACTION",
-  "topic_key": "curious_fact_archerfish_refraction",
-  "url": "https://www.google.com/search?q=Archerfish+shoot+water+jets+while+compensating+for+light+bending+at+the+water+surface.+Caption%3A+SNIPER+FISH+PHYSICS"
+  "published_at": "2026-07-10T20:40:03+10:00",
+  "title": "Commute: CN: 20:31 20:41 20:51",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
