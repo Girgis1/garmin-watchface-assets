@@ -1,11 +1,11 @@
 {
-  "data_summary": "Sperm whale clans use distinct click-pattern dialects called codas. Caption: CLICK LANGUAGE POLITICS",
-  "expires_at": "2026-07-11T03:20:04+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
+  "data_summary": "context phase night, temp 9C",
+  "expires_at": "2026-07-11T03:40:05+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-07-10T21:20:04+10:00",
-  "title": "Curious Fact: SPERM WHALES HAVE CLAN DIALECTS",
-  "topic_key": "curious_fact_sperm_whale_clans",
-  "url": "https://www.google.com/search?q=Sperm+whale+clans+use+distinct+click-pattern+dialects+called+codas.+Caption%3A+CLICK+LANGUAGE+POLITICS"
+  "published_at": "2026-07-10T21:40:05+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
+  "url": ""
 }
