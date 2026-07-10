@@ -1,11 +1,11 @@
 {
-  "data_summary": "next-hour temp 8.8C; rain below 15% notice threshold",
-  "expires_at": "2026-07-11T03:00:04+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-10T21:00:04+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "data_summary": "Sperm whale clans use distinct click-pattern dialects called codas. Caption: CLICK LANGUAGE POLITICS",
+  "expires_at": "2026-07-11T03:20:04+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-10T21:20:04+10:00",
+  "title": "Curious Fact: SPERM WHALES HAVE CLAN DIALECTS",
+  "topic_key": "curious_fact_sperm_whale_clans",
+  "url": "https://www.google.com/search?q=Sperm+whale+clans+use+distinct+click-pattern+dialects+called+codas.+Caption%3A+CLICK+LANGUAGE+POLITICS"
 }
