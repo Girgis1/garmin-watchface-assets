@@ -1,11 +1,11 @@
 {
-  "data_summary": "Trap-jaw ants use spring-loaded jaws that can launch them away from danger. Caption: FACE-BASED EJECT SEAT",
-  "expires_at": "2026-07-10T20:20:06+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
+  "data_summary": "context phase afternoon, temp 14C",
+  "expires_at": "2026-07-10T20:40:07+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-07-10T14:20:06+10:00",
-  "title": "Curious Fact: TRAP-JAW ANTS SNAP LIKE SPRINGS",
-  "topic_key": "curious_fact_trap_jaw_ant_snap",
-  "url": "https://www.google.com/search?q=Trap-jaw+ants+use+spring-loaded+jaws+that+can+launch+them+away+from+danger.+Caption%3A+FACE-BASED+EJECT+SEAT"
+  "published_at": "2026-07-10T14:40:07+10:00",
+  "title": "Afternoon Context",
+  "topic_key": "ambient_context_afternoon",
+  "url": ""
 }
