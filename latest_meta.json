@@ -1,11 +1,11 @@
 {
-  "data_summary": "Prioritize rest tonight. - HRV balanced \u2014 good recovery state.",
-  "expires_at": "2026-07-10T16:00:57+10:00",
+  "data_summary": "sleep debt: 5.6h, score 70, 21-day avg 7.2h",
+  "expires_at": "2026-07-10T16:40:58+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-10T10:00:57+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-07-10T10:40:58+10:00",
+  "title": "Sleep Debt",
+  "topic_key": "health_sleep_debt",
   "url": ""
 }
