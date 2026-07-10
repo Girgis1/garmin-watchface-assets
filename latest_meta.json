@@ -1,11 +1,11 @@
 {
-  "data_summary": "Lyrebirds can mimic complex natural and human-made sounds. Caption: FOREST SAMPLER",
-  "expires_at": "2026-07-10T18:40:02+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-10T12:40:02+10:00",
-  "title": "Curious Fact: LYREBIRDS SAMPLE THE SOUND WORLD",
-  "topic_key": "curious_fact_lyrebird_sound_sampling",
-  "url": "https://www.google.com/search?q=Lyrebirds+can+mimic+complex+natural+and+human-made+sounds.+Caption%3A+FOREST+SAMPLER"
+  "data_summary": "Passenger and freight trains in NSW cancelled due to Telstra network outage",
+  "expires_at": "2026-07-10T19:00:03+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-10T13:00:03+10:00",
+  "title": "News: NSW trains cancelled after Telstra outage",
+  "topic_key": "interesting_signal_nsw_trains_cancelled_after_telstra_o",
+  "url": "https://www.google.com/search?q=Passenger+and+freight+trains+in+NSW+cancelled+due+to+Telstra+network+outage"
 }
