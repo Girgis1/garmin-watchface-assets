@@ -1,11 +1,11 @@
 {
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-07-10T18:20:02+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-10T12:20:02+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "data_summary": "Lyrebirds can mimic complex natural and human-made sounds. Caption: FOREST SAMPLER",
+  "expires_at": "2026-07-10T18:40:02+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-10T12:40:02+10:00",
+  "title": "Curious Fact: LYREBIRDS SAMPLE THE SOUND WORLD",
+  "topic_key": "curious_fact_lyrebird_sound_sampling",
+  "url": "https://www.google.com/search?q=Lyrebirds+can+mimic+complex+natural+and+human-made+sounds.+Caption%3A+FOREST+SAMPLER"
 }
