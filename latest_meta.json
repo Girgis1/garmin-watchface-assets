@@ -1,11 +1,11 @@
 {
-  "data_summary": "Some sea slugs keep chloroplasts from algae inside their own tissues. Caption: PHOTOSYNTHESIS THEFT",
-  "expires_at": "2026-07-10T21:40:09+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-10T15:40:09+10:00",
-  "title": "Curious Fact: SEA SLUGS STEAL SOLAR PARTS",
-  "topic_key": "curious_fact_sea_slug_chloroplasts",
-  "url": "https://www.google.com/search?q=Some+sea+slugs+keep+chloroplasts+from+algae+inside+their+own+tissues.+Caption%3A+PHOTOSYNTHESIS+THEFT"
+  "data_summary": "training intensity minutes today 4",
+  "expires_at": "2026-07-10T22:00:10+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-10T16:00:10+10:00",
+  "title": "Training Nudge",
+  "topic_key": "health_training_minutes",
+  "url": ""
 }
