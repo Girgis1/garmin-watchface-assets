@@ -1,11 +1,11 @@
 {
-  "data_summary": "leave-work temp 12C; rain below 15% notice threshold",
-  "expires_at": "2026-07-10T22:40:12+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather_departure",
-  "published_at": "2026-07-10T16:40:12+10:00",
-  "title": "Leave-Work Weather",
-  "topic_key": "leave_work_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "data_summary": "Telstra outage hits Triple Zero calls, regional trains",
+  "expires_at": "2026-07-10T23:00:13+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-10T17:00:13+10:00",
+  "title": "News: Telstra outage hits Triple Zero calls, regional trains",
+  "topic_key": "interesting_signal_telstra_outage_hits_triple_zero_call",
+  "url": "https://www.google.com/search?q=Telstra+outage+hits+Triple+Zero+calls%2C+regional+trains"
 }
