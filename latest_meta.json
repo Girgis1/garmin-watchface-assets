@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase evening, temp 13C",
-  "expires_at": "2026-07-11T01:40:00+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-10T19:40:00+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
-  "url": ""
+  "data_summary": "next-hour temp 9.3C; rain below 15% notice threshold",
+  "expires_at": "2026-07-11T02:00:02+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-10T20:00:02+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
