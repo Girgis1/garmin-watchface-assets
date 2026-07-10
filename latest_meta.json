@@ -1,11 +1,11 @@
 {
-  "data_summary": "sleep debt: 5.6h, score 70, 21-day avg 7.2h",
-  "expires_at": "2026-07-10T16:40:58+10:00",
+  "data_summary": "HRV BALANCED, avg 70 ms, 8 day balanced streak",
+  "expires_at": "2026-07-10T17:00:59+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-10T10:40:58+10:00",
-  "title": "Sleep Debt",
-  "topic_key": "health_sleep_debt",
+  "published_at": "2026-07-10T11:00:59+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
   "url": ""
 }
