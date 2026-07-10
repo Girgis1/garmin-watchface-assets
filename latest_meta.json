@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase afternoon, temp 14C",
-  "expires_at": "2026-07-10T20:40:07+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-10T14:40:07+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
-  "url": ""
+  "data_summary": "leave-work temp 11C; rain below 15% notice threshold",
+  "expires_at": "2026-07-10T21:00:08+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-07-10T15:00:08+10:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
