@@ -1,11 +1,11 @@
 {
-  "data_summary": "waning crescent, 22% illuminated",
-  "expires_at": "2026-07-10T21:20:08+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-07-10T15:20:08+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "data_summary": "Some sea slugs keep chloroplasts from algae inside their own tissues. Caption: PHOTOSYNTHESIS THEFT",
+  "expires_at": "2026-07-10T21:40:09+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-10T15:40:09+10:00",
+  "title": "Curious Fact: SEA SLUGS STEAL SOLAR PARTS",
+  "topic_key": "curious_fact_sea_slug_chloroplasts",
+  "url": "https://www.google.com/search?q=Some+sea+slugs+keep+chloroplasts+from+algae+inside+their+own+tissues.+Caption%3A+PHOTOSYNTHESIS+THEFT"
 }
