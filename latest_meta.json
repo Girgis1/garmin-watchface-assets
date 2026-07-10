@@ -1,11 +1,11 @@
 {
-  "data_summary": "morning briefing: ROUGH SLEEP 5.6H; RAIN 19% FROM 11AM",
-  "expires_at": "2026-07-10T15:40:56+10:00",
+  "data_summary": "Prioritize rest tonight. - HRV balanced \u2014 good recovery state.",
+  "expires_at": "2026-07-10T16:00:57+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-07-10T09:40:56+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-07-10T10:00:57+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
