@@ -1,11 +1,11 @@
 {
-  "data_summary": "Passenger and freight trains in NSW cancelled due to Telstra network outage",
-  "expires_at": "2026-07-11T17:00:34+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-11T11:00:34+10:00",
-  "title": "News: NSW trains cancelled after Telstra outage",
-  "topic_key": "interesting_signal_nsw_trains_cancelled_after_telstra_o",
-  "url": "https://www.google.com/search?q=Passenger+and+freight+trains+in+NSW+cancelled+due+to+Telstra+network+outage"
+  "data_summary": "sleep 7.6h, score 85, 21-day avg 7.3h",
+  "expires_at": "2026-07-11T17:20:35+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-11T11:20:35+10:00",
+  "title": "Sleep Recovery",
+  "topic_key": "health_sleep_recovery",
+  "url": ""
 }
