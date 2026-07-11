@@ -1,11 +1,11 @@
 {
-  "data_summary": "First Western Sydney Airport metro train arrives in Australia",
-  "expires_at": "2026-07-12T02:20:55+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-11T20:20:55+10:00",
-  "title": "News: First Western Sydney Airport metro train arrives in Australia",
-  "topic_key": "interesting_signal_first_western_sydney_airport_metro_t",
-  "url": "https://www.google.com/search?q=First+Western+Sydney+Airport+metro+train+arrives+in+Australia"
+  "data_summary": "Bottlenose dolphins use individual signature whistles like acoustic name tags. Caption: NAME BADGES, BUT SONAR",
+  "expires_at": "2026-07-12T02:40:56+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-11T20:40:56+10:00",
+  "title": "Curious Fact: DOLPHINS USE SIGNATURE WHISTLES",
+  "topic_key": "curious_fact_dolphin_signature_whistles",
+  "url": "https://www.google.com/search?q=Bottlenose+dolphins+use+individual+signature+whistles+like+acoustic+name+tags.+Caption%3A+NAME+BADGES%2C+BUT+SONAR"
 }
