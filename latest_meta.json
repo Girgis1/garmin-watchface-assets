@@ -1,11 +1,11 @@
 {
-  "data_summary": "MB to EP leave times: 10:28 10:44 10:58",
-  "expires_at": "2026-07-11T16:20:32+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-07-11T10:20:32+10:00",
-  "title": "Commute: MB: 10:28 10:44 10:58",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "data_summary": "Recovery mode essential. - HRV balanced \u2014 good recovery state. - Sleep debt: only 5.6h last night. Need 7+ hours. Consider breathing exercises.",
+  "expires_at": "2026-07-11T16:40:33+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-11T10:40:33+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
+  "url": ""
 }
