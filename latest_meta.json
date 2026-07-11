@@ -1,11 +1,11 @@
 {
-  "data_summary": "next-hour temp 10.0C; rain below 15% notice threshold",
-  "expires_at": "2026-07-12T04:00:59+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-11T22:00:59+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "data_summary": "First Airport Metro trains arrive in Sydney",
+  "expires_at": "2026-07-12T04:40:00+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-11T22:40:00+10:00",
+  "title": "News: First Airport Metro trains arrive in Sydney",
+  "topic_key": "interesting_signal_first_airport_metro_trains_arrive_in",
+  "url": "https://www.google.com/search?q=First+Airport+Metro+trains+arrive+in+Sydney"
 }
