@@ -1,11 +1,11 @@
 {
-  "data_summary": "Recovery mode essential. - HRV balanced \u2014 good recovery state. - Sleep debt: only 5.6h last night. Need 7+ hours. Consider breathing exercises.",
-  "expires_at": "2026-07-11T16:40:33+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-11T10:40:33+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
-  "url": ""
+  "data_summary": "Passenger and freight trains in NSW cancelled due to Telstra network outage",
+  "expires_at": "2026-07-11T17:00:34+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-11T11:00:34+10:00",
+  "title": "News: NSW trains cancelled after Telstra outage",
+  "topic_key": "interesting_signal_nsw_trains_cancelled_after_telstra_o",
+  "url": "https://www.google.com/search?q=Passenger+and+freight+trains+in+NSW+cancelled+due+to+Telstra+network+outage"
 }
