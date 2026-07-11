@@ -1,11 +1,11 @@
 {
-  "data_summary": "Telstra outage hits Triple Zero calls, regional trains",
-  "expires_at": "2026-07-11T23:00:47+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-11T17:00:47+10:00",
-  "title": "News: Telstra outage hits Triple Zero calls, regional trains",
-  "topic_key": "interesting_signal_telstra_outage_hits_triple_zero_call",
-  "url": "https://www.google.com/search?q=Telstra+outage+hits+Triple+Zero+calls%2C+regional+trains"
+  "data_summary": "Vampire bats share regurgitated blood with trusted roost-mates after failed hunts. Caption: FRIENDSHIP, BUT METAL",
+  "expires_at": "2026-07-11T23:20:48+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-11T17:20:48+10:00",
+  "title": "Curious Fact: VAMPIRE BATS REPAY BLOOD DEBTS",
+  "topic_key": "curious_fact_vampire_bat_food_debts",
+  "url": "https://www.google.com/search?q=Vampire+bats+share+regurgitated+blood+with+trusted+roost-mates+after+failed+hunts.+Caption%3A+FRIENDSHIP%2C+BUT+METAL"
 }
