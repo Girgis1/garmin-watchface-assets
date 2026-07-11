@@ -1,11 +1,11 @@
 {
-  "data_summary": "HRV BALANCED, avg 70 ms, 9 day balanced streak",
-  "expires_at": "2026-07-11T18:00:36+10:00",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-07-11T18:20:37+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-11T12:00:36+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_balanced",
+  "published_at": "2026-07-11T12:20:37+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
