@@ -1,11 +1,11 @@
 {
-  "data_summary": "Great bowerbirds arrange court objects small-to-large to create a forced-perspective illusion. Caption: NATURE INVENTED STAGECRAFT",
-  "expires_at": "2026-07-11T22:20:46+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-11T16:20:46+10:00",
-  "title": "Curious Fact: BOWERBIRDS FAKE PERSPECTIVE",
-  "topic_key": "curious_fact_bowerbird_forced_perspective",
-  "url": "https://www.google.com/search?q=Great+bowerbirds+arrange+court+objects+small-to-large+to+create+a+forced-perspective+illusion.+Caption%3A+NATURE+INVENTED+STAGECRAFT"
+  "data_summary": "Telstra outage hits Triple Zero calls, regional trains",
+  "expires_at": "2026-07-11T23:00:47+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-11T17:00:47+10:00",
+  "title": "News: Telstra outage hits Triple Zero calls, regional trains",
+  "topic_key": "interesting_signal_telstra_outage_hits_triple_zero_call",
+  "url": "https://www.google.com/search?q=Telstra+outage+hits+Triple+Zero+calls%2C+regional+trains"
 }
