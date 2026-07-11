@@ -1,11 +1,11 @@
 {
-  "data_summary": "training intensity minutes today 0",
-  "expires_at": "2026-07-11T22:00:45+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-11T16:00:45+10:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
-  "url": ""
+  "data_summary": "Great bowerbirds arrange court objects small-to-large to create a forced-perspective illusion. Caption: NATURE INVENTED STAGECRAFT",
+  "expires_at": "2026-07-11T22:20:46+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-11T16:20:46+10:00",
+  "title": "Curious Fact: BOWERBIRDS FAKE PERSPECTIVE",
+  "topic_key": "curious_fact_bowerbird_forced_perspective",
+  "url": "https://www.google.com/search?q=Great+bowerbirds+arrange+court+objects+small-to-large+to+create+a+forced-perspective+illusion.+Caption%3A+NATURE+INVENTED+STAGECRAFT"
 }
