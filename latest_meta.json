@@ -1,11 +1,11 @@
 {
-  "data_summary": "Some migratory birds are thought to sense magnetic fields through light-sensitive compass chemistry. Caption: NAVIGATION GOT WEIRD",
-  "expires_at": "2026-07-11T18:40:38+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-11T12:40:38+10:00",
-  "title": "Curious Fact: BIRDS MAY USE QUANTUM COMPASSES",
-  "topic_key": "curious_fact_bird_quantum_compass",
-  "url": "https://www.google.com/search?q=Some+migratory+birds+are+thought+to+sense+magnetic+fields+through+light-sensitive+compass+chemistry.+Caption%3A+NAVIGATION+GOT+WEIRD"
+  "data_summary": "SpO2 98%, respiration 14.0",
+  "expires_at": "2026-07-11T19:20:39+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-11T13:20:39+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
+  "url": ""
 }
