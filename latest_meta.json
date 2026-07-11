@@ -1,11 +1,11 @@
 {
-  "data_summary": "Bottlenose dolphins use individual signature whistles like acoustic name tags. Caption: NAME BADGES, BUT SONAR",
-  "expires_at": "2026-07-12T02:40:56+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-11T20:40:56+10:00",
-  "title": "Curious Fact: DOLPHINS USE SIGNATURE WHISTLES",
-  "topic_key": "curious_fact_dolphin_signature_whistles",
-  "url": "https://www.google.com/search?q=Bottlenose+dolphins+use+individual+signature+whistles+like+acoustic+name+tags.+Caption%3A+NAME+BADGES%2C+BUT+SONAR"
+  "data_summary": "next-hour temp 10.6C; rain below 15% notice threshold",
+  "expires_at": "2026-07-12T03:00:56+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-11T21:00:56+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
