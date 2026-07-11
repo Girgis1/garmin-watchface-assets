@@ -1,11 +1,11 @@
 {
-  "data_summary": "OpenAI releases latest ChatGPT model after delay over White House cybersecurity concerns",
-  "expires_at": "2026-07-11T19:40:40+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-11T13:40:40+10:00",
-  "title": "News: OpenAI releases latest ChatGPT model after delay over White House",
-  "topic_key": "interesting_signal_openai_releases_latest_chatgpt_model",
-  "url": "https://www.google.com/search?q=OpenAI+releases+latest+ChatGPT+model+after+delay+over+White+House+cybersecurity+concerns"
+  "data_summary": "context phase afternoon, temp 17C",
+  "expires_at": "2026-07-11T20:00:41+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-07-11T14:00:41+10:00",
+  "title": "Afternoon Context",
+  "topic_key": "ambient_context_afternoon",
+  "url": ""
 }
