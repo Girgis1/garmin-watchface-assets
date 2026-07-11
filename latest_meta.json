@@ -1,11 +1,11 @@
 {
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-07-11T18:20:37+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-11T12:20:37+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "data_summary": "Some migratory birds are thought to sense magnetic fields through light-sensitive compass chemistry. Caption: NAVIGATION GOT WEIRD",
+  "expires_at": "2026-07-11T18:40:38+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-11T12:40:38+10:00",
+  "title": "Curious Fact: BIRDS MAY USE QUANTUM COMPASSES",
+  "topic_key": "curious_fact_bird_quantum_compass",
+  "url": "https://www.google.com/search?q=Some+migratory+birds+are+thought+to+sense+magnetic+fields+through+light-sensitive+compass+chemistry.+Caption%3A+NAVIGATION+GOT+WEIRD"
 }
