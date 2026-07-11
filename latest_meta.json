@@ -1,11 +1,11 @@
 {
-  "data_summary": "Vampire bats share regurgitated blood with trusted roost-mates after failed hunts. Caption: FRIENDSHIP, BUT METAL",
-  "expires_at": "2026-07-11T23:20:48+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
+  "data_summary": "context phase sunset, temp 13C",
+  "expires_at": "2026-07-11T23:40:48+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-07-11T17:20:48+10:00",
-  "title": "Curious Fact: VAMPIRE BATS REPAY BLOOD DEBTS",
-  "topic_key": "curious_fact_vampire_bat_food_debts",
-  "url": "https://www.google.com/search?q=Vampire+bats+share+regurgitated+blood+with+trusted+roost-mates+after+failed+hunts.+Caption%3A+FRIENDSHIP%2C+BUT+METAL"
+  "published_at": "2026-07-11T17:40:48+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
