@@ -1,11 +1,11 @@
 {
-  "data_summary": "sleep 8.2h, score 85, 21-day avg 7.3h",
-  "expires_at": "2026-07-12T17:00:26+10:00",
+  "data_summary": "HRV BALANCED, avg 69 ms, 10 day balanced streak",
+  "expires_at": "2026-07-12T17:20:27+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-12T11:00:26+10:00",
-  "title": "Sleep Recovery",
-  "topic_key": "health_sleep_recovery",
+  "published_at": "2026-07-12T11:20:27+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
   "url": ""
 }
