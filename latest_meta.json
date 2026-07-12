@@ -1,11 +1,11 @@
 {
-  "data_summary": "Moray eels launch throat jaws forward to drag prey down. Caption: ALIEN HARDWARE, REAL FISH",
-  "expires_at": "2026-07-12T23:00:40+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-12T17:00:40+10:00",
-  "title": "Curious Fact: MORAYS FIRE SECOND JAWS",
-  "topic_key": "curious_fact_moray_second_jaws",
-  "url": "https://www.google.com/search?q=Moray+eels+launch+throat+jaws+forward+to+drag+prey+down.+Caption%3A+ALIEN+HARDWARE%2C+REAL+FISH"
+  "data_summary": "First Airport Metro trains arrive in Sydney",
+  "expires_at": "2026-07-12T23:20:40+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-12T17:20:40+10:00",
+  "title": "News: First Airport Metro trains arrive in Sydney",
+  "topic_key": "interesting_signal_first_airport_metro_trains_arrive_in",
+  "url": "https://www.google.com/search?q=First+Airport+Metro+trains+arrive+in+Sydney"
 }
