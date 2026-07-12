@@ -1,11 +1,11 @@
 {
-  "data_summary": "OpenAI launches ChatGPT Work as professional AI tools race heats up | Daily Sabah",
-  "expires_at": "2026-07-13T03:40:50+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-12T21:40:50+10:00",
-  "title": "News: OpenAI launches ChatGPT Work as professional AI tools race heats",
-  "topic_key": "interesting_signal_openai_launches_chatgpt_work_as_prof",
-  "url": "https://www.google.com/search?q=OpenAI+launches+ChatGPT+Work+as+professional+AI+tools+race+heats+up+%7C+Daily+Sabah"
+  "data_summary": "context phase night, temp 9C",
+  "expires_at": "2026-07-13T04:00:51+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-07-12T22:00:51+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
+  "url": ""
 }
