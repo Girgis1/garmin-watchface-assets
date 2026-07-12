@@ -1,11 +1,11 @@
 {
-  "data_summary": "MB to EP leave times: 11:44 11:58 12:15",
-  "expires_at": "2026-07-12T17:40:27+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-07-12T11:40:27+10:00",
-  "title": "Commute: MB: 11:44 11:58 12:15",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "data_summary": "SpO2 97%, respiration 14.0",
+  "expires_at": "2026-07-12T18:00:28+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-12T12:00:28+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
+  "url": ""
 }
