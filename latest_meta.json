@@ -1,11 +1,11 @@
 {
-  "data_summary": "morning briefing: RAIN 25% TODAY",
-  "expires_at": "2026-07-12T15:40:23+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "morning",
-  "published_at": "2026-07-12T09:40:23+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
-  "url": ""
+  "data_summary": "OpenAI releases latest ChatGPT model after delay over White House cybersecurity concerns",
+  "expires_at": "2026-07-12T16:00:24+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-12T10:00:24+10:00",
+  "title": "News: OpenAI releases latest ChatGPT model after delay over White House",
+  "topic_key": "interesting_signal_openai_releases_latest_chatgpt_model",
+  "url": "https://www.google.com/search?q=OpenAI+releases+latest+ChatGPT+model+after+delay+over+White+House+cybersecurity+concerns"
 }
