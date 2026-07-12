@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase evening, temp 10C",
-  "expires_at": "2026-07-13T01:20:45+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-12T19:20:45+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
-  "url": ""
+  "data_summary": "OpenAI to Retire ChatGPT Atlas Browser Less Than a Year After Launch",
+  "expires_at": "2026-07-13T01:40:46+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-12T19:40:46+10:00",
+  "title": "News: OpenAI to Retire ChatGPT Atlas Browser Less Than a Year",
+  "topic_key": "interesting_signal_openai_to_retire_chatgpt_atlas_brows",
+  "url": "https://www.google.com/search?q=OpenAI+to+Retire+ChatGPT+Atlas+Browser+Less+Than+a+Year+After+Launch"
 }
