@@ -1,11 +1,11 @@
 {
-  "data_summary": "next-hour temp 9.4C; rain below 15% notice threshold",
-  "expires_at": "2026-07-13T03:00:49+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-12T21:00:49+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "data_summary": "Cuttlefish have passed delay-of-gratification tests for preferred prey. Caption: SEAFOOD SELF-CONTROL",
+  "expires_at": "2026-07-13T03:20:50+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-12T21:20:50+10:00",
+  "title": "Curious Fact: CUTTLEFISH CAN WAIT FOR BETTER FOOD",
+  "topic_key": "curious_fact_cuttlefish_delay",
+  "url": "https://www.google.com/search?q=Cuttlefish+have+passed+delay-of-gratification+tests+for+preferred+prey.+Caption%3A+SEAFOOD+SELF-CONTROL"
 }
