@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase night, temp 9C",
-  "expires_at": "2026-07-13T04:00:51+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-12T22:00:51+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
-  "url": ""
+  "data_summary": "Storm's young guns dismantle North Sydney Bears",
+  "expires_at": "2026-07-13T04:20:52+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-12T22:20:52+10:00",
+  "title": "News: Storm's young guns dismantle North Sydney Bears",
+  "topic_key": "interesting_signal_storm_s_young_guns_dismantle_north_s",
+  "url": "https://www.google.com/search?q=Storm%27s+young+guns+dismantle+North+Sydney+Bears"
 }
