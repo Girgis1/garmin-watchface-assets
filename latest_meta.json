@@ -1,11 +1,11 @@
 {
-  "data_summary": "First Airport Metro trains arrive in Sydney",
-  "expires_at": "2026-07-12T23:20:40+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-12T17:20:40+10:00",
-  "title": "News: First Airport Metro trains arrive in Sydney",
-  "topic_key": "interesting_signal_first_airport_metro_trains_arrive_in",
-  "url": "https://www.google.com/search?q=First+Airport+Metro+trains+arrive+in+Sydney"
+  "data_summary": "Pistol shrimp snap a claw so fast it forms a cavitation bubble that stuns prey. Caption: UNDERWATER BALLISTICS",
+  "expires_at": "2026-07-12T23:40:41+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-12T17:40:41+10:00",
+  "title": "Curious Fact: PISTOL SHRIMP FIRE BUBBLE BULLETS",
+  "topic_key": "curious_fact_pistol_shrimp_cavitation",
+  "url": "https://www.google.com/search?q=Pistol+shrimp+snap+a+claw+so+fast+it+forms+a+cavitation+bubble+that+stuns+prey.+Caption%3A+UNDERWATER+BALLISTICS"
 }
