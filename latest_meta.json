@@ -1,11 +1,11 @@
 {
-  "data_summary": "Prioritize rest tonight. - HRV balanced \u2014 good recovery state. - Good sleep: 7.6h last night. - Step goal achieved (9,561). Well done.",
-  "expires_at": "2026-07-12T16:20:24+10:00",
+  "data_summary": "sleep 8.2h, score 85, 21-day avg 7.3h",
+  "expires_at": "2026-07-12T17:00:26+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-12T10:20:24+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-07-12T11:00:26+10:00",
+  "title": "Sleep Recovery",
+  "topic_key": "health_sleep_recovery",
   "url": ""
 }
