@@ -1,11 +1,11 @@
 {
-  "data_summary": "SpO2 97%, respiration 14.0",
-  "expires_at": "2026-07-12T18:00:28+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-12T12:00:28+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
-  "url": ""
+  "data_summary": "Cephalopods control chromatophore skin cells to flash patterns and camouflage. Caption: LIVING DISPLAY PANEL",
+  "expires_at": "2026-07-12T18:20:29+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-12T12:20:29+10:00",
+  "title": "Curious Fact: CEPHALOPODS CONTROL SKIN PIXELS",
+  "topic_key": "curious_fact_cephalopod_skin_pixels",
+  "url": "https://www.google.com/search?q=Cephalopods+control+chromatophore+skin+cells+to+flash+patterns+and+camouflage.+Caption%3A+LIVING+DISPLAY+PANEL"
 }
