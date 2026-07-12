@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase sunset, temp 11C",
-  "expires_at": "2026-07-13T00:20:43+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-12T18:20:43+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "data_summary": "40 flood rescues in three hours after heavy rain hits Sydney",
+  "expires_at": "2026-07-13T00:40:43+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-12T18:40:43+10:00",
+  "title": "News: 40 flood rescues in three hours after heavy rain hits",
+  "topic_key": "interesting_signal_40_flood_rescues_in_three_hours_afte",
+  "url": "https://www.google.com/search?q=40+flood+rescues+in+three+hours+after+heavy+rain+hits+Sydney"
 }
