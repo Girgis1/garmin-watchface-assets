@@ -1,11 +1,11 @@
 {
-  "data_summary": "waning crescent, 7% illuminated",
-  "expires_at": "2026-07-12T21:40:37+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-07-12T15:40:37+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "data_summary": "Vampire bats use heat-sensitive nose pits to locate blood vessels. Caption: THERMAL TARGETING",
+  "expires_at": "2026-07-12T22:00:37+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-12T16:00:37+10:00",
+  "title": "Curious Fact: VAMPIRE BATS FIND VEINS BY HEAT",
+  "topic_key": "curious_fact_vampire_bat_heat_veins",
+  "url": "https://www.google.com/search?q=Vampire+bats+use+heat-sensitive+nose+pits+to+locate+blood+vessels.+Caption%3A+THERMAL+TARGETING"
 }
