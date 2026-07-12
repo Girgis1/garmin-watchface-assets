@@ -1,11 +1,11 @@
 {
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-07-12T18:40:30+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-12T12:40:30+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "data_summary": "Passenger and freight trains in NSW cancelled due to Telstra network outage",
+  "expires_at": "2026-07-12T19:00:31+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-12T13:00:31+10:00",
+  "title": "News: NSW trains cancelled after Telstra outage",
+  "topic_key": "interesting_signal_nsw_trains_cancelled_after_telstra_o",
+  "url": "https://www.google.com/search?q=Passenger+and+freight+trains+in+NSW+cancelled+due+to+Telstra+network+outage"
 }
