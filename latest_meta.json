@@ -1,11 +1,11 @@
 {
-  "data_summary": "Octopus arms contain many neurons and can coordinate complex movements locally. Caption: DISTRIBUTED SYSTEM",
-  "expires_at": "2026-07-13T02:20:47+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-12T20:20:47+10:00",
-  "title": "Curious Fact: OCTOPUS ARMS PROCESS LOCALLY",
-  "topic_key": "curious_fact_octopus_arm_brains",
-  "url": "https://www.google.com/search?q=Octopus+arms+contain+many+neurons+and+can+coordinate+complex+movements+locally.+Caption%3A+DISTRIBUTED+SYSTEM"
+  "data_summary": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
+  "expires_at": "2026-07-13T02:40:48+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-12T20:40:48+10:00",
+  "title": "News: Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade",
+  "topic_key": "interesting_signal_apple_files_lawsuit_accusing_chatgpt",
+  "url": "https://www.google.com/search?q=Apple+files+lawsuit+accusing+ChatGPT+maker+OpenAI+of+stealing+trade+secrets"
 }
