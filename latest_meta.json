@@ -1,11 +1,11 @@
 {
-  "data_summary": "First Western Sydney Airport metro train arrives in Australia",
-  "expires_at": "2026-07-12T20:20:34+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-12T14:20:34+10:00",
-  "title": "News: First Western Sydney Airport metro train arrives in Australia",
-  "topic_key": "interesting_signal_first_western_sydney_airport_metro_t",
-  "url": "https://www.google.com/search?q=First+Western+Sydney+Airport+metro+train+arrives+in+Australia"
+  "data_summary": "waning crescent, 7% illuminated",
+  "expires_at": "2026-07-12T21:40:37+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-07-12T15:40:37+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
