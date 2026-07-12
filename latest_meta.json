@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase sunset, temp 14C",
-  "expires_at": "2026-07-12T22:20:38+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-12T16:20:38+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "data_summary": "First airport metro train arrives in Sydney",
+  "expires_at": "2026-07-12T22:40:39+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-12T16:40:39+10:00",
+  "title": "News: First airport metro train arrives in Sydney",
+  "topic_key": "interesting_signal_first_airport_metro_train_arrives_in",
+  "url": "https://www.google.com/search?q=First+airport+metro+train+arrives+in+Sydney"
 }
