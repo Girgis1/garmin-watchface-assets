@@ -1,11 +1,11 @@
 {
-  "data_summary": "waning crescent, 3% illuminated",
-  "expires_at": "2026-07-13T21:20:30+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-07-13T15:20:30+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "data_summary": "Portia jumping spiders can plan detours that take them out of sight of prey. Caption: SPIDER DOING ROUTE PLANNING",
+  "expires_at": "2026-07-13T22:00:32+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-13T16:00:32+10:00",
+  "title": "Curious Fact: PORTIA SPIDERS PLAN DETOURS",
+  "topic_key": "curious_fact_portia_spider_detours",
+  "url": "https://www.google.com/search?q=Portia+jumping+spiders+can+plan+detours+that+take+them+out+of+sight+of+prey.+Caption%3A+SPIDER+DOING+ROUTE+PLANNING"
 }
