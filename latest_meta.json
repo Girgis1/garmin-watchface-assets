@@ -1,11 +1,11 @@
 {
-  "data_summary": "New Caledonian crows can combine pieces to make longer tools. Caption: ENGINEERING WITH A BEAK",
-  "expires_at": "2026-07-14T01:40:40+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-13T19:40:40+10:00",
-  "title": "Curious Fact: CROWS BUILD COMPOUND TOOLS",
-  "topic_key": "curious_fact_crow_compound_tools",
-  "url": "https://www.google.com/search?q=New+Caledonian+crows+can+combine+pieces+to+make+longer+tools.+Caption%3A+ENGINEERING+WITH+A+BEAK"
+  "data_summary": "next-hour temp 11.8C; rain below 15% notice threshold",
+  "expires_at": "2026-07-14T02:00:41+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-13T20:00:41+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
