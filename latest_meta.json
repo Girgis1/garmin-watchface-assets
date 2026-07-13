@@ -1,11 +1,11 @@
 {
-  "data_summary": "Portia jumping spiders can plan detours that take them out of sight of prey. Caption: SPIDER DOING ROUTE PLANNING",
-  "expires_at": "2026-07-13T22:00:32+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-13T16:00:32+10:00",
-  "title": "Curious Fact: PORTIA SPIDERS PLAN DETOURS",
-  "topic_key": "curious_fact_portia_spider_detours",
-  "url": "https://www.google.com/search?q=Portia+jumping+spiders+can+plan+detours+that+take+them+out+of+sight+of+prey.+Caption%3A+SPIDER+DOING+ROUTE+PLANNING"
+  "data_summary": "training intensity minutes today 0",
+  "expires_at": "2026-07-13T22:20:32+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-13T16:20:32+10:00",
+  "title": "Training Nudge",
+  "topic_key": "health_training_minutes",
+  "url": ""
 }
