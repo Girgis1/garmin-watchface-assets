@@ -1,11 +1,11 @@
 {
-  "data_summary": "Naked mole-rats can survive low oxygen by switching toward fructose metabolism. Caption: BACKUP POWER SYSTEM",
-  "expires_at": "2026-07-14T04:20:46+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-13T22:20:46+10:00",
-  "title": "Curious Fact: MOLE-RATS SWITCH FUEL IN LOW OXYGEN",
-  "topic_key": "curious_fact_naked_mole_rat_fructose",
-  "url": "https://www.google.com/search?q=Naked+mole-rats+can+survive+low+oxygen+by+switching+toward+fructose+metabolism.+Caption%3A+BACKUP+POWER+SYSTEM"
+  "data_summary": "next-hour temp 9.9C; rain below 15% notice threshold",
+  "expires_at": "2026-07-14T04:40:46+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-13T22:40:46+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
