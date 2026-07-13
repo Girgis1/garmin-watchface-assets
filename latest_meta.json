@@ -1,10 +1,10 @@
 {
-  "data_summary": "goodnight stage soft: The pillow has requested a meeting.; no extra alerts",
-  "expires_at": "2026-07-14T05:00:48+10:00",
+  "data_summary": "goodnight stage firm: The bed is available. Try not to overthink it.; no extra alerts",
+  "expires_at": "2026-07-14T05:20:48+10:00",
   "kind": "none",
   "label": "",
   "lane": "goodnight",
-  "published_at": "2026-07-13T23:00:48+10:00",
+  "published_at": "2026-07-13T23:20:48+10:00",
   "title": "Goodnight Briefing",
   "topic_key": "goodnight_briefing",
   "url": ""
