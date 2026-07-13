@@ -1,11 +1,11 @@
 {
-  "data_summary": "Honeybees can treat zero as a quantity in numerical tests. Caption: TINY BRAIN, BIG MATH",
-  "expires_at": "2026-07-13T23:40:35+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-13T17:40:35+10:00",
-  "title": "Curious Fact: HONEYBEES UNDERSTAND ZERO",
-  "topic_key": "curious_fact_honeybee_zero",
-  "url": "https://www.google.com/search?q=Honeybees+can+treat+zero+as+a+quantity+in+numerical+tests.+Caption%3A+TINY+BRAIN%2C+BIG+MATH"
+  "data_summary": "'ChatGPT mogging David': viral influencer Clavicular gets Star of David-OpenAI necklace on first Israel trip",
+  "expires_at": "2026-07-14T00:00:36+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-13T18:00:36+10:00",
+  "title": "News: 'ChatGPT mogging David': viral influencer Clavicular gets Star of",
+  "topic_key": "interesting_signal_chatgpt_mogging_david_viral_influenc",
+  "url": "https://www.google.com/search?q=%27ChatGPT+mogging+David%27%3A+viral+influencer+Clavicular+gets+Star+of+David-OpenAI+necklace+on+first+Israel+trip"
 }
