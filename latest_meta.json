@@ -1,11 +1,11 @@
 {
-  "data_summary": "'ChatGPT mogging David': viral influencer Clavicular gets Star of David-OpenAI necklace on first Israel trip",
-  "expires_at": "2026-07-14T00:00:36+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-13T18:00:36+10:00",
-  "title": "News: 'ChatGPT mogging David': viral influencer Clavicular gets Star of",
-  "topic_key": "interesting_signal_chatgpt_mogging_david_viral_influenc",
-  "url": "https://www.google.com/search?q=%27ChatGPT+mogging+David%27%3A+viral+influencer+Clavicular+gets+Star+of+David-OpenAI+necklace+on+first+Israel+trip"
+  "data_summary": "CN to EP leave times: 18:15 18:18 18:22",
+  "expires_at": "2026-07-14T00:20:37+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-07-13T18:20:37+10:00",
+  "title": "Commute: CN: 18:15 18:18 18:22",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
