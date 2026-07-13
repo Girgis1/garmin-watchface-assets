@@ -1,11 +1,11 @@
 {
-  "data_summary": "Seals use sensitive whiskers to follow water trails left by fish. Caption: WHISKER SONAR",
-  "expires_at": "2026-07-13T19:20:25+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-13T13:20:25+10:00",
-  "title": "Curious Fact: SEALS TRACK WAKES WITH WHISKERS",
-  "topic_key": "curious_fact_seal_whisker_wakes",
-  "url": "https://www.google.com/search?q=Seals+use+sensitive+whiskers+to+follow+water+trails+left+by+fish.+Caption%3A+WHISKER+SONAR"
+  "data_summary": "SpO2 98%, respiration 14.0",
+  "expires_at": "2026-07-13T20:00:27+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-13T14:00:27+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
+  "url": ""
 }
