@@ -1,11 +1,11 @@
 {
-  "data_summary": "First airport metro train arrives in Sydney",
-  "expires_at": "2026-07-13T19:00:25+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-13T13:00:25+10:00",
-  "title": "News: First airport metro train arrives in Sydney",
-  "topic_key": "interesting_signal_first_airport_metro_train_arrives_in",
-  "url": "https://www.google.com/search?q=First+airport+metro+train+arrives+in+Sydney"
+  "data_summary": "Seals use sensitive whiskers to follow water trails left by fish. Caption: WHISKER SONAR",
+  "expires_at": "2026-07-13T19:20:25+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-13T13:20:25+10:00",
+  "title": "Curious Fact: SEALS TRACK WAKES WITH WHISKERS",
+  "topic_key": "curious_fact_seal_whisker_wakes",
+  "url": "https://www.google.com/search?q=Seals+use+sensitive+whiskers+to+follow+water+trails+left+by+fish.+Caption%3A+WHISKER+SONAR"
 }
