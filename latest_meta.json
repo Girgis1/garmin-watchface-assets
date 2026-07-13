@@ -1,11 +1,11 @@
 {
-  "data_summary": "daily phase midday, temp 17C",
-  "expires_at": "2026-07-13T18:40:24+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-13T12:40:24+10:00",
-  "title": "Daily Context",
-  "topic_key": "daily_context",
-  "url": ""
+  "data_summary": "First airport metro train arrives in Sydney",
+  "expires_at": "2026-07-13T19:00:25+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-13T13:00:25+10:00",
+  "title": "News: First airport metro train arrives in Sydney",
+  "topic_key": "interesting_signal_first_airport_metro_train_arrives_in",
+  "url": "https://www.google.com/search?q=First+airport+metro+train+arrives+in+Sydney"
 }
