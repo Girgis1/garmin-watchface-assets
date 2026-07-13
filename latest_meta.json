@@ -1,11 +1,11 @@
 {
-  "data_summary": "CN to EP leave times: 19:17 19:21 19:25",
-  "expires_at": "2026-07-14T01:20:39+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
+  "data_summary": "New Caledonian crows can combine pieces to make longer tools. Caption: ENGINEERING WITH A BEAK",
+  "expires_at": "2026-07-14T01:40:40+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-13T19:20:39+10:00",
-  "title": "Commute: CN: 19:17 19:21 19:25",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "published_at": "2026-07-13T19:40:40+10:00",
+  "title": "Curious Fact: CROWS BUILD COMPOUND TOOLS",
+  "topic_key": "curious_fact_crow_compound_tools",
+  "url": "https://www.google.com/search?q=New+Caledonian+crows+can+combine+pieces+to+make+longer+tools.+Caption%3A+ENGINEERING+WITH+A+BEAK"
 }
