@@ -1,11 +1,11 @@
 {
-  "data_summary": "training intensity minutes today 0",
-  "expires_at": "2026-07-13T22:20:32+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-13T16:20:32+10:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
-  "url": ""
+  "data_summary": "Sydney Metro goes the distance",
+  "expires_at": "2026-07-13T22:40:33+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-13T16:40:33+10:00",
+  "title": "News: Sydney Metro goes the distance",
+  "topic_key": "interesting_signal_sydney_metro_goes_the_distance",
+  "url": "https://www.google.com/search?q=Sydney+Metro+goes+the+distance"
 }
