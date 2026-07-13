@@ -1,11 +1,11 @@
 {
-  "data_summary": "next-hour temp 9.9C; rain below 15% notice threshold",
-  "expires_at": "2026-07-14T04:40:46+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-13T22:40:46+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "data_summary": "goodnight stage soft: The pillow has requested a meeting.; no extra alerts",
+  "expires_at": "2026-07-14T05:00:48+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "goodnight",
+  "published_at": "2026-07-13T23:00:48+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
+  "url": ""
 }
