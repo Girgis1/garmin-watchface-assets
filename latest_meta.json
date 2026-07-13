@@ -1,11 +1,11 @@
 {
-  "data_summary": "Greater honeyguides can guide human honey-hunters to beehives. Caption: CROSS-SPECIES TREASURE MAP",
-  "expires_at": "2026-07-13T17:20:21+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-13T11:20:21+10:00",
-  "title": "Curious Fact: HONEYGUIDES COOPERATE WITH HUMANS",
-  "topic_key": "curious_fact_honeyguide_human_teamwork",
-  "url": "https://www.google.com/search?q=Greater+honeyguides+can+guide+human+honey-hunters+to+beehives.+Caption%3A+CROSS-SPECIES+TREASURE+MAP"
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-07-13T17:40:22+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-13T11:40:22+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
+  "url": ""
 }
