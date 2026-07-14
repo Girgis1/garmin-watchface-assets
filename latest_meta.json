@@ -1,11 +1,11 @@
 {
-  "data_summary": "training intensity minutes today 8",
-  "expires_at": "2026-07-14T22:20:23+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-14T16:20:23+10:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
-  "url": ""
+  "data_summary": "Sydney Metro's Sydenham to Bankstown extension has officially entered the testing phase",
+  "expires_at": "2026-07-14T22:40:24+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-14T16:40:24+10:00",
+  "title": "News: Sydney Metro's Sydenham to Bankstown extension has officially",
+  "topic_key": "interesting_signal_sydney_metro_s_sydenham_to_bankstown",
+  "url": "https://www.google.com/search?q=Sydney+Metro%27s+Sydenham+to+Bankstown+extension+has+officially+entered+the+testing+phase"
 }
