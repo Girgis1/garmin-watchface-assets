@@ -1,11 +1,11 @@
 {
-  "data_summary": "daily phase midday, temp 18C",
-  "expires_at": "2026-07-14T19:40:17+10:00",
-  "kind": "none",
-  "label": "",
+  "data_summary": "Hydra show very low senescence under favourable lab conditions. Caption: TINY IMMORTALISH TUBE",
+  "expires_at": "2026-07-14T20:00:19+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-14T13:40:17+10:00",
-  "title": "Daily Context",
-  "topic_key": "daily_context",
-  "url": ""
+  "published_at": "2026-07-14T14:00:19+10:00",
+  "title": "Curious Fact: HYDRA AGE STRANGELY SLOWLY",
+  "topic_key": "curious_fact_hydra_low_senescence",
+  "url": "https://www.google.com/search?q=Hydra+show+very+low+senescence+under+favourable+lab+conditions.+Caption%3A+TINY+IMMORTALISH+TUBE"
 }
