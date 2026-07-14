@@ -1,11 +1,11 @@
 {
-  "data_summary": "HRV BALANCED, avg 68 ms, 12 day balanced streak",
-  "expires_at": "2026-07-14T16:40:11+10:00",
+  "data_summary": "SpO2 97%, respiration 14.0",
+  "expires_at": "2026-07-14T17:00:12+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-14T10:40:11+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_balanced",
+  "published_at": "2026-07-14T11:00:12+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
