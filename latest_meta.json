@@ -1,11 +1,11 @@
 {
-  "data_summary": "Octopus suckers can taste what they touch. Caption: FINGERS WITH TASTE BUDS",
-  "expires_at": "2026-07-14T17:20:12+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-14T11:20:12+10:00",
-  "title": "Curious Fact: OCTOPUSES TASTE WITH SUCKERS",
-  "topic_key": "curious_fact_octopus_sucker_taste",
-  "url": "https://www.google.com/search?q=Octopus+suckers+can+taste+what+they+touch.+Caption%3A+FINGERS+WITH+TASTE+BUDS"
+  "data_summary": "OpenAI releases latest ChatGPT model after delay over White House cybersecurity concerns",
+  "expires_at": "2026-07-14T18:00:14+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-14T12:00:14+10:00",
+  "title": "News: OpenAI releases latest ChatGPT model after delay over White House",
+  "topic_key": "interesting_signal_openai_releases_latest_chatgpt_model",
+  "url": "https://www.google.com/search?q=OpenAI+releases+latest+ChatGPT+model+after+delay+over+White+House+cybersecurity+concerns"
 }
