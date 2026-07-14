@@ -1,11 +1,11 @@
 {
-  "data_summary": "Recovery mode essential. - HRV balanced \u2014 good recovery state.",
-  "expires_at": "2026-07-14T16:00:10+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-14T10:00:10+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
-  "url": ""
+  "data_summary": "MB to EP leave times: 10:18 10:33 10:48",
+  "expires_at": "2026-07-14T16:20:10+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-07-14T10:20:10+10:00",
+  "title": "Commute: MB: 10:18 10:33 10:48",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
