@@ -1,11 +1,11 @@
 {
-  "data_summary": "MB to EP leave times: 10:18 10:33 10:48",
-  "expires_at": "2026-07-14T16:20:10+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-07-14T10:20:10+10:00",
-  "title": "Commute: MB: 10:18 10:33 10:48",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "data_summary": "HRV BALANCED, avg 68 ms, 12 day balanced streak",
+  "expires_at": "2026-07-14T16:40:11+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-14T10:40:11+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
+  "url": ""
 }
