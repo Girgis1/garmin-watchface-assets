@@ -1,11 +1,11 @@
 {
-  "data_summary": "First airport metro train arrives in Sydney",
-  "expires_at": "2026-07-14T20:20:19+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-14T14:20:19+10:00",
-  "title": "News: First airport metro train arrives in Sydney",
-  "topic_key": "interesting_signal_first_airport_metro_train_arrives_in",
-  "url": "https://www.google.com/search?q=First+airport+metro+train+arrives+in+Sydney"
+  "data_summary": "SpO2 97%, respiration 15.0",
+  "expires_at": "2026-07-14T20:40:20+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-14T14:40:20+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
+  "url": ""
 }
