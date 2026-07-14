@@ -1,11 +1,11 @@
 {
-  "data_summary": "CN to EP leave times: 21:21 21:31 21:41",
-  "expires_at": "2026-07-15T03:20:33+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
+  "data_summary": "context phase night, temp 12C",
+  "expires_at": "2026-07-15T03:40:33+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-07-14T21:20:33+10:00",
-  "title": "Commute: CN: 21:21 21:31 21:41",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "published_at": "2026-07-14T21:40:33+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
+  "url": ""
 }
