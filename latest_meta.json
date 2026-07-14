@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase sunset, temp 14C",
-  "expires_at": "2026-07-14T23:20:25+10:00",
-  "kind": "none",
-  "label": "",
+  "data_summary": "Horseshoe crab blood cells clot around bacterial endotoxins. Caption: ANCIENT BIO-SENSOR",
+  "expires_at": "2026-07-14T23:40:26+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-14T17:20:25+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "published_at": "2026-07-14T17:40:26+10:00",
+  "title": "Curious Fact: HORSESHOE CRAB BLOOD FLAGS BACTERIA",
+  "topic_key": "curious_fact_horseshoe_crab_endotoxin",
+  "url": "https://www.google.com/search?q=Horseshoe+crab+blood+cells+clot+around+bacterial+endotoxins.+Caption%3A+ANCIENT+BIO-SENSOR"
 }
