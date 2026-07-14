@@ -1,11 +1,11 @@
 {
-  "data_summary": "SpO2 97%, respiration 14.0",
-  "expires_at": "2026-07-14T17:00:12+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-14T11:00:12+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
-  "url": ""
+  "data_summary": "Octopus suckers can taste what they touch. Caption: FINGERS WITH TASTE BUDS",
+  "expires_at": "2026-07-14T17:20:12+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-14T11:20:12+10:00",
+  "title": "Curious Fact: OCTOPUSES TASTE WITH SUCKERS",
+  "topic_key": "curious_fact_octopus_sucker_taste",
+  "url": "https://www.google.com/search?q=Octopus+suckers+can+taste+what+they+touch.+Caption%3A+FINGERS+WITH+TASTE+BUDS"
 }
