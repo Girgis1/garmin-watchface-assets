@@ -1,11 +1,11 @@
 {
-  "data_summary": "Hydra show very low senescence under favourable lab conditions. Caption: TINY IMMORTALISH TUBE",
-  "expires_at": "2026-07-14T20:00:19+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-14T14:00:19+10:00",
-  "title": "Curious Fact: HYDRA AGE STRANGELY SLOWLY",
-  "topic_key": "curious_fact_hydra_low_senescence",
-  "url": "https://www.google.com/search?q=Hydra+show+very+low+senescence+under+favourable+lab+conditions.+Caption%3A+TINY+IMMORTALISH+TUBE"
+  "data_summary": "First airport metro train arrives in Sydney",
+  "expires_at": "2026-07-14T20:20:19+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-14T14:20:19+10:00",
+  "title": "News: First airport metro train arrives in Sydney",
+  "topic_key": "interesting_signal_first_airport_metro_train_arrives_in",
+  "url": "https://www.google.com/search?q=First+airport+metro+train+arrives+in+Sydney"
 }
