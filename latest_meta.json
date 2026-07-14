@@ -1,11 +1,11 @@
 {
-  "data_summary": "African spiny mice can shed and regenerate large areas of skin. Caption: ESCAPE SKIN, REPRINT LATER",
-  "expires_at": "2026-07-15T02:20:31+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
+  "data_summary": "CN to EP leave times: 21:21 21:31 21:41",
+  "expires_at": "2026-07-15T03:20:33+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-07-14T20:20:31+10:00",
-  "title": "Curious Fact: SPINY MICE REGROW SKIN",
-  "topic_key": "curious_fact_spiny_mouse_skin_regen",
-  "url": "https://www.google.com/search?q=African+spiny+mice+can+shed+and+regenerate+large+areas+of+skin.+Caption%3A+ESCAPE+SKIN%2C+REPRINT+LATER"
+  "published_at": "2026-07-14T21:20:33+10:00",
+  "title": "Commute: CN: 21:21 21:31 21:41",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
