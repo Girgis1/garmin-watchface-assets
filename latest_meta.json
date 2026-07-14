@@ -1,11 +1,11 @@
 {
-  "data_summary": "CN to EP leave times: 18:45 18:49 18:53",
-  "expires_at": "2026-07-15T01:00:28+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-07-14T19:00:28+10:00",
-  "title": "Commute: CN: 18:45 18:49 18:53",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "data_summary": "Sydney Metro goes the distance",
+  "expires_at": "2026-07-15T01:20:29+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-14T19:20:29+10:00",
+  "title": "News: Sydney Metro goes the distance",
+  "topic_key": "interesting_signal_sydney_metro_goes_the_distance",
+  "url": "https://www.google.com/search?q=Sydney+Metro+goes+the+distance"
 }
