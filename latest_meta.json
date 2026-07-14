@@ -1,11 +1,11 @@
 {
-  "data_summary": "SpO2 97%, respiration 15.0",
-  "expires_at": "2026-07-14T20:40:20+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-14T14:40:20+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
-  "url": ""
+  "data_summary": "leave-work temp 11C; rain below 15% notice threshold",
+  "expires_at": "2026-07-14T21:00:21+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-07-14T15:00:21+10:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
