@@ -1,11 +1,11 @@
 {
-  "data_summary": "Sydney Metro goes the distance",
-  "expires_at": "2026-07-15T01:20:29+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-14T19:20:29+10:00",
-  "title": "News: Sydney Metro goes the distance",
-  "topic_key": "interesting_signal_sydney_metro_goes_the_distance",
-  "url": "https://www.google.com/search?q=Sydney+Metro+goes+the+distance"
+  "data_summary": "context phase evening, temp 13C",
+  "expires_at": "2026-07-15T01:40:29+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-07-14T19:40:29+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
+  "url": ""
 }
