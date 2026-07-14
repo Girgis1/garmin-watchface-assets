@@ -1,11 +1,11 @@
 {
-  "data_summary": "Turritopsis dohrnii can revert from adult medusa back to a polyp stage. Caption: UNDO BUTTON ORGANISM",
-  "expires_at": "2026-07-15T04:20:35+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-14T22:20:35+10:00",
-  "title": "Curious Fact: A JELLYFISH CAN REVERSE AGE",
-  "topic_key": "curious_fact_immortal_jellyfish_reverse",
-  "url": "https://www.google.com/search?q=Turritopsis+dohrnii+can+revert+from+adult+medusa+back+to+a+polyp+stage.+Caption%3A+UNDO+BUTTON+ORGANISM"
+  "data_summary": "next-hour temp 11.7C; rain below 15% notice threshold",
+  "expires_at": "2026-07-15T04:40:35+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-14T22:40:35+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
