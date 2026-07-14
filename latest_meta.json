@@ -1,11 +1,11 @@
 {
-  "data_summary": "new moon, 0% illuminated",
-  "expires_at": "2026-07-14T21:20:21+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-07-14T15:20:21+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "data_summary": "context phase sunset, temp 18C",
+  "expires_at": "2026-07-14T21:40:22+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-07-14T15:40:22+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
