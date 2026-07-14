@@ -1,11 +1,11 @@
 {
-  "data_summary": "Honeybees can learn colour-coded addition and subtraction tasks. Caption: MATHS WITH WINGS",
-  "expires_at": "2026-07-14T22:00:22+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-14T16:00:22+10:00",
-  "title": "Curious Fact: BEES CAN LEARN SIMPLE ARITHMETIC",
-  "topic_key": "curious_fact_honeybee_arithmetic",
-  "url": "https://www.google.com/search?q=Honeybees+can+learn+colour-coded+addition+and+subtraction+tasks.+Caption%3A+MATHS+WITH+WINGS"
+  "data_summary": "training intensity minutes today 8",
+  "expires_at": "2026-07-14T22:20:23+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-14T16:20:23+10:00",
+  "title": "Training Nudge",
+  "topic_key": "health_training_minutes",
+  "url": ""
 }
