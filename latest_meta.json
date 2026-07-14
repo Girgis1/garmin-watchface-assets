@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase sunset, temp 18C",
-  "expires_at": "2026-07-14T21:40:22+10:00",
-  "kind": "none",
-  "label": "",
+  "data_summary": "Honeybees can learn colour-coded addition and subtraction tasks. Caption: MATHS WITH WINGS",
+  "expires_at": "2026-07-14T22:00:22+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-14T15:40:22+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "published_at": "2026-07-14T16:00:22+10:00",
+  "title": "Curious Fact: BEES CAN LEARN SIMPLE ARITHMETIC",
+  "topic_key": "curious_fact_honeybee_arithmetic",
+  "url": "https://www.google.com/search?q=Honeybees+can+learn+colour-coded+addition+and+subtraction+tasks.+Caption%3A+MATHS+WITH+WINGS"
 }
