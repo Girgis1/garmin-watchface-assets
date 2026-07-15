@@ -1,11 +1,11 @@
 {
-  "data_summary": "SpO2 97%, respiration 13.0",
-  "expires_at": "2026-07-15T16:40:00+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-15T10:40:00+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
-  "url": ""
+  "data_summary": "OpenAI releases latest ChatGPT model after delay over White House cybersecurity concerns",
+  "expires_at": "2026-07-15T17:00:02+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-15T11:00:02+10:00",
+  "title": "News: OpenAI releases latest ChatGPT model after delay over White House",
+  "topic_key": "interesting_signal_openai_releases_latest_chatgpt_model",
+  "url": "https://www.google.com/search?q=OpenAI+releases+latest+ChatGPT+model+after+delay+over+White+House+cybersecurity+concerns"
 }
