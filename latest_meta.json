@@ -1,11 +1,11 @@
 {
-  "data_summary": "\u2018Major delays\u2019: Sydney trains chaos looms",
-  "expires_at": "2026-07-15T18:00:03+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-15T12:00:03+10:00",
-  "title": "News: \u2018Major delays\u2019: Sydney trains chaos looms",
-  "topic_key": "interesting_signal_major_delays_sydney_trains_chaos_loo",
-  "url": "https://www.google.com/search?q=%E2%80%98Major+delays%E2%80%99%3A+Sydney+trains+chaos+looms"
+  "data_summary": "context phase midday, temp 16C",
+  "expires_at": "2026-07-15T18:20:03+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-07-15T12:20:03+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
+  "url": ""
 }
