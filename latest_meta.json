@@ -1,11 +1,11 @@
 {
-  "data_summary": "First Airport Metro trains arrive in Sydney",
-  "expires_at": "2026-07-15T21:40:10+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-15T15:40:10+10:00",
-  "title": "News: First Airport Metro trains arrive in Sydney",
-  "topic_key": "interesting_signal_first_airport_metro_trains_arrive_in",
-  "url": "https://www.google.com/search?q=First+Airport+Metro+trains+arrive+in+Sydney"
+  "data_summary": "context phase sunset, temp 12C",
+  "expires_at": "2026-07-15T23:20:15+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-07-15T17:20:15+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
