@@ -1,11 +1,11 @@
 {
-  "data_summary": "leave-work temp 13C, rain 20%, 0.3 mm",
-  "expires_at": "2026-07-15T21:20:10+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather_departure",
-  "published_at": "2026-07-15T15:20:10+10:00",
-  "title": "Leave-Work Weather",
-  "topic_key": "leave_work_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "data_summary": "First Airport Metro trains arrive in Sydney",
+  "expires_at": "2026-07-15T21:40:10+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-15T15:40:10+10:00",
+  "title": "News: First Airport Metro trains arrive in Sydney",
+  "topic_key": "interesting_signal_first_airport_metro_trains_arrive_in",
+  "url": "https://www.google.com/search?q=First+Airport+Metro+trains+arrive+in+Sydney"
 }
