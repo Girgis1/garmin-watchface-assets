@@ -1,11 +1,11 @@
 {
-  "data_summary": "Planarian flatworms can regenerate whole bodies from small fragments. Caption: CUT, PASTE, LIVE",
-  "expires_at": "2026-07-15T20:20:07+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-15T14:20:07+10:00",
-  "title": "Curious Fact: PLANARIANS REGROW WHOLE BODIES",
-  "topic_key": "curious_fact_planarian_regeneration",
-  "url": "https://www.google.com/search?q=Planarian+flatworms+can+regenerate+whole+bodies+from+small+fragments.+Caption%3A+CUT%2C+PASTE%2C+LIVE"
+  "data_summary": "SpO2 97%, respiration 14.0",
+  "expires_at": "2026-07-15T20:40:08+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-15T14:40:08+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
+  "url": ""
 }
