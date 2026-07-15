@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase sunset, temp 12C",
-  "expires_at": "2026-07-15T23:20:15+10:00",
-  "kind": "none",
-  "label": "",
+  "data_summary": "Tardigrades can use protective proteins to vitrify cells during extreme drying. Caption: BIOLOGY HIT SAVE-AS",
+  "expires_at": "2026-07-15T23:40:15+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-15T17:20:15+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "published_at": "2026-07-15T17:40:15+10:00",
+  "title": "Curious Fact: TARDIGRADES TURN GLASSY WHEN DRY",
+  "topic_key": "curious_fact_tardigrade_vitrification",
+  "url": "https://www.google.com/search?q=Tardigrades+can+use+protective+proteins+to+vitrify+cells+during+extreme+drying.+Caption%3A+BIOLOGY+HIT+SAVE-AS"
 }
