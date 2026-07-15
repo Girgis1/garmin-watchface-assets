@@ -1,11 +1,11 @@
 {
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-07-15T17:20:02+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-15T11:20:02+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "data_summary": "Froghoppers can jump with accelerations hundreds of times gravity. Caption: PLANTHOPPER CATAPULT",
+  "expires_at": "2026-07-15T17:40:02+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-15T11:40:02+10:00",
+  "title": "Curious Fact: FROGHOPPERS LAUNCH AT HUGE G-FORCES",
+  "topic_key": "curious_fact_froghopper_jump_g",
+  "url": "https://www.google.com/search?q=Froghoppers+can+jump+with+accelerations+hundreds+of+times+gravity.+Caption%3A+PLANTHOPPER+CATAPULT"
 }
