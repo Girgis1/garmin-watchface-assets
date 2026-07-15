@@ -1,11 +1,11 @@
 {
-  "data_summary": "Froghoppers can jump with accelerations hundreds of times gravity. Caption: PLANTHOPPER CATAPULT",
-  "expires_at": "2026-07-15T17:40:02+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-15T11:40:02+10:00",
-  "title": "Curious Fact: FROGHOPPERS LAUNCH AT HUGE G-FORCES",
-  "topic_key": "curious_fact_froghopper_jump_g",
-  "url": "https://www.google.com/search?q=Froghoppers+can+jump+with+accelerations+hundreds+of+times+gravity.+Caption%3A+PLANTHOPPER+CATAPULT"
+  "data_summary": "\u2018Major delays\u2019: Sydney trains chaos looms",
+  "expires_at": "2026-07-15T18:00:03+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-15T12:00:03+10:00",
+  "title": "News: \u2018Major delays\u2019: Sydney trains chaos looms",
+  "topic_key": "interesting_signal_major_delays_sydney_trains_chaos_loo",
+  "url": "https://www.google.com/search?q=%E2%80%98Major+delays%E2%80%99%3A+Sydney+trains+chaos+looms"
 }
