@@ -1,11 +1,11 @@
 {
-  "data_summary": "CN to EP leave times: 22:31 22:41 22:51",
-  "expires_at": "2026-07-17T04:20:56+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
+  "data_summary": "Elephantnose fish generate weak electric fields to sense objects in murky water. Caption: RADAR, BUT FISH",
+  "expires_at": "2026-07-17T04:40:57+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-16T22:20:56+10:00",
-  "title": "Commute: CN: 22:31 22:41 22:51",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "published_at": "2026-07-16T22:40:57+10:00",
+  "title": "Curious Fact: ELEPHANTNOSE FISH MAKE ELECTRIC MAPS",
+  "topic_key": "curious_fact_elephantnose_electric_map",
+  "url": "https://www.google.com/search?q=Elephantnose+fish+generate+weak+electric+fields+to+sense+objects+in+murky+water.+Caption%3A+RADAR%2C+BUT+FISH"
 }
