@@ -1,11 +1,11 @@
 {
-  "data_summary": "SLEEP 8H00 | +50M VS 4W AVG | BANK THAT ROUTINE | Last sleep was 8.0 hours with score 84, versus a four-week average of 7.2 hours.",
-  "expires_at": "2026-07-16T18:40:34+10:00",
+  "data_summary": "HRV 69 MS | 1.6 VS PRIOR 7D | NORMAL LOAD LOOKS REASONABLE | Seven-day HRV averages 69.4 ms versus 71.0 ms in the prior seven days; latest status is balanced.",
+  "expires_at": "2026-07-16T19:00:35+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-16T12:40:34+10:00",
-  "title": "Health Insight: SLEEP 8H00",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-07-16T13:00:35+10:00",
+  "title": "Health Insight: HRV 69 MS",
+  "topic_key": "health_hrv_weekly_trend",
   "url": ""
 }
