@@ -1,11 +1,11 @@
 {
-  "data_summary": "HRV 69 MS | 1.6 VS PRIOR 7D | NORMAL LOAD LOOKS REASONABLE | Seven-day HRV averages 69.4 ms versus 71.0 ms in the prior seven days; latest status is balanced.",
-  "expires_at": "2026-07-16T19:00:35+10:00",
+  "data_summary": "SAT SLEEP +67M | VS TUE, 5-WEEK AVG | COPY WHAT WORKS BEFORE SAT | Across the available history, Sat sleep averages 67 minutes longer than Tue sleep.",
+  "expires_at": "2026-07-16T19:20:35+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-16T13:00:35+10:00",
-  "title": "Health Insight: HRV 69 MS",
-  "topic_key": "health_hrv_weekly_trend",
+  "published_at": "2026-07-16T13:20:35+10:00",
+  "title": "Health Insight: SAT SLEEP +67M",
+  "topic_key": "health_pattern_weekday_sleep",
   "url": ""
 }
