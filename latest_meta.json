@@ -1,11 +1,11 @@
 {
-  "data_summary": "Army ants link bodies into living bridges to smooth traffic routes. Caption: BIOLOGICAL INFRASTRUCTURE",
-  "expires_at": "2026-07-17T01:20:49+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
+  "data_summary": "CN to EP leave times: 19:51 20:01 20:11",
+  "expires_at": "2026-07-17T01:40:50+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-07-16T19:20:49+10:00",
-  "title": "Curious Fact: ARMY ANTS BUILD LIVING BRIDGES",
-  "topic_key": "curious_fact_army_ant_bridges",
-  "url": "https://www.google.com/search?q=Army+ants+link+bodies+into+living+bridges+to+smooth+traffic+routes.+Caption%3A+BIOLOGICAL+INFRASTRUCTURE"
+  "published_at": "2026-07-16T19:40:50+10:00",
+  "title": "Commute: CN: 19:51 20:01 20:11",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
