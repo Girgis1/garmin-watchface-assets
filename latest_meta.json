@@ -1,11 +1,11 @@
 {
-  "data_summary": "waxing crescent, 2% illuminated",
-  "expires_at": "2026-07-16T21:00:39+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-07-16T15:00:39+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "data_summary": "Test trains run through on Sydney Southwest Metro extension",
+  "expires_at": "2026-07-16T21:20:40+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-16T15:20:40+10:00",
+  "title": "News: Test trains run through on Sydney Southwest Metro extension",
+  "topic_key": "interesting_signal_test_trains_run_through_on_sydney_so",
+  "url": "https://www.google.com/search?q=Test+trains+run+through+on+Sydney+Southwest+Metro+extension"
 }
