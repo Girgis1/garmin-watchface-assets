@@ -1,11 +1,11 @@
 {
-  "data_summary": "Star-nosed moles identify prey with extremely fast touch using their nasal rays. Caption: FACE SCANNER",
-  "expires_at": "2026-07-16T17:40:11+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-16T11:40:11+10:00",
-  "title": "Curious Fact: STAR-NOSED MOLES TOUCH-MAP FAST",
-  "topic_key": "curious_fact_star_nosed_mole_touch",
-  "url": "https://www.google.com/search?q=Star-nosed+moles+identify+prey+with+extremely+fast+touch+using+their+nasal+rays.+Caption%3A+FACE+SCANNER"
+  "data_summary": "INTENSITY 409 MIN | +70% VS PRIOR 7D | EASY DAY HAS EARNED ITS KEEP | Weighted intensity minutes total 409 across the last seven days versus 241 in the prior seven-day window.",
+  "expires_at": "2026-07-16T18:20:34+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-16T12:20:34+10:00",
+  "title": "Health Insight: INTENSITY 409 MIN",
+  "topic_key": "health_weekly_intensity_load",
+  "url": ""
 }
