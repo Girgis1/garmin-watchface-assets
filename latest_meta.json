@@ -1,11 +1,11 @@
 {
-  "data_summary": "Salmon use Earth's magnetic field and smell to help find home waters. Caption: GPS, BUT WET",
-  "expires_at": "2026-07-16T22:20:42+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
+  "data_summary": "context phase sunset, temp 14C",
+  "expires_at": "2026-07-16T22:40:43+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-07-16T16:20:42+10:00",
-  "title": "Curious Fact: SALMON USE MAGNETIC MAPS",
-  "topic_key": "curious_fact_salmon_magnetic_map",
-  "url": "https://www.google.com/search?q=Salmon+use+Earth%27s+magnetic+field+and+smell+to+help+find+home+waters.+Caption%3A+GPS%2C+BUT+WET"
+  "published_at": "2026-07-16T16:40:43+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
