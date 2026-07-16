@@ -1,11 +1,11 @@
 {
-  "data_summary": "Desert ants use path integration, including step-count-like distance tracking. Caption: PEDOMETER WITH MANDIBLES",
-  "expires_at": "2026-07-16T23:00:44+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
+  "data_summary": "CN to EP leave times: 18:26 18:30 18:33",
+  "expires_at": "2026-07-17T00:20:47+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-07-16T17:00:44+10:00",
-  "title": "Curious Fact: DESERT ANTS COUNT STEPS",
-  "topic_key": "curious_fact_desert_ant_steps",
-  "url": "https://www.google.com/search?q=Desert+ants+use+path+integration%2C+including+step-count-like+distance+tracking.+Caption%3A+PEDOMETER+WITH+MANDIBLES"
+  "published_at": "2026-07-16T18:20:47+10:00",
+  "title": "Commute: CN: 18:26 18:30 18:33",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
