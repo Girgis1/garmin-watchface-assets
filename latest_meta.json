@@ -1,11 +1,11 @@
 {
-  "data_summary": "# Garmin Health Insight Generated: 2026-07-16T09:05:05+10:00 Data through: 2026-07-16 (39 days loaded) ## Watch-Safe Insights - **TENNIS 101 MIN** | +9M VS YOUR AVG | KEEP THE NEXT SESSION EASY 101 minutes, compared with a recent tennis ave",
-  "expires_at": "2026-07-16T16:00:07+10:00",
+  "data_summary": "SpO2 99%, respiration 15.0",
+  "expires_at": "2026-07-16T16:20:08+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-16T10:00:07+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-07-16T10:20:08+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
