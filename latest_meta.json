@@ -1,11 +1,11 @@
 {
-  "data_summary": "Test trains run through on Sydney Southwest Metro extension",
-  "expires_at": "2026-07-16T21:20:40+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-16T15:20:40+10:00",
-  "title": "News: Test trains run through on Sydney Southwest Metro extension",
-  "topic_key": "interesting_signal_test_trains_run_through_on_sydney_so",
-  "url": "https://www.google.com/search?q=Test+trains+run+through+on+Sydney+Southwest+Metro+extension"
+  "data_summary": "context phase sunset, temp 15C",
+  "expires_at": "2026-07-16T21:40:41+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-07-16T15:40:41+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
