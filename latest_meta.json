@@ -1,11 +1,11 @@
 {
-  "data_summary": "Electric eels use high-voltage pulses that can force prey muscles to twitch. Caption: REMOTE CONTROL PREDATOR",
-  "expires_at": "2026-07-17T03:40:55+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
+  "data_summary": "CN to EP leave times: 22:31 22:41 22:51",
+  "expires_at": "2026-07-17T04:20:56+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-07-16T21:40:55+10:00",
-  "title": "Curious Fact: EELS REMOTE-TRIGGER PREY MUSCLES",
-  "topic_key": "curious_fact_electric_eel_remote_control",
-  "url": "https://www.google.com/search?q=Electric+eels+use+high-voltage+pulses+that+can+force+prey+muscles+to+twitch.+Caption%3A+REMOTE+CONTROL+PREDATOR"
+  "published_at": "2026-07-16T22:20:56+10:00",
+  "title": "Commute: CN: 22:31 22:41 22:51",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
