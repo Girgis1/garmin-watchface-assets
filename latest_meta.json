@@ -1,11 +1,11 @@
 {
-  "data_summary": "Bumblebees can learn some tasks socially by observing other bees. Caption: TUTORIAL MODE: BEE",
-  "expires_at": "2026-07-17T02:40:52+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
+  "data_summary": "context phase night, temp 13C",
+  "expires_at": "2026-07-17T03:00:53+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-07-16T20:40:52+10:00",
-  "title": "Curious Fact: BUMBLEBEES LEARN BY WATCHING",
-  "topic_key": "curious_fact_bumblebee_social_learning",
-  "url": "https://www.google.com/search?q=Bumblebees+can+learn+some+tasks+socially+by+observing+other+bees.+Caption%3A+TUTORIAL+MODE%3A+BEE"
+  "published_at": "2026-07-16T21:00:53+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
+  "url": ""
 }
