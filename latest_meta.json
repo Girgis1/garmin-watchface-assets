@@ -1,11 +1,11 @@
 {
-  "data_summary": "Some termite mounds regulate airflow with complex ventilation architecture. Caption: INSECT HVAC",
-  "expires_at": "2026-07-17T00:40:48+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
+  "data_summary": "context phase evening, temp 13C",
+  "expires_at": "2026-07-17T01:00:48+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-07-16T18:40:48+10:00",
-  "title": "Curious Fact: TERMITE MOUNDS SELF-VENTILATE",
-  "topic_key": "curious_fact_termite_ventilation",
-  "url": "https://www.google.com/search?q=Some+termite+mounds+regulate+airflow+with+complex+ventilation+architecture.+Caption%3A+INSECT+HVAC"
+  "published_at": "2026-07-16T19:00:48+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
+  "url": ""
 }
