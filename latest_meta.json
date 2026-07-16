@@ -1,11 +1,11 @@
 {
-  "data_summary": "daily phase afternoon, temp 16C",
-  "expires_at": "2026-07-16T20:20:38+10:00",
-  "kind": "none",
-  "label": "",
+  "data_summary": "African lungfish can seal themselves in mud cocoons during drought. Caption: FISH ENTERED SUSPEND MODE",
+  "expires_at": "2026-07-16T20:40:38+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-16T14:20:38+10:00",
-  "title": "Daily Context",
-  "topic_key": "daily_context",
-  "url": ""
+  "published_at": "2026-07-16T14:40:38+10:00",
+  "title": "Curious Fact: LUNGFISH WAIT OUT DROUGHT IN MUD",
+  "topic_key": "curious_fact_lungfish_estivation",
+  "url": "https://www.google.com/search?q=African+lungfish+can+seal+themselves+in+mud+cocoons+during+drought.+Caption%3A+FISH+ENTERED+SUSPEND+MODE"
 }
