@@ -1,11 +1,11 @@
 {
-  "data_summary": "TENNIS 101 MIN | +9M VS YOUR AVG | KEEP THE NEXT SESSION EASY | 101 minutes, compared with a recent tennis average of 91 minutes.",
-  "expires_at": "2026-07-16T17:20:10+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-16T11:20:10+10:00",
-  "title": "Health Insight: TENNIS 101 MIN",
-  "topic_key": "health_activity_23605515749",
-  "url": ""
+  "data_summary": "Star-nosed moles identify prey with extremely fast touch using their nasal rays. Caption: FACE SCANNER",
+  "expires_at": "2026-07-16T17:40:11+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-16T11:40:11+10:00",
+  "title": "Curious Fact: STAR-NOSED MOLES TOUCH-MAP FAST",
+  "topic_key": "curious_fact_star_nosed_mole_touch",
+  "url": "https://www.google.com/search?q=Star-nosed+moles+identify+prey+with+extremely+fast+touch+using+their+nasal+rays.+Caption%3A+FACE+SCANNER"
 }
