@@ -1,11 +1,11 @@
 {
-  "data_summary": "goodnight stage midnight_strict: GO TO BED. The committee is furious.; RAIN 66% 12AM",
-  "expires_at": "2026-07-17T06:00:00+10:00",
+  "data_summary": "morning briefing: RAIN 80% FROM 8AM",
+  "expires_at": "2026-07-17T14:00:17+10:00",
   "kind": "none",
   "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-07-17T00:00:00+10:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "lane": "morning",
+  "published_at": "2026-07-17T08:00:17+10:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
