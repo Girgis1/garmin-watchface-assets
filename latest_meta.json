@@ -1,11 +1,11 @@
 {
-  "data_summary": "CN to EP leave times: 18:26 18:30 18:33",
-  "expires_at": "2026-07-17T00:20:47+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
+  "data_summary": "Some termite mounds regulate airflow with complex ventilation architecture. Caption: INSECT HVAC",
+  "expires_at": "2026-07-17T00:40:48+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-16T18:20:47+10:00",
-  "title": "Commute: CN: 18:26 18:30 18:33",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "published_at": "2026-07-16T18:40:48+10:00",
+  "title": "Curious Fact: TERMITE MOUNDS SELF-VENTILATE",
+  "topic_key": "curious_fact_termite_ventilation",
+  "url": "https://www.google.com/search?q=Some+termite+mounds+regulate+airflow+with+complex+ventilation+architecture.+Caption%3A+INSECT+HVAC"
 }
