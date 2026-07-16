@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase night, temp 13C",
-  "expires_at": "2026-07-17T03:00:53+10:00",
-  "kind": "none",
-  "label": "",
+  "data_summary": "Electric eels use high-voltage pulses that can force prey muscles to twitch. Caption: REMOTE CONTROL PREDATOR",
+  "expires_at": "2026-07-17T03:40:55+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-16T21:00:53+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
-  "url": ""
+  "published_at": "2026-07-16T21:40:55+10:00",
+  "title": "Curious Fact: EELS REMOTE-TRIGGER PREY MUSCLES",
+  "topic_key": "curious_fact_electric_eel_remote_control",
+  "url": "https://www.google.com/search?q=Electric+eels+use+high-voltage+pulses+that+can+force+prey+muscles+to+twitch.+Caption%3A+REMOTE+CONTROL+PREDATOR"
 }
