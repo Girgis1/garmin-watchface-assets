@@ -1,11 +1,11 @@
 {
-  "data_summary": "CN to EP leave times: 20:11 20:21 20:31",
-  "expires_at": "2026-07-17T02:00:51+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
+  "data_summary": "Bumblebees can learn some tasks socially by observing other bees. Caption: TUTORIAL MODE: BEE",
+  "expires_at": "2026-07-17T02:40:52+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-16T20:00:51+10:00",
-  "title": "Commute: CN: 20:11 20:21 20:31",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "published_at": "2026-07-16T20:40:52+10:00",
+  "title": "Curious Fact: BUMBLEBEES LEARN BY WATCHING",
+  "topic_key": "curious_fact_bumblebee_social_learning",
+  "url": "https://www.google.com/search?q=Bumblebees+can+learn+some+tasks+socially+by+observing+other+bees.+Caption%3A+TUTORIAL+MODE%3A+BEE"
 }
