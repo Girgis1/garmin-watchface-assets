@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase sunset, temp 12C",
-  "expires_at": "2026-07-18T00:20:40+10:00",
-  "kind": "none",
-  "label": "",
+  "data_summary": "Some sea cucumbers eject internal organs as a defence and later regenerate them. Caption: PANIC BUTTON: EXTREME",
+  "expires_at": "2026-07-18T00:40:41+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-17T18:20:40+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "published_at": "2026-07-17T18:40:41+10:00",
+  "title": "Curious Fact: SEA CUCUMBERS EJECT ORGANS",
+  "topic_key": "curious_fact_sea_cucumber_evisceration",
+  "url": "https://www.google.com/search?q=Some+sea+cucumbers+eject+internal+organs+as+a+defence+and+later+regenerate+them.+Caption%3A+PANIC+BUTTON%3A+EXTREME"
 }
