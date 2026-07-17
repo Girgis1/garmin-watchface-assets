@@ -1,11 +1,11 @@
 {
-  "data_summary": "Some tiger moths make ultrasonic clicks that can jam bat echolocation. Caption: COUNTERMEASURE WINGS",
-  "expires_at": "2026-07-17T20:40:32+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-17T14:40:32+10:00",
-  "title": "Curious Fact: TIGER MOTHS JAM BAT SONAR",
-  "topic_key": "curious_fact_tiger_moth_sonar_jam",
-  "url": "https://www.google.com/search?q=Some+tiger+moths+make+ultrasonic+clicks+that+can+jam+bat+echolocation.+Caption%3A+COUNTERMEASURE+WINGS"
+  "data_summary": "waxing crescent, 6% illuminated",
+  "expires_at": "2026-07-17T21:00:33+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-07-17T15:00:33+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
