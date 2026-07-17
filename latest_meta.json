@@ -1,11 +1,11 @@
 {
-  "data_summary": "daily phase sunset, temp 16C",
-  "expires_at": "2026-07-17T21:20:33+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-17T15:20:33+10:00",
-  "title": "Daily Context",
-  "topic_key": "daily_context",
-  "url": ""
+  "data_summary": "next-hour temp 15.6C, rain 82%, 0.0 mm",
+  "expires_at": "2026-07-17T21:40:34+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-17T15:40:34+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
