@@ -1,11 +1,11 @@
 {
-  "data_summary": "ChatGPT down? OpenAI confirms \"partial outage\" as error reports grow",
-  "expires_at": "2026-07-17T23:40:39+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-17T17:40:39+10:00",
-  "title": "News: ChatGPT down? OpenAI confirms \"partial outage\" as error reports grow",
-  "topic_key": "interesting_signal_chatgpt_down_openai_confirms_partial",
-  "url": "https://www.google.com/search?q=ChatGPT+down%3F+OpenAI+confirms+%22partial+outage%22+as+error+reports+grow"
+  "data_summary": "CN to EP leave times: 18:07 18:11 18:15",
+  "expires_at": "2026-07-18T00:00:40+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-07-17T18:00:40+10:00",
+  "title": "Commute: CN: 18:07 18:11 18:15",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
