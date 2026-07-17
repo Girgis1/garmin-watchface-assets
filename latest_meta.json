@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase midday, temp 16C",
-  "expires_at": "2026-07-17T19:40:29+10:00",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-07-17T20:00:31+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-17T13:40:29+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-07-17T14:00:31+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
