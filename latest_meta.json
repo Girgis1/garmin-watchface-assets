@@ -1,11 +1,11 @@
 {
-  "data_summary": "next-hour temp 11.3C, rain 15%, 0.0 mm",
-  "expires_at": "2026-07-18T02:40:45+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-17T20:40:45+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "data_summary": "context phase night, temp 11C",
+  "expires_at": "2026-07-18T03:00:47+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-07-17T21:00:47+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
+  "url": ""
 }
