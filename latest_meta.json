@@ -1,11 +1,11 @@
 {
-  "data_summary": "morning briefing: RAIN 65% FROM 9AM",
-  "expires_at": "2026-07-17T15:20:20+10:00",
+  "data_summary": "# Garmin Health Insight Generated: 2026-07-17T09:05:19+10:00 Data through: 2026-07-17 (40 days loaded) ## Watch-Safe Insights - **INTENSITY 422 MIN** | +122% VS PRIOR 7D | AN EASY DAY HAS EARNED ITS KEEP Weighted intensity minutes total 422",
+  "expires_at": "2026-07-17T16:00:21+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-07-17T09:20:20+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-07-17T10:00:21+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
