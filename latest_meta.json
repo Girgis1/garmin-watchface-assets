@@ -1,11 +1,11 @@
 {
-  "data_summary": "HRV 70 MS | BALANCED 15 DAYS | NORMAL LOAD LOOKS REASONABLE | Seven-day HRV averages 70.1 ms versus 71.3 ms in the prior seven days; latest status is balanced.",
-  "expires_at": "2026-07-17T19:00:28+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-17T13:00:28+10:00",
-  "title": "Health Insight: HRV 70 MS",
-  "topic_key": "health_hrv_weekly_trend",
-  "url": ""
+  "data_summary": "next-hour temp 15.7C, rain 86%, 0.1 mm",
+  "expires_at": "2026-07-17T19:20:29+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-17T13:20:29+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
