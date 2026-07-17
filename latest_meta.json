@@ -1,11 +1,11 @@
 {
-  "data_summary": "SpO2 99%, respiration 14.0",
-  "expires_at": "2026-07-17T18:00:26+10:00",
+  "data_summary": "INTENSITY 422 MIN | +122% VS PRIOR 7D | EASY DAY HAS EARNED ITS KEEP | Weighted intensity minutes total 422 across the last seven days versus 190 in the prior seven-day window.",
+  "expires_at": "2026-07-17T18:20:26+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-17T12:00:26+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
+  "published_at": "2026-07-17T12:20:26+10:00",
+  "title": "Health Insight: INTENSITY 422 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
