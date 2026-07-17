@@ -1,11 +1,11 @@
 {
-  "data_summary": "Mantis shrimp can detect polarized light patterns humans cannot see. Caption: PRIVATE COLOUR CHANNEL",
-  "expires_at": "2026-07-17T23:20:38+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-17T17:20:38+10:00",
-  "title": "Curious Fact: MANTIS SHRIMP SEE POLARIZED LIGHT",
-  "topic_key": "curious_fact_mantis_shrimp_polarization",
-  "url": "https://www.google.com/search?q=Mantis+shrimp+can+detect+polarized+light+patterns+humans+cannot+see.+Caption%3A+PRIVATE+COLOUR+CHANNEL"
+  "data_summary": "ChatGPT down? OpenAI confirms \"partial outage\" as error reports grow",
+  "expires_at": "2026-07-17T23:40:39+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-17T17:40:39+10:00",
+  "title": "News: ChatGPT down? OpenAI confirms \"partial outage\" as error reports grow",
+  "topic_key": "interesting_signal_chatgpt_down_openai_confirms_partial",
+  "url": "https://www.google.com/search?q=ChatGPT+down%3F+OpenAI+confirms+%22partial+outage%22+as+error+reports+grow"
 }
