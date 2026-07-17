@@ -1,11 +1,11 @@
 {
-  "data_summary": "Veined octopuses have been observed carrying coconut shells as portable shelter. Caption: TACTICAL TUPPERWARE",
-  "expires_at": "2026-07-18T03:20:47+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
+  "data_summary": "CN to EP leave times: 21:51 22:01 22:11",
+  "expires_at": "2026-07-18T03:40:48+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-07-17T21:20:47+10:00",
-  "title": "Curious Fact: OCTOPUSES CARRY COCONUT ARMOUR",
-  "topic_key": "curious_fact_octopus_coconut_tools",
-  "url": "https://www.google.com/search?q=Veined+octopuses+have+been+observed+carrying+coconut+shells+as+portable+shelter.+Caption%3A+TACTICAL+TUPPERWARE"
+  "published_at": "2026-07-17T21:40:48+10:00",
+  "title": "Commute: CN: 21:51 22:01 22:11",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
