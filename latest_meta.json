@@ -1,11 +1,11 @@
 {
-  "data_summary": "MB to EP leave times: 10:48 11:03 11:18",
-  "expires_at": "2026-07-17T16:40:23+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
+  "data_summary": "Sharks detect faint electric fields from other animals. Caption: LIVING VOLTAGE DETECTOR",
+  "expires_at": "2026-07-17T17:20:24+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-17T10:40:23+10:00",
-  "title": "Commute: MB: 10:48 11:03 11:18",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "published_at": "2026-07-17T11:20:24+10:00",
+  "title": "Curious Fact: SHARKS SENSE ELECTRIC FIELDS",
+  "topic_key": "curious_fact_shark_electroreception",
+  "url": "https://www.google.com/search?q=Sharks+detect+faint+electric+fields+from+other+animals.+Caption%3A+LIVING+VOLTAGE+DETECTOR"
 }
