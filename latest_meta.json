@@ -1,11 +1,11 @@
 {
-  "data_summary": "Prairie dog alarm calls can encode details about predator type and traits. Caption: TINY SECURITY BRIEFING",
-  "expires_at": "2026-07-18T04:20:49+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-17T22:20:49+10:00",
-  "title": "Curious Fact: PRAIRIE DOGS ENCODE PREDATOR DETAILS",
-  "topic_key": "curious_fact_prairie_dog_alarm_detail",
-  "url": "https://www.google.com/search?q=Prairie+dog+alarm+calls+can+encode+details+about+predator+type+and+traits.+Caption%3A+TINY+SECURITY+BRIEFING"
+  "data_summary": "goodnight stage soft: The pillow has requested a meeting.; RAIN 16% 11PM",
+  "expires_at": "2026-07-18T05:00:51+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "goodnight",
+  "published_at": "2026-07-17T23:00:51+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
+  "url": ""
 }
