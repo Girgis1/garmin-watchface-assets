@@ -1,11 +1,11 @@
 {
-  "data_summary": "next-hour temp 10.9C, rain 18%, 0.2 mm",
-  "expires_at": "2026-07-18T04:00:48+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-17T22:00:48+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "data_summary": "Prairie dog alarm calls can encode details about predator type and traits. Caption: TINY SECURITY BRIEFING",
+  "expires_at": "2026-07-18T04:20:49+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-17T22:20:49+10:00",
+  "title": "Curious Fact: PRAIRIE DOGS ENCODE PREDATOR DETAILS",
+  "topic_key": "curious_fact_prairie_dog_alarm_detail",
+  "url": "https://www.google.com/search?q=Prairie+dog+alarm+calls+can+encode+details+about+predator+type+and+traits.+Caption%3A+TINY+SECURITY+BRIEFING"
 }
