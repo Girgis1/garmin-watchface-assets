@@ -1,11 +1,11 @@
 {
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-07-17T20:00:31+10:00",
+  "data_summary": "7D SLEEP 7H50 | +46M VS PRIOR 7D | TREND UP. KEEP THE ROUTINE | The seven-day sleep average is 7.8 hours, 46 minutes above the prior seven days.",
+  "expires_at": "2026-07-17T20:20:31+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-17T14:00:31+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
+  "published_at": "2026-07-17T14:20:31+10:00",
+  "title": "Health Insight: 7D SLEEP 7H50",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
