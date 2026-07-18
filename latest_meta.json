@@ -1,11 +1,11 @@
 {
-  "data_summary": "training intensity minutes today 0",
-  "expires_at": "2026-07-18T20:40:26+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-18T14:40:26+10:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
-  "url": ""
+  "data_summary": "waxing crescent, 13% illuminated",
+  "expires_at": "2026-07-18T21:00:27+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-07-18T15:00:27+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
