@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase sunset, temp 15C",
-  "expires_at": "2026-07-18T23:00:31+10:00",
-  "kind": "none",
-  "label": "",
+  "data_summary": "Emerald jewel wasps sting cockroach brains to make them walk to a nest. Caption: NEURAL REMOTE ACCESS",
+  "expires_at": "2026-07-18T23:20:32+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-18T17:00:31+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "published_at": "2026-07-18T17:20:32+10:00",
+  "title": "Curious Fact: JEWEL WASPS HIJACK COCKROACHES",
+  "topic_key": "curious_fact_jewel_wasp_cockroach",
+  "url": "https://www.google.com/search?q=Emerald+jewel+wasps+sting+cockroach+brains+to+make+them+walk+to+a+nest.+Caption%3A+NEURAL+REMOTE+ACCESS"
 }
