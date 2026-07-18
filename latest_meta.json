@@ -1,10 +1,10 @@
 {
-  "data_summary": "morning briefing: RAIN 9% FROM 9AM",
-  "expires_at": "2026-07-19T14:20:05+10:00",
+  "data_summary": "morning briefing: RAIN 1% FROM 9AM",
+  "expires_at": "2026-07-19T14:40:05+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-07-19T08:20:05+10:00",
+  "published_at": "2026-07-19T08:40:05+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
