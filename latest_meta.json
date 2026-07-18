@@ -1,11 +1,11 @@
 {
-  "data_summary": "Some pearlfish shelter inside sea cucumbers. Caption: ROOMMATE SITUATION: DIRE",
-  "expires_at": "2026-07-18T22:40:30+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
+  "data_summary": "context phase sunset, temp 15C",
+  "expires_at": "2026-07-18T23:00:31+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-07-18T16:40:30+10:00",
-  "title": "Curious Fact: PEARLFISH LIVE INSIDE SEA CUCUMBERS",
-  "topic_key": "curious_fact_pearlfish_sea_cucumber",
-  "url": "https://www.google.com/search?q=Some+pearlfish+shelter+inside+sea+cucumbers.+Caption%3A+ROOMMATE+SITUATION%3A+DIRE"
+  "published_at": "2026-07-18T17:00:31+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
