@@ -1,11 +1,11 @@
 {
-  "data_summary": "Bar-tailed godwits can migrate over 13,000 kilometres nonstop. Caption: BATTERY LIFE: ILLEGAL",
-  "expires_at": "2026-07-18T20:20:25+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-18T14:20:25+10:00",
-  "title": "Curious Fact: GODWITS FLY OCEANS NONSTOP",
-  "topic_key": "curious_fact_godwit_nonstop_migration",
-  "url": "https://www.google.com/search?q=Bar-tailed+godwits+can+migrate+over+13%2C000+kilometres+nonstop.+Caption%3A+BATTERY+LIFE%3A+ILLEGAL"
+  "data_summary": "training intensity minutes today 0",
+  "expires_at": "2026-07-18T20:40:26+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-18T14:40:26+10:00",
+  "title": "Training Nudge",
+  "topic_key": "health_training_minutes",
+  "url": ""
 }
