@@ -1,11 +1,11 @@
 {
-  "data_summary": "INTENSITY 396 MIN | +76% VS PRIOR 7D | EASY DAY HAS EARNED ITS KEEP | Weighted intensity minutes total 396 across the last seven days versus 225 in the prior seven-day window.",
-  "expires_at": "2026-07-18T16:00:16+10:00",
+  "data_summary": "SLEEP 6H05 | 77M VS 4W AVG | PROTECT TONIGHT'S BEDTIME | Last sleep was 6.1 hours with score 67, versus a four-week average of 7.4 hours.",
+  "expires_at": "2026-07-18T16:40:17+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-18T10:00:16+10:00",
-  "title": "Health Insight: INTENSITY 396 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-07-18T10:40:17+10:00",
+  "title": "Health Insight: SLEEP 6H05",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
