@@ -1,11 +1,11 @@
 {
-  "data_summary": "SpO2 98%, respiration 13.0",
-  "expires_at": "2026-07-19T01:20:36+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-18T19:20:36+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
-  "url": ""
+  "data_summary": "Parasitic hairworms can manipulate crickets into jumping into water. Caption: WET EXIT PROGRAM",
+  "expires_at": "2026-07-19T01:40:37+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-18T19:40:37+10:00",
+  "title": "Curious Fact: HAIRWORMS DRIVE CRICKETS TO WATER",
+  "topic_key": "curious_fact_hairworm_cricket_water",
+  "url": "https://www.google.com/search?q=Parasitic+hairworms+can+manipulate+crickets+into+jumping+into+water.+Caption%3A+WET+EXIT+PROGRAM"
 }
