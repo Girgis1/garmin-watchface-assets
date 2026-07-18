@@ -1,11 +1,11 @@
 {
-  "data_summary": "Zebra finch brain activity can replay song patterns during sleep. Caption: DREAM PRACTICE",
-  "expires_at": "2026-07-18T19:40:23+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
+  "data_summary": "context phase afternoon, temp 17C",
+  "expires_at": "2026-07-18T20:00:25+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-07-18T13:40:23+10:00",
-  "title": "Curious Fact: FINCHES REHEARSE SONGS ASLEEP",
-  "topic_key": "curious_fact_zebra_finch_sleep_song",
-  "url": "https://www.google.com/search?q=Zebra+finch+brain+activity+can+replay+song+patterns+during+sleep.+Caption%3A+DREAM+PRACTICE"
+  "published_at": "2026-07-18T14:00:25+10:00",
+  "title": "Afternoon Context",
+  "topic_key": "ambient_context_afternoon",
+  "url": ""
 }
