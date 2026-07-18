@@ -1,11 +1,11 @@
 {
-  "data_summary": "# Garmin Health Insight Generated: 2026-07-18T13:05:22+10:00 Data through: 2026-07-18 (41 days loaded) ## Watch-Safe Insights - **INTENSITY 396 MIN** | +76% VS PRIOR 7D | AN EASY DAY HAS EARNED ITS KEEP Weighted intensity minutes total 396 ",
-  "expires_at": "2026-07-18T19:20:23+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-18T13:20:23+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
-  "url": ""
+  "data_summary": "Zebra finch brain activity can replay song patterns during sleep. Caption: DREAM PRACTICE",
+  "expires_at": "2026-07-18T19:40:23+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-18T13:40:23+10:00",
+  "title": "Curious Fact: FINCHES REHEARSE SONGS ASLEEP",
+  "topic_key": "curious_fact_zebra_finch_sleep_song",
+  "url": "https://www.google.com/search?q=Zebra+finch+brain+activity+can+replay+song+patterns+during+sleep.+Caption%3A+DREAM+PRACTICE"
 }
