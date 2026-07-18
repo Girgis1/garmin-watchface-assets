@@ -1,11 +1,11 @@
 {
-  "data_summary": "next-hour temp 11.9C; rain below 15% notice threshold",
-  "expires_at": "2026-07-19T04:00:42+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-18T22:00:42+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "data_summary": "Lanternfish join a massive daily migration up and down the ocean. Caption: PLANET-SCALE NIGHT SHIFT",
+  "expires_at": "2026-07-19T04:20:43+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-18T22:20:43+10:00",
+  "title": "Curious Fact: LANTERNFISH COMMUTE VERTICALLY",
+  "topic_key": "curious_fact_lanternfish_vertical_migration",
+  "url": "https://www.google.com/search?q=Lanternfish+join+a+massive+daily+migration+up+and+down+the+ocean.+Caption%3A+PLANET-SCALE+NIGHT+SHIFT"
 }
