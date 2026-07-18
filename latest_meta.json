@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase sunset, temp 16C",
-  "expires_at": "2026-07-18T21:40:28+10:00",
-  "kind": "none",
-  "label": "",
+  "data_summary": "Albatrosses use dynamic soaring to gain energy from wind gradients. Caption: WIND HACKING",
+  "expires_at": "2026-07-18T22:00:29+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-18T15:40:28+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "published_at": "2026-07-18T16:00:29+10:00",
+  "title": "Curious Fact: ALBATROSSES HARVEST WIND SHEAR",
+  "topic_key": "curious_fact_albatross_dynamic_soaring",
+  "url": "https://www.google.com/search?q=Albatrosses+use+dynamic+soaring+to+gain+energy+from+wind+gradients.+Caption%3A+WIND+HACKING"
 }
