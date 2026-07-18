@@ -1,11 +1,11 @@
 {
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-07-18T17:40:19+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-18T11:40:19+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "data_summary": "Rats can choose to skip hard tests, suggesting uncertainty monitoring. Caption: KNOWS WHEN IT DOESN'T KNOW",
+  "expires_at": "2026-07-18T18:00:20+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-18T12:00:20+10:00",
+  "title": "Curious Fact: RATS CAN OPT OUT WHEN UNCERTAIN",
+  "topic_key": "curious_fact_rat_uncertainty",
+  "url": "https://www.google.com/search?q=Rats+can+choose+to+skip+hard+tests%2C+suggesting+uncertainty+monitoring.+Caption%3A+KNOWS+WHEN+IT+DOESN%27T+KNOW"
 }
