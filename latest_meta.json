@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase sunset, temp 14C",
-  "expires_at": "2026-07-18T23:40:33+10:00",
-  "kind": "none",
-  "label": "",
+  "data_summary": "Ophiocordyceps fungi manipulate infected ants into climbing before the fungus fruits. Caption: BIOLOGICAL REMOTE CONTROL",
+  "expires_at": "2026-07-19T00:00:33+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-18T17:40:33+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "published_at": "2026-07-18T18:00:33+10:00",
+  "title": "Curious Fact: FUNGI CAN PILOT ANTS",
+  "topic_key": "curious_fact_zombie_ant_fungus",
+  "url": "https://www.google.com/search?q=Ophiocordyceps+fungi+manipulate+infected+ants+into+climbing+before+the+fungus+fruits.+Caption%3A+BIOLOGICAL+REMOTE+CONTROL"
 }
