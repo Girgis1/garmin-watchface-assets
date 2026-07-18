@@ -1,11 +1,11 @@
 {
-  "data_summary": "Albatrosses use dynamic soaring to gain energy from wind gradients. Caption: WIND HACKING",
-  "expires_at": "2026-07-18T22:00:29+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-18T16:00:29+10:00",
-  "title": "Curious Fact: ALBATROSSES HARVEST WIND SHEAR",
-  "topic_key": "curious_fact_albatross_dynamic_soaring",
-  "url": "https://www.google.com/search?q=Albatrosses+use+dynamic+soaring+to+gain+energy+from+wind+gradients.+Caption%3A+WIND+HACKING"
+  "data_summary": "sleep 6.1h, score 67",
+  "expires_at": "2026-07-18T22:20:30+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "sleep",
+  "published_at": "2026-07-18T16:20:30+10:00",
+  "title": "Sleep Recovery",
+  "topic_key": "sleep",
+  "url": ""
 }
