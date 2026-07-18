@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase evening, temp 13C",
-  "expires_at": "2026-07-19T01:00:36+10:00",
+  "data_summary": "SpO2 98%, respiration 13.0",
+  "expires_at": "2026-07-19T01:20:36+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-18T19:00:36+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
+  "lane": "health",
+  "published_at": "2026-07-18T19:20:36+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
