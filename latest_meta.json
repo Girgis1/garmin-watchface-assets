@@ -1,11 +1,11 @@
 {
-  "data_summary": "daily phase midday, temp 17C",
-  "expires_at": "2026-07-18T19:00:22+10:00",
+  "data_summary": "# Garmin Health Insight Generated: 2026-07-18T13:05:22+10:00 Data through: 2026-07-18 (41 days loaded) ## Watch-Safe Insights - **INTENSITY 396 MIN** | +76% VS PRIOR 7D | AN EASY DAY HAS EARNED ITS KEEP Weighted intensity minutes total 396 ",
+  "expires_at": "2026-07-18T19:20:23+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-18T13:00:22+10:00",
-  "title": "Daily Context",
-  "topic_key": "daily_context",
+  "lane": "health",
+  "published_at": "2026-07-18T13:20:23+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
