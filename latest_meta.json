@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase sunset, temp 14C",
-  "expires_at": "2026-07-19T23:20:28+10:00",
-  "kind": "none",
-  "label": "",
+  "data_summary": "Woodpeckers combine skull, beak and tongue structures to manage repeated impacts. Caption: HEADBANGING ENGINEERING",
+  "expires_at": "2026-07-20T00:40:30+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-19T17:20:28+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "published_at": "2026-07-19T18:40:30+10:00",
+  "title": "Curious Fact: WOODPECKERS HAVE IMPACT HARDWARE",
+  "topic_key": "curious_fact_woodpecker_shock_system",
+  "url": "https://www.google.com/search?q=Woodpeckers+combine+skull%2C+beak+and+tongue+structures+to+manage+repeated+impacts.+Caption%3A+HEADBANGING+ENGINEERING"
 }
