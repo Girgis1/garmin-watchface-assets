@@ -1,11 +1,11 @@
 {
-  "data_summary": "next-hour temp 10.6C; rain below 15% notice threshold",
-  "expires_at": "2026-07-20T04:00:38+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-19T22:00:38+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "data_summary": "Bluefin tuna retain heat in swimming muscles for high-performance cruising. Caption: ENGINE ROOM FISH",
+  "expires_at": "2026-07-20T04:20:38+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-19T22:20:38+10:00",
+  "title": "Curious Fact: BLUEFIN TUNA RUN WARM",
+  "topic_key": "curious_fact_bluefin_regional_heat",
+  "url": "https://www.google.com/search?q=Bluefin+tuna+retain+heat+in+swimming+muscles+for+high-performance+cruising.+Caption%3A+ENGINE+ROOM+FISH"
 }
