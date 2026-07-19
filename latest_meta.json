@@ -1,11 +1,11 @@
 {
-  "data_summary": "daily phase afternoon, temp 17C",
-  "expires_at": "2026-07-19T20:20:21+10:00",
-  "kind": "none",
-  "label": "",
+  "data_summary": "Parrotfish grind coral and rock into sand as they feed. Caption: BEACH FACTORY",
+  "expires_at": "2026-07-19T20:40:22+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-19T14:20:21+10:00",
-  "title": "Daily Context",
-  "topic_key": "daily_context",
-  "url": ""
+  "published_at": "2026-07-19T14:40:22+10:00",
+  "title": "Curious Fact: PARROTFISH TURN REEF INTO SAND",
+  "topic_key": "curious_fact_parrotfish_coral_sand",
+  "url": "https://www.google.com/search?q=Parrotfish+grind+coral+and+rock+into+sand+as+they+feed.+Caption%3A+BEACH+FACTORY"
 }
