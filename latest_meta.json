@@ -1,11 +1,11 @@
 {
-  "data_summary": "MON SLEEP +64M | VS TUE, 5-WEEK AVG | COPY WHAT WORKS BEFORE MON | Across the available history, Mon sleep averages 64 minutes longer than Tue sleep.",
-  "expires_at": "2026-07-19T19:40:20+10:00",
+  "data_summary": "context phase afternoon, temp 17C",
+  "expires_at": "2026-07-19T20:00:21+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-07-19T13:40:20+10:00",
-  "title": "Health Insight: MON SLEEP +64M",
-  "topic_key": "health_pattern_weekday_sleep",
+  "lane": "local_signal",
+  "published_at": "2026-07-19T14:00:21+10:00",
+  "title": "Afternoon Context",
+  "topic_key": "ambient_context_afternoon",
   "url": ""
 }
