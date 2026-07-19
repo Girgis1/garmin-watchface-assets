@@ -1,11 +1,11 @@
 {
-  "data_summary": "goodnight stage soft: Tiny suggestion: bed. Revolutionary, I know.; no extra alerts",
-  "expires_at": "2026-07-20T05:00:40+10:00",
+  "data_summary": "morning briefing: no major weather/sleep drama",
+  "expires_at": "2026-07-20T14:01:00+10:00",
   "kind": "none",
   "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-07-19T23:00:40+10:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "lane": "morning",
+  "published_at": "2026-07-20T08:01:00+10:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
