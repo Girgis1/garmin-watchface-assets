@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase sunset, temp 15C",
-  "expires_at": "2026-07-19T22:40:26+10:00",
-  "kind": "none",
-  "label": "",
+  "data_summary": "Some dolphins wear marine sponges on their rostrums while foraging. Caption: NOSE PPE",
+  "expires_at": "2026-07-19T23:00:27+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-19T16:40:26+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "published_at": "2026-07-19T17:00:27+10:00",
+  "title": "Curious Fact: DOLPHINS WEAR SPONGE TOOLS",
+  "topic_key": "curious_fact_dolphin_sponge_tools",
+  "url": "https://www.google.com/search?q=Some+dolphins+wear+marine+sponges+on+their+rostrums+while+foraging.+Caption%3A+NOSE+PPE"
 }
