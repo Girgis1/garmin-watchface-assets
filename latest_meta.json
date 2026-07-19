@@ -1,11 +1,11 @@
 {
-  "data_summary": "morning briefing: RAIN 1% FROM 9AM",
-  "expires_at": "2026-07-19T15:40:12+10:00",
+  "data_summary": "INTENSITY 338 MIN | +18% VS PRIOR 7D | LOAD IS STEADY | Weighted intensity minutes total 338 across the last seven days versus 287 in the prior seven-day window.",
+  "expires_at": "2026-07-19T16:00:13+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-07-19T09:40:12+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-07-19T10:00:13+10:00",
+  "title": "Health Insight: INTENSITY 338 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
