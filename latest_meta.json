@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase evening, temp 12C",
-  "expires_at": "2026-07-20T01:00:32+10:00",
-  "kind": "none",
-  "label": "",
+  "data_summary": "Toucans can regulate heat flow through blood vessels in their bills. Caption: BEAK RADIATOR",
+  "expires_at": "2026-07-20T01:20:32+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
   "lane": "local_signal",
-  "published_at": "2026-07-19T19:00:32+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
-  "url": ""
+  "published_at": "2026-07-19T19:20:32+10:00",
+  "title": "Curious Fact: TOUCAN BILLS DUMP HEAT",
+  "topic_key": "curious_fact_toucan_heat_bill",
+  "url": "https://www.google.com/search?q=Toucans+can+regulate+heat+flow+through+blood+vessels+in+their+bills.+Caption%3A+BEAK+RADIATOR"
 }
