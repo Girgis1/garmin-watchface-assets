@@ -1,11 +1,11 @@
 {
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-07-19T16:40:14+10:00",
+  "data_summary": "SLEEP 7H57 | +36M VS 4W AVG | BANK THAT ROUTINE | Last sleep was 8.0 hours with score 93, versus a four-week average of 7.4 hours.",
+  "expires_at": "2026-07-19T17:20:14+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-19T10:40:14+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
+  "published_at": "2026-07-19T11:20:14+10:00",
+  "title": "Health Insight: SLEEP 7H57",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
