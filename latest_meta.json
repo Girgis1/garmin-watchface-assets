@@ -1,11 +1,11 @@
 {
-  "data_summary": "SLEEP 7H57 | +36M VS 4W AVG | BANK THAT ROUTINE | Last sleep was 8.0 hours with score 93, versus a four-week average of 7.4 hours.",
-  "expires_at": "2026-07-19T17:20:14+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-19T11:20:14+10:00",
-  "title": "Health Insight: SLEEP 7H57",
-  "topic_key": "health_sleep_vs_baseline",
-  "url": ""
+  "data_summary": "Hagfish slime can expand into litres of clogging gel in seawater. Caption: INSTANT GROSS AIRBAG",
+  "expires_at": "2026-07-19T17:40:15+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-19T11:40:15+10:00",
+  "title": "Curious Fact: HAGFISH SLIME EXPANDS FAST",
+  "topic_key": "curious_fact_hagfish_slime",
+  "url": "https://www.google.com/search?q=Hagfish+slime+can+expand+into+litres+of+clogging+gel+in+seawater.+Caption%3A+INSTANT+GROSS+AIRBAG"
 }
