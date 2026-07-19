@@ -1,11 +1,11 @@
 {
-  "data_summary": "7D SLEEP 7H35 | +22M VS PRIOR 7D | TREND UP. KEEP THE ROUTINE | The seven-day sleep average is 7.6 hours, 22 minutes above the prior seven days.",
-  "expires_at": "2026-07-19T18:00:16+10:00",
+  "data_summary": "HRV 71 MS | BALANCED 17 DAYS | NORMAL LOAD LOOKS REASONABLE | Seven-day HRV averages 71.1 ms versus 70.9 ms in the prior seven days; latest status is balanced.",
+  "expires_at": "2026-07-19T19:00:18+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-19T12:00:16+10:00",
-  "title": "Health Insight: 7D SLEEP 7H35",
-  "topic_key": "health_weekly_sleep_trend",
+  "published_at": "2026-07-19T13:00:18+10:00",
+  "title": "Health Insight: HRV 71 MS",
+  "topic_key": "health_hrv_weekly_trend",
   "url": ""
 }
