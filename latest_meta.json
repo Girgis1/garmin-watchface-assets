@@ -1,11 +1,11 @@
 {
-  "data_summary": "Hagfish slime can expand into litres of clogging gel in seawater. Caption: INSTANT GROSS AIRBAG",
-  "expires_at": "2026-07-19T17:40:15+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-19T11:40:15+10:00",
-  "title": "Curious Fact: HAGFISH SLIME EXPANDS FAST",
-  "topic_key": "curious_fact_hagfish_slime",
-  "url": "https://www.google.com/search?q=Hagfish+slime+can+expand+into+litres+of+clogging+gel+in+seawater.+Caption%3A+INSTANT+GROSS+AIRBAG"
+  "data_summary": "7D SLEEP 7H35 | +22M VS PRIOR 7D | TREND UP. KEEP THE ROUTINE | The seven-day sleep average is 7.6 hours, 22 minutes above the prior seven days.",
+  "expires_at": "2026-07-19T18:00:16+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-19T12:00:16+10:00",
+  "title": "Health Insight: 7D SLEEP 7H35",
+  "topic_key": "health_weekly_sleep_trend",
+  "url": ""
 }
