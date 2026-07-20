@@ -1,11 +1,11 @@
 {
-  "data_summary": "next-hour temp 11.9C; rain below 15% notice threshold",
-  "expires_at": "2026-07-21T01:20:25+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-20T19:20:25+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "data_summary": "SpO2 98%, respiration 15.0",
+  "expires_at": "2026-07-21T01:40:26+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-20T19:40:26+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
+  "url": ""
 }
