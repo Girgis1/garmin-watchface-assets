@@ -1,11 +1,11 @@
 {
-  "data_summary": "waxing crescent, 30% illuminated",
-  "expires_at": "2026-07-20T21:00:15+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-07-20T15:00:15+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "data_summary": "context phase sunset, temp 18C",
+  "expires_at": "2026-07-20T21:20:16+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-07-20T15:20:16+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
