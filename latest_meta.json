@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase sunset, temp 18C",
-  "expires_at": "2026-07-20T21:20:16+10:00",
+  "data_summary": "SLEEP 7H45 | +23M VS 4W AVG | BANK THAT ROUTINE | Last sleep was 7.8 hours with score 85, versus a four-week average of 7.4 hours.",
+  "expires_at": "2026-07-20T21:40:17+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-20T15:20:16+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-07-20T15:40:17+10:00",
+  "title": "Health Insight: SLEEP 7H45",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
