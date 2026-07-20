@@ -1,11 +1,11 @@
 {
-  "data_summary": "CN to EP leave times: 21:11 21:21 21:31",
-  "expires_at": "2026-07-21T03:00:29+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-07-20T21:00:29+10:00",
-  "title": "Commute: CN: 21:11 21:21 21:31",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "data_summary": "ULTIMATE DISC 107 MIN | +35M VS YOUR AVG | KEEP THE NEXT SESSION EASY | 107 minutes, compared with a recent ultimate disc average of 72 minutes.",
+  "expires_at": "2026-07-21T03:20:29+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-20T21:20:29+10:00",
+  "title": "Health Insight: ULTIMATE DISC 107 MIN",
+  "topic_key": "health_activity_23662960711",
+  "url": ""
 }
