@@ -1,11 +1,11 @@
 {
-  "data_summary": "HRV 72 MS | BALANCED 18 DAYS | NORMAL LOAD LOOKS REASONABLE | Seven-day HRV averages 71.7 ms versus 70.4 ms in the prior seven days; latest status is balanced.",
-  "expires_at": "2026-07-20T17:20:07+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-20T11:20:07+10:00",
-  "title": "Health Insight: HRV 72 MS",
-  "topic_key": "health_hrv_weekly_trend",
-  "url": ""
+  "data_summary": "Crocodiles can shunt blood flow during dives and digestion. Caption: ANCIENT VALVE LOGIC",
+  "expires_at": "2026-07-20T17:40:08+10:00",
+  "kind": "fact",
+  "label": "OPEN FACT",
+  "lane": "local_signal",
+  "published_at": "2026-07-20T11:40:08+10:00",
+  "title": "Curious Fact: CROCODILES REWIRE BLOOD FLOW",
+  "topic_key": "curious_fact_crocodile_blood_shunt",
+  "url": "https://www.google.com/search?q=Crocodiles+can+shunt+blood+flow+during+dives+and+digestion.+Caption%3A+ANCIENT+VALVE+LOGIC"
 }
