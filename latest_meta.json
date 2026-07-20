@@ -1,11 +1,11 @@
 {
-  "data_summary": "ULTIMATE DISC 107 MIN | +35M VS YOUR AVG | KEEP THE NEXT SESSION EASY | 107 minutes, compared with a recent ultimate disc average of 72 minutes.",
-  "expires_at": "2026-07-21T03:20:29+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-20T21:20:29+10:00",
-  "title": "Health Insight: ULTIMATE DISC 107 MIN",
-  "topic_key": "health_activity_23662960711",
-  "url": ""
+  "data_summary": "next-hour temp 11.4C; rain below 15% notice threshold",
+  "expires_at": "2026-07-21T03:40:30+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-20T21:40:30+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
