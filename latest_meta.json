@@ -1,11 +1,11 @@
 {
-  "data_summary": "SLEEP 7H45 | +23M VS 4W AVG | BANK THAT ROUTINE | Last sleep was 7.8 hours with score 85, versus a four-week average of 7.4 hours.",
-  "expires_at": "2026-07-20T21:40:17+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-20T15:40:17+10:00",
-  "title": "Health Insight: SLEEP 7H45",
-  "topic_key": "health_sleep_vs_baseline",
-  "url": ""
+  "data_summary": "OpenAI adds teen safety & learning tools to ChatGPT",
+  "expires_at": "2026-07-20T22:20:18+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-20T16:20:18+10:00",
+  "title": "News: OpenAI adds teen safety & learning tools to ChatGPT",
+  "topic_key": "interesting_signal_openai_adds_teen_safety_learning_too",
+  "url": "https://www.google.com/search?q=OpenAI+adds+teen+safety+%26+learning+tools+to+ChatGPT"
 }
