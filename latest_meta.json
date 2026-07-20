@@ -1,11 +1,11 @@
 {
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-07-20T18:00:09+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-20T12:00:09+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "data_summary": "New 1100-vehicle car park to be built at busy north-west Sydney Metro station",
+  "expires_at": "2026-07-20T18:20:09+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-20T12:20:09+10:00",
+  "title": "News: New 1100-vehicle car park to be built at busy north-west",
+  "topic_key": "interesting_signal_new_1100_vehicle_car_park_to_be_buil",
+  "url": "https://www.google.com/search?q=New+1100-vehicle+car+park+to+be+built+at+busy+north-west+Sydney+Metro+station"
 }
