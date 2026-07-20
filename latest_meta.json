@@ -1,11 +1,11 @@
 {
-  "data_summary": "OpenAI adds teen safety & learning tools to ChatGPT",
-  "expires_at": "2026-07-20T22:20:18+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-20T16:20:18+10:00",
-  "title": "News: OpenAI adds teen safety & learning tools to ChatGPT",
-  "topic_key": "interesting_signal_openai_adds_teen_safety_learning_too",
-  "url": "https://www.google.com/search?q=OpenAI+adds+teen+safety+%26+learning+tools+to+ChatGPT"
+  "data_summary": "context phase sunset, temp 14C",
+  "expires_at": "2026-07-20T23:20:21+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-07-20T17:20:21+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
