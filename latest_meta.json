@@ -1,11 +1,11 @@
 {
-  "data_summary": "CN to EP leave times: 18:07 18:11 18:15",
-  "expires_at": "2026-07-21T00:00:22+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-07-20T18:00:22+10:00",
-  "title": "Commute: CN: 18:07 18:11 18:15",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "data_summary": "# Garmin Health Insight Generated: 2026-07-20T18:05:22+10:00 Data through: 2026-07-20 (42 days loaded) ## Watch-Safe Insights - **INTENSITY 212 MIN** | -50% VS PRIOR 7D | BUILD GRADUALLY Weighted intensity minutes total 212 across the last ",
+  "expires_at": "2026-07-21T01:00:25+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-20T19:00:25+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
+  "url": ""
 }
