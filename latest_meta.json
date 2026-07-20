@@ -1,11 +1,11 @@
 {
-  "data_summary": "sleep 8.0h, score 93, 21-day avg 7.3h",
-  "expires_at": "2026-07-20T16:00:04+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-20T10:00:04+10:00",
-  "title": "Sleep Recovery",
-  "topic_key": "health_sleep_recovery",
-  "url": ""
+  "data_summary": "MB to EP leave times: 10:48 11:03 11:18",
+  "expires_at": "2026-07-20T16:40:06+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-07-20T10:40:06+10:00",
+  "title": "Commute: MB: 10:48 11:03 11:18",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
