@@ -1,11 +1,11 @@
 {
-  "data_summary": "INTENSITY 212 MIN | 50% VS PRIOR 7D | BUILD GRADUALLY | Weighted intensity minutes total 212 across the last seven days versus 421 in the prior seven-day window.",
-  "expires_at": "2026-07-20T17:00:07+10:00",
+  "data_summary": "HRV 72 MS | BALANCED 18 DAYS | NORMAL LOAD LOOKS REASONABLE | Seven-day HRV averages 71.7 ms versus 70.4 ms in the prior seven days; latest status is balanced.",
+  "expires_at": "2026-07-20T17:20:07+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-20T11:00:07+10:00",
-  "title": "Health Insight: INTENSITY 212 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-07-20T11:20:07+10:00",
+  "title": "Health Insight: HRV 72 MS",
+  "topic_key": "health_hrv_weekly_trend",
   "url": ""
 }
