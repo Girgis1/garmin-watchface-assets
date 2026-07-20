@@ -1,11 +1,11 @@
 {
-  "data_summary": "Crocodiles can shunt blood flow during dives and digestion. Caption: ANCIENT VALVE LOGIC",
-  "expires_at": "2026-07-20T17:40:08+10:00",
-  "kind": "fact",
-  "label": "OPEN FACT",
-  "lane": "local_signal",
-  "published_at": "2026-07-20T11:40:08+10:00",
-  "title": "Curious Fact: CROCODILES REWIRE BLOOD FLOW",
-  "topic_key": "curious_fact_crocodile_blood_shunt",
-  "url": "https://www.google.com/search?q=Crocodiles+can+shunt+blood+flow+during+dives+and+digestion.+Caption%3A+ANCIENT+VALVE+LOGIC"
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-07-20T18:00:09+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-20T12:00:09+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
+  "url": ""
 }
