@@ -1,11 +1,11 @@
 {
-  "data_summary": "CN to EP leave times: 20:11 20:21 20:31",
-  "expires_at": "2026-07-22T02:00:03+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-07-21T20:00:03+10:00",
-  "title": "Commute: CN: 20:11 20:21 20:31",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "data_summary": "HRV BALANCED, avg 73 ms, 19 day balanced streak",
+  "expires_at": "2026-07-22T02:20:03+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-21T20:20:03+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
+  "url": ""
 }
