@@ -1,11 +1,11 @@
 {
-  "data_summary": "HRV BALANCED, avg 73 ms, 19 day balanced streak",
-  "expires_at": "2026-07-22T02:20:03+10:00",
+  "data_summary": "context phase evening, temp 12C",
+  "expires_at": "2026-07-22T02:40:04+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-07-21T20:20:03+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_balanced",
+  "lane": "local_signal",
+  "published_at": "2026-07-21T20:40:04+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
   "url": ""
 }
