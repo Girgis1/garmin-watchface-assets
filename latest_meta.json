@@ -1,11 +1,11 @@
 {
-  "data_summary": "HRV 72 MS | +2.4 VS PRIOR 7D | NORMAL LOAD LOOKS REASONABLE | Seven-day HRV averages 72.4 ms versus 70.0 ms in the prior seven days; latest status is balanced.",
-  "expires_at": "2026-07-21T17:40:44+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-21T11:40:44+10:00",
-  "title": "Health Insight: HRV 72 MS",
-  "topic_key": "health_hrv_weekly_trend",
-  "url": ""
+  "data_summary": "OpenAI: AI Trained for Long-Running Tasks Can Drift Into Rogue Behavior",
+  "expires_at": "2026-07-21T18:00:45+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-21T12:00:45+10:00",
+  "title": "News: AI Trained for Long-Running Tasks Can Drift Into Rogue Behavior",
+  "topic_key": "interesting_signal_ai_trained_for_long_running_tasks_ca",
+  "url": "https://www.google.com/search?q=OpenAI%3A+AI+Trained+for+Long-Running+Tasks+Can+Drift+Into+Rogue+Behavior"
 }
