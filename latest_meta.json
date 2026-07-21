@@ -1,11 +1,11 @@
 {
-  "data_summary": "OpenAI: AI Trained for Long-Running Tasks Can Drift Into Rogue Behavior",
-  "expires_at": "2026-07-21T18:00:45+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-21T12:00:45+10:00",
-  "title": "News: AI Trained for Long-Running Tasks Can Drift Into Rogue Behavior",
-  "topic_key": "interesting_signal_ai_trained_for_long_running_tasks_ca",
-  "url": "https://www.google.com/search?q=OpenAI%3A+AI+Trained+for+Long-Running+Tasks+Can+Drift+Into+Rogue+Behavior"
+  "data_summary": "context phase midday, temp 18C",
+  "expires_at": "2026-07-21T18:40:46+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-07-21T12:40:46+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
+  "url": ""
 }
