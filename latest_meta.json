@@ -1,11 +1,11 @@
 {
-  "data_summary": "# Garmin Health Insight Generated: 2026-07-21T14:05:49+10:00 Data through: 2026-07-21 (42 days loaded) ## Watch-Safe Insights - **ULTIMATE DISC 107 MIN** | +35M VS YOUR AVG | KEEP THE NEXT SESSION EASY 107 minutes, compared with a recent ul",
-  "expires_at": "2026-07-21T20:40:51+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-21T14:40:51+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
-  "url": ""
+  "data_summary": "waxing crescent, 40% illuminated",
+  "expires_at": "2026-07-21T21:20:52+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-07-21T15:20:52+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
