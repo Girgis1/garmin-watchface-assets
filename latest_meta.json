@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase sunset, temp 14C",
-  "expires_at": "2026-07-21T23:20:57+10:00",
-  "kind": "none",
-  "label": "",
+  "data_summary": "CN to EP leave times: 18:07 18:11 18:15",
+  "expires_at": "2026-07-22T00:00:59+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-07-21T17:20:57+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "published_at": "2026-07-21T18:00:59+10:00",
+  "title": "Commute: CN: 18:07 18:11 18:15",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
