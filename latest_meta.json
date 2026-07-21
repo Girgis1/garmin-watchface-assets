@@ -1,11 +1,11 @@
 {
-  "data_summary": "CN to EP leave times: 22:31 22:41 22:51",
-  "expires_at": "2026-07-22T04:20:07+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-07-21T22:20:07+10:00",
-  "title": "Commute: CN: 22:31 22:41 22:51",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "data_summary": "goodnight stage soft: The pillow has requested a meeting.; no extra alerts",
+  "expires_at": "2026-07-22T05:00:09+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "goodnight",
+  "published_at": "2026-07-21T23:00:09+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
+  "url": ""
 }
