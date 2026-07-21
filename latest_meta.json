@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase afternoon, temp 19C",
-  "expires_at": "2026-07-21T20:00:49+10:00",
+  "data_summary": "# Garmin Health Insight Generated: 2026-07-21T14:05:49+10:00 Data through: 2026-07-21 (42 days loaded) ## Watch-Safe Insights - **ULTIMATE DISC 107 MIN** | +35M VS YOUR AVG | KEEP THE NEXT SESSION EASY 107 minutes, compared with a recent ul",
+  "expires_at": "2026-07-21T20:40:51+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-21T14:00:49+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
+  "lane": "health",
+  "published_at": "2026-07-21T14:40:51+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
