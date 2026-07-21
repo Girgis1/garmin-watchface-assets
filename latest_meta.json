@@ -1,11 +1,11 @@
 {
-  "data_summary": "MB to EP leave times: 10:48 11:03 11:18",
-  "expires_at": "2026-07-21T16:40:42+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-07-21T10:40:42+10:00",
-  "title": "Commute: MB: 10:48 11:03 11:18",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "data_summary": "SLEEP 8H22 | +57M VS 4W AVG | BANK THAT ROUTINE | Last sleep was 8.4 hours with score 81, versus a four-week average of 7.4 hours.",
+  "expires_at": "2026-07-21T17:00:43+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-21T11:00:43+10:00",
+  "title": "Health Insight: SLEEP 8H22",
+  "topic_key": "health_sleep_vs_baseline",
+  "url": ""
 }
