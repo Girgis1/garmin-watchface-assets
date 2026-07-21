@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase midday, temp 18C",
-  "expires_at": "2026-07-21T18:40:46+10:00",
+  "data_summary": "INTENSITY 395 MIN | 8% VS PRIOR 7D | LOAD IS STEADY | Weighted intensity minutes total 395 across the last seven days versus 429 in the prior seven-day window.",
+  "expires_at": "2026-07-21T19:20:48+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-21T12:40:46+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-07-21T13:20:48+10:00",
+  "title": "Health Insight: INTENSITY 395 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
