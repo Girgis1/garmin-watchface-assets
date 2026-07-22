@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase midday, temp 16C",
-  "expires_at": "2026-07-22T18:20:37+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-22T12:20:37+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
-  "url": ""
+  "data_summary": "Sydney Trains female apprentices step up amid 94pc gender skew",
+  "expires_at": "2026-07-22T18:40:38+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-22T12:40:38+10:00",
+  "title": "News: Sydney Trains female apprentices step up amid 94pc gender skew",
+  "topic_key": "interesting_signal_sydney_trains_female_apprentices_ste",
+  "url": "https://www.google.com/search?q=Sydney+Trains+female+apprentices+step+up+amid+94pc+gender+skew"
 }
