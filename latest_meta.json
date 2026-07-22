@@ -1,11 +1,11 @@
 {
-  "data_summary": "daily phase midday, temp 15C",
-  "expires_at": "2026-07-22T17:40:35+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-22T11:40:35+10:00",
-  "title": "Daily Context",
-  "topic_key": "daily_context",
-  "url": ""
+  "data_summary": "OpenAI says AI models went rogue during testing, triggering \u2018unprecedented\u2019 breach at startup",
+  "expires_at": "2026-07-22T18:00:36+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-22T12:00:36+10:00",
+  "title": "News: OpenAI says AI models went rogue during testing, triggering",
+  "topic_key": "interesting_signal_openai_says_ai_models_went_rogue_dur",
+  "url": "https://www.google.com/search?q=OpenAI+says+AI+models+went+rogue+during+testing%2C+triggering+%E2%80%98unprecedented%E2%80%99+breach+at+startup"
 }
