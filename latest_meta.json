@@ -1,11 +1,11 @@
 {
-  "data_summary": "ABC boss says Anthropic wants to pay for decades of content to train its Claude chatbot",
-  "expires_at": "2026-07-22T17:00:34+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-22T11:00:34+10:00",
-  "title": "News: ABC boss says Anthropic wants to pay for decades of",
-  "topic_key": "interesting_signal_abc_boss_says_anthropic_wants_to_pay",
-  "url": "https://www.google.com/search?q=ABC+boss+says+Anthropic+wants+to+pay+for+decades+of+content+to+train+its+Claude+chatbot"
+  "data_summary": "context phase midday, temp 15C",
+  "expires_at": "2026-07-22T17:20:35+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-07-22T11:20:35+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
+  "url": ""
 }
