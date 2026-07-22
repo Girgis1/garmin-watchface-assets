@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase midday, temp 15C",
-  "expires_at": "2026-07-22T17:20:35+10:00",
+  "data_summary": "daily phase midday, temp 15C",
+  "expires_at": "2026-07-22T17:40:35+10:00",
   "kind": "none",
   "label": "",
   "lane": "local_signal",
-  "published_at": "2026-07-22T11:20:35+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "published_at": "2026-07-22T11:40:35+10:00",
+  "title": "Daily Context",
+  "topic_key": "daily_context",
   "url": ""
 }
