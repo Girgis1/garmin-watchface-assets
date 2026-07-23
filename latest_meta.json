@@ -1,11 +1,11 @@
 {
-  "data_summary": "SpO2 97%, respiration 14.0",
-  "expires_at": "2026-07-23T22:40:41+10:00",
+  "data_summary": "training intensity minutes today 9",
+  "expires_at": "2026-07-23T23:00:42+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-23T16:40:41+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
+  "published_at": "2026-07-23T17:00:42+10:00",
+  "title": "Training Nudge",
+  "topic_key": "health_training_minutes",
   "url": ""
 }
