@@ -1,11 +1,11 @@
 {
-  "data_summary": "waxing gibbous, 62% illuminated",
-  "expires_at": "2026-07-23T23:20:43+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-07-23T17:20:43+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "data_summary": "context phase sunset, temp 14C",
+  "expires_at": "2026-07-23T23:40:43+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-07-23T17:40:43+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
