@@ -1,11 +1,11 @@
 {
-  "data_summary": "TENNIS 73 MIN | 21M VS YOUR AVG | RECOVER, THEN GO AGAIN | 73 minutes, compared with a recent tennis average of 94 minutes.",
-  "expires_at": "2026-07-23T18:00:31+10:00",
+  "data_summary": "INTENSITY 346 MIN | 20% VS PRIOR 7D | LOAD IS STEADY | Weighted intensity minutes total 346 across the last seven days versus 430 in the prior seven-day window.",
+  "expires_at": "2026-07-23T18:20:31+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-23T12:00:31+10:00",
-  "title": "Health Insight: TENNIS 73 MIN",
-  "topic_key": "health_activity_23688920391",
+  "published_at": "2026-07-23T12:20:31+10:00",
+  "title": "Health Insight: INTENSITY 346 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
