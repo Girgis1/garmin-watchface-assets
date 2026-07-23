@@ -1,11 +1,11 @@
 {
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-07-23T18:40:32+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-23T12:40:32+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "data_summary": "Sydney Metro Parking Expansion to Add Up to 1,200 Spaces",
+  "expires_at": "2026-07-23T19:00:33+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-23T13:00:33+10:00",
+  "title": "News: Sydney Metro Parking Expansion to Add Up to 1,200 Spaces",
+  "topic_key": "interesting_signal_sydney_metro_parking_expansion_to_ad",
+  "url": "https://www.google.com/search?q=Sydney+Metro+Parking+Expansion+to+Add+Up+to+1%2C200+Spaces"
 }
