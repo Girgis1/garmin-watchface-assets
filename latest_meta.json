@@ -1,11 +1,11 @@
 {
-  "data_summary": "goodnight stage midnight_strict: GO TO BED. You have lost browsing privileges.; no extra alerts",
-  "expires_at": "2026-07-24T06:00:58+10:00",
+  "data_summary": "morning briefing: no major weather/sleep drama",
+  "expires_at": "2026-07-24T14:20:14+10:00",
   "kind": "none",
   "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-07-24T00:00:58+10:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "lane": "morning",
+  "published_at": "2026-07-24T08:20:14+10:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
