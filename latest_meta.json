@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase midday, temp 15C",
-  "expires_at": "2026-07-24T19:40:26+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-24T13:40:26+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
-  "url": ""
+  "data_summary": "waxing gibbous, 71% illuminated",
+  "expires_at": "2026-07-24T21:00:30+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-07-24T15:00:30+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
