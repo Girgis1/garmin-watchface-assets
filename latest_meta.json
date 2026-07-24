@@ -1,11 +1,11 @@
 {
-  "data_summary": "OpenAI Once Again Makes The Case For Giving ChatGPT Your Health Records",
-  "expires_at": "2026-07-24T22:00:32+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-24T16:00:32+10:00",
-  "title": "News: OpenAI Once Again Makes The Case For Giving ChatGPT Your",
-  "topic_key": "interesting_signal_openai_once_again_makes_the_case_for",
-  "url": "https://www.google.com/search?q=OpenAI+Once+Again+Makes+The+Case+For+Giving+ChatGPT+Your+Health+Records"
+  "data_summary": "context phase sunset, temp 14C",
+  "expires_at": "2026-07-24T22:20:32+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-07-24T16:20:32+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
