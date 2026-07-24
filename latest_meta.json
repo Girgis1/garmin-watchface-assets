@@ -1,11 +1,11 @@
 {
-  "data_summary": "MB to EP leave times: 11:48 12:03 12:18",
-  "expires_at": "2026-07-24T17:40:21+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-07-24T11:40:21+10:00",
-  "title": "Commute: MB: 11:48 12:03 12:18",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-07-24T18:00:22+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-24T12:00:22+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
+  "url": ""
 }
