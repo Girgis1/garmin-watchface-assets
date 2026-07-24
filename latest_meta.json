@@ -1,11 +1,11 @@
 {
-  "data_summary": "waxing gibbous, 71% illuminated",
-  "expires_at": "2026-07-24T21:00:30+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-07-24T15:00:30+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "data_summary": "NSW Storm And Flood Clean-up Grants Program Extends",
+  "expires_at": "2026-07-24T21:20:30+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-24T15:20:30+10:00",
+  "title": "News: NSW Storm And Flood Clean-up Grants Program Extends",
+  "topic_key": "interesting_signal_nsw_storm_and_flood_clean_up_grants_",
+  "url": "https://www.google.com/search?q=NSW+Storm+And+Flood+Clean-up+Grants+Program+Extends"
 }
