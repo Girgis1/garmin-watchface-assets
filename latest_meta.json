@@ -1,11 +1,11 @@
 {
-  "data_summary": "SpO2 97%, respiration 14.0",
-  "expires_at": "2026-07-24T23:40:35+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-24T17:40:35+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
-  "url": ""
+  "data_summary": "next-hour temp 10.3C; rain below 15% notice threshold",
+  "expires_at": "2026-07-25T00:00:36+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-24T18:00:36+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
