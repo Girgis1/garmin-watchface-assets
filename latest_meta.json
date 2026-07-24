@@ -1,11 +1,11 @@
 {
-  "data_summary": "# Garmin Health Insight Generated: 2026-07-24T17:05:34+10:00 Data through: 2026-07-24 (42 days loaded) ## Watch-Safe Insights - **SLEEP 8H26** | +54M VS 4W AVG | BANK THAT ROUTINE Last sleep was 8.4 hours with score 93, versus a four-week a",
-  "expires_at": "2026-07-24T23:20:34+10:00",
+  "data_summary": "SpO2 97%, respiration 14.0",
+  "expires_at": "2026-07-24T23:40:35+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-24T17:20:34+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-07-24T17:40:35+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
