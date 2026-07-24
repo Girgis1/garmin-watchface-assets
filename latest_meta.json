@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase night, temp 7C",
-  "expires_at": "2026-07-25T04:40:46+10:00",
+  "data_summary": "goodnight stage soft: Evening operations are closing. You are operations.; no extra alerts",
+  "expires_at": "2026-07-25T05:00:47+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-24T22:40:46+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
+  "lane": "goodnight",
+  "published_at": "2026-07-24T23:00:47+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
