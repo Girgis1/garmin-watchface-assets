@@ -1,11 +1,11 @@
 {
-  "data_summary": "next-hour temp 10.3C; rain below 15% notice threshold",
-  "expires_at": "2026-07-25T00:00:36+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-24T18:00:36+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "data_summary": "CN to EP leave times: 18:26 18:30 18:33",
+  "expires_at": "2026-07-25T00:20:37+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-07-24T18:20:37+10:00",
+  "title": "Commute: CN: 18:26 18:30 18:33",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
