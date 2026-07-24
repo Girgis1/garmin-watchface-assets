@@ -1,11 +1,11 @@
 {
-  "data_summary": "morning briefing: no major weather/sleep drama",
-  "expires_at": "2026-07-24T15:40:17+10:00",
+  "data_summary": "SLEEP 10H12 | +167M VS 4W AVG | BANK THAT ROUTINE | Last sleep was 10.2 hours with score 77, versus a four-week average of 7.4 hours.",
+  "expires_at": "2026-07-24T16:00:18+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-07-24T09:40:17+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-07-24T10:00:18+10:00",
+  "title": "Health Insight: SLEEP 10H12",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
