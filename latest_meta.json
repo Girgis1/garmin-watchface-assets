@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase midday, temp 14C",
-  "expires_at": "2026-07-24T18:20:23+10:00",
+  "data_summary": "7D SLEEP 7H57 | +7M VS PRIOR 7D | STEADY IS A RESULT | The seven-day sleep average is 8.0 hours, 7 minutes above the prior seven days.",
+  "expires_at": "2026-07-24T19:00:25+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-24T12:20:23+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-07-24T13:00:25+10:00",
+  "title": "Health Insight: 7D SLEEP 7H57",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
