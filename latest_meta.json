@@ -1,11 +1,11 @@
 {
-  "data_summary": "SLEEP 10H12 | +167M VS 4W AVG | BANK THAT ROUTINE | Last sleep was 10.2 hours with score 77, versus a four-week average of 7.4 hours.",
-  "expires_at": "2026-07-24T16:00:18+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-24T10:00:18+10:00",
-  "title": "Health Insight: SLEEP 10H12",
-  "topic_key": "health_sleep_vs_baseline",
-  "url": ""
+  "data_summary": "next-hour temp 10.2C; rain below 15% notice threshold",
+  "expires_at": "2026-07-24T16:20:19+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-24T10:20:19+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
