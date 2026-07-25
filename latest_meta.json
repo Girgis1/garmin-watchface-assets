@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase sunset, temp 14C",
-  "expires_at": "2026-07-26T00:20:29+10:00",
+  "data_summary": "NO 80+ BB FINISHES | 49 / 29 DAYS | None of 29 recent complete days finished above Body Battery 80; the best finish was 49. This describes the recent data window, not a diagnosis.",
+  "expires_at": "2026-07-26T00:40:30+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-25T18:20:29+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-07-25T18:40:30+10:00",
+  "title": "Health Insight: NO 80+ BB FINISHES",
+  "topic_key": "health_pattern_body_battery_recovery",
   "url": ""
 }
