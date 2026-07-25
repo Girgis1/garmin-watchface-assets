@@ -1,11 +1,11 @@
 {
-  "data_summary": "BB<20: 11/29 DAYS | 10/11 ALSO STRESS 35+ | Body Battery finished below 20 on 11 of 29 recent complete days; 10 of those days also had average stress of 35 or higher.",
-  "expires_at": "2026-07-25T21:40:23+10:00",
+  "data_summary": "context phase sunset, temp 17C",
+  "expires_at": "2026-07-25T22:00:24+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-07-25T15:40:23+10:00",
-  "title": "Health Insight: BB<20: 11/29 DAYS",
-  "topic_key": "health_pattern_low_body_battery_freq",
+  "lane": "local_signal",
+  "published_at": "2026-07-25T16:00:24+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
