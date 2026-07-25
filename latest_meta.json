@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase sunset, temp 17C",
-  "expires_at": "2026-07-25T22:00:24+10:00",
+  "data_summary": "RHR UP, HRV DOWN | R=-0.72 / N=30 | Across 30 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.72. Treat this as a personal trend signal, not a diagnosis.",
+  "expires_at": "2026-07-25T22:20:24+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-25T16:00:24+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-07-25T16:20:24+10:00",
+  "title": "Health Insight: RHR UP, HRV DOWN",
+  "topic_key": "health_pattern_rhr_hrv_relationship",
   "url": ""
 }
