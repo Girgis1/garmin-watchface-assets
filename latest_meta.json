@@ -1,11 +1,11 @@
 {
-  "data_summary": "waxing gibbous, 80% illuminated",
-  "expires_at": "2026-07-25T21:20:22+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-07-25T15:20:22+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "data_summary": "BB<20: 11/29 DAYS | 10/11 ALSO STRESS 35+ | Body Battery finished below 20 on 11 of 29 recent complete days; 10 of those days also had average stress of 35 or higher.",
+  "expires_at": "2026-07-25T21:40:23+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-25T15:40:23+10:00",
+  "title": "Health Insight: BB<20: 11/29 DAYS",
+  "topic_key": "health_pattern_low_body_battery_freq",
+  "url": ""
 }
