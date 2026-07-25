@@ -1,11 +1,11 @@
 {
-  "data_summary": "INTENSITY 339 MIN | 15% VS PRIOR 7D | LOAD IS STEADY | Weighted intensity minutes total 339 across the last seven days versus 400 in the prior seven-day window.",
-  "expires_at": "2026-07-25T19:40:18+10:00",
+  "data_summary": "SLEEP DIDN'T BEAT STRESS | BB 18 VS 33 / 7.5H+ | LOWER STRESS, DON'T JUST SLEEP | Even after 7.5+ hours of sleep, Body Battery averaged 18.0 on 5 high-stress days versus 33.2 on 6 low-stress days. This is an association, not proof of cause.",
+  "expires_at": "2026-07-25T20:00:19+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-25T13:40:18+10:00",
-  "title": "Health Insight: INTENSITY 339 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-07-25T14:00:19+10:00",
+  "title": "Health Insight: SLEEP DIDN'T BEAT STRESS",
+  "topic_key": "health_pattern_stress_overrides_long",
   "url": ""
 }
