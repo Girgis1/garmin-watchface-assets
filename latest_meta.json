@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase sunset, temp 15C",
-  "expires_at": "2026-07-25T23:00:26+10:00",
+  "data_summary": "BB TREND +1.8/DAY | 28 -> 62 / 14D | Comparable daily Body Battery values moved from 28 to 62, with a fitted trend of +1.8 points per day.",
+  "expires_at": "2026-07-25T23:40:27+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-25T17:00:26+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-07-25T17:40:27+10:00",
+  "title": "Health Insight: BB TREND +1.8/DAY",
+  "topic_key": "health_pattern_body_battery_14d_tren",
   "url": ""
 }
