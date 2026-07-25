@@ -1,11 +1,11 @@
 {
-  "data_summary": "7D SLEEP 8H05 | +28M VS PRIOR 7D | TREND UP. KEEP THE ROUTINE | The seven-day sleep average is 8.1 hours, 28 minutes above the prior seven days.",
-  "expires_at": "2026-07-25T17:40:14+10:00",
+  "data_summary": "STRESS COSTS 24 BB | 12 VS 36 / N=11+8 | PROTECT LOW-STRESS DAYS | Across 19 comparable days, Body Battery averaged 12.4 when stress was 35+ versus 36.5 when stress was below 30. This is a personal association, not proof of cause.",
+  "expires_at": "2026-07-25T18:48:57+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-25T11:40:14+10:00",
-  "title": "Health Insight: 7D SLEEP 8H05",
-  "topic_key": "health_weekly_sleep_trend",
+  "published_at": "2026-07-25T12:48:57+10:00",
+  "title": "Health Insight: STRESS COSTS 24 BB",
+  "topic_key": "health_pattern_stress_body_battery_g",
   "url": ""
 }
