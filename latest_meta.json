@@ -1,11 +1,11 @@
 {
-  "data_summary": "SLEEP NEED ROSE 5/14 | YOUR BODY ASKED FOR MORE | Garmin increased sleep need on 5 of 14 recent nights, even when total sleep was sometimes adequate.",
-  "expires_at": "2026-07-26T04:20:38+10:00",
+  "data_summary": "goodnight stage soft: The pillow has requested a meeting.; no extra alerts",
+  "expires_at": "2026-07-26T05:00:39+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-07-25T22:20:38+10:00",
-  "title": "Health Insight: SLEEP NEED ROSE 5/14",
-  "topic_key": "health_pattern_sleep_need_increased_",
+  "lane": "goodnight",
+  "published_at": "2026-07-25T23:00:39+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
