@@ -1,11 +1,11 @@
 {
-  "data_summary": "SLEEP DIDN'T BEAT STRESS | BB 18 VS 33 / 7.5H+ | LOWER STRESS, DON'T JUST SLEEP | Even after 7.5+ hours of sleep, Body Battery averaged 18.0 on 5 high-stress days versus 33.2 on 6 low-stress days. This is an association, not proof of cause.",
-  "expires_at": "2026-07-25T20:00:19+10:00",
+  "data_summary": "daily phase afternoon, temp 18C",
+  "expires_at": "2026-07-25T20:20:20+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-07-25T14:00:19+10:00",
-  "title": "Health Insight: SLEEP DIDN'T BEAT STRESS",
-  "topic_key": "health_pattern_stress_overrides_long",
+  "lane": "local_signal",
+  "published_at": "2026-07-25T14:20:20+10:00",
+  "title": "Daily Context",
+  "topic_key": "daily_context",
   "url": ""
 }
