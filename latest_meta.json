@@ -1,11 +1,11 @@
 {
-  "data_summary": "STRESS COSTS 24 BB | 12 VS 36 / N=11+8 | PROTECT LOW-STRESS DAYS | Across 19 comparable days, Body Battery averaged 12.4 when stress was 35+ versus 36.5 when stress was below 30. This is a personal association, not proof of cause.",
-  "expires_at": "2026-07-25T18:48:57+10:00",
+  "data_summary": "HRV 73 MS | +2.1 VS PRIOR 7D | NORMAL LOAD LOOKS REASONABLE | Seven-day HRV averages 72.7 ms versus 70.6 ms in the prior seven days; latest status is balanced.",
+  "expires_at": "2026-07-25T19:00:17+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-25T12:48:57+10:00",
-  "title": "Health Insight: STRESS COSTS 24 BB",
-  "topic_key": "health_pattern_stress_body_battery_g",
+  "published_at": "2026-07-25T13:00:17+10:00",
+  "title": "Health Insight: HRV 73 MS",
+  "topic_key": "health_hrv_weekly_trend",
   "url": ""
 }
