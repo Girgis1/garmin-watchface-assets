@@ -1,11 +1,11 @@
 {
-  "data_summary": "SLEEP 7H02 | 32M VS 4W AVG | PROTECT TONIGHT'S BEDTIME | Last sleep was 7.0 hours with score 79, versus a four-week average of 7.6 hours.",
-  "expires_at": "2026-07-25T17:20:14+10:00",
+  "data_summary": "7D SLEEP 8H05 | +28M VS PRIOR 7D | TREND UP. KEEP THE ROUTINE | The seven-day sleep average is 8.1 hours, 28 minutes above the prior seven days.",
+  "expires_at": "2026-07-25T17:40:14+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-25T11:20:14+10:00",
-  "title": "Health Insight: SLEEP 7H02",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-07-25T11:40:14+10:00",
+  "title": "Health Insight: 7D SLEEP 8H05",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
