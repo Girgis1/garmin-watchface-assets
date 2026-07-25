@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase evening, temp 12C",
-  "expires_at": "2026-07-26T02:40:34+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-25T20:40:34+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
-  "url": ""
+  "data_summary": "New car parks promised for Sydney Metro stations",
+  "expires_at": "2026-07-26T03:20:35+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-25T21:20:35+10:00",
+  "title": "News: New car parks promised for Sydney Metro stations",
+  "topic_key": "interesting_signal_new_car_parks_promised_for_sydney_me",
+  "url": "https://www.google.com/search?q=New+car+parks+promised+for+Sydney+Metro+stations"
 }
