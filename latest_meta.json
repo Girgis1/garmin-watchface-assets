@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase night, temp 11C",
-  "expires_at": "2026-07-27T03:20:28+10:00",
+  "data_summary": "# Garmin Health Insight Generated: 2026-07-26T22:05:29+10:00 Data through: 2026-07-26 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +23 BB** | 36 VS 13 / 19 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
+  "expires_at": "2026-07-27T04:40:31+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-26T21:20:28+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
+  "lane": "health",
+  "published_at": "2026-07-26T22:40:31+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
