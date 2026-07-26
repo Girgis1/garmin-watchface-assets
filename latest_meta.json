@@ -1,11 +1,11 @@
 {
-  "data_summary": "7D SLEEP 8H06 | +32M VS PRIOR 7D | The seven-day sleep average is 8.1 hours, 32 minutes above the prior seven days.",
-  "expires_at": "2026-07-26T16:40:04+10:00",
+  "data_summary": "MON SLEEP +35M | VS TUE, 6-WEEK AVG | Across the available history, Mon sleep averages 35 minutes longer than Tue sleep.",
+  "expires_at": "2026-07-26T17:00:05+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-26T10:40:04+10:00",
-  "title": "Health Insight: 7D SLEEP 8H06",
-  "topic_key": "health_weekly_sleep_trend",
+  "published_at": "2026-07-26T11:00:05+10:00",
+  "title": "Health Insight: MON SLEEP +35M",
+  "topic_key": "health_pattern_weekday_sleep",
   "url": ""
 }
