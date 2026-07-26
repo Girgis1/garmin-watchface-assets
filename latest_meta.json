@@ -1,11 +1,11 @@
 {
-  "data_summary": "INTENSITY 334 MIN | 3% VS PRIOR 7D | Weighted intensity minutes total 334 across the last seven days versus 346 in the prior seven-day window.",
-  "expires_at": "2026-07-26T18:00:08+10:00",
+  "data_summary": "SLEEP 9H09 | +98M VS 4W AVG | Last sleep was 9.2 hours with score 78, versus a four-week average of 7.5 hours.",
+  "expires_at": "2026-07-26T18:20:08+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-26T12:00:08+10:00",
-  "title": "Health Insight: INTENSITY 334 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-07-26T12:20:08+10:00",
+  "title": "Health Insight: SLEEP 9H09",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
