@@ -1,11 +1,11 @@
 {
-  "data_summary": "HRV 73 MS | +1.5 VS PRIOR 7D | Seven-day HRV averages 72.7 ms versus 71.1 ms in the prior seven days; latest status is unknown.",
-  "expires_at": "2026-07-26T16:00:03+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-26T10:00:03+10:00",
-  "title": "Health Insight: HRV 73 MS",
-  "topic_key": "health_hrv_weekly_trend",
-  "url": ""
+  "data_summary": "MB to EP leave times: 10:28 10:43 10:58",
+  "expires_at": "2026-07-26T16:20:04+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-07-26T10:20:04+10:00",
+  "title": "Commute: MB: 10:28 10:43 10:58",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
