@@ -1,11 +1,11 @@
 {
-  "data_summary": "MB to EP leave times: 10:28 10:43 10:58",
-  "expires_at": "2026-07-26T16:20:04+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-07-26T10:20:04+10:00",
-  "title": "Commute: MB: 10:28 10:43 10:58",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "data_summary": "7D SLEEP 8H06 | +32M VS PRIOR 7D | The seven-day sleep average is 8.1 hours, 32 minutes above the prior seven days.",
+  "expires_at": "2026-07-26T16:40:04+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-26T10:40:04+10:00",
+  "title": "Health Insight: 7D SLEEP 8H06",
+  "topic_key": "health_weekly_sleep_trend",
+  "url": ""
 }
