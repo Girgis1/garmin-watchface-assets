@@ -1,11 +1,11 @@
 {
-  "data_summary": "morning briefing: no major weather/sleep drama",
-  "expires_at": "2026-07-26T15:40:02+10:00",
+  "data_summary": "HRV 73 MS | +1.5 VS PRIOR 7D | Seven-day HRV averages 72.7 ms versus 71.1 ms in the prior seven days; latest status is unknown.",
+  "expires_at": "2026-07-26T16:00:03+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-07-26T09:40:02+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-07-26T10:00:03+10:00",
+  "title": "Health Insight: HRV 73 MS",
+  "topic_key": "health_hrv_weekly_trend",
   "url": ""
 }
