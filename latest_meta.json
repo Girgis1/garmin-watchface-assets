@@ -1,11 +1,11 @@
 {
-  "data_summary": "MON SLEEP +35M | VS TUE, 6-WEEK AVG | Across the available history, Mon sleep averages 35 minutes longer than Tue sleep.",
-  "expires_at": "2026-07-26T17:00:05+10:00",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-07-26T17:20:06+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-26T11:00:05+10:00",
-  "title": "Health Insight: MON SLEEP +35M",
-  "topic_key": "health_pattern_weekday_sleep",
+  "published_at": "2026-07-26T11:20:06+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
