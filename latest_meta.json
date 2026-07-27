@@ -1,11 +1,11 @@
 {
-  "data_summary": "morning briefing: ROUGH SLEEP 6.0H",
-  "expires_at": "2026-07-27T15:40:55+10:00",
+  "data_summary": "INTENSITY 145 MIN | 64% VS PRIOR 7D | Weighted intensity minutes total 145 across the last seven days versus 403 in the prior seven-day window.",
+  "expires_at": "2026-07-27T16:00:56+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-07-27T09:40:55+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-07-27T10:00:56+10:00",
+  "title": "Health Insight: INTENSITY 145 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
