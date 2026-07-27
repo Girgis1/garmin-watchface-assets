@@ -1,11 +1,11 @@
 {
-  "data_summary": "HRV 73 MS | BALANCED 25 DAYS | Seven-day HRV averages 73.1 ms versus 71.7 ms in the prior seven days; latest status is balanced.",
-  "expires_at": "2026-07-27T17:00:58+10:00",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-07-27T17:20:59+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-27T11:00:58+10:00",
-  "title": "Health Insight: HRV 73 MS",
-  "topic_key": "health_hrv_weekly_trend",
+  "published_at": "2026-07-27T11:20:59+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
