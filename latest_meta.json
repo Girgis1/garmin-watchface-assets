@@ -1,11 +1,11 @@
 {
-  "data_summary": "RHR UP, HRV DOWN | R=-0.67 / N=30 | Across 30 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.67. Treat this as a personal trend signal, not a diagnosis.",
-  "expires_at": "2026-07-29T04:20:16+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-28T22:20:16+10:00",
-  "title": "Health Insight: RHR UP, HRV DOWN",
-  "topic_key": "health_pattern_rhr_hrv_relationship",
-  "url": ""
+  "data_summary": "CN to EP leave times: 22:51 23:01 23:11",
+  "expires_at": "2026-07-29T04:40:17+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-07-28T22:40:17+10:00",
+  "title": "Commute: CN: 22:51 23:01 23:11",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
