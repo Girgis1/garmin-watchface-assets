@@ -1,11 +1,11 @@
 {
-  "data_summary": "INTENSITY 268 MIN | 35% VS PRIOR 7D | Weighted intensity minutes total 268 across the last seven days versus 412 in the prior seven-day window.",
-  "expires_at": "2026-07-28T17:20:53+10:00",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-07-28T17:40:53+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-28T11:20:53+10:00",
-  "title": "Health Insight: INTENSITY 268 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-07-28T11:40:53+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
