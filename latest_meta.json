@@ -1,11 +1,11 @@
 {
-  "data_summary": "7D SLEEP 7H43 | 2M VS PRIOR 7D | The seven-day sleep average is 7.7 hours, 2 minutes below the prior seven days.",
-  "expires_at": "2026-07-28T18:40:55+10:00",
+  "data_summary": "CALM DAYS +22 BB | 36 VS 15 / 20 DAYS | Across 20 comparable days, Body Battery averaged 15.0 when stress was 35+ versus 36.5 when stress was below 30. This is a personal association, not proof of cause.",
+  "expires_at": "2026-07-28T19:00:56+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-28T12:40:55+10:00",
-  "title": "Health Insight: 7D SLEEP 7H43",
-  "topic_key": "health_weekly_sleep_trend",
+  "published_at": "2026-07-28T13:00:56+10:00",
+  "title": "Health Insight: CALM DAYS +22 BB",
+  "topic_key": "health_pattern_stress_body_battery_g",
   "url": ""
 }
