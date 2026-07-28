@@ -1,11 +1,11 @@
 {
-  "data_summary": "waxing gibbous, 98% illuminated",
-  "expires_at": "2026-07-28T21:20:01+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-07-28T15:20:01+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "data_summary": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+  "expires_at": "2026-07-28T22:00:02+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-28T16:00:02+10:00",
+  "title": "News: Warning shot or publicity stunt - how worried should we",
+  "topic_key": "interesting_signal_warning_shot_or_publicity_stunt_how_",
+  "url": "https://www.google.com/search?q=Warning+shot+or+publicity+stunt+-+how+worried+should+we+be+about+the+OpenAI+hack%3F"
 }
