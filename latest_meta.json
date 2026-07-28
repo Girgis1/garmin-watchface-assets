@@ -1,10 +1,10 @@
 {
-  "data_summary": "goodnight stage stern: Bed is happening. Participate voluntarily.; SLEEP DEBT 6.4H",
-  "expires_at": "2026-07-29T05:40:19+10:00",
+  "data_summary": "goodnight stage midnight_strict: GO TO BED. Midnight has ruled.; no extra alerts",
+  "expires_at": "2026-07-29T06:00:20+10:00",
   "kind": "none",
   "label": "",
   "lane": "goodnight",
-  "published_at": "2026-07-28T23:40:19+10:00",
+  "published_at": "2026-07-29T00:00:20+10:00",
   "title": "Goodnight Briefing",
   "topic_key": "goodnight_briefing",
   "url": ""
