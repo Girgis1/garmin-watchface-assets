@@ -1,11 +1,11 @@
 {
-  "data_summary": "ULTIMATE DISC 110 MIN | +32M VS YOUR AVG | 110 minutes, compared with a recent ultimate disc average of 78 minutes.",
-  "expires_at": "2026-07-28T16:20:50+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-28T10:20:50+10:00",
-  "title": "Health Insight: ULTIMATE DISC 110 MIN",
-  "topic_key": "health_activity_23748199243",
-  "url": ""
+  "data_summary": "MB to EP leave times: 10:50 11:03 11:18",
+  "expires_at": "2026-07-28T16:40:51+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-07-28T10:40:51+10:00",
+  "title": "Commute: MB: 10:50 11:03 11:18",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
