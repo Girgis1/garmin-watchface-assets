@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase midday, temp 19C",
-  "expires_at": "2026-07-28T18:00:54+10:00",
+  "data_summary": "SLEEP 6H23 | 67M VS 4W AVG | Last sleep was 6.4 hours with score 72, versus a four-week average of 7.5 hours.",
+  "expires_at": "2026-07-28T18:20:55+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-28T12:00:54+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-07-28T12:20:55+10:00",
+  "title": "Health Insight: SLEEP 6H23",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
