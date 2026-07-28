@@ -1,11 +1,11 @@
 {
-  "data_summary": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-  "expires_at": "2026-07-28T22:00:02+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-28T16:00:02+10:00",
-  "title": "News: Warning shot or publicity stunt - how worried should we",
-  "topic_key": "interesting_signal_warning_shot_or_publicity_stunt_how_",
-  "url": "https://www.google.com/search?q=Warning+shot+or+publicity+stunt+-+how+worried+should+we+be+about+the+OpenAI+hack%3F"
+  "data_summary": "SpO2 98%, respiration 15.0",
+  "expires_at": "2026-07-28T22:20:03+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-28T16:20:03+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
+  "url": ""
 }
