@@ -1,11 +1,11 @@
 {
-  "data_summary": "INTENSITY 202 MIN | 44% VS PRIOR 7D | Weighted intensity minutes total 202 across the last seven days versus 360 in the prior seven-day window.",
-  "expires_at": "2026-07-29T17:00:43+10:00",
+  "data_summary": "SLEEP 5H34 | 115M VS 4W AVG | Last sleep was 5.6 hours with score 65, versus a four-week average of 7.5 hours.",
+  "expires_at": "2026-07-29T17:20:44+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-29T11:00:43+10:00",
-  "title": "Health Insight: INTENSITY 202 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-07-29T11:20:44+10:00",
+  "title": "Health Insight: SLEEP 5H34",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
