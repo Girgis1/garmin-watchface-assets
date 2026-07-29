@@ -1,11 +1,11 @@
 {
-  "data_summary": "Huge delays as Sydney motorway closed due to emergency safety works",
-  "expires_at": "2026-07-29T23:40:59+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-29T17:40:59+10:00",
-  "title": "News: Huge delays as Sydney motorway closed after emergency safety works",
-  "topic_key": "interesting_signal_huge_delays_as_sydney_motorway_close",
-  "url": "https://www.google.com/search?q=Huge+delays+as+Sydney+motorway+closed+due+to+emergency+safety+works"
+  "data_summary": "CN to EP leave times: 18:07 18:11 18:15",
+  "expires_at": "2026-07-30T00:00:59+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-07-29T18:00:59+10:00",
+  "title": "Commute: CN: 18:07 18:11 18:15",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
