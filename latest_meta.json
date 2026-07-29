@@ -1,11 +1,11 @@
 {
-  "data_summary": "BB TREND -1.6/DAY | 81 -> 39 / 14D | Comparable wake-time Body Battery values moved from 81 to 39, with a fitted trend of -1.6 points per day.",
-  "expires_at": "2026-07-29T16:20:42+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-29T10:20:42+10:00",
-  "title": "Health Insight: BB TREND -1.6/DAY",
-  "topic_key": "health_pattern_body_battery_14d_tren",
-  "url": ""
+  "data_summary": "MB to EP leave times: 10:50 11:03 11:18",
+  "expires_at": "2026-07-29T16:40:42+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-07-29T10:40:42+10:00",
+  "title": "Commute: MB: 10:50 11:03 11:18",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
