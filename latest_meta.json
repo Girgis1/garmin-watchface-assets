@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase sunset, temp 12C",
-  "expires_at": "2026-07-30T00:40:01+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-29T18:40:01+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "data_summary": "next-hour temp 11.4C; rain below 15% notice threshold",
+  "expires_at": "2026-07-30T01:00:02+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-29T19:00:02+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
