@@ -1,11 +1,11 @@
 {
-  "data_summary": "Court approves $18.1M settlement in Sydney Trains class action",
-  "expires_at": "2026-07-29T18:20:46+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-29T12:20:46+10:00",
-  "title": "News: Court approves $18.1M settlement in Sydney Trains class action",
-  "topic_key": "interesting_signal_court_approves_18_1m_settlement_in_s",
-  "url": "https://www.google.com/search?q=Court+approves+%2418.1M+settlement+in+Sydney+Trains+class+action"
+  "data_summary": "context phase midday, temp 16C",
+  "expires_at": "2026-07-29T19:00:48+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-07-29T13:00:48+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
+  "url": ""
 }
