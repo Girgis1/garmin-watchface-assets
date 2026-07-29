@@ -1,11 +1,11 @@
 {
-  "data_summary": "NO 80+ BB FINISHES | 49 / 29 DAYS | None of 29 recent complete days finished above Body Battery 80; the best finish was 49. This describes the recent data window, not a diagnosis.",
-  "expires_at": "2026-07-30T01:40:03+10:00",
+  "data_summary": "7D SLEEP 7H32 | 6M VS PRIOR 7D | The seven-day sleep average is 7.5 hours, 6 minutes below the prior seven days.",
+  "expires_at": "2026-07-30T02:20:05+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-29T19:40:03+10:00",
-  "title": "Health Insight: NO 80+ BB FINISHES",
-  "topic_key": "health_pattern_body_battery_recovery",
+  "published_at": "2026-07-29T20:20:05+10:00",
+  "title": "Health Insight: 7D SLEEP 7H32",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
