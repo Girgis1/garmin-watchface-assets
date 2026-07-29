@@ -1,11 +1,11 @@
 {
-  "data_summary": "morning briefing: ROUGH SLEEP 5.6H",
-  "expires_at": "2026-07-29T15:40:40+10:00",
+  "data_summary": "BB TREND -1.6/DAY | 81 -> 39 / 14D | Comparable wake-time Body Battery values moved from 81 to 39, with a fitted trend of -1.6 points per day.",
+  "expires_at": "2026-07-29T16:20:42+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-07-29T09:40:40+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-07-29T10:20:42+10:00",
+  "title": "Health Insight: BB TREND -1.6/DAY",
+  "topic_key": "health_pattern_body_battery_14d_tren",
   "url": ""
 }
