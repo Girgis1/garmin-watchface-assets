@@ -1,11 +1,11 @@
 {
-  "data_summary": "MB to EP leave times: 10:50 11:03 11:18",
-  "expires_at": "2026-07-29T16:40:42+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-07-29T10:40:42+10:00",
-  "title": "Commute: MB: 10:50 11:03 11:18",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "data_summary": "INTENSITY 202 MIN | 44% VS PRIOR 7D | Weighted intensity minutes total 202 across the last seven days versus 360 in the prior seven-day window.",
+  "expires_at": "2026-07-29T17:00:43+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-29T11:00:43+10:00",
+  "title": "Health Insight: INTENSITY 202 MIN",
+  "topic_key": "health_weekly_intensity_load",
+  "url": ""
 }
