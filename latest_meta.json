@@ -1,11 +1,11 @@
 {
-  "data_summary": "context phase sunset, temp 15C",
-  "expires_at": "2026-07-29T22:40:56+10:00",
+  "data_summary": "training intensity minutes today 0",
+  "expires_at": "2026-07-29T23:20:58+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-07-29T16:40:56+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-07-29T17:20:58+10:00",
+  "title": "Training Nudge",
+  "topic_key": "health_training_minutes",
   "url": ""
 }
