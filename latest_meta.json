@@ -1,11 +1,11 @@
 {
-  "data_summary": "next-hour temp 9.6C; rain below 15% notice threshold",
-  "expires_at": "2026-07-30T03:00:06+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-07-29T21:00:06+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "data_summary": "I stopped over-prompting ChatGPT after reading OpenAI's new guide, and my answers got better",
+  "expires_at": "2026-07-30T03:20:07+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-29T21:20:07+10:00",
+  "title": "News: I stopped over-prompting ChatGPT after reading OpenAI's new guide,",
+  "topic_key": "interesting_signal_i_stopped_over_prompting_chatgpt_aft",
+  "url": "https://www.google.com/search?q=I+stopped+over-prompting+ChatGPT+after+reading+OpenAI%27s+new+guide%2C+and+my+answers+got+better"
 }
