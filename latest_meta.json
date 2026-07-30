@@ -1,11 +1,11 @@
 {
-  "data_summary": "Australian regulator says Telegram breached online safety law",
-  "expires_at": "2026-07-30T17:40:39+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-30T11:40:39+10:00",
-  "title": "News: Australian regulator says Telegram breached online safety law",
-  "topic_key": "interesting_signal_australian_regulator_says_telegram_b",
-  "url": "https://www.google.com/search?q=Australian+regulator+says+Telegram+breached+online+safety+law"
+  "data_summary": "HRV 74 MS | BALANCED 28 DAYS | Seven-day HRV averages 74.0 ms versus 73.0 ms in the prior seven days; latest status is balanced.",
+  "expires_at": "2026-07-30T18:00:40+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-30T12:00:40+10:00",
+  "title": "Health Insight: HRV 74 MS",
+  "topic_key": "health_hrv_weekly_trend",
+  "url": ""
 }
