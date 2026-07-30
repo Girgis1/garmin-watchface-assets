@@ -1,11 +1,11 @@
 {
-  "data_summary": "STRESSFUL BEFORE BED | 9 OF 13 NIGHTS | Garmin's Body Battery feedback marked 9 of 13 recent nights as stressful around sleep preparation.",
-  "expires_at": "2026-07-30T17:00:37+10:00",
+  "data_summary": "SLEEP 8H17 | +51M VS 4W AVG | Last sleep was 8.3 hours with score 80, versus a four-week average of 7.4 hours.",
+  "expires_at": "2026-07-30T17:20:38+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-30T11:00:37+10:00",
-  "title": "Health Insight: STRESSFUL BEFORE BED",
-  "topic_key": "health_pattern_pre_sleep_stress_feed",
+  "published_at": "2026-07-30T11:20:38+10:00",
+  "title": "Health Insight: SLEEP 8H17",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
