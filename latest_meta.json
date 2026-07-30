@@ -1,11 +1,11 @@
 {
-  "data_summary": "SLEEP 8H17 | +51M VS 4W AVG | Last sleep was 8.3 hours with score 80, versus a four-week average of 7.4 hours.",
-  "expires_at": "2026-07-30T17:20:38+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-30T11:20:38+10:00",
-  "title": "Health Insight: SLEEP 8H17",
-  "topic_key": "health_sleep_vs_baseline",
-  "url": ""
+  "data_summary": "Australian regulator says Telegram breached online safety law",
+  "expires_at": "2026-07-30T17:40:39+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-30T11:40:39+10:00",
+  "title": "News: Australian regulator says Telegram breached online safety law",
+  "topic_key": "interesting_signal_australian_regulator_says_telegram_b",
+  "url": "https://www.google.com/search?q=Australian+regulator+says+Telegram+breached+online+safety+law"
 }
