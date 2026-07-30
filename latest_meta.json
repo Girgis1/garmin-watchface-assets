@@ -1,11 +1,11 @@
 {
-  "data_summary": "SLEEP NEED ROSE 4/14 | YOUR BODY ASKED FOR MORE | Garmin increased sleep need on 4 of 14 recent nights, even when total sleep was sometimes adequate.",
-  "expires_at": "2026-07-30T20:20:45+10:00",
+  "data_summary": "7D SLEEP 7H15 | 41M VS PRIOR 7D | The seven-day sleep average is 7.3 hours, 41 minutes below the prior seven days.",
+  "expires_at": "2026-07-30T20:40:45+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-30T14:20:45+10:00",
-  "title": "Health Insight: SLEEP NEED ROSE 4/14",
-  "topic_key": "health_pattern_sleep_need_increased_",
+  "published_at": "2026-07-30T14:40:45+10:00",
+  "title": "Health Insight: 7D SLEEP 7H15",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
