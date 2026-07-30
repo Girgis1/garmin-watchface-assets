@@ -1,11 +1,11 @@
 {
-  "data_summary": "# Garmin Health Insight Generated: 2026-07-30T18:05:53+10:00 Data through: 2026-07-30 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +22 BB** | 35 VS 14 / 21 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
-  "expires_at": "2026-07-31T01:00:55+10:00",
+  "data_summary": "SpO2 97%, respiration 14.0",
+  "expires_at": "2026-07-31T01:40:56+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-30T19:00:55+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-07-30T19:40:56+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
