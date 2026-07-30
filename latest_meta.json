@@ -1,11 +1,11 @@
 {
-  "data_summary": "7D SLEEP 7H15 | 41M VS PRIOR 7D | The seven-day sleep average is 7.3 hours, 41 minutes below the prior seven days.",
-  "expires_at": "2026-07-30T20:40:45+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-30T14:40:45+10:00",
-  "title": "Health Insight: 7D SLEEP 7H15",
-  "topic_key": "health_weekly_sleep_trend",
-  "url": ""
+  "data_summary": "leave-work temp 11C; rain below 15% notice threshold",
+  "expires_at": "2026-07-30T21:00:47+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-07-30T15:00:47+10:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
