@@ -1,11 +1,11 @@
 {
-  "data_summary": "SLEEP 6H44 | 46M VS 4W AVG | Last sleep was 6.7 hours with score 78, versus a four-week average of 7.5 hours.",
-  "expires_at": "2026-07-31T17:00:29+10:00",
+  "data_summary": "7D SLEEP 7H01 | 56M VS PRIOR 7D | The seven-day sleep average is 7.0 hours, 56 minutes below the prior seven days.",
+  "expires_at": "2026-07-31T17:20:30+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-31T11:00:29+10:00",
-  "title": "Health Insight: SLEEP 6H44",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-07-31T11:20:30+10:00",
+  "title": "Health Insight: 7D SLEEP 7H01",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
