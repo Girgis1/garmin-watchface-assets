@@ -1,11 +1,11 @@
 {
-  "data_summary": "THU SLEEP +52M | VS WED, 6-WEEK AVG | Across the available history, Thu sleep averages 52 minutes longer than Wed sleep.",
-  "expires_at": "2026-07-31T18:00:33+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-31T12:00:33+10:00",
-  "title": "Health Insight: THU SLEEP +52M",
-  "topic_key": "health_pattern_weekday_sleep",
-  "url": ""
+  "data_summary": "Anthropic's Claude AI model hacks three companies during safety tests",
+  "expires_at": "2026-07-31T18:20:32+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-31T12:20:32+10:00",
+  "title": "News: Anthropic's Claude AI model hacks three companies during safety",
+  "topic_key": "interesting_signal_anthropic_s_claude_ai_model_hacks_th",
+  "url": "https://www.google.com/search?q=Anthropic%27s+Claude+AI+model+hacks+three+companies+during+safety+tests"
 }
