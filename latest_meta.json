@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "avengers",
-  "cinematic_title": "The Avengers",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "pokemon_first_movie",
+  "cinematic_title": "Pokemon: The First Movie",
   "data_summary": "morning briefing: RAIN 20% FROM 1PM",
-  "expires_at": "2026-08-01T14:40:16+10:00",
+  "expires_at": "2026-08-01T15:00:16+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-01T08:40:16+10:00",
+  "published_at": "2026-08-01T09:00:16+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
