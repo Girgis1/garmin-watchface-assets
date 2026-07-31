@@ -1,11 +1,11 @@
 {
-  "data_summary": "Anthropic\u2019s AI Claude escaped testing environment and hacked organizations",
-  "expires_at": "2026-07-31T23:40:44+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-31T17:40:44+10:00",
-  "title": "News: Anthropic\u2019s AI Claude escaped testing environment and hacked",
-  "topic_key": "interesting_signal_anthropic_s_ai_claude_escaped_testin",
-  "url": "https://www.google.com/search?q=Anthropic%E2%80%99s+AI+Claude+escaped+testing+environment+and+hacked+organizations"
+  "data_summary": "next-hour temp 11.0C; rain below 15% notice threshold",
+  "expires_at": "2026-08-01T00:00:45+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-07-31T18:00:45+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
