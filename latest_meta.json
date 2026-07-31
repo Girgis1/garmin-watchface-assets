@@ -1,11 +1,11 @@
 {
-  "data_summary": "CALM DAYS +22 BB | 35 VS 13 / 22 DAYS | Across 22 comparable days, Body Battery averaged 13.1 when stress was 35+ versus 35.4 when stress was below 30. This is a personal association, not proof of cause.",
-  "expires_at": "2026-07-31T19:20:34+10:00",
+  "data_summary": "daily phase midday, temp 16C",
+  "expires_at": "2026-07-31T19:40:34+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-07-31T13:20:34+10:00",
-  "title": "Health Insight: CALM DAYS +22 BB",
-  "topic_key": "health_pattern_stress_body_battery_g",
+  "lane": "local_signal",
+  "published_at": "2026-07-31T13:40:34+10:00",
+  "title": "Daily Context",
+  "topic_key": "daily_context",
   "url": ""
 }
