@@ -1,11 +1,11 @@
 {
-  "data_summary": "INTENSITY 361 MIN | +5% VS PRIOR 7D | Weighted intensity minutes total 361 across the last seven days versus 343 in the prior seven-day window.",
-  "expires_at": "2026-07-31T19:00:33+10:00",
+  "data_summary": "CALM DAYS +22 BB | 35 VS 13 / 22 DAYS | Across 22 comparable days, Body Battery averaged 13.1 when stress was 35+ versus 35.4 when stress was below 30. This is a personal association, not proof of cause.",
+  "expires_at": "2026-07-31T19:20:34+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-31T13:00:33+10:00",
-  "title": "Health Insight: INTENSITY 361 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-07-31T13:20:34+10:00",
+  "title": "Health Insight: CALM DAYS +22 BB",
+  "topic_key": "health_pattern_stress_body_battery_g",
   "url": ""
 }
