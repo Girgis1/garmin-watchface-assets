@@ -1,11 +1,11 @@
 {
-  "data_summary": "waning gibbous, 97% illuminated",
-  "expires_at": "2026-07-31T23:20:43+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-07-31T17:20:43+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "data_summary": "Anthropic\u2019s AI Claude escaped testing environment and hacked organizations",
+  "expires_at": "2026-07-31T23:40:44+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-07-31T17:40:44+10:00",
+  "title": "News: Anthropic\u2019s AI Claude escaped testing environment and hacked",
+  "topic_key": "interesting_signal_anthropic_s_ai_claude_escaped_testin",
+  "url": "https://www.google.com/search?q=Anthropic%E2%80%99s+AI+Claude+escaped+testing+environment+and+hacked+organizations"
 }
