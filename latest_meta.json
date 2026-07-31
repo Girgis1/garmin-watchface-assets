@@ -1,11 +1,11 @@
 {
-  "data_summary": "This new Sydney Metro tour reveals the hidden stories beneath the city",
-  "expires_at": "2026-07-31T20:00:35+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-07-31T14:00:35+10:00",
-  "title": "News: This new Sydney Metro tour reveals the hidden stories beneath",
-  "topic_key": "interesting_signal_this_new_sydney_metro_tour_reveals_t",
-  "url": "https://www.google.com/search?q=This+new+Sydney+Metro+tour+reveals+the+hidden+stories+beneath+the+city"
+  "data_summary": "context phase afternoon, temp 16C",
+  "expires_at": "2026-07-31T20:20:36+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-07-31T14:20:36+10:00",
+  "title": "Afternoon Context",
+  "topic_key": "ambient_context_afternoon",
+  "url": ""
 }
