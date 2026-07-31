@@ -1,11 +1,11 @@
 {
-  "data_summary": "HRV 74 MS | BALANCED 29 DAYS | Seven-day HRV averages 73.9 ms versus 72.6 ms in the prior seven days; latest status is balanced.",
-  "expires_at": "2026-07-31T17:40:30+10:00",
+  "data_summary": "THU SLEEP +52M | VS WED, 6-WEEK AVG | Across the available history, Thu sleep averages 52 minutes longer than Wed sleep.",
+  "expires_at": "2026-07-31T18:00:33+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-07-31T11:40:30+10:00",
-  "title": "Health Insight: HRV 74 MS",
-  "topic_key": "health_hrv_weekly_trend",
+  "published_at": "2026-07-31T12:00:33+10:00",
+  "title": "Health Insight: THU SLEEP +52M",
+  "topic_key": "health_pattern_weekday_sleep",
   "url": ""
 }
