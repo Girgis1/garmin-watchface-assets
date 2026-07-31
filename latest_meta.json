@@ -1,11 +1,11 @@
 {
-  "data_summary": "# Garmin Health Insight Generated: 2026-07-31T16:05:40+10:00 Data through: 2026-07-31 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +22 BB** | 35 VS 13 / 22 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
-  "expires_at": "2026-07-31T22:40:41+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-07-31T16:40:41+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
-  "url": ""
+  "data_summary": "waning gibbous, 97% illuminated",
+  "expires_at": "2026-07-31T23:20:43+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-07-31T17:20:43+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
