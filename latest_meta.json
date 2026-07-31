@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "shrek",
-  "cinematic_title": "Shrek",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "space_odyssey",
+  "cinematic_title": "2001: A Space Odyssey",
   "data_summary": "morning briefing: RAIN 18% FROM 1PM",
-  "expires_at": "2026-08-01T14:00:15+10:00",
+  "expires_at": "2026-08-01T14:20:15+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-01T08:00:15+10:00",
+  "published_at": "2026-08-01T08:20:15+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
