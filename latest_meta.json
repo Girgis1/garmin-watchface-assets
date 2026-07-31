@@ -1,11 +1,11 @@
 {
-  "data_summary": "leave-work temp 11C; rain below 15% notice threshold",
-  "expires_at": "2026-07-31T21:00:38+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather_departure",
-  "published_at": "2026-07-31T15:00:38+10:00",
-  "title": "Leave-Work Weather",
-  "topic_key": "leave_work_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "data_summary": "# Garmin Health Insight Generated: 2026-07-31T16:05:40+10:00 Data through: 2026-07-31 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +22 BB** | 35 VS 13 / 22 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
+  "expires_at": "2026-07-31T22:40:41+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-07-31T16:40:41+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
+  "url": ""
 }
