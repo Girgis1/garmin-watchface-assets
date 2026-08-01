@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "ghostbusters",
-  "cinematic_title": "Ghostbusters",
-  "data_summary": "INTENSITY 395 MIN | +15% VS PRIOR 7D | Weighted intensity minutes total 395 across the last seven days versus 342 in the prior seven-day window.",
-  "expires_at": "2026-08-01T20:20:28+10:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "martian",
+  "cinematic_title": "The Martian",
+  "data_summary": "context phase afternoon, temp 15C",
+  "expires_at": "2026-08-01T20:40:29+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-01T14:20:28+10:00",
-  "title": "Health Insight: INTENSITY 395 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "lane": "local_signal",
+  "published_at": "2026-08-01T14:40:29+10:00",
+  "title": "Afternoon Context",
+  "topic_key": "ambient_context_afternoon",
   "url": ""
 }
