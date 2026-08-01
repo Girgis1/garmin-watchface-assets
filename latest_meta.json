@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "dungeons_dragons_honor",
-  "cinematic_title": "Dungeons & Dragons: Honor Among Thieves",
-  "data_summary": "morning briefing: RAIN 20% FROM 1PM",
-  "expires_at": "2026-08-01T15:40:18+10:00",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "evangelion_thrice",
+  "cinematic_title": "Evangelion: 3.0+1.0",
+  "data_summary": "SpO2 99%, respiration 14.0",
+  "expires_at": "2026-08-01T16:00:19+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-08-01T09:40:18+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-08-01T10:00:19+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
