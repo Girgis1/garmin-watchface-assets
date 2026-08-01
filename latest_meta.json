@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "puss_last_wish",
-  "cinematic_title": "Puss in Boots: The Last Wish",
-  "data_summary": "context phase midday, temp 14C",
-  "expires_at": "2026-08-01T19:00:25+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-01T13:00:25+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
-  "url": ""
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "arrival",
+  "cinematic_title": "Arrival",
+  "data_summary": "OpenAI\u2019s ChatGPT reaches the coupon stage of building an ad business",
+  "expires_at": "2026-08-01T19:20:26+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-01T13:20:26+10:00",
+  "title": "News: OpenAI\u2019s ChatGPT reaches the coupon stage of building an ad",
+  "topic_key": "interesting_signal_openai_s_chatgpt_reaches_the_coupon_",
+  "url": "https://www.google.com/search?q=OpenAI%E2%80%99s+ChatGPT+reaches+the+coupon+stage+of+building+an+ad+business"
 }
