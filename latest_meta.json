@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "arrival",
-  "cinematic_title": "Arrival",
-  "data_summary": "OpenAI\u2019s ChatGPT reaches the coupon stage of building an ad business",
-  "expires_at": "2026-08-01T19:20:26+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-01T13:20:26+10:00",
-  "title": "News: OpenAI\u2019s ChatGPT reaches the coupon stage of building an ad",
-  "topic_key": "interesting_signal_openai_s_chatgpt_reaches_the_coupon_",
-  "url": "https://www.google.com/search?q=OpenAI%E2%80%99s+ChatGPT+reaches+the+coupon+stage+of+building+an+ad+business"
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "alita",
+  "cinematic_title": "Alita: Battle Angel",
+  "data_summary": "BB<20: 14/29 DAYS | 13/14 ALSO STRESS 35+ | Body Battery finished below 20 on 14 of 29 recent complete days; 13 of those days also had average stress of 35 or higher.",
+  "expires_at": "2026-08-01T19:40:27+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-01T13:40:27+10:00",
+  "title": "Health Insight: BB<20: 14/29 DAYS",
+  "topic_key": "health_pattern_low_body_battery_freq",
+  "url": ""
 }
