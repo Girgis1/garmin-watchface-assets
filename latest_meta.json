@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "scream",
-  "cinematic_title": "Scream",
-  "data_summary": "next-hour temp 14.0C, rain 61%, 0.2 mm",
-  "expires_at": "2026-08-01T22:20:33+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-01T16:20:33+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "pans_labyrinth",
+  "cinematic_title": "Pan's Labyrinth",
+  "data_summary": "RHR UP, HRV DOWN | R=-0.68 / N=30 | Across 30 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.68. Treat this as a personal trend signal, not a diagnosis.",
+  "expires_at": "2026-08-01T23:00:34+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-01T17:00:34+10:00",
+  "title": "Health Insight: RHR UP, HRV DOWN",
+  "topic_key": "health_pattern_rhr_hrv_relationship",
+  "url": ""
 }
