@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "war_worlds",
-  "cinematic_title": "War of the Worlds",
-  "data_summary": "CN to EP leave times: 22:11 22:21 22:31",
-  "expires_at": "2026-08-02T04:00:45+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "emperors_new_groove",
+  "cinematic_title": "The Emperor's New Groove",
+  "data_summary": "context phase night, temp 8C",
+  "expires_at": "2026-08-02T04:20:45+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-08-01T22:00:45+10:00",
-  "title": "Commute: CN: 22:11 22:21 22:31",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "published_at": "2026-08-01T22:20:45+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
+  "url": ""
 }
