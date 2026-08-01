@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "men_in_black",
-  "cinematic_title": "Men in Black",
-  "data_summary": "waning gibbous, 92% illuminated",
-  "expires_at": "2026-08-01T22:00:32+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-08-01T16:00:32+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "scream",
+  "cinematic_title": "Scream",
+  "data_summary": "next-hour temp 14.0C, rain 61%, 0.2 mm",
+  "expires_at": "2026-08-01T22:20:33+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-08-01T16:20:33+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
