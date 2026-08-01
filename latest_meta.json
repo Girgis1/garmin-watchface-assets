@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "equilibrium",
-  "cinematic_title": "Equilibrium",
-  "data_summary": "CN to EP leave times: 18:07 18:14 18:21",
-  "expires_at": "2026-08-02T00:00:36+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-01T18:00:36+10:00",
-  "title": "Commute: CN: 18:07 18:14 18:21",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "inside_out",
+  "cinematic_title": "Inside Out",
+  "data_summary": "next-hour temp 12.0C, rain 34%, 0.0 mm",
+  "expires_at": "2026-08-02T00:20:36+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-08-01T18:20:36+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
