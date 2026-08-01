@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "aliens",
-  "cinematic_title": "Aliens",
-  "data_summary": "training intensity minutes today 5",
-  "expires_at": "2026-08-02T02:20:41+10:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "infinity_war",
+  "cinematic_title": "Avengers: Infinity War",
+  "data_summary": "sleep 8.2h, score 85, 21-day avg 7.6h",
+  "expires_at": "2026-08-02T02:40:41+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-01T20:20:41+10:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
+  "published_at": "2026-08-01T20:40:41+10:00",
+  "title": "Sleep Recovery",
+  "topic_key": "health_sleep_recovery",
   "url": ""
 }
