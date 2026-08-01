@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "sicario",
-  "cinematic_title": "Sicario",
-  "data_summary": "next-hour temp 10.2C, rain 8%, 1.6 mm",
-  "expires_at": "2026-08-01T16:20:19+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-01T10:20:19+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "artificial_intelligence",
+  "cinematic_title": "A.I. Artificial Intelligence",
+  "data_summary": "MB to EP leave times: 10:58 11:13 11:28",
+  "expires_at": "2026-08-01T16:40:20+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-01T10:40:20+10:00",
+  "title": "Commute: MB: 10:58 11:13 11:28",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
