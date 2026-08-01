@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "transformers_2007",
-  "cinematic_title": "Transformers",
-  "data_summary": "# Garmin Health Insight Generated: 2026-08-01T10:05:19+10:00 Data through: 2026-08-01 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +22 BB** | 35 VS 14 / 22 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
-  "expires_at": "2026-08-01T17:00:21+10:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "mad_max_fury_road",
+  "cinematic_title": "Mad Max: Fury Road",
+  "data_summary": "SLEEP DIDN'T BEAT STRESS | BB 19 VS 33 / 7.5H+ | Even after 7.5+ hours of sleep, Body Battery averaged 18.7 on 7 high-stress days versus 33.2 on 6 low-stress days. This is an association, not proof of cause.",
+  "expires_at": "2026-08-01T17:20:21+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-01T11:00:21+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-08-01T11:20:21+10:00",
+  "title": "Health Insight: SLEEP DIDN'T BEAT STRESS",
+  "topic_key": "health_pattern_stress_overrides_long",
   "url": ""
 }
