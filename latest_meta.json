@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "infinity_war",
-  "cinematic_title": "Avengers: Infinity War",
-  "data_summary": "sleep 8.2h, score 85, 21-day avg 7.6h",
-  "expires_at": "2026-08-02T02:40:41+10:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "tmnt_1990",
+  "cinematic_title": "Teenage Mutant Ninja Turtles",
+  "data_summary": "context phase night, temp 10C",
+  "expires_at": "2026-08-02T03:00:42+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-01T20:40:41+10:00",
-  "title": "Sleep Recovery",
-  "topic_key": "health_sleep_recovery",
+  "lane": "local_signal",
+  "published_at": "2026-08-01T21:00:42+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
   "url": ""
 }
