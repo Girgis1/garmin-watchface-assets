@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "alita",
-  "cinematic_title": "Alita: Battle Angel",
-  "data_summary": "BB<20: 14/29 DAYS | 13/14 ALSO STRESS 35+ | Body Battery finished below 20 on 14 of 29 recent complete days; 13 of those days also had average stress of 35 or higher.",
-  "expires_at": "2026-08-01T19:40:27+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "ratatouille",
+  "cinematic_title": "Ratatouille",
+  "data_summary": "daily phase afternoon, temp 15C",
+  "expires_at": "2026-08-01T20:00:27+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-01T13:40:27+10:00",
-  "title": "Health Insight: BB<20: 14/29 DAYS",
-  "topic_key": "health_pattern_low_body_battery_freq",
+  "lane": "local_signal",
+  "published_at": "2026-08-01T14:00:27+10:00",
+  "title": "Daily Context",
+  "topic_key": "daily_context",
   "url": ""
 }
