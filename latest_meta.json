@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "tmnt_1990",
-  "cinematic_title": "Teenage Mutant Ninja Turtles",
-  "data_summary": "context phase night, temp 10C",
-  "expires_at": "2026-08-02T03:00:42+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-01T21:00:42+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
-  "url": ""
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "harry_potter_goblet",
+  "cinematic_title": "Harry Potter and the Goblet of Fire",
+  "data_summary": "next-hour temp 9.8C; rain below 15% notice threshold",
+  "expires_at": "2026-08-02T03:20:43+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-08-01T21:20:43+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
