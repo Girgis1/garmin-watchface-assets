@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "batman_1989",
-  "cinematic_title": "Batman",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-08-01T18:40:25+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "puss_last_wish",
+  "cinematic_title": "Puss in Boots: The Last Wish",
+  "data_summary": "context phase midday, temp 14C",
+  "expires_at": "2026-08-01T19:00:25+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-01T12:40:25+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
+  "lane": "local_signal",
+  "published_at": "2026-08-01T13:00:25+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
