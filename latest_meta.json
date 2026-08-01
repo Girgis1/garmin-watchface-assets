@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "mad_max_fury_road",
-  "cinematic_title": "Mad Max: Fury Road",
-  "data_summary": "SLEEP DIDN'T BEAT STRESS | BB 19 VS 33 / 7.5H+ | Even after 7.5+ hours of sleep, Body Battery averaged 18.7 on 7 high-stress days versus 33.2 on 6 low-stress days. This is an association, not proof of cause.",
-  "expires_at": "2026-08-01T17:20:21+10:00",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "pirates_caribbean",
+  "cinematic_title": "Pirates of the Caribbean",
+  "data_summary": "SLEEP 8H10 | +42M VS 4W AVG | Last sleep was 8.2 hours with score 85, versus a four-week average of 7.5 hours.",
+  "expires_at": "2026-08-01T17:40:22+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-01T11:20:21+10:00",
-  "title": "Health Insight: SLEEP DIDN'T BEAT STRESS",
-  "topic_key": "health_pattern_stress_overrides_long",
+  "published_at": "2026-08-01T11:40:22+10:00",
+  "title": "Health Insight: SLEEP 8H10",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
