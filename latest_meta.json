@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "dune_part_two",
-  "cinematic_title": "Dune: Part Two",
-  "data_summary": "HRV BALANCED, avg 71 ms, 21 day balanced streak",
-  "expires_at": "2026-08-02T03:40:44+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-01T21:40:44+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_balanced",
-  "url": ""
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "war_worlds",
+  "cinematic_title": "War of the Worlds",
+  "data_summary": "CN to EP leave times: 22:11 22:21 22:31",
+  "expires_at": "2026-08-02T04:00:45+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-01T22:00:45+10:00",
+  "title": "Commute: CN: 22:11 22:21 22:31",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
