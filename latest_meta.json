@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "artificial_intelligence",
-  "cinematic_title": "A.I. Artificial Intelligence",
-  "data_summary": "MB to EP leave times: 10:58 11:13 11:28",
-  "expires_at": "2026-08-01T16:40:20+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-01T10:40:20+10:00",
-  "title": "Commute: MB: 10:58 11:13 11:28",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "transformers_2007",
+  "cinematic_title": "Transformers",
+  "data_summary": "# Garmin Health Insight Generated: 2026-08-01T10:05:19+10:00 Data through: 2026-08-01 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +22 BB** | 35 VS 14 / 22 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
+  "expires_at": "2026-08-01T17:00:21+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-01T11:00:21+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
+  "url": ""
 }
