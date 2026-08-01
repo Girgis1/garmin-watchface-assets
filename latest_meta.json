@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "martian",
-  "cinematic_title": "The Martian",
-  "data_summary": "context phase afternoon, temp 15C",
-  "expires_at": "2026-08-01T20:40:29+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-01T14:40:29+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
-  "url": ""
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "resident_evil_2002",
+  "cinematic_title": "Resident Evil",
+  "data_summary": "next-hour temp 14.4C, rain 60%, 0.4 mm",
+  "expires_at": "2026-08-01T21:40:31+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-08-01T15:40:31+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
