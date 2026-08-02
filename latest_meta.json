@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "tenet",
-  "cinematic_title": "Tenet",
-  "data_summary": "HRV 73 MS | BALANCED 31 DAYS | Seven-day HRV averages 73.1 ms versus 72.7 ms in the prior seven days; latest status is balanced.",
-  "expires_at": "2026-08-02T18:20:15+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-02T12:20:15+10:00",
-  "title": "Health Insight: HRV 73 MS",
-  "topic_key": "health_hrv_weekly_trend",
-  "url": ""
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "mortal_kombat_1995",
+  "cinematic_title": "Mortal Kombat",
+  "data_summary": "leave-work temp 12C, rain 16%, 0.0 mm",
+  "expires_at": "2026-08-02T21:00:21+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-08-02T15:00:21+10:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
