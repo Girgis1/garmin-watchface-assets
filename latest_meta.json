@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "goonies",
-  "cinematic_title": "The Goonies",
-  "data_summary": "morning briefing: no major weather/sleep drama",
-  "expires_at": "2026-08-02T15:40:09+10:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "top_gun_maverick",
+  "cinematic_title": "Top Gun: Maverick",
+  "data_summary": "7D SLEEP 7H02 | 73M VS PRIOR 7D | The seven-day sleep average is 7.0 hours, 73 minutes below the prior seven days.",
+  "expires_at": "2026-08-02T16:20:11+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-08-02T09:40:09+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-08-02T10:20:11+10:00",
+  "title": "Health Insight: 7D SLEEP 7H02",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
