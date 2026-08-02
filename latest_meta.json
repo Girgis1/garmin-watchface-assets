@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "into_spiderverse",
-  "cinematic_title": "Spider-Man: Into the Spider-Verse",
-  "data_summary": "CN to EP leave times: 21:51 22:01 22:11",
-  "expires_at": "2026-08-03T03:40:36+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-02T21:40:36+10:00",
-  "title": "Commute: CN: 21:51 22:01 22:11",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "harry_potter_hallows",
+  "cinematic_title": "Harry Potter and the Deathly Hallows",
+  "data_summary": "next-hour temp 11.4C; rain below 15% notice threshold",
+  "expires_at": "2026-08-03T04:00:37+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-08-02T22:00:37+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
