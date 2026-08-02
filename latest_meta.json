@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "back_to_future",
-  "cinematic_title": "Back to the Future",
-  "data_summary": "waning gibbous, 84% illuminated",
-  "expires_at": "2026-08-03T01:00:30+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-08-02T19:00:30+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "kung_fu_panda",
+  "cinematic_title": "Kung Fu Panda",
+  "data_summary": "CN to EP leave times: 19:31 19:41 19:51",
+  "expires_at": "2026-08-03T01:20:31+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-02T19:20:31+10:00",
+  "title": "Commute: CN: 19:31 19:41 19:51",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
