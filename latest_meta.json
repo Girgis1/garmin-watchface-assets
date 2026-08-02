@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "mission_fallout",
-  "cinematic_title": "Mission: Impossible - Fallout",
-  "data_summary": "CN to EP leave times: 22:31 22:41 22:51",
-  "expires_at": "2026-08-03T04:20:37+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "hook",
+  "cinematic_title": "Hook",
+  "data_summary": "context phase night, temp 11C",
+  "expires_at": "2026-08-03T04:40:38+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-08-02T22:20:37+10:00",
-  "title": "Commute: CN: 22:31 22:41 22:51",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "published_at": "2026-08-02T22:40:38+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
+  "url": ""
 }
