@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "mortal_kombat_1995",
-  "cinematic_title": "Mortal Kombat",
-  "data_summary": "leave-work temp 12C, rain 16%, 0.0 mm",
-  "expires_at": "2026-08-02T21:00:21+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather_departure",
-  "published_at": "2026-08-02T15:00:21+10:00",
-  "title": "Leave-Work Weather",
-  "topic_key": "leave_work_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "her",
+  "cinematic_title": "Her",
+  "data_summary": "context phase sunset, temp 18C",
+  "expires_at": "2026-08-02T21:20:22+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-02T15:20:22+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
