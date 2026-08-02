@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "kung_fu_panda",
-  "cinematic_title": "Kung Fu Panda",
-  "data_summary": "CN to EP leave times: 19:31 19:41 19:51",
-  "expires_at": "2026-08-03T01:20:31+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-02T19:20:31+10:00",
-  "title": "Commute: CN: 19:31 19:41 19:51",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "raiders_lost_ark",
+  "cinematic_title": "Raiders of the Lost Ark",
+  "data_summary": "INTENSITY 416 MIN | +24% VS PRIOR 7D | Weighted intensity minutes total 416 across the last seven days versus 336 in the prior seven-day window.",
+  "expires_at": "2026-08-03T01:40:31+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-02T19:40:31+10:00",
+  "title": "Health Insight: INTENSITY 416 MIN",
+  "topic_key": "health_weekly_intensity_load",
+  "url": ""
 }
