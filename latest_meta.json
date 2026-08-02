@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "top_gun_maverick",
-  "cinematic_title": "Top Gun: Maverick",
-  "data_summary": "7D SLEEP 7H02 | 73M VS PRIOR 7D | The seven-day sleep average is 7.0 hours, 73 minutes below the prior seven days.",
-  "expires_at": "2026-08-02T16:20:11+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-02T10:20:11+10:00",
-  "title": "Health Insight: 7D SLEEP 7H02",
-  "topic_key": "health_weekly_sleep_trend",
-  "url": ""
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "castlevania",
+  "cinematic_title": "Castlevania",
+  "data_summary": "MB to EP leave times: 10:58 11:14 11:28",
+  "expires_at": "2026-08-02T16:40:11+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-02T10:40:11+10:00",
+  "title": "Commute: MB: 10:58 11:14 11:28",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
