@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "harry_potter_stone",
-  "cinematic_title": "Harry Potter and the Philosopher's Stone",
-  "data_summary": "Record investment in Sydney Trains to boost maintenance, improve reliability and incident response",
-  "expires_at": "2026-08-03T02:20:33+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-02T20:20:33+10:00",
-  "title": "News: Record investment in Sydney Trains to boost maintenance, improve",
-  "topic_key": "interesting_signal_record_investment_in_sydney_trains_t",
-  "url": "https://www.google.com/search?q=Record+investment+in+Sydney+Trains+to+boost+maintenance%2C+improve+reliability+and+incident+response"
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "mummy_1999",
+  "cinematic_title": "The Mummy",
+  "data_summary": "daily phase evening, temp 12C",
+  "expires_at": "2026-08-03T02:40:33+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-02T20:40:33+10:00",
+  "title": "Daily Context",
+  "topic_key": "daily_context",
+  "url": ""
 }
