@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "annihilation",
-  "cinematic_title": "Annihilation",
-  "data_summary": "WALKING 20 MIN | +2M VS YOUR AVG | 20 minutes, compared with a recent walking average of 18 minutes.",
-  "expires_at": "2026-08-04T19:00:12+10:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "groundhog_day",
+  "cinematic_title": "Groundhog Day",
+  "data_summary": "SLEEP 9H29 | +118M VS 4W AVG | Last sleep was 9.5 hours with score 75, versus a four-week average of 7.5 hours.",
+  "expires_at": "2026-08-04T19:03:46+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-04T13:00:12+10:00",
-  "title": "Health Insight: WALKING 20 MIN",
-  "topic_key": "health_activity_23843060175",
+  "published_at": "2026-08-04T13:03:46+10:00",
+  "title": "Health Insight: SLEEP 9H29",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
