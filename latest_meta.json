@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "iron_giant",
-  "cinematic_title": "The Iron Giant",
-  "data_summary": "next-hour temp 12.0C; rain below 15% notice threshold",
-  "expires_at": "2026-08-05T00:00:45+10:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "superman_1978",
+  "cinematic_title": "Superman",
+  "data_summary": "leave-work temp 10C; rain below 15% notice threshold",
+  "expires_at": "2026-08-05T00:40:47+10:00",
   "kind": "weather",
   "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-04T18:00:45+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
+  "lane": "weather_departure",
+  "published_at": "2026-08-04T18:40:47+10:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
   "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
