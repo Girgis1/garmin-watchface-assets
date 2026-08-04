@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "28_days_later",
-  "cinematic_title": "28 Days Later",
-  "data_summary": "Live Gallery: Geordie Greep Captivates A Sold-Out Sydney Metro Theatre 3.08.2026",
-  "expires_at": "2026-08-04T20:20:14+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-04T14:20:14+10:00",
-  "title": "News: Geordie Greep Captivates A Sold-Out Sydney Metro Theatre 3.08.2026",
-  "topic_key": "interesting_signal_geordie_greep_captivates_a_sold_out_",
-  "url": "https://www.google.com/search?q=Live+Gallery%3A+Geordie+Greep+Captivates+A+Sold-Out+Sydney+Metro+Theatre+3.08.2026"
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "howls_moving_castle",
+  "cinematic_title": "Howl's Moving Castle",
+  "data_summary": "SLEEP DIDN'T BEAT STRESS | BB 19 VS 33 / 7.5H+ | Even after 7.5+ hours of sleep, Body Battery averaged 18.7 on 7 high-stress days versus 33.3 on 6 low-stress days. This is an association, not proof of cause.",
+  "expires_at": "2026-08-04T20:40:14+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-04T14:40:14+10:00",
+  "title": "Health Insight: SLEEP DIDN'T BEAT STRESS",
+  "topic_key": "health_pattern_stress_overrides_long",
+  "url": ""
 }
