@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "labyrinth",
-  "cinematic_title": "Labyrinth",
-  "data_summary": "INTENSITY 242 MIN | 21% VS PRIOR 7D | Weighted intensity minutes total 242 across the last seven days versus 306 in the prior seven-day window.",
-  "expires_at": "2026-08-04T19:40:12+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "atlantis_lost_empire",
+  "cinematic_title": "Atlantis: The Lost Empire",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-08-04T20:00:13+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-04T13:40:12+10:00",
-  "title": "Health Insight: INTENSITY 242 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-08-04T14:00:13+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
