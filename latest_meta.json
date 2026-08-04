@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "fifth_element",
-  "cinematic_title": "The Fifth Element",
-  "data_summary": "CN to EP leave times: 21:11 21:21 21:31",
-  "expires_at": "2026-08-05T03:00:55+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "wreck_it_ralph",
+  "cinematic_title": "Wreck-It Ralph",
+  "data_summary": "CN to EP leave times: 21:31 21:41 21:51",
+  "expires_at": "2026-08-05T03:20:56+10:00",
   "kind": "rail",
   "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-04T21:00:55+10:00",
-  "title": "Commute: CN: 21:11 21:21 21:31",
+  "published_at": "2026-08-04T21:20:56+10:00",
+  "title": "Commute: CN: 21:31 21:41 21:51",
   "topic_key": "transit_alert",
   "url": "https://transportnsw.info/alerts#/metro-train"
 }
