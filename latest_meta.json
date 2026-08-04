@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "empire_strikes_back",
-  "cinematic_title": "The Empire Strikes Back",
-  "data_summary": "SpO2 98%, respiration 13.0",
-  "expires_at": "2026-08-05T02:20:52+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-04T20:20:52+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
-  "url": ""
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "master_commander",
+  "cinematic_title": "Master and Commander",
+  "data_summary": "next-hour temp 9.5C; rain below 15% notice threshold",
+  "expires_at": "2026-08-05T02:40:53+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-08-04T20:40:53+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
