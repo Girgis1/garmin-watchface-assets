@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "howls_moving_castle",
-  "cinematic_title": "Howl's Moving Castle",
-  "data_summary": "SLEEP DIDN'T BEAT STRESS | BB 19 VS 33 / 7.5H+ | Even after 7.5+ hours of sleep, Body Battery averaged 18.7 on 7 high-stress days versus 33.3 on 6 low-stress days. This is an association, not proof of cause.",
-  "expires_at": "2026-08-04T20:40:14+10:00",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "street_fighter_1994",
+  "cinematic_title": "Street Fighter",
+  "data_summary": "context phase sunset, temp 16C",
+  "expires_at": "2026-08-04T21:00:16+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-04T14:40:14+10:00",
-  "title": "Health Insight: SLEEP DIDN'T BEAT STRESS",
-  "topic_key": "health_pattern_stress_overrides_long",
+  "lane": "local_signal",
+  "published_at": "2026-08-04T15:00:16+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
