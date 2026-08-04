@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "ferris_bueller",
-  "cinematic_title": "Ferris Bueller's Day Off",
-  "data_summary": "7D SLEEP 7H42 | 1M VS PRIOR 7D | The seven-day sleep average is 7.7 hours, 1 minutes below the prior seven days.",
-  "expires_at": "2026-08-04T21:40:39+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "matrix_reloaded",
+  "cinematic_title": "The Matrix Reloaded",
+  "data_summary": "# Garmin Health Insight Generated: 2026-08-04T15:05:15+10:00 Data through: 2026-08-04 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +18 BB** | 33 VS 15 / 21 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
+  "expires_at": "2026-08-04T22:00:40+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-04T15:40:39+10:00",
-  "title": "Health Insight: 7D SLEEP 7H42",
-  "topic_key": "health_weekly_sleep_trend",
+  "published_at": "2026-08-04T16:00:40+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
