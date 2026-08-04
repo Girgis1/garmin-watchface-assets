@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "dune",
-  "cinematic_title": "Dune",
-  "data_summary": "leave-work temp 11C; rain below 15% notice threshold",
-  "expires_at": "2026-08-04T21:20:38+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather_departure",
-  "published_at": "2026-08-04T15:20:38+10:00",
-  "title": "Leave-Work Weather",
-  "topic_key": "leave_work_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "ferris_bueller",
+  "cinematic_title": "Ferris Bueller's Day Off",
+  "data_summary": "7D SLEEP 7H42 | 1M VS PRIOR 7D | The seven-day sleep average is 7.7 hours, 1 minutes below the prior seven days.",
+  "expires_at": "2026-08-04T21:40:39+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-04T15:40:39+10:00",
+  "title": "Health Insight: 7D SLEEP 7H42",
+  "topic_key": "health_weekly_sleep_trend",
+  "url": ""
 }
