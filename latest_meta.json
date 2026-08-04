@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "gladiator",
-  "cinematic_title": "Gladiator",
-  "data_summary": "CN to EP leave times: 19:51 20:01 20:11",
-  "expires_at": "2026-08-05T01:40:51+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "lotr_return_king",
+  "cinematic_title": "The Lord of the Rings: The Return of the King",
+  "data_summary": "context phase evening, temp 10C",
+  "expires_at": "2026-08-05T02:00:52+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-08-04T19:40:51+10:00",
-  "title": "Commute: CN: 19:51 20:01 20:11",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "published_at": "2026-08-04T20:00:52+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
+  "url": ""
 }
