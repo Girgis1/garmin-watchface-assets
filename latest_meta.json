@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "alien",
-  "cinematic_title": "Alien",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "hot_fuzz",
+  "cinematic_title": "Hot Fuzz",
   "data_summary": "morning briefing: no major weather/sleep drama",
-  "expires_at": "2026-08-05T15:00:33+10:00",
+  "expires_at": "2026-08-05T15:20:34+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-05T09:00:33+10:00",
+  "published_at": "2026-08-05T09:20:34+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
