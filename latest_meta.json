@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "dragon_ball_broly",
-  "cinematic_title": "Dragon Ball Super: Broly",
-  "data_summary": "CN to EP leave times: 22:11 22:21 22:31",
-  "expires_at": "2026-08-05T04:00:58+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-04T22:00:58+10:00",
-  "title": "Commute: CN: 22:11 22:21 22:31",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "real_steel",
+  "cinematic_title": "Real Steel",
+  "data_summary": "goodnight stage soft: You're nearly off duty. Behave like it.; no extra alerts",
+  "expires_at": "2026-08-05T05:00:01+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "goodnight",
+  "published_at": "2026-08-04T23:00:01+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
+  "url": ""
 }
