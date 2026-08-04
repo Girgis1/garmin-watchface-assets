@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "matrix_reloaded",
-  "cinematic_title": "The Matrix Reloaded",
-  "data_summary": "# Garmin Health Insight Generated: 2026-08-04T15:05:15+10:00 Data through: 2026-08-04 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +18 BB** | 33 VS 15 / 21 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
-  "expires_at": "2026-08-04T22:00:40+10:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "wrath_of_khan",
+  "cinematic_title": "Star Trek II: The Wrath of Khan",
+  "data_summary": "daily phase sunset, temp 15C",
+  "expires_at": "2026-08-04T22:40:42+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-04T16:00:40+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "lane": "local_signal",
+  "published_at": "2026-08-04T16:40:42+10:00",
+  "title": "Daily Context",
+  "topic_key": "daily_context",
   "url": ""
 }
