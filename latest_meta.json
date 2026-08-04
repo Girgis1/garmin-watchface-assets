@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "cloudy_meatballs",
-  "cinematic_title": "Cloudy with a Chance of Meatballs",
-  "data_summary": "waning gibbous, 67% illuminated",
-  "expires_at": "2026-08-04T23:20:44+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-08-04T17:20:44+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "willow",
+  "cinematic_title": "Willow",
+  "data_summary": "context phase sunset, temp 13C",
+  "expires_at": "2026-08-04T23:40:44+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-04T17:40:44+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
