@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "atlantis_lost_empire",
-  "cinematic_title": "Atlantis: The Lost Empire",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-08-04T20:00:13+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-04T14:00:13+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "28_days_later",
+  "cinematic_title": "28 Days Later",
+  "data_summary": "Live Gallery: Geordie Greep Captivates A Sold-Out Sydney Metro Theatre 3.08.2026",
+  "expires_at": "2026-08-04T20:20:14+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-04T14:20:14+10:00",
+  "title": "News: Geordie Greep Captivates A Sold-Out Sydney Metro Theatre 3.08.2026",
+  "topic_key": "interesting_signal_geordie_greep_captivates_a_sold_out_",
+  "url": "https://www.google.com/search?q=Live+Gallery%3A+Geordie+Greep+Captivates+A+Sold-Out+Sydney+Metro+Theatre+3.08.2026"
 }
