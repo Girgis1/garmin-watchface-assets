@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "robocop",
-  "cinematic_title": "RoboCop",
-  "data_summary": "BB<20: 14/29 DAYS | 13/14 ALSO STRESS 35+ | Body Battery finished below 20 on 14 of 29 recent complete days; 13 of those days also had average stress of 35 or higher.",
-  "expires_at": "2026-08-05T17:20:42+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "incredibles",
+  "cinematic_title": "The Incredibles",
+  "data_summary": "INTENSITY 115 MIN | 68% VS PRIOR 7D | Weighted intensity minutes total 115 across the last seven days versus 357 in the prior seven-day window.",
+  "expires_at": "2026-08-05T17:40:42+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-05T11:20:42+10:00",
-  "title": "Health Insight: BB<20: 14/29 DAYS",
-  "topic_key": "health_pattern_low_body_battery_freq",
+  "published_at": "2026-08-05T11:40:42+10:00",
+  "title": "Health Insight: INTENSITY 115 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
