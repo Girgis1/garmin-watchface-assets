@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "memento",
-  "cinematic_title": "Memento",
-  "data_summary": "last quarter, 57% illuminated",
-  "expires_at": "2026-08-05T22:20:55+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-08-05T16:20:55+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "the_rock",
+  "cinematic_title": "The Rock",
+  "data_summary": "Mother sues OpenAI in US after daughter\u2019s death linked to ChatGPT use",
+  "expires_at": "2026-08-05T23:00:59+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-05T17:00:59+10:00",
+  "title": "News: Mother sues OpenAI in US after daughter\u2019s death linked to",
+  "topic_key": "interesting_signal_mother_sues_openai_in_us_after_daugh",
+  "url": "https://www.google.com/search?q=Mother+sues+OpenAI+in+US+after+daughter%E2%80%99s+death+linked+to+ChatGPT+use"
 }
