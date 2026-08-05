@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "the_thing",
-  "cinematic_title": "The Thing",
-  "data_summary": "7D SLEEP 7H46 | +14M VS PRIOR 7D | The seven-day sleep average is 7.8 hours, 14 minutes above the prior seven days.",
-  "expires_at": "2026-08-05T20:00:50+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "toy_story",
+  "cinematic_title": "Toy Story",
+  "data_summary": "context phase afternoon, temp 16C",
+  "expires_at": "2026-08-05T20:40:51+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-05T14:00:50+10:00",
-  "title": "Health Insight: 7D SLEEP 7H46",
-  "topic_key": "health_weekly_sleep_trend",
+  "lane": "local_signal",
+  "published_at": "2026-08-05T14:40:51+10:00",
+  "title": "Afternoon Context",
+  "topic_key": "ambient_context_afternoon",
   "url": ""
 }
