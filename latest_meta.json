@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "se7en",
-  "cinematic_title": "Se7en",
-  "data_summary": "context phase night, temp 8C",
-  "expires_at": "2026-08-06T04:40:19+10:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "superbad",
+  "cinematic_title": "Superbad",
+  "data_summary": "goodnight stage soft: Moon's taking over. Hand in your little clipboard.; SLEEP DEBT 6.1H",
+  "expires_at": "2026-08-06T05:00:20+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-05T22:40:19+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
+  "lane": "goodnight",
+  "published_at": "2026-08-05T23:00:20+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
