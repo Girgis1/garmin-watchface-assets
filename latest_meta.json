@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "looper",
-  "cinematic_title": "Looper",
-  "data_summary": "context phase midday, temp 14C",
-  "expires_at": "2026-08-05T18:40:45+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-05T12:40:45+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
-  "url": ""
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "district_9",
+  "cinematic_title": "District 9",
+  "data_summary": "Two 1,490-ton boring machines that had already dug the Sydney Metro were trucked to Brisbane in parts, rebuilt, tested, taken apart again",
+  "expires_at": "2026-08-05T19:00:47+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-05T13:00:47+10:00",
+  "title": "News: Two 1,490-ton boring machines that had already dug the Sydney",
+  "topic_key": "interesting_signal_two_1_490_ton_boring_machines_that_h",
+  "url": "https://www.google.com/search?q=Two+1%2C490-ton+boring+machines+that+had+already+dug+the+Sydney+Metro+were+trucked+to+Brisbane+in+parts%2C+rebuilt%2C+tested%2C+taken+apart+again"
 }
