@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "chappie",
-  "cinematic_title": "Chappie",
-  "data_summary": "context phase sunset, temp 13C",
-  "expires_at": "2026-08-05T23:20:59+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "source_code",
+  "cinematic_title": "Source Code",
+  "data_summary": "BB TREND +2.9/DAY | 27 -> 82 / 14D | Comparable daily Body Battery values moved from 27 to 82, with a fitted trend of +2.9 points per day.",
+  "expires_at": "2026-08-05T23:41:00+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-05T17:20:59+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-08-05T17:41:00+10:00",
+  "title": "Health Insight: BB TREND +2.9/DAY",
+  "topic_key": "health_pattern_body_battery_14d_tren",
   "url": ""
 }
