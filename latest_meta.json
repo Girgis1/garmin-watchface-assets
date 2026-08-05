@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "home_alone",
-  "cinematic_title": "Home Alone",
-  "data_summary": "CN to EP leave times: 18:26 18:30 18:33",
-  "expires_at": "2026-08-06T00:20:01+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-05T18:20:01+10:00",
-  "title": "Commute: CN: 18:26 18:30 18:33",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "terminator_2",
+  "cinematic_title": "Terminator 2",
+  "data_summary": "Sydney Trains deploys new state-of-the-art maintenance wagons",
+  "expires_at": "2026-08-06T00:40:02+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-05T18:40:02+10:00",
+  "title": "News: Sydney Trains deploys new state-of-the-art maintenance wagons",
+  "topic_key": "interesting_signal_sydney_trains_deploys_new_state_of_t",
+  "url": "https://www.google.com/search?q=Sydney+Trains+deploys+new+state-of-the-art+maintenance+wagons"
 }
