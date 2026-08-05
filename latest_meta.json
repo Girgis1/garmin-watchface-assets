@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "terminator_2",
-  "cinematic_title": "Terminator 2",
-  "data_summary": "Sydney Trains deploys new state-of-the-art maintenance wagons",
-  "expires_at": "2026-08-06T00:40:02+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-05T18:40:02+10:00",
-  "title": "News: Sydney Trains deploys new state-of-the-art maintenance wagons",
-  "topic_key": "interesting_signal_sydney_trains_deploys_new_state_of_t",
-  "url": "https://www.google.com/search?q=Sydney+Trains+deploys+new+state-of-the-art+maintenance+wagons"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "despicable_me",
+  "cinematic_title": "Despicable Me",
+  "data_summary": "next-hour temp 10.5C; rain below 15% notice threshold",
+  "expires_at": "2026-08-06T01:00:04+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-08-05T19:00:04+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
