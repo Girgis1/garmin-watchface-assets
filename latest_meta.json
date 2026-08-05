@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "warcraft",
-  "cinematic_title": "Warcraft",
-  "data_summary": "MB to EP leave times: 10:50 11:03 11:18",
-  "expires_at": "2026-08-05T16:40:40+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-05T10:40:40+10:00",
-  "title": "Commute: MB: 10:50 11:03 11:18",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "wall_e",
+  "cinematic_title": "WALL-E",
+  "data_summary": "# Garmin Health Insight Generated: 2026-08-05T10:05:38+10:00 Data through: 2026-08-05 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +18 BB** | 33 VS 15 / 21 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
+  "expires_at": "2026-08-05T17:00:41+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-05T11:00:41+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
+  "url": ""
 }
