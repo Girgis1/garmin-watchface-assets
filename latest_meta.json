@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "king_kong_2005",
-  "cinematic_title": "King Kong",
-  "data_summary": "next-hour temp 11.0C; rain below 15% notice threshold",
-  "expires_at": "2026-08-05T16:20:39+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-05T10:20:39+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "warcraft",
+  "cinematic_title": "Warcraft",
+  "data_summary": "MB to EP leave times: 10:50 11:03 11:18",
+  "expires_at": "2026-08-05T16:40:40+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-05T10:40:40+10:00",
+  "title": "Commute: MB: 10:50 11:03 11:18",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
