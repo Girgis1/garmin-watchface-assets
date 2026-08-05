@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "megamind",
-  "cinematic_title": "Megamind",
-  "data_summary": "CN to EP leave times: 20:31 20:41 20:51",
-  "expires_at": "2026-08-06T02:20:12+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-05T20:20:12+10:00",
-  "title": "Commute: CN: 20:31 20:41 20:51",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "watchmen",
+  "cinematic_title": "Watchmen",
+  "data_summary": "STRESSFUL BEFORE BED | 8 OF 14 NIGHTS | Garmin's Body Battery feedback marked 8 of 14 recent nights as stressful around sleep preparation.",
+  "expires_at": "2026-08-06T02:40:13+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-05T20:40:13+10:00",
+  "title": "Health Insight: STRESSFUL BEFORE BED",
+  "topic_key": "health_pattern_pre_sleep_stress_feed",
+  "url": ""
 }
