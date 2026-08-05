@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "despicable_me",
-  "cinematic_title": "Despicable Me",
-  "data_summary": "next-hour temp 10.5C; rain below 15% notice threshold",
-  "expires_at": "2026-08-06T01:00:04+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-05T19:00:04+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "gravity",
+  "cinematic_title": "Gravity",
+  "data_summary": "NO 80+ BB FINISHES | 70 / 29 DAYS | None of 29 recent complete days finished above Body Battery 80; the best finish was 70. This describes the recent data window, not a diagnosis.",
+  "expires_at": "2026-08-06T01:20:04+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-05T19:20:04+10:00",
+  "title": "Health Insight: NO 80+ BB FINISHES",
+  "topic_key": "health_pattern_body_battery_recovery",
+  "url": ""
 }
