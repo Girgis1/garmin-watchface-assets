@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "gravity",
-  "cinematic_title": "Gravity",
-  "data_summary": "NO 80+ BB FINISHES | 70 / 29 DAYS | None of 29 recent complete days finished above Body Battery 80; the best finish was 70. This describes the recent data window, not a diagnosis.",
-  "expires_at": "2026-08-06T01:20:04+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-05T19:20:04+10:00",
-  "title": "Health Insight: NO 80+ BB FINISHES",
-  "topic_key": "health_pattern_body_battery_recovery",
-  "url": ""
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "no_country",
+  "cinematic_title": "No Country for Old Men",
+  "data_summary": "CN to EP leave times: 19:51 20:01 20:11",
+  "expires_at": "2026-08-06T01:40:05+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-05T19:40:05+10:00",
+  "title": "Commute: CN: 19:51 20:01 20:11",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
