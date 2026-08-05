@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "neverending_story",
-  "cinematic_title": "The NeverEnding Story",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "rogue_one",
+  "cinematic_title": "Rogue One",
   "data_summary": "morning briefing: ROUGH SLEEP 6.5H",
-  "expires_at": "2026-08-06T15:00:50+10:00",
+  "expires_at": "2026-08-06T15:20:51+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-06T09:00:50+10:00",
+  "published_at": "2026-08-06T09:20:51+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
