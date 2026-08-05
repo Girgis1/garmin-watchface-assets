@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "lego_batman",
-  "cinematic_title": "The Lego Batman Movie",
-  "data_summary": "THU SLEEP +79M | VS WED, 6-WEEK AVG | Across the available history, Thu sleep averages 79 minutes longer than Wed sleep.",
-  "expires_at": "2026-08-06T04:20:18+10:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "se7en",
+  "cinematic_title": "Se7en",
+  "data_summary": "context phase night, temp 8C",
+  "expires_at": "2026-08-06T04:40:19+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-05T22:20:18+10:00",
-  "title": "Health Insight: THU SLEEP +79M",
-  "topic_key": "health_pattern_weekday_sleep",
+  "lane": "local_signal",
+  "published_at": "2026-08-05T22:40:19+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
   "url": ""
 }
