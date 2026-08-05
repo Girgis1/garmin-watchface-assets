@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "cowboy_bebop_movie",
-  "cinematic_title": "Cowboy Bebop: The Movie",
-  "data_summary": "next-hour temp 11.4C; rain below 15% notice threshold",
-  "expires_at": "2026-08-06T00:00:01+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-05T18:00:01+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "home_alone",
+  "cinematic_title": "Home Alone",
+  "data_summary": "CN to EP leave times: 18:26 18:30 18:33",
+  "expires_at": "2026-08-06T00:20:01+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-05T18:20:01+10:00",
+  "title": "Commute: CN: 18:26 18:30 18:33",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
