@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "detective_pikachu",
-  "cinematic_title": "Detective Pikachu",
-  "data_summary": "goodnight stage stern: Stop feeding today with tomorrow's energy.; SLEEP DEBT 6.1H",
-  "expires_at": "2026-08-06T05:40:22+10:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "casino_royale",
+  "cinematic_title": "Casino Royale",
+  "data_summary": "morning briefing: no major weather/sleep drama",
+  "expires_at": "2026-08-06T14:00:47+10:00",
   "kind": "none",
   "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-08-05T23:40:22+10:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "lane": "morning",
+  "published_at": "2026-08-06T08:00:47+10:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
