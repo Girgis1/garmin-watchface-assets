@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "toy_story",
-  "cinematic_title": "Toy Story",
-  "data_summary": "context phase afternoon, temp 16C",
-  "expires_at": "2026-08-05T20:40:51+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-05T14:40:51+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
-  "url": ""
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "speed",
+  "cinematic_title": "Speed",
+  "data_summary": "leave-work temp 10C; rain below 15% notice threshold",
+  "expires_at": "2026-08-05T21:00:52+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-08-05T15:00:52+10:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
