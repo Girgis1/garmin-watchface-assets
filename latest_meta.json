@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "sunshine",
-  "cinematic_title": "Sunshine",
-  "data_summary": "CN to EP leave times: 22:51 23:01 23:11",
-  "expires_at": "2026-08-07T04:40:25+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-06T22:40:25+10:00",
-  "title": "Commute: CN: 22:51 23:01 23:11",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "it_2017",
+  "cinematic_title": "It",
+  "data_summary": "goodnight stage soft: You can let the day finish. It knows the way.; SLEEP DEBT 6.5H",
+  "expires_at": "2026-08-07T05:00:27+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "goodnight",
+  "published_at": "2026-08-06T23:00:27+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
+  "url": ""
 }
