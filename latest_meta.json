@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "space_jam",
-  "cinematic_title": "Space Jam",
-  "data_summary": "Driver on the run after Sydney pursuit; Migrants flood Spanish border point",
-  "expires_at": "2026-08-06T18:00:03+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-06T12:00:03+10:00",
-  "title": "News: Driver on the run after Sydney pursuit; Migrants flood Spanish",
-  "topic_key": "interesting_signal_driver_on_the_run_after_sydney_pursu",
-  "url": "https://www.google.com/search?q=Driver+on+the+run+after+Sydney+pursuit%3B+Migrants+flood+Spanish+border+point"
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "prisoners",
+  "cinematic_title": "Prisoners",
+  "data_summary": "context phase midday, temp 14C",
+  "expires_at": "2026-08-06T18:20:04+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-06T12:20:04+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
+  "url": ""
 }
