@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "tron_legacy",
-  "cinematic_title": "TRON: Legacy",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-08-06T17:40:01+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-06T11:40:01+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "space_jam",
+  "cinematic_title": "Space Jam",
+  "data_summary": "Driver on the run after Sydney pursuit; Migrants flood Spanish border point",
+  "expires_at": "2026-08-06T18:00:03+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-06T12:00:03+10:00",
+  "title": "News: Driver on the run after Sydney pursuit; Migrants flood Spanish",
+  "topic_key": "interesting_signal_driver_on_the_run_after_sydney_pursu",
+  "url": "https://www.google.com/search?q=Driver+on+the+run+after+Sydney+pursuit%3B+Migrants+flood+Spanish+border+point"
 }
