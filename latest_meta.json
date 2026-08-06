@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "pokemon_kanto",
-  "cinematic_title": "Pokemon: Indigo League",
-  "data_summary": "MB to EP leave times: 10:50 11:03 11:18",
-  "expires_at": "2026-08-06T16:40:58+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-06T10:40:58+10:00",
-  "title": "Commute: MB: 10:50 11:03 11:18",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "kubo",
+  "cinematic_title": "Kubo and the Two Strings",
+  "data_summary": "SLEEP 6H27 | 67M VS 4W AVG | Last sleep was 6.5 hours with score 77, versus a four-week average of 7.6 hours.",
+  "expires_at": "2026-08-06T17:01:00+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-06T11:01:00+10:00",
+  "title": "Health Insight: SLEEP 6H27",
+  "topic_key": "health_sleep_vs_baseline",
+  "url": ""
 }
