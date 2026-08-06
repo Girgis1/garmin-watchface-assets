@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "independence_day",
-  "cinematic_title": "Independence Day",
-  "data_summary": "last quarter, 47% illuminated",
-  "expires_at": "2026-08-06T21:20:16+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-08-06T15:20:16+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "dark_knight",
+  "cinematic_title": "The Dark Knight",
+  "data_summary": "context phase sunset, temp 16C",
+  "expires_at": "2026-08-06T21:40:17+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-06T15:40:17+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
