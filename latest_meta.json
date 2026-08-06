@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "treasure_planet",
-  "cinematic_title": "Treasure Planet",
-  "data_summary": "CN to EP leave times: 19:51 20:01 20:11",
-  "expires_at": "2026-08-07T01:40:35+10:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "winter_soldier",
+  "cinematic_title": "Captain America: The Winter Soldier",
+  "data_summary": "CN to EP leave times: 20:11 20:21 20:31",
+  "expires_at": "2026-08-07T02:00:35+10:00",
   "kind": "rail",
   "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-06T19:40:35+10:00",
-  "title": "Commute: CN: 19:51 20:01 20:11",
+  "published_at": "2026-08-06T20:00:35+10:00",
+  "title": "Commute: CN: 20:11 20:21 20:31",
   "topic_key": "transit_alert",
   "url": "https://transportnsw.info/alerts#/metro-train"
 }
