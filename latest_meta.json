@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "deadpool",
-  "cinematic_title": "Deadpool",
-  "data_summary": "goodnight stage midnight_strict: GO TO BED. Cease all side quests.; no extra alerts",
-  "expires_at": "2026-08-07T06:00:30+10:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "kill_bill",
+  "cinematic_title": "Kill Bill",
+  "data_summary": "morning briefing: no major weather/sleep drama",
+  "expires_at": "2026-08-07T14:00:51+10:00",
   "kind": "none",
   "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-08-07T00:00:30+10:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "lane": "morning",
+  "published_at": "2026-08-07T08:00:51+10:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
