@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "last_samurai",
-  "cinematic_title": "The Last Samurai",
-  "data_summary": "next-hour temp 7.6C; rain below 15% notice threshold",
-  "expires_at": "2026-08-07T04:00:31+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-06T22:00:31+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "sunshine",
+  "cinematic_title": "Sunshine",
+  "data_summary": "CN to EP leave times: 22:51 23:01 23:11",
+  "expires_at": "2026-08-07T04:40:25+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-06T22:40:25+10:00",
+  "title": "Commute: CN: 22:51 23:01 23:11",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
