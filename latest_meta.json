@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "zoolander",
-  "cinematic_title": "Zoolander",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "guardians_vol2",
+  "cinematic_title": "Guardians of the Galaxy Vol. 2",
   "data_summary": "morning briefing: ROUGH SLEEP 7.9H",
-  "expires_at": "2026-08-07T15:00:55+10:00",
+  "expires_at": "2026-08-07T15:20:55+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-07T09:00:55+10:00",
+  "published_at": "2026-08-07T09:20:55+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
