@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "guardians_vol2",
-  "cinematic_title": "Guardians of the Galaxy Vol. 2",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "skyfall",
+  "cinematic_title": "Skyfall",
   "data_summary": "morning briefing: ROUGH SLEEP 7.9H",
-  "expires_at": "2026-08-07T15:20:55+10:00",
+  "expires_at": "2026-08-07T15:40:56+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-07T09:20:55+10:00",
+  "published_at": "2026-08-07T09:40:56+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
