@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "the_batman",
-  "cinematic_title": "The Batman",
-  "data_summary": "context phase midday, temp 15C",
-  "expires_at": "2026-08-06T19:40:08+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-06T13:40:08+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
-  "url": ""
+  "cinematic_group": "animation_family",
+  "cinematic_key": "lego_movie",
+  "cinematic_title": "The Lego Movie",
+  "data_summary": "leave-work temp 11C; rain below 15% notice threshold",
+  "expires_at": "2026-08-06T21:00:15+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-08-06T15:00:15+10:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
