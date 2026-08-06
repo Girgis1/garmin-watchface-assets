@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "arcane",
-  "cinematic_title": "Arcane",
-  "data_summary": "Sydney Metro Project Update-Dulwich Hill Station Open-Day",
-  "expires_at": "2026-08-07T02:40:37+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-06T20:40:37+10:00",
-  "title": "News: Sydney Metro Project Update-Dulwich Hill Station Open-Day",
-  "topic_key": "interesting_signal_sydney_metro_project_update_dulwich_",
-  "url": "https://www.google.com/search?q=Sydney+Metro+Project+Update-Dulwich+Hill+Station+Open-Day"
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "batman_begins",
+  "cinematic_title": "Batman Begins",
+  "data_summary": "next-hour temp 8.5C; rain below 15% notice threshold",
+  "expires_at": "2026-08-07T03:00:39+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-08-06T21:00:39+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
