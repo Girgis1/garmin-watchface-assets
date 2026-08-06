@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "cyberpunk_edgerunners",
-  "cinematic_title": "Cyberpunk: Edgerunners",
-  "data_summary": "# Garmin Health Insight Generated: 2026-08-06T17:37:28+10:00 Data through: 2026-08-06 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +17 BB** | 32 VS 14 / 22 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
-  "expires_at": "2026-08-06T23:40:28+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "finding_nemo",
+  "cinematic_title": "Finding Nemo",
+  "data_summary": "SpO2 98%, respiration 14.0",
+  "expires_at": "2026-08-07T00:00:30+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-06T17:40:28+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-08-06T18:00:30+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
