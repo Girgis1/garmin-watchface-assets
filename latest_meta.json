@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "face_off",
-  "cinematic_title": "Face/Off",
-  "data_summary": "7D SLEEP 7H31 | +15M VS PRIOR 7D | The seven-day sleep average is 7.5 hours, 15 minutes above the prior seven days.",
-  "expires_at": "2026-08-06T18:40:05+10:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "jumanji_1995",
+  "cinematic_title": "Jumanji",
+  "data_summary": "daily phase midday, temp 15C",
+  "expires_at": "2026-08-06T19:00:06+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-06T12:40:05+10:00",
-  "title": "Health Insight: 7D SLEEP 7H31",
-  "topic_key": "health_weekly_sleep_trend",
+  "lane": "local_signal",
+  "published_at": "2026-08-06T13:00:06+10:00",
+  "title": "Daily Context",
+  "topic_key": "daily_context",
   "url": ""
 }
