@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "gundam_hathaway",
-  "cinematic_title": "Mobile Suit Gundam Hathaway",
-  "data_summary": "No rail commute to Sydney if this 100-year-old link in train line fails",
-  "expires_at": "2026-08-06T19:20:07+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-06T13:20:07+10:00",
-  "title": "News: No rail commute to Sydney if this 100-year-old link in",
-  "topic_key": "interesting_signal_no_rail_commute_to_sydney_if_this_10",
-  "url": "https://www.google.com/search?q=No+rail+commute+to+Sydney+if+this+100-year-old+link+in+train+line+fails"
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "the_batman",
+  "cinematic_title": "The Batman",
+  "data_summary": "context phase midday, temp 15C",
+  "expires_at": "2026-08-06T19:40:08+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-06T13:40:08+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
+  "url": ""
 }
