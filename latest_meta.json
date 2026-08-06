@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "twister",
-  "cinematic_title": "Twister",
-  "data_summary": "INTENSITY 96 MIN | 74% VS PRIOR 7D | Weighted intensity minutes total 96 across the last seven days versus 363 in the prior seven-day window.",
-  "expires_at": "2026-08-06T16:00:52+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-06T10:00:52+10:00",
-  "title": "Health Insight: INTENSITY 96 MIN",
-  "topic_key": "health_weekly_intensity_load",
-  "url": ""
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "pokemon_kanto",
+  "cinematic_title": "Pokemon: Indigo League",
+  "data_summary": "MB to EP leave times: 10:50 11:03 11:18",
+  "expires_at": "2026-08-06T16:40:58+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-06T10:40:58+10:00",
+  "title": "Commute: MB: 10:50 11:03 11:18",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
