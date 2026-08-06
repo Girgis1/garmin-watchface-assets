@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "school_rock",
-  "cinematic_title": "School of Rock",
-  "data_summary": "CN to EP leave times: 20:31 20:41 20:51",
-  "expires_at": "2026-08-07T02:20:36+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-06T20:20:36+10:00",
-  "title": "Commute: CN: 20:31 20:41 20:51",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "arcane",
+  "cinematic_title": "Arcane",
+  "data_summary": "Sydney Metro Project Update-Dulwich Hill Station Open-Day",
+  "expires_at": "2026-08-07T02:40:37+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-06T20:40:37+10:00",
+  "title": "News: Sydney Metro Project Update-Dulwich Hill Station Open-Day",
+  "topic_key": "interesting_signal_sydney_metro_project_update_dulwich_",
+  "url": "https://www.google.com/search?q=Sydney+Metro+Project+Update-Dulwich+Hill+Station+Open-Day"
 }
