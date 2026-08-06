@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "fight_club",
-  "cinematic_title": "Fight Club",
-  "data_summary": "context phase night, temp 8C",
-  "expires_at": "2026-08-07T03:20:40+10:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "waynes_world",
+  "cinematic_title": "Wayne's World",
+  "data_summary": "HRV BALANCED, avg 74 ms, 21 day balanced streak",
+  "expires_at": "2026-08-07T03:40:40+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-06T21:20:40+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
+  "lane": "health",
+  "published_at": "2026-08-06T21:40:40+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
   "url": ""
 }
