@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "spiderman_2002",
-  "cinematic_title": "Spider-Man",
-  "data_summary": "next-hour temp 9.8C; rain below 15% notice threshold",
-  "expires_at": "2026-08-08T03:00:47+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-07T21:00:47+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "bourne_ultimatum",
+  "cinematic_title": "The Bourne Ultimatum",
+  "data_summary": "HRV BALANCED, avg 73 ms, 21 day balanced streak",
+  "expires_at": "2026-08-08T03:20:49+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-07T21:20:49+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
+  "url": ""
 }
