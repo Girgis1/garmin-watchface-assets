@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "pokemon_first_movie",
-  "cinematic_title": "Pokemon: The First Movie",
-  "data_summary": "context phase afternoon, temp 16C",
-  "expires_at": "2026-08-07T20:00:11+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "strange_days",
+  "cinematic_title": "Strange Days",
+  "data_summary": "sleep 7.9h, score 63",
+  "expires_at": "2026-08-07T20:20:12+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-07T14:00:11+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
+  "lane": "sleep",
+  "published_at": "2026-08-07T14:20:12+10:00",
+  "title": "Sleep Recovery",
+  "topic_key": "sleep",
   "url": ""
 }
