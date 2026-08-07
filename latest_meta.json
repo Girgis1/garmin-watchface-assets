@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "mighty_ducks",
-  "cinematic_title": "The Mighty Ducks",
-  "data_summary": "Australia: Multiple fires on Sydney trams in 1 day highlight deepening safety crisis",
-  "expires_at": "2026-08-07T23:40:21+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-07T17:40:21+10:00",
-  "title": "News: Multiple fires on Sydney trams in 1 day highlight deepening",
-  "topic_key": "interesting_signal_multiple_fires_on_sydney_trams_in_1_",
-  "url": "https://www.google.com/search?q=Australia%3A+Multiple+fires+on+Sydney+trams+in+1+day+highlight+deepening+safety+crisis"
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "pirates_caribbean",
+  "cinematic_title": "Pirates of the Caribbean",
+  "data_summary": "next-hour temp 11.4C; rain below 15% notice threshold",
+  "expires_at": "2026-08-08T00:00:24+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-08-07T18:00:24+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
