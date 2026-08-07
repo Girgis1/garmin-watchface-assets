@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "tmnt_mutant_mayhem",
-  "cinematic_title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-08-07T17:00:02+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-07T11:00:02+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "cinematic_group": "animation_family",
+  "cinematic_key": "shrek",
+  "cinematic_title": "Shrek",
+  "data_summary": "Anthropic Reportedly Wants to Make Its Own AI Chips for Claude",
+  "expires_at": "2026-08-07T17:40:04+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-07T11:40:04+10:00",
+  "title": "News: Anthropic Reportedly Wants to Make Its Own AI Chips for",
+  "topic_key": "interesting_signal_anthropic_reportedly_wants_to_make_i",
+  "url": "https://www.google.com/search?q=Anthropic+Reportedly+Wants+to+Make+Its+Own+AI+Chips+for+Claude"
 }
