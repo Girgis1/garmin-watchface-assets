@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "the_ring",
-  "cinematic_title": "The Ring",
-  "data_summary": "context phase midday, temp 15C",
-  "expires_at": "2026-08-07T18:20:07+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "ghost_in_shell",
+  "cinematic_title": "Ghost in the Shell",
+  "data_summary": "HRV 72 MS | 2.3 VS PRIOR 7D | Seven-day HRV averages 71.6 ms versus 73.9 ms in the prior seven days; latest status is balanced.",
+  "expires_at": "2026-08-07T18:40:07+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-07T12:20:07+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-08-07T12:40:07+10:00",
+  "title": "Health Insight: HRV 72 MS",
+  "topic_key": "health_hrv_weekly_trend",
   "url": ""
 }
