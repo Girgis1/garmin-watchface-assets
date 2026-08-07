@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "cars",
-  "cinematic_title": "Cars",
-  "data_summary": "waning crescent, 36% illuminated",
-  "expires_at": "2026-08-07T22:00:17+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-08-07T16:00:17+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "spirited_away",
+  "cinematic_title": "Spirited Away",
+  "data_summary": "context phase sunset, temp 14C",
+  "expires_at": "2026-08-07T22:20:18+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-07T16:20:18+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
