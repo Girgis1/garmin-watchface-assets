@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "shrek",
-  "cinematic_title": "Shrek",
-  "data_summary": "Anthropic Reportedly Wants to Make Its Own AI Chips for Claude",
-  "expires_at": "2026-08-07T17:40:04+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-07T11:40:04+10:00",
-  "title": "News: Anthropic Reportedly Wants to Make Its Own AI Chips for",
-  "topic_key": "interesting_signal_anthropic_reportedly_wants_to_make_i",
-  "url": "https://www.google.com/search?q=Anthropic+Reportedly+Wants+to+Make+Its+Own+AI+Chips+for+Claude"
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "the_ring",
+  "cinematic_title": "The Ring",
+  "data_summary": "context phase midday, temp 15C",
+  "expires_at": "2026-08-07T18:20:07+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-07T12:20:07+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
+  "url": ""
 }
