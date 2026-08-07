@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "godzilla_minus_one",
-  "cinematic_title": "Godzilla Minus One",
-  "data_summary": "CN to EP leave times: 19:51 20:01 20:11",
-  "expires_at": "2026-08-08T01:40:42+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-07T19:40:42+10:00",
-  "title": "Commute: CN: 19:51 20:01 20:11",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "hitchhikers_guide",
+  "cinematic_title": "The Hitchhiker's Guide to the Galaxy",
+  "data_summary": "next-hour temp 10.5C; rain below 15% notice threshold",
+  "expires_at": "2026-08-08T02:20:45+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-08-07T20:20:45+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
