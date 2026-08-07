@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "silence_lambs",
-  "cinematic_title": "The Silence of the Lambs",
-  "data_summary": "# Garmin Health Insight Generated: 2026-08-07T14:37:13+10:00 Data through: 2026-08-07 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +18 BB** | 32 VS 14 / 22 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
-  "expires_at": "2026-08-07T20:40:13+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-07T14:40:13+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
-  "url": ""
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "avengers",
+  "cinematic_title": "The Avengers",
+  "data_summary": "leave-work temp 11C; rain below 15% notice threshold",
+  "expires_at": "2026-08-07T21:40:16+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-08-07T15:40:16+10:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
