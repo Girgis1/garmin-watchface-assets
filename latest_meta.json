@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "up",
-  "cinematic_title": "Up",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "infinity_war",
+  "cinematic_title": "Avengers: Infinity War",
   "data_summary": "morning briefing: no major weather/sleep drama",
-  "expires_at": "2026-08-08T14:40:27+10:00",
+  "expires_at": "2026-08-08T15:00:28+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-08T08:40:27+10:00",
+  "published_at": "2026-08-08T09:00:28+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
