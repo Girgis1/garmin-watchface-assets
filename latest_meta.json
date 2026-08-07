@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "crouching_tiger",
-  "cinematic_title": "Crouching Tiger, Hidden Dragon",
-  "data_summary": "SLEEP DIDN'T BEAT STRESS | BB 17 VS 33 / 7.5H+ | Even after 7.5+ hours of sleep, Body Battery averaged 17.4 on 7 high-stress days versus 32.8 on 5 low-stress days. This is an association, not proof of cause.",
-  "expires_at": "2026-08-07T23:20:20+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-07T17:20:20+10:00",
-  "title": "Health Insight: SLEEP DIDN'T BEAT STRESS",
-  "topic_key": "health_pattern_stress_overrides_long",
-  "url": ""
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "mighty_ducks",
+  "cinematic_title": "The Mighty Ducks",
+  "data_summary": "Australia: Multiple fires on Sydney trams in 1 day highlight deepening safety crisis",
+  "expires_at": "2026-08-07T23:40:21+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-07T17:40:21+10:00",
+  "title": "News: Multiple fires on Sydney trams in 1 day highlight deepening",
+  "topic_key": "interesting_signal_multiple_fires_on_sydney_trams_in_1_",
+  "url": "https://www.google.com/search?q=Australia%3A+Multiple+fires+on+Sydney+trams+in+1+day+highlight+deepening+safety+crisis"
 }
