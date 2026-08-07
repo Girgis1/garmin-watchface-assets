@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "avengers",
-  "cinematic_title": "The Avengers",
-  "data_summary": "leave-work temp 11C; rain below 15% notice threshold",
-  "expires_at": "2026-08-07T21:40:16+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather_departure",
-  "published_at": "2026-08-07T15:40:16+10:00",
-  "title": "Leave-Work Weather",
-  "topic_key": "leave_work_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "cars",
+  "cinematic_title": "Cars",
+  "data_summary": "waning crescent, 36% illuminated",
+  "expires_at": "2026-08-07T22:00:17+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-08-07T16:00:17+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
