@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "martian",
-  "cinematic_title": "The Martian",
-  "data_summary": "context phase night, temp 10C",
-  "expires_at": "2026-08-08T03:40:50+10:00",
-  "kind": "none",
-  "label": "",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "alita",
+  "cinematic_title": "Alita: Battle Angel",
+  "data_summary": "CN to EP leave times: 22:11 22:21 22:31",
+  "expires_at": "2026-08-08T04:00:51+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-07T21:40:50+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
-  "url": ""
+  "published_at": "2026-08-07T22:00:51+10:00",
+  "title": "Commute: CN: 22:11 22:21 22:31",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
