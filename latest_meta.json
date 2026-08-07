@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "strange_days",
-  "cinematic_title": "Strange Days",
-  "data_summary": "sleep 7.9h, score 63",
-  "expires_at": "2026-08-07T20:20:12+10:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "silence_lambs",
+  "cinematic_title": "The Silence of the Lambs",
+  "data_summary": "# Garmin Health Insight Generated: 2026-08-07T14:37:13+10:00 Data through: 2026-08-07 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +18 BB** | 32 VS 14 / 22 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
+  "expires_at": "2026-08-07T20:40:13+10:00",
   "kind": "none",
   "label": "",
-  "lane": "sleep",
-  "published_at": "2026-08-07T14:20:12+10:00",
-  "title": "Sleep Recovery",
-  "topic_key": "sleep",
+  "lane": "health",
+  "published_at": "2026-08-07T14:40:13+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
