@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "skyfall",
-  "cinematic_title": "Skyfall",
-  "data_summary": "morning briefing: ROUGH SLEEP 7.9H",
-  "expires_at": "2026-08-07T15:40:56+10:00",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "narnia",
+  "cinematic_title": "The Chronicles of Narnia",
+  "data_summary": "INTENSITY 72 MIN | 82% VS PRIOR 7D | Weighted intensity minutes total 72 across the last seven days versus 393 in the prior seven-day window.",
+  "expires_at": "2026-08-07T16:00:58+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-08-07T09:40:56+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-08-07T10:00:58+10:00",
+  "title": "Health Insight: INTENSITY 72 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
