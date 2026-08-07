@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "spirited_away",
-  "cinematic_title": "Spirited Away",
-  "data_summary": "context phase sunset, temp 14C",
-  "expires_at": "2026-08-07T22:20:18+10:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "prometheus",
+  "cinematic_title": "Prometheus",
+  "data_summary": "training intensity minutes today 0",
+  "expires_at": "2026-08-07T22:40:18+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-07T16:20:18+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-08-07T16:40:18+10:00",
+  "title": "Training Nudge",
+  "topic_key": "health_training_minutes",
   "url": ""
 }
