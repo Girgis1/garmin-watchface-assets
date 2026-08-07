@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "iron_man",
-  "cinematic_title": "Iron Man",
-  "data_summary": "CN to EP leave times: 18:26 18:30 18:33",
-  "expires_at": "2026-08-08T00:20:24+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "last_of_us",
+  "cinematic_title": "The Last of Us",
+  "data_summary": "context phase sunset, temp 11C",
+  "expires_at": "2026-08-08T00:40:25+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-08-07T18:20:24+10:00",
-  "title": "Commute: CN: 18:26 18:30 18:33",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "published_at": "2026-08-07T18:40:25+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
