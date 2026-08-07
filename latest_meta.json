@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "prestige",
-  "cinematic_title": "The Prestige",
-  "data_summary": "next-hour temp 9.9C; rain below 15% notice threshold",
-  "expires_at": "2026-08-08T04:40:54+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-07T22:40:54+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "evangelion_thrice",
+  "cinematic_title": "Evangelion: 3.0+1.0",
+  "data_summary": "goodnight stage soft: Slow the machinery. Nothing clever after this.; no extra alerts",
+  "expires_at": "2026-08-08T05:00:55+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "goodnight",
+  "published_at": "2026-08-07T23:00:55+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
+  "url": ""
 }
