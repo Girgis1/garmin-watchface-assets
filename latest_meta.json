@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "invincible",
-  "cinematic_title": "Invincible",
-  "data_summary": "goodnight stage midnight_strict: GO TO BED. The day is legally over.; no extra alerts",
-  "expires_at": "2026-08-08T06:00:03+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "blade_runner",
+  "cinematic_title": "Blade Runner",
+  "data_summary": "morning briefing: no major weather/sleep drama",
+  "expires_at": "2026-08-08T14:00:25+10:00",
   "kind": "none",
   "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-08-08T00:00:03+10:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "lane": "morning",
+  "published_at": "2026-08-08T08:00:25+10:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
