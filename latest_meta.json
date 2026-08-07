@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "narnia",
-  "cinematic_title": "The Chronicles of Narnia",
-  "data_summary": "INTENSITY 72 MIN | 82% VS PRIOR 7D | Weighted intensity minutes total 72 across the last seven days versus 393 in the prior seven-day window.",
-  "expires_at": "2026-08-07T16:00:58+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-07T10:00:58+10:00",
-  "title": "Health Insight: INTENSITY 72 MIN",
-  "topic_key": "health_weekly_intensity_load",
-  "url": ""
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "the_shining",
+  "cinematic_title": "The Shining",
+  "data_summary": "MB to EP leave times: 10:33 10:50 11:03",
+  "expires_at": "2026-08-07T16:20:59+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-07T10:20:59+10:00",
+  "title": "Commute: MB: 10:33 10:50 11:03",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
