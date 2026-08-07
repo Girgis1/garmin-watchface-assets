@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "event_horizon",
-  "cinematic_title": "Event Horizon",
-  "data_summary": "SLEEP 7H52 | +20M VS 4W AVG | Last sleep was 7.9 hours with score 63, versus a four-week average of 7.5 hours.",
-  "expires_at": "2026-08-07T16:40:01+10:00",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "tmnt_mutant_mayhem",
+  "cinematic_title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-08-07T17:00:02+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-07T10:40:01+10:00",
-  "title": "Health Insight: SLEEP 7H52",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-08-07T11:00:02+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
