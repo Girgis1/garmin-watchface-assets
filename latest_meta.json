@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "sleepy_hollow",
-  "cinematic_title": "Sleepy Hollow",
-  "data_summary": "CALM DAYS +18 BB | 32 VS 14 / 22 DAYS | Across 22 comparable days, Body Battery averaged 13.9 when stress was 35+ versus 31.7 when stress was below 30. This is a personal association, not proof of cause.",
-  "expires_at": "2026-08-07T19:00:08+10:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "interstellar",
+  "cinematic_title": "Interstellar",
+  "data_summary": "7D SLEEP 7H40 | +39M VS PRIOR 7D | The seven-day sleep average is 7.7 hours, 39 minutes above the prior seven days.",
+  "expires_at": "2026-08-07T19:20:09+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-07T13:00:08+10:00",
-  "title": "Health Insight: CALM DAYS +18 BB",
-  "topic_key": "health_pattern_stress_body_battery_g",
+  "published_at": "2026-08-07T13:20:09+10:00",
+  "title": "Health Insight: 7D SLEEP 7H40",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
