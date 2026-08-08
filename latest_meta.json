@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "golden_compass",
-  "cinematic_title": "The Golden Compass",
-  "data_summary": "7D SLEEP 7H43 | +33M VS PRIOR 7D | The seven-day sleep average is 7.7 hours, 33 minutes above the prior seven days.",
-  "expires_at": "2026-08-08T19:20:41+10:00",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "super_mario_movie",
+  "cinematic_title": "The Super Mario Bros. Movie",
+  "data_summary": "RHR UP, HRV DOWN | R=-0.73 / N=30 | Across 30 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.73. Treat this as a personal trend signal, not a diagnosis.",
+  "expires_at": "2026-08-08T19:40:42+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-08T13:20:41+10:00",
-  "title": "Health Insight: 7D SLEEP 7H43",
-  "topic_key": "health_weekly_sleep_trend",
+  "published_at": "2026-08-08T13:40:42+10:00",
+  "title": "Health Insight: RHR UP, HRV DOWN",
+  "topic_key": "health_pattern_rhr_hrv_relationship",
   "url": ""
 }
