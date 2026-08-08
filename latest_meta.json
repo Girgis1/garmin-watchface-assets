@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "dungeons_dragons_honor",
-  "cinematic_title": "Dungeons & Dragons: Honor Among Thieves",
-  "data_summary": "next-hour temp 10.3C; rain below 15% notice threshold",
-  "expires_at": "2026-08-09T04:00:08+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-08T22:00:08+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "jaws",
+  "cinematic_title": "Jaws",
+  "data_summary": "STRESSFUL BEFORE BED | 7 OF 14 NIGHTS | Garmin's Body Battery feedback marked 7 of 14 recent nights as stressful around sleep preparation.",
+  "expires_at": "2026-08-09T04:20:09+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-08T22:20:09+10:00",
+  "title": "Health Insight: STRESSFUL BEFORE BED",
+  "topic_key": "health_pattern_pre_sleep_stress_feed",
+  "url": ""
 }
