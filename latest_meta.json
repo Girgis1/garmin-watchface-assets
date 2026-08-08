@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "stardust",
-  "cinematic_title": "Stardust",
-  "data_summary": "next-hour temp 11.6C; rain below 15% notice threshold",
-  "expires_at": "2026-08-09T01:00:59+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-08T19:00:59+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "emperors_new_groove",
+  "cinematic_title": "The Emperor's New Groove",
+  "data_summary": "BB TREND +1.1/DAY | 34 -> 35 / 14D | Comparable daily Body Battery values moved from 34 to 35, with a fitted trend of +1.1 points per day.",
+  "expires_at": "2026-08-09T01:20:59+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-08T19:20:59+10:00",
+  "title": "Health Insight: BB TREND +1.1/DAY",
+  "topic_key": "health_pattern_body_battery_14d_tren",
+  "url": ""
 }
