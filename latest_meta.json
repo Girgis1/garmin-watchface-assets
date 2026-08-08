@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "guardians_galaxy",
-  "cinematic_title": "Guardians of the Galaxy",
-  "data_summary": "INTENSITY 65 MIN | 84% VS PRIOR 7D | Weighted intensity minutes total 65 across the last seven days versus 397 in the prior seven-day window.",
-  "expires_at": "2026-08-08T16:00:31+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-08T10:00:31+10:00",
-  "title": "Health Insight: INTENSITY 65 MIN",
-  "topic_key": "health_weekly_intensity_load",
-  "url": ""
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "national_treasure",
+  "cinematic_title": "National Treasure",
+  "data_summary": "MB to EP leave times: 10:28 10:46 10:58",
+  "expires_at": "2026-08-08T16:20:32+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-08T10:20:32+10:00",
+  "title": "Commute: MB: 10:28 10:46 10:58",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
