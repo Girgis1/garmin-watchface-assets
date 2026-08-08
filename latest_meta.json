@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "resident_evil_2002",
-  "cinematic_title": "Resident Evil",
-  "data_summary": "CN to EP leave times: 18:28 18:35 18:42",
-  "expires_at": "2026-08-09T00:20:57+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "akira",
+  "cinematic_title": "Akira",
+  "data_summary": "CN to EP leave times: 18:49 18:56 19:03",
+  "expires_at": "2026-08-09T00:40:58+10:00",
   "kind": "rail",
   "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-08T18:20:57+10:00",
-  "title": "Commute: CN: 18:28 18:35 18:42",
+  "published_at": "2026-08-08T18:40:58+10:00",
+  "title": "Commute: CN: 18:49 18:56 19:03",
   "topic_key": "transit_alert",
   "url": "https://transportnsw.info/alerts#/metro-train"
 }
