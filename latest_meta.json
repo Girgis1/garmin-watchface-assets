@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "arrival",
-  "cinematic_title": "Arrival",
-  "data_summary": "context phase sunset, temp 15C",
-  "expires_at": "2026-08-08T22:40:52+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-08T16:40:52+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "cinematic_group": "animation_family",
+  "cinematic_key": "inside_out",
+  "cinematic_title": "Inside Out",
+  "data_summary": "leave-work temp 11C, rain 100%, 1.3 mm",
+  "expires_at": "2026-08-08T23:00:53+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-08-08T17:00:53+10:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
