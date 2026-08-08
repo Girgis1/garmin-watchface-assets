@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "blade_runner_2049",
-  "cinematic_title": "Blade Runner 2049",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "die_hard",
+  "cinematic_title": "Die Hard",
   "data_summary": "morning briefing: RAIN 17% FROM 12PM",
-  "expires_at": "2026-08-09T14:41:00+10:00",
+  "expires_at": "2026-08-09T15:00:01+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-09T08:41:00+10:00",
+  "published_at": "2026-08-09T09:00:01+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
