@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "one_piece_red",
-  "cinematic_title": "One Piece Film: Red",
-  "data_summary": "waning crescent, 26% illuminated",
-  "expires_at": "2026-08-08T22:00:50+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-08-08T16:00:50+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "arrival",
+  "cinematic_title": "Arrival",
+  "data_summary": "context phase sunset, temp 15C",
+  "expires_at": "2026-08-08T22:40:52+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-08T16:40:52+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
