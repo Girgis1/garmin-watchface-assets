@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "artificial_intelligence",
-  "cinematic_title": "A.I. Artificial Intelligence",
-  "data_summary": "context phase afternoon, temp 17C",
-  "expires_at": "2026-08-08T20:20:44+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-08T14:20:44+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
-  "url": ""
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "avatar_way_water",
+  "cinematic_title": "Avatar: The Way of Water",
+  "data_summary": "leave-work temp 11C, rain 100%, 1.5 mm",
+  "expires_at": "2026-08-08T21:00:46+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-08-08T15:00:46+10:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
