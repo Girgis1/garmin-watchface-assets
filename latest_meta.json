@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "across_spiderverse",
-  "cinematic_title": "Spider-Man: Across the Spider-Verse",
-  "data_summary": "SLEEP 8H32 | +56M VS 4W AVG | Last sleep was 8.5 hours with score 83, versus a four-week average of 7.6 hours.",
-  "expires_at": "2026-08-08T17:00:33+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "puss_last_wish",
+  "cinematic_title": "Puss in Boots: The Last Wish",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-08-08T17:20:36+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-08T11:00:33+10:00",
-  "title": "Health Insight: SLEEP 8H32",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-08-08T11:20:36+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
