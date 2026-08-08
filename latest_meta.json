@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "super_mario_movie",
-  "cinematic_title": "The Super Mario Bros. Movie",
-  "data_summary": "RHR UP, HRV DOWN | R=-0.73 / N=30 | Across 30 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.73. Treat this as a personal trend signal, not a diagnosis.",
-  "expires_at": "2026-08-08T19:40:42+10:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "batman_1989",
+  "cinematic_title": "Batman",
+  "data_summary": "daily phase afternoon, temp 17C",
+  "expires_at": "2026-08-08T20:00:43+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-08T13:40:42+10:00",
-  "title": "Health Insight: RHR UP, HRV DOWN",
-  "topic_key": "health_pattern_rhr_hrv_relationship",
+  "lane": "local_signal",
+  "published_at": "2026-08-08T14:00:43+10:00",
+  "title": "Daily Context",
+  "topic_key": "daily_context",
   "url": ""
 }
