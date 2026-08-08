@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "mummy_1999",
-  "cinematic_title": "The Mummy",
-  "data_summary": "goodnight stage midnight_strict: GO TO BED. This is now an intervention.; RAIN 22% 11AM",
-  "expires_at": "2026-08-09T06:00:18+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "back_to_future",
+  "cinematic_title": "Back to the Future",
+  "data_summary": "morning briefing: RAIN 17% FROM 12PM",
+  "expires_at": "2026-08-09T14:00:58+10:00",
   "kind": "none",
   "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-08-09T00:00:18+10:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "lane": "morning",
+  "published_at": "2026-08-09T08:00:58+10:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
