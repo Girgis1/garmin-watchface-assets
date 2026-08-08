@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "puss_last_wish",
-  "cinematic_title": "Puss in Boots: The Last Wish",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-08-08T17:20:36+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "upgrade",
+  "cinematic_title": "Upgrade",
+  "data_summary": "BB<20: 15/30 DAYS | 14/15 ALSO STRESS 35+ | Body Battery finished below 20 on 15 of 30 recent complete days; 14 of those days also had average stress of 35 or higher.",
+  "expires_at": "2026-08-08T17:40:37+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-08T11:20:36+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
+  "published_at": "2026-08-08T11:40:37+10:00",
+  "title": "Health Insight: BB<20: 15/30 DAYS",
+  "topic_key": "health_pattern_low_body_battery_freq",
   "url": ""
 }
