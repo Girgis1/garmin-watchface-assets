@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "dune_part_two",
-  "cinematic_title": "Dune: Part Two",
-  "data_summary": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
-  "expires_at": "2026-08-08T18:20:39+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-08T12:20:39+10:00",
-  "title": "News: OpenAI flags possible critical cybersecurity risk in upcoming",
-  "topic_key": "interesting_signal_openai_flags_possible_critical_cyber",
-  "url": "https://www.google.com/search?q=OpenAI+flags+possible+critical+cybersecurity+risk+in+upcoming+model%2C+tightens+controls"
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "war_worlds",
+  "cinematic_title": "War of the Worlds",
+  "data_summary": "context phase midday, temp 17C",
+  "expires_at": "2026-08-08T18:40:40+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-08T12:40:40+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
+  "url": ""
 }
