@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "endgame",
-  "cinematic_title": "Avengers: Endgame",
-  "data_summary": "morning briefing: RAIN 17% FROM 12PM",
-  "expires_at": "2026-08-09T15:40:03+10:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "top_gun_maverick",
+  "cinematic_title": "Top Gun: Maverick",
+  "data_summary": "INTENSITY 108 MIN | 74% VS PRIOR 7D | Weighted intensity minutes total 108 across the last seven days versus 416 in the prior seven-day window.",
+  "expires_at": "2026-08-09T16:00:04+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-08-09T09:40:03+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-08-09T10:00:04+10:00",
+  "title": "Health Insight: INTENSITY 108 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
