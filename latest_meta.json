@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "atlantis_lost_empire",
-  "cinematic_title": "Atlantis: The Lost Empire",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "wall_e",
+  "cinematic_title": "WALL-E",
   "data_summary": "morning briefing: GOOD SLEEP 8.3H; RAIN 39% FROM 9AM",
-  "expires_at": "2026-08-10T15:00:12+10:00",
+  "expires_at": "2026-08-10T15:20:13+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-10T09:00:12+10:00",
+  "published_at": "2026-08-10T09:20:13+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
