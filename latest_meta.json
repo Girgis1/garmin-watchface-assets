@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "wall_e",
-  "cinematic_title": "WALL-E",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "princess_bride",
+  "cinematic_title": "The Princess Bride",
   "data_summary": "morning briefing: GOOD SLEEP 8.3H; RAIN 39% FROM 9AM",
-  "expires_at": "2026-08-10T15:20:13+10:00",
+  "expires_at": "2026-08-10T15:40:14+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-10T09:20:13+10:00",
+  "published_at": "2026-08-10T09:40:14+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
