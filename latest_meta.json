@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "warcraft",
-  "cinematic_title": "Warcraft",
-  "data_summary": "context phase night, temp 11C",
-  "expires_at": "2026-08-10T03:40:37+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "wreck_it_ralph",
+  "cinematic_title": "Wreck-It Ralph",
+  "data_summary": "goodnight stage soft: Begin shutdown. Keep the dramatic beeping internal.; RAIN 69% 11PM",
+  "expires_at": "2026-08-10T05:00:42+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-09T21:40:37+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
+  "lane": "goodnight",
+  "published_at": "2026-08-09T23:00:42+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
