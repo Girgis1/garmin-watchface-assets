@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "into_spiderverse",
-  "cinematic_title": "Spider-Man: Into the Spider-Verse",
-  "data_summary": "7D SLEEP 7H35 | +33M VS PRIOR 7D | The seven-day sleep average is 7.6 hours, 33 minutes above the prior seven days.",
-  "expires_at": "2026-08-09T18:20:21+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-09T12:20:21+10:00",
-  "title": "Health Insight: 7D SLEEP 7H35",
-  "topic_key": "health_weekly_sleep_trend",
-  "url": ""
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "harry_potter_stone",
+  "cinematic_title": "Harry Potter and the Philosopher's Stone",
+  "data_summary": "OpenAI is finally killing ChatGPT\u2019s text chat limits for free users",
+  "expires_at": "2026-08-09T18:40:21+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-09T12:40:21+10:00",
+  "title": "News: OpenAI is finally killing ChatGPT\u2019s text chat limits for free",
+  "topic_key": "interesting_signal_openai_is_finally_killing_chatgpt_s_",
+  "url": "https://www.google.com/search?q=OpenAI+is+finally+killing+ChatGPT%E2%80%99s+text+chat+limits+for+free+users"
 }
