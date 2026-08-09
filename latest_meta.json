@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "advent_children",
-  "cinematic_title": "Final Fantasy VII: Advent Children",
-  "data_summary": "SLEEP 7H13 | 26M VS 4W AVG | Last sleep was 7.2 hours with score 76, versus a four-week average of 7.7 hours.",
-  "expires_at": "2026-08-09T17:20:10+10:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "ferris_bueller",
+  "cinematic_title": "Ferris Bueller's Day Off",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-08-09T17:42:10+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-09T11:20:10+10:00",
-  "title": "Health Insight: SLEEP 7H13",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-08-09T11:42:10+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
