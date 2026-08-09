@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "ratatouille",
-  "cinematic_title": "Ratatouille",
-  "data_summary": "Anthropic builds custom AI chip team amid hardware shortages",
-  "expires_at": "2026-08-09T21:40:19+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-09T15:40:19+10:00",
-  "title": "News: Anthropic builds custom AI chip team amid hardware shortages",
-  "topic_key": "interesting_signal_anthropic_builds_custom_ai_chip_team",
-  "url": "https://www.google.com/search?q=Anthropic+builds+custom+AI+chip+team+amid+hardware+shortages"
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "lotr_return_king",
+  "cinematic_title": "The Lord of the Rings: The Return of the King",
+  "data_summary": "context phase sunset, temp 15C",
+  "expires_at": "2026-08-09T22:00:20+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-09T16:00:20+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
