@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "i_robot",
-  "cinematic_title": "I, Robot",
-  "data_summary": "CN to EP leave times: 21:11 21:21 21:31",
-  "expires_at": "2026-08-10T03:00:36+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-09T21:00:36+10:00",
-  "title": "Commute: CN: 21:11 21:21 21:31",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "thor_ragnarok",
+  "cinematic_title": "Thor: Ragnarok",
+  "data_summary": "Sydney Metro Southwest",
+  "expires_at": "2026-08-10T03:20:36+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-09T21:20:36+10:00",
+  "title": "News: Sydney Metro Southwest",
+  "topic_key": "interesting_signal_sydney_metro_southwest",
+  "url": "https://www.google.com/search?q=Sydney+Metro+Southwest"
 }
