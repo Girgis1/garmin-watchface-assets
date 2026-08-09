@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "get_out",
-  "cinematic_title": "Get Out",
-  "data_summary": "goodnight stage midnight_strict: GO TO BED. Release the poor screen.; RAIN 27% 12AM",
-  "expires_at": "2026-08-10T06:00:45+10:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "hot_fuzz",
+  "cinematic_title": "Hot Fuzz",
+  "data_summary": "morning briefing: RAIN 62% FROM 8AM",
+  "expires_at": "2026-08-10T14:00:09+10:00",
   "kind": "none",
   "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-08-10T00:00:45+10:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "lane": "morning",
+  "published_at": "2026-08-10T08:00:09+10:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
