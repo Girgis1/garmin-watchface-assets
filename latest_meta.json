@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "moon",
-  "cinematic_title": "Moon",
-  "data_summary": "HRV BALANCED, avg 70 ms, 21 day balanced streak",
-  "expires_at": "2026-08-09T19:40:12+10:00",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "howls_moving_castle",
+  "cinematic_title": "Howl's Moving Castle",
+  "data_summary": "# Garmin Health Insight Generated: 2026-08-09T13:57:13+10:00 Data through: 2026-08-09 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +17 BB** | 32 VS 15 / 23 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
+  "expires_at": "2026-08-09T20:00:14+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-09T13:40:12+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_balanced",
+  "published_at": "2026-08-09T14:00:14+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
