@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "hot_fuzz",
-  "cinematic_title": "Hot Fuzz",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "dragon_ball_broly",
+  "cinematic_title": "Dragon Ball Super: Broly",
   "data_summary": "morning briefing: RAIN 62% FROM 8AM",
-  "expires_at": "2026-08-10T14:00:09+10:00",
+  "expires_at": "2026-08-10T14:20:10+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-10T08:00:09+10:00",
+  "published_at": "2026-08-10T08:20:10+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
