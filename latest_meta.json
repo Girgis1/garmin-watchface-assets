@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "thor_ragnarok",
-  "cinematic_title": "Thor: Ragnarok",
-  "data_summary": "Sydney Metro Southwest",
-  "expires_at": "2026-08-10T03:20:36+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-09T21:20:36+10:00",
-  "title": "News: Sydney Metro Southwest",
-  "topic_key": "interesting_signal_sydney_metro_southwest",
-  "url": "https://www.google.com/search?q=Sydney+Metro+Southwest"
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "warcraft",
+  "cinematic_title": "Warcraft",
+  "data_summary": "context phase night, temp 11C",
+  "expires_at": "2026-08-10T03:40:37+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-09T21:40:37+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
+  "url": ""
 }
