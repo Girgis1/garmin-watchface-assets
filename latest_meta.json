@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "prince_persia",
-  "cinematic_title": "Prince of Persia: The Sands of Time",
-  "data_summary": "context phase midday, temp 17C",
-  "expires_at": "2026-08-09T19:20:24+10:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "moon",
+  "cinematic_title": "Moon",
+  "data_summary": "HRV BALANCED, avg 70 ms, 21 day balanced streak",
+  "expires_at": "2026-08-09T19:40:12+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-09T13:20:24+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-08-09T13:40:12+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
   "url": ""
 }
