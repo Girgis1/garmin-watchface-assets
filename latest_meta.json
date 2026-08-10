@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "scream",
-  "cinematic_title": "Scream",
-  "data_summary": "CALM DAYS +17 BB | 32 VS 15 / 23 DAYS | Across 23 comparable days, Body Battery averaged 14.8 when stress was 35+ versus 31.7 when stress was below 30. This is a personal association, not proof of cause.",
-  "expires_at": "2026-08-10T19:00:35+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-10T13:00:35+10:00",
-  "title": "Health Insight: CALM DAYS +17 BB",
-  "topic_key": "health_pattern_stress_body_battery_g",
-  "url": ""
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "castlevania",
+  "cinematic_title": "Castlevania",
+  "data_summary": "IGLU Pays $87m for North Sydney Metro Site with 24-Storey Zoning",
+  "expires_at": "2026-08-10T19:20:36+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-10T13:20:36+10:00",
+  "title": "News: IGLU Pays $87m for North Sydney Metro Site with 24-Storey",
+  "topic_key": "interesting_signal_iglu_pays_87m_for_north_sydney_metro",
+  "url": "https://www.google.com/search?q=IGLU+Pays+%2487m+for+North+Sydney+Metro+Site+with+24-Storey+Zoning"
 }
