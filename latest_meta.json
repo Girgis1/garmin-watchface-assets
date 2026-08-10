@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "castlevania",
-  "cinematic_title": "Castlevania",
-  "data_summary": "IGLU Pays $87m for North Sydney Metro Site with 24-Storey Zoning",
-  "expires_at": "2026-08-10T19:20:36+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-10T13:20:36+10:00",
-  "title": "News: IGLU Pays $87m for North Sydney Metro Site with 24-Storey",
-  "topic_key": "interesting_signal_iglu_pays_87m_for_north_sydney_metro",
-  "url": "https://www.google.com/search?q=IGLU+Pays+%2487m+for+North+Sydney+Metro+Site+with+24-Storey+Zoning"
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "transformers_2007",
+  "cinematic_title": "Transformers",
+  "data_summary": "context phase afternoon, temp 14C",
+  "expires_at": "2026-08-10T20:00:38+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-10T14:00:38+10:00",
+  "title": "Afternoon Context",
+  "topic_key": "ambient_context_afternoon",
+  "url": ""
 }
