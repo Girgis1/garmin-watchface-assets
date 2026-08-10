@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "groundhog_day",
-  "cinematic_title": "Groundhog Day",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "sonic_2",
+  "cinematic_title": "Sonic the Hedgehog 2",
   "data_summary": "morning briefing: GOOD SLEEP 8.5H",
-  "expires_at": "2026-08-11T15:20:19+10:00",
+  "expires_at": "2026-08-11T15:40:26+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-11T09:20:19+10:00",
+  "published_at": "2026-08-11T09:40:26+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
