@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "truman_show",
-  "cinematic_title": "The Truman Show",
-  "data_summary": "SLEEP DIDN'T BEAT STRESS | BB 17 VS 33 / 7.5H+ | Even after 7.5+ hours of sleep, Body Battery averaged 17.4 on 9 high-stress days versus 32.8 on 5 low-stress days. This is an association, not proof of cause.",
-  "expires_at": "2026-08-10T23:40:04+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-10T17:40:04+10:00",
-  "title": "Health Insight: SLEEP DIDN'T BEAT STRESS",
-  "topic_key": "health_pattern_stress_overrides_long",
-  "url": ""
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "source_code",
+  "cinematic_title": "Source Code",
+  "data_summary": "CN to EP leave times: 18:07 18:11 18:15",
+  "expires_at": "2026-08-11T00:00:06+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-10T18:00:06+10:00",
+  "title": "Commute: CN: 18:07 18:11 18:15",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
