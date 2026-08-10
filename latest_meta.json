@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "transformers_2007",
-  "cinematic_title": "Transformers",
-  "data_summary": "context phase afternoon, temp 14C",
-  "expires_at": "2026-08-10T20:00:38+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-10T14:00:38+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
-  "url": ""
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "alien",
+  "cinematic_title": "Alien",
+  "data_summary": "waning crescent, 11% illuminated",
+  "expires_at": "2026-08-10T21:00:41+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-08-10T15:00:41+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
