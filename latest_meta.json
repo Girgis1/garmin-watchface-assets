@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "toy_story_3",
-  "cinematic_title": "Toy Story 3",
-  "data_summary": "context phase midday, temp 15C",
-  "expires_at": "2026-08-10T18:00:33+10:00",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "street_fighter_1994",
+  "cinematic_title": "Street Fighter",
+  "data_summary": "7D SLEEP 7H43 | +28M VS PRIOR 7D | The seven-day sleep average is 7.7 hours, 28 minutes above the prior seven days.",
+  "expires_at": "2026-08-10T18:20:33+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-10T12:00:33+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-08-10T12:20:33+10:00",
+  "title": "Health Insight: 7D SLEEP 7H43",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
