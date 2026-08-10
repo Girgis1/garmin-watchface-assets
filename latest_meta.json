@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "memento",
-  "cinematic_title": "Memento",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-08-10T17:20:22+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-10T11:20:22+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "scott_pilgrim",
+  "cinematic_title": "Scott Pilgrim vs. the World",
+  "data_summary": "Why this Sydney metro station at Olympic Park will have twice as many underground platforms",
+  "expires_at": "2026-08-10T17:40:29+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-10T11:40:29+10:00",
+  "title": "News: Why this Sydney metro station at Olympic Park will have",
+  "topic_key": "interesting_signal_why_this_sydney_metro_station_at_oly",
+  "url": "https://www.google.com/search?q=Why+this+Sydney+metro+station+at+Olympic+Park+will+have+twice+as+many+underground+platforms"
 }
