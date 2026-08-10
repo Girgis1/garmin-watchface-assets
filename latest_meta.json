@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "princess_bride",
-  "cinematic_title": "The Princess Bride",
-  "data_summary": "morning briefing: GOOD SLEEP 8.3H; RAIN 39% FROM 9AM",
-  "expires_at": "2026-08-10T15:40:14+10:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "cabin_woods",
+  "cinematic_title": "The Cabin in the Woods",
+  "data_summary": "INTENSITY 142 MIN | 49% VS PRIOR 7D | Weighted intensity minutes total 142 across the last seven days versus 276 in the prior seven-day window.",
+  "expires_at": "2026-08-10T16:00:15+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-08-10T09:40:14+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-08-10T10:00:15+10:00",
+  "title": "Health Insight: INTENSITY 142 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
