@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "scott_pilgrim",
-  "cinematic_title": "Scott Pilgrim vs. the World",
-  "data_summary": "Why this Sydney metro station at Olympic Park will have twice as many underground platforms",
-  "expires_at": "2026-08-10T17:40:29+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-10T11:40:29+10:00",
-  "title": "News: Why this Sydney metro station at Olympic Park will have",
-  "topic_key": "interesting_signal_why_this_sydney_metro_station_at_oly",
-  "url": "https://www.google.com/search?q=Why+this+Sydney+metro+station+at+Olympic+Park+will+have+twice+as+many+underground+platforms"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "toy_story_3",
+  "cinematic_title": "Toy Story 3",
+  "data_summary": "context phase midday, temp 15C",
+  "expires_at": "2026-08-10T18:00:33+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-10T12:00:33+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
+  "url": ""
 }
