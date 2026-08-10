@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "district_9",
-  "cinematic_title": "District 9",
-  "data_summary": "next-hour temp 11.8C, rain 22%, 0.0 mm",
-  "expires_at": "2026-08-11T00:40:08+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-10T18:40:08+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "john_wick",
+  "cinematic_title": "John Wick",
+  "data_summary": "context phase evening, temp 12C",
+  "expires_at": "2026-08-11T01:00:09+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-10T19:00:09+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
+  "url": ""
 }
