@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "toy_story",
-  "cinematic_title": "Toy Story",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "deadpool",
+  "cinematic_title": "Deadpool",
   "data_summary": "morning briefing: ROUGH SLEEP 5.5H; RAIN 15% FROM 12PM",
-  "expires_at": "2026-08-12T15:00:15+10:00",
+  "expires_at": "2026-08-12T15:20:16+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-12T09:00:15+10:00",
+  "published_at": "2026-08-12T09:20:16+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
