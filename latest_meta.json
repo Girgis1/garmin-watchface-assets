@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "winter_soldier",
-  "cinematic_title": "Captain America: The Winter Soldier",
-  "data_summary": "context phase sunset, temp 17C",
-  "expires_at": "2026-08-11T22:40:04+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-11T16:40:04+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "cinematic_group": "animation_family",
+  "cinematic_key": "megamind",
+  "cinematic_title": "Megamind",
+  "data_summary": "Sydney Metro West Set to Lower 5,316 Tonnes of Rail",
+  "expires_at": "2026-08-11T23:20:06+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-11T17:20:06+10:00",
+  "title": "News: Sydney Metro West Set to Lower 5,316 Tonnes of Rail",
+  "topic_key": "interesting_signal_sydney_metro_west_set_to_lower_5_316",
+  "url": "https://www.google.com/search?q=Sydney+Metro+West+Set+to+Lower+5%2C316+Tonnes+of+Rail"
 }
