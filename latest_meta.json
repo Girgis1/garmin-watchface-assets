@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "the_creator",
-  "cinematic_title": "The Creator",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-08-11T17:20:38+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-11T11:20:38+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "mortal_kombat_1995",
+  "cinematic_title": "Mortal Kombat",
+  "data_summary": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
+  "expires_at": "2026-08-11T17:40:39+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-11T11:40:39+10:00",
+  "title": "News: OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved",
+  "topic_key": "interesting_signal_openai_releases_chatgpt_5_6_cyber_bu",
+  "url": "https://www.google.com/search?q=OpenAI+releases+ChatGPT+5.6+Cyber%2C+but+it%27s+only+for+approved+users"
 }
