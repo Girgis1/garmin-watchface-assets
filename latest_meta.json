@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "gravity",
-  "cinematic_title": "Gravity",
-  "data_summary": "HRV BALANCED, avg 70 ms, 21 day balanced streak",
-  "expires_at": "2026-08-11T22:20:03+10:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "winter_soldier",
+  "cinematic_title": "Captain America: The Winter Soldier",
+  "data_summary": "context phase sunset, temp 17C",
+  "expires_at": "2026-08-11T22:40:04+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-11T16:20:03+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_balanced",
+  "lane": "local_signal",
+  "published_at": "2026-08-11T16:40:04+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
