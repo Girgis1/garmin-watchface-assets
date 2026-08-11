@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "inception",
-  "cinematic_title": "Inception",
-  "data_summary": "waning crescent, 5% illuminated",
-  "expires_at": "2026-08-11T21:00:59+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-08-11T15:00:59+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "aliens",
+  "cinematic_title": "Aliens",
+  "data_summary": "# Garmin Health Insight Generated: 2026-08-11T15:17:59+10:00 Data through: 2026-08-11 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +18 BB** | 32 VS 15 / 23 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
+  "expires_at": "2026-08-11T21:20:59+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-11T15:20:59+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
+  "url": ""
 }
