@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "mortal_kombat_1995",
-  "cinematic_title": "Mortal Kombat",
-  "data_summary": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
-  "expires_at": "2026-08-11T17:40:39+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-11T11:40:39+10:00",
-  "title": "News: OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved",
-  "topic_key": "interesting_signal_openai_releases_chatgpt_5_6_cyber_bu",
-  "url": "https://www.google.com/search?q=OpenAI+releases+ChatGPT+5.6+Cyber%2C+but+it%27s+only+for+approved+users"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "despicable_me",
+  "cinematic_title": "Despicable Me",
+  "data_summary": "BB<20: 17/30 DAYS | 16/17 ALSO STRESS 35+ | Body Battery finished below 20 on 17 of 30 recent complete days; 16 of those days also had average stress of 35 or higher.",
+  "expires_at": "2026-08-11T18:00:40+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-11T12:00:40+10:00",
+  "title": "Health Insight: BB<20: 17/30 DAYS",
+  "topic_key": "health_pattern_low_body_battery_freq",
+  "url": ""
 }
