@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "wrath_of_khan",
-  "cinematic_title": "Star Trek II: The Wrath of Khan",
-  "data_summary": "SLEEP 8H32 | +53M VS 4W AVG | Last sleep was 8.5 hours with score 83, versus a four-week average of 7.7 hours.",
-  "expires_at": "2026-08-11T16:40:36+10:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "space_jam",
+  "cinematic_title": "Space Jam",
+  "data_summary": "HRV 72 MS | BALANCED 40 DAYS | Seven-day HRV averages 71.6 ms versus 71.3 ms in the prior seven days; latest status is balanced.",
+  "expires_at": "2026-08-11T17:00:37+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-11T10:40:36+10:00",
-  "title": "Health Insight: SLEEP 8H32",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-08-11T11:00:37+10:00",
+  "title": "Health Insight: HRV 72 MS",
+  "topic_key": "health_hrv_weekly_trend",
   "url": ""
 }
