@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "jumanji_1995",
-  "cinematic_title": "Jumanji",
-  "data_summary": "CN to EP leave times: 20:51 21:01 21:11",
-  "expires_at": "2026-08-12T02:40:27+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-11T20:40:27+10:00",
-  "title": "Commute: CN: 20:51 21:01 21:11",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "gundam_hathaway",
+  "cinematic_title": "Mobile Suit Gundam Hathaway",
+  "data_summary": "next-hour temp 11.4C; rain below 15% notice threshold",
+  "expires_at": "2026-08-12T03:00:28+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-08-11T21:00:28+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
