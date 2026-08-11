@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "quiet_place",
-  "cinematic_title": "A Quiet Place",
-  "data_summary": "context phase sunset, temp 15C",
-  "expires_at": "2026-08-11T23:40:09+10:00",
-  "kind": "none",
-  "label": "",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "the_rock",
+  "cinematic_title": "The Rock",
+  "data_summary": "CN to EP leave times: 18:07 18:11 18:15",
+  "expires_at": "2026-08-12T00:00:16+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-11T17:40:09+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "published_at": "2026-08-11T18:00:16+10:00",
+  "title": "Commute: CN: 18:07 18:11 18:15",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
