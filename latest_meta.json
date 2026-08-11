@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "harry_potter_goblet",
-  "cinematic_title": "Harry Potter and the Goblet of Fire",
-  "data_summary": "context phase evening, temp 12C",
-  "expires_at": "2026-08-12T02:20:26+10:00",
-  "kind": "none",
-  "label": "",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "jumanji_1995",
+  "cinematic_title": "Jumanji",
+  "data_summary": "CN to EP leave times: 20:51 21:01 21:11",
+  "expires_at": "2026-08-12T02:40:27+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-11T20:20:26+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
-  "url": ""
+  "published_at": "2026-08-11T20:40:27+10:00",
+  "title": "Commute: CN: 20:51 21:01 21:11",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
