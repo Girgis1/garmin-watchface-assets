@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "prometheus",
-  "cinematic_title": "Prometheus",
-  "data_summary": "context phase sunset, temp 15C",
-  "expires_at": "2026-08-12T23:00:45+10:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "superman_1978",
+  "cinematic_title": "Superman",
+  "data_summary": "sleep 5.5h, score 59",
+  "expires_at": "2026-08-12T23:20:46+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-12T17:00:45+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "sleep",
+  "published_at": "2026-08-12T17:20:46+10:00",
+  "title": "Sleep Recovery",
+  "topic_key": "sleep",
   "url": ""
 }
