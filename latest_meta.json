@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "pokemon_kanto",
-  "cinematic_title": "Pokemon: Indigo League",
-  "data_summary": "CN to EP leave times: 18:07 18:11 18:15",
-  "expires_at": "2026-08-13T00:00:49+10:00",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "sleepy_hollow",
+  "cinematic_title": "Sleepy Hollow",
+  "data_summary": "CN to EP leave times: 18:26 18:30 18:33",
+  "expires_at": "2026-08-13T00:20:50+10:00",
   "kind": "rail",
   "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-12T18:00:49+10:00",
-  "title": "Commute: CN: 18:07 18:11 18:15",
+  "published_at": "2026-08-12T18:20:50+10:00",
+  "title": "Commute: CN: 18:26 18:30 18:33",
   "topic_key": "transit_alert",
   "url": "https://transportnsw.info/alerts#/metro-train"
 }
