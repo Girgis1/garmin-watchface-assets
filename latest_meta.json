@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "mitchells_machines",
-  "cinematic_title": "The Mitchells vs. the Machines",
-  "data_summary": "context phase afternoon, temp 17C",
-  "expires_at": "2026-08-12T20:20:33+10:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "twister",
+  "cinematic_title": "Twister",
+  "data_summary": "sleep debt: 5.5h, score 59, 21-day avg 7.6h",
+  "expires_at": "2026-08-12T20:40:34+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-12T14:20:33+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
+  "lane": "health",
+  "published_at": "2026-08-12T14:40:34+10:00",
+  "title": "Sleep Debt",
+  "topic_key": "health_sleep_debt",
   "url": ""
 }
