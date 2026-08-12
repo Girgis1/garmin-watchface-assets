@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "tmnt_mutant_mayhem",
-  "cinematic_title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
-  "data_summary": "next-hour temp 16.1C, rain 78%, 0.0 mm",
-  "expires_at": "2026-08-12T22:40:44+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-12T16:40:44+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "prometheus",
+  "cinematic_title": "Prometheus",
+  "data_summary": "context phase sunset, temp 15C",
+  "expires_at": "2026-08-12T23:00:45+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-12T17:00:45+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
