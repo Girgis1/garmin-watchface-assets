@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "pokemon_first_movie",
-  "cinematic_title": "Pokemon: The First Movie",
-  "data_summary": "context phase evening, temp 12C",
-  "expires_at": "2026-08-13T01:00:56+10:00",
-  "kind": "none",
-  "label": "",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "cars",
+  "cinematic_title": "Cars",
+  "data_summary": "CN to EP leave times: 19:51 20:01 20:11",
+  "expires_at": "2026-08-13T01:40:03+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-12T19:00:56+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
-  "url": ""
+  "published_at": "2026-08-12T19:40:03+10:00",
+  "title": "Commute: CN: 19:51 20:01 20:11",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
