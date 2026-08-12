@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "ghostbusters",
-  "cinematic_title": "Ghostbusters",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "harry_potter_azkaban",
+  "cinematic_title": "Harry Potter and the Prisoner of Azkaban",
   "data_summary": "morning briefing: no major weather/sleep drama",
-  "expires_at": "2026-08-13T15:00:35+10:00",
+  "expires_at": "2026-08-13T15:20:36+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-13T09:00:35+10:00",
+  "published_at": "2026-08-13T09:20:36+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
