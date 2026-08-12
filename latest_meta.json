@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "strange_days",
-  "cinematic_title": "Strange Days",
-  "data_summary": "Illicit tobacco raids spark petrol price concerns after nine Sydney Metro service stations shut down",
-  "expires_at": "2026-08-13T02:20:05+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-12T20:20:05+10:00",
-  "title": "News: Illicit tobacco raids spark petrol price concerns after nine Sydney",
-  "topic_key": "interesting_signal_illicit_tobacco_raids_spark_petrol_p",
-  "url": "https://www.google.com/search?q=Illicit+tobacco+raids+spark+petrol+price+concerns+after+nine+Sydney+Metro+service+stations+shut+down"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "how_train_dragon",
+  "cinematic_title": "How to Train Your Dragon",
+  "data_summary": "context phase evening, temp 11C",
+  "expires_at": "2026-08-13T02:40:06+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-12T20:40:06+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
+  "url": ""
 }
