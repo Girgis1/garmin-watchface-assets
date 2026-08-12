@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "elysium",
-  "cinematic_title": "Elysium",
-  "data_summary": "next-hour temp 15.8C, rain 67%, 1.0 mm",
-  "expires_at": "2026-08-12T21:00:35+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-12T15:00:35+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "edward_scissorhands",
+  "cinematic_title": "Edward Scissorhands",
+  "data_summary": "waning crescent, 1% illuminated",
+  "expires_at": "2026-08-12T21:20:38+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-08-12T15:20:38+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
