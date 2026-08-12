@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "lego_movie",
-  "cinematic_title": "The Lego Movie",
-  "data_summary": "context phase midday, temp 18C",
-  "expires_at": "2026-08-12T18:40:27+10:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "logan",
+  "cinematic_title": "Logan",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-08-12T19:00:29+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-12T12:40:27+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-08-12T13:00:29+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
