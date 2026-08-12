@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "tron_legacy",
-  "cinematic_title": "TRON: Legacy",
-  "data_summary": "7D SLEEP 7H30 | 16M VS PRIOR 7D | The seven-day sleep average is 7.5 hours, 16 minutes below the prior seven days.",
-  "expires_at": "2026-08-12T22:20:43+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-12T16:20:43+10:00",
-  "title": "Health Insight: 7D SLEEP 7H30",
-  "topic_key": "health_weekly_sleep_trend",
-  "url": ""
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "tmnt_mutant_mayhem",
+  "cinematic_title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+  "data_summary": "next-hour temp 16.1C, rain 78%, 0.0 mm",
+  "expires_at": "2026-08-12T22:40:44+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-08-12T16:40:44+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
