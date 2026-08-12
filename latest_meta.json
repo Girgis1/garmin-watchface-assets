@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "the_shining",
-  "cinematic_title": "The Shining",
-  "data_summary": "CN to EP leave times: 21:31 21:41 21:51",
-  "expires_at": "2026-08-13T03:20:09+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "oceans_eleven",
+  "cinematic_title": "Ocean's Eleven",
+  "data_summary": "context phase night, temp 11C",
+  "expires_at": "2026-08-13T03:40:09+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-08-12T21:20:09+10:00",
-  "title": "Commute: CN: 21:31 21:41 21:51",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "published_at": "2026-08-12T21:40:09+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
+  "url": ""
 }
