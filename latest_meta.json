@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "monsters_inc",
-  "cinematic_title": "Monsters, Inc.",
-  "data_summary": "next-hour temp 11.5C; rain below 15% notice threshold",
-  "expires_at": "2026-08-14T03:00:26+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-13T21:00:26+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "upgrade",
+  "cinematic_title": "Upgrade",
+  "data_summary": "context phase night, temp 12C",
+  "expires_at": "2026-08-14T03:20:27+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-13T21:20:27+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
+  "url": ""
 }
