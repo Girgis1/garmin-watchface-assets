@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "golden_compass",
-  "cinematic_title": "The Golden Compass",
-  "data_summary": "HRV status unbalanced",
-  "expires_at": "2026-08-13T18:20:51+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "men_in_black",
+  "cinematic_title": "Men in Black",
+  "data_summary": "context phase midday, temp 17C",
+  "expires_at": "2026-08-13T18:40:52+10:00",
   "kind": "none",
   "label": "",
   "lane": "local_signal",
-  "published_at": "2026-08-13T12:20:51+10:00",
-  "title": "HRV Balance",
-  "topic_key": "hrv_balance",
+  "published_at": "2026-08-13T12:40:52+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
