@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "guardians_galaxy",
-  "cinematic_title": "Guardians of the Galaxy",
-  "data_summary": "CN to EP leave times: 18:07 18:11 18:15",
-  "expires_at": "2026-08-14T00:00:16+10:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "avengers",
+  "cinematic_title": "The Avengers",
+  "data_summary": "CN to EP leave times: 18:26 18:30 18:33",
+  "expires_at": "2026-08-14T00:20:17+10:00",
   "kind": "rail",
   "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-13T18:00:16+10:00",
-  "title": "Commute: CN: 18:07 18:11 18:15",
+  "published_at": "2026-08-13T18:20:17+10:00",
+  "title": "Commute: CN: 18:26 18:30 18:33",
   "topic_key": "transit_alert",
   "url": "https://transportnsw.info/alerts#/metro-train"
 }
