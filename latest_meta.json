@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "no_country",
-  "cinematic_title": "No Country for Old Men",
-  "data_summary": "morning briefing: no major weather/sleep drama",
-  "expires_at": "2026-08-13T15:40:37+10:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "guardians_vol2",
+  "cinematic_title": "Guardians of the Galaxy Vol. 2",
+  "data_summary": "HRV UNBALANCED, avg 67 ms, unbalanced today",
+  "expires_at": "2026-08-13T16:00:39+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-08-13T09:40:37+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-08-13T10:00:39+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_unbalanced",
   "url": ""
 }
