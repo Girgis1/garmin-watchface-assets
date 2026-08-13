@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "inside_out",
-  "cinematic_title": "Inside Out",
-  "data_summary": "leave-work temp 12C; rain below 15% notice threshold",
-  "expires_at": "2026-08-13T23:20:13+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather_departure",
-  "published_at": "2026-08-13T17:20:13+10:00",
-  "title": "Leave-Work Weather",
-  "topic_key": "leave_work_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "beetlejuice",
+  "cinematic_title": "Beetlejuice",
+  "data_summary": "context phase sunset, temp 14C",
+  "expires_at": "2026-08-13T23:40:14+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-13T17:40:14+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
