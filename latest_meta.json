@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "pirates_caribbean",
-  "cinematic_title": "Pirates of the Caribbean",
-  "data_summary": "# Garmin Health Insight Generated: 2026-08-13T10:57:45+10:00 Data through: 2026-08-13 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +18 BB** | 32 VS 14 / 25 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
-  "expires_at": "2026-08-13T17:00:46+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "shrek",
+  "cinematic_title": "Shrek",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-08-13T17:20:48+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-13T11:00:46+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-08-13T11:20:48+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
