@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "guardians_vol2",
-  "cinematic_title": "Guardians of the Galaxy Vol. 2",
-  "data_summary": "HRV UNBALANCED, avg 67 ms, unbalanced today",
-  "expires_at": "2026-08-13T16:00:39+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-13T10:00:39+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_unbalanced",
-  "url": ""
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "last_of_us",
+  "cinematic_title": "The Last of Us",
+  "data_summary": "MB to EP leave times: 10:50 11:03 11:18",
+  "expires_at": "2026-08-13T16:40:41+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-13T10:40:41+10:00",
+  "title": "Commute: MB: 10:50 11:03 11:18",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
