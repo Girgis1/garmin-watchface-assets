@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "shrek",
-  "cinematic_title": "Shrek",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-08-13T17:20:48+10:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "hitchhikers_guide",
+  "cinematic_title": "The Hitchhiker's Guide to the Galaxy",
+  "data_summary": "context phase midday, temp 16C",
+  "expires_at": "2026-08-13T17:40:49+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-13T11:20:48+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
+  "lane": "local_signal",
+  "published_at": "2026-08-13T11:40:49+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
