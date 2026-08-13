@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "last_of_us",
-  "cinematic_title": "The Last of Us",
-  "data_summary": "MB to EP leave times: 10:50 11:03 11:18",
-  "expires_at": "2026-08-13T16:40:41+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-13T10:40:41+10:00",
-  "title": "Commute: MB: 10:50 11:03 11:18",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "pirates_caribbean",
+  "cinematic_title": "Pirates of the Caribbean",
+  "data_summary": "# Garmin Health Insight Generated: 2026-08-13T10:57:45+10:00 Data through: 2026-08-13 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +18 BB** | 32 VS 14 / 25 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
+  "expires_at": "2026-08-13T17:00:46+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-13T11:00:46+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
+  "url": ""
 }
