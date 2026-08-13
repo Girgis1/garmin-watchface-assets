@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "men_in_black",
-  "cinematic_title": "Men in Black",
-  "data_summary": "context phase midday, temp 17C",
-  "expires_at": "2026-08-13T18:40:52+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-13T12:40:52+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
-  "url": ""
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "batman_1989",
+  "cinematic_title": "Batman",
+  "data_summary": "new moon, 0% illuminated",
+  "expires_at": "2026-08-13T21:00:05+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-08-13T15:00:05+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
