@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "pans_labyrinth",
-  "cinematic_title": "Pan's Labyrinth",
-  "data_summary": "context phase sunset, temp 13C",
-  "expires_at": "2026-08-14T00:40:18+10:00",
-  "kind": "none",
-  "label": "",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "it_2017",
+  "cinematic_title": "It",
+  "data_summary": "CN to EP leave times: 19:51 20:01 20:11",
+  "expires_at": "2026-08-14T01:40:22+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-13T18:40:18+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "published_at": "2026-08-13T19:40:22+10:00",
+  "title": "Commute: CN: 19:51 20:01 20:11",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
