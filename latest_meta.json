@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "ready_player_one",
-  "cinematic_title": "Ready Player One",
-  "data_summary": "context phase evening, temp 12C",
-  "expires_at": "2026-08-14T02:20:24+10:00",
-  "kind": "none",
-  "label": "",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "pacific_rim",
+  "cinematic_title": "Pacific Rim",
+  "data_summary": "CN to EP leave times: 20:51 21:01 21:11",
+  "expires_at": "2026-08-14T02:40:24+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-13T20:20:24+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
-  "url": ""
+  "published_at": "2026-08-13T20:40:24+10:00",
+  "title": "Commute: CN: 20:51 21:01 21:11",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
