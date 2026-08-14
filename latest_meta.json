@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "bumblebee",
-  "cinematic_title": "Bumblebee",
-  "data_summary": "MB to EP leave times: 10:50 11:03 11:18",
-  "expires_at": "2026-08-14T16:40:28+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-14T10:40:28+10:00",
-  "title": "Commute: MB: 10:50 11:03 11:18",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "the_batman",
+  "cinematic_title": "The Batman",
+  "data_summary": "Court tosses $11.55M claim over acquisition of Pitt St easement for Sydney Metro",
+  "expires_at": "2026-08-14T17:00:30+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-14T11:00:30+10:00",
+  "title": "News: Court tosses $11.55M claim over acquisition of Pitt St easement",
+  "topic_key": "interesting_signal_court_tosses_11_55m_claim_over_acqui",
+  "url": "https://www.google.com/search?q=Court+tosses+%2411.55M+claim+over+acquisition+of+Pitt+St+easement+for+Sydney+Metro"
 }
