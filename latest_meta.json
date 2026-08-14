@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "terminator_2",
-  "cinematic_title": "Terminator 2",
-  "data_summary": "morning briefing: no major weather/sleep drama",
-  "expires_at": "2026-08-14T15:40:24+10:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "dune_part_two",
+  "cinematic_title": "Dune: Part Two",
+  "data_summary": "# Garmin Health Insight Generated: 2026-08-14T09:57:26+10:00 Data through: 2026-08-14 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +19 BB** | 32 VS 14 / 25 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
+  "expires_at": "2026-08-14T16:00:27+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-08-14T09:40:24+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-08-14T10:00:27+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
