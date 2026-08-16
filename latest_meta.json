@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "metropolis_2001",
-  "cinematic_title": "Metropolis",
-  "data_summary": "CN to EP leave times: 18:49 18:56 19:03",
-  "expires_at": "2026-08-17T00:40:35+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-16T18:40:35+10:00",
-  "title": "Commute: CN: 18:49 18:56 19:03",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "birds_of_prey",
+  "cinematic_title": "Birds of Prey",
+  "data_summary": "Sydney trains were checked just weeks before wire fail left hundreds stranded",
+  "expires_at": "2026-08-17T01:00:36+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-16T19:00:36+10:00",
+  "title": "News: Sydney trains were checked just weeks before wire fail left",
+  "topic_key": "interesting_signal_sydney_trains_were_checked_just_week",
+  "url": "https://www.google.com/search?q=Sydney+trains+were+checked+just+weeks+before+wire+fail+left+hundreds+stranded"
 }
