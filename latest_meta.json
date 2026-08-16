@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "dc_super_pets",
-  "cinematic_title": "DC League of Super-Pets",
-  "data_summary": "context phase sunset, temp 14C",
-  "expires_at": "2026-08-16T23:20:31+10:00",
-  "kind": "none",
-  "label": "",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "transformers_age_extinction",
+  "cinematic_title": "Transformers: Age of Extinction",
+  "data_summary": "CN to EP leave times: 18:07 18:14 18:21",
+  "expires_at": "2026-08-17T00:00:33+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-16T17:20:31+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "published_at": "2026-08-16T18:00:33+10:00",
+  "title": "Commute: CN: 18:07 18:14 18:21",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
