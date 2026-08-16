@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "daredevil_2003",
-  "cinematic_title": "Daredevil",
-  "data_summary": "NO 80+ BB FINISHES | 41 / 30 DAYS | None of 30 recent complete days finished above Body Battery 80; the best finish was 41. This describes the recent data window, not a diagnosis.",
-  "expires_at": "2026-08-17T01:40:38+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "mars_attacks",
+  "cinematic_title": "Mars Attacks!",
+  "data_summary": "sleep 5.4h, score 68",
+  "expires_at": "2026-08-17T02:00:39+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-16T19:40:38+10:00",
-  "title": "Health Insight: NO 80+ BB FINISHES",
-  "topic_key": "health_pattern_body_battery_recovery",
+  "lane": "sleep",
+  "published_at": "2026-08-16T20:00:39+10:00",
+  "title": "Sleep Recovery",
+  "topic_key": "sleep",
   "url": ""
 }
