@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "her",
-  "cinematic_title": "Her",
-  "data_summary": "INTENSITY 327 MIN | +130% VS PRIOR 7D | Weighted intensity minutes total 327 across the last seven days versus 142 in the prior seven-day window.",
-  "expires_at": "2026-08-16T18:00:20+10:00",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "super_mario_movie",
+  "cinematic_title": "The Super Mario Bros. Movie",
+  "data_summary": "SLEEP 5H24 | 136M VS 4W AVG | Last sleep was 5.4 hours with score 68, versus a four-week average of 7.7 hours.",
+  "expires_at": "2026-08-16T18:20:21+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-16T12:00:20+10:00",
-  "title": "Health Insight: INTENSITY 327 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-08-16T12:20:21+10:00",
+  "title": "Health Insight: SLEEP 5H24",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
