@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "transformers_age_extinction",
-  "cinematic_title": "Transformers: Age of Extinction",
-  "data_summary": "CN to EP leave times: 18:07 18:14 18:21",
-  "expires_at": "2026-08-17T00:00:33+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "spiderman_far_home",
+  "cinematic_title": "Spider-Man: Far From Home",
+  "data_summary": "CN to EP leave times: 18:28 18:35 18:42",
+  "expires_at": "2026-08-17T00:20:34+10:00",
   "kind": "rail",
   "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-16T18:00:33+10:00",
-  "title": "Commute: CN: 18:07 18:14 18:21",
+  "published_at": "2026-08-16T18:20:34+10:00",
+  "title": "Commute: CN: 18:28 18:35 18:42",
   "topic_key": "transit_alert",
   "url": "https://transportnsw.info/alerts#/metro-train"
 }
