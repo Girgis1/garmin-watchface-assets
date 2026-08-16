@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "bill_ted",
-  "cinematic_title": "Bill & Ted's Excellent Adventure",
-  "data_summary": "next-hour temp 16.3C, rain 89%, 0.2 mm",
-  "expires_at": "2026-08-16T17:20:15+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-16T11:20:15+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "dungeons_dragons_honor",
+  "cinematic_title": "Dungeons & Dragons: Honor Among Thieves",
+  "data_summary": "BB<20: 18/30 DAYS | 18/18 ALSO STRESS 35+ | Body Battery finished below 20 on 18 of 30 recent complete days; 18 of those days also had average stress of 35 or higher.",
+  "expires_at": "2026-08-16T17:40:16+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-16T11:40:16+10:00",
+  "title": "Health Insight: BB<20: 18/30 DAYS",
+  "topic_key": "health_pattern_low_body_battery_freq",
+  "url": ""
 }
