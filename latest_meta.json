@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "batman_beyond_return_joker",
-  "cinematic_title": "Batman Beyond: Return of the Joker",
-  "data_summary": "CN to EP leave times: 20:51 21:01 21:11",
-  "expires_at": "2026-08-17T02:40:48+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-16T20:40:48+10:00",
-  "title": "Commute: CN: 20:51 21:01 21:11",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "thor_ragnarok",
+  "cinematic_title": "Thor: Ragnarok",
+  "data_summary": "morning briefing: RAIN 32% FROM 8AM",
+  "expires_at": "2026-08-17T14:00:40+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "morning",
+  "published_at": "2026-08-17T08:00:40+10:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
+  "url": ""
 }
