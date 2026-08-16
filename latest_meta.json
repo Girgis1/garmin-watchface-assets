@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "cloverfield",
-  "cinematic_title": "Cloverfield",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "amazing_spiderman_2",
+  "cinematic_title": "The Amazing Spider-Man 2",
   "data_summary": "morning briefing: RAIN 28% FROM 9AM",
-  "expires_at": "2026-08-17T15:00:44+10:00",
+  "expires_at": "2026-08-17T15:20:44+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-17T09:00:44+10:00",
+  "published_at": "2026-08-17T09:20:44+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
