@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "harry_potter_stone",
-  "cinematic_title": "Harry Potter and the Philosopher's Stone",
-  "data_summary": "MB to EP leave times: 10:28 10:43 10:58",
-  "expires_at": "2026-08-16T16:20:12+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-16T10:20:12+10:00",
-  "title": "Commute: MB: 10:28 10:43 10:58",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "top_gun_maverick",
+  "cinematic_title": "Top Gun: Maverick",
+  "data_summary": "Sydney Trains Back on Track After Overnight Repairs Follow Friday 'Freak incident Wiring Chaos'",
+  "expires_at": "2026-08-16T16:40:13+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-16T10:40:13+10:00",
+  "title": "News: Sydney Trains Back on Track After Overnight Repairs Follow Friday",
+  "topic_key": "interesting_signal_sydney_trains_back_on_track_after_ov",
+  "url": "https://www.google.com/search?q=Sydney+Trains+Back+on+Track+After+Overnight+Repairs+Follow+Friday+%27Freak+incident+Wiring+Chaos%27"
 }
