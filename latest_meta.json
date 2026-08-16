@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "evangelion_thrice",
-  "cinematic_title": "Evangelion: 3.0+1.0",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-08-16T20:00:15+10:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "iron_man",
+  "cinematic_title": "Iron Man",
+  "data_summary": "RHR UP, HRV DOWN | R=-0.76 / N=28 | Across 28 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.76. Treat this as a personal trend signal, not a diagnosis.",
+  "expires_at": "2026-08-16T20:20:16+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-16T14:00:15+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
+  "published_at": "2026-08-16T14:20:16+10:00",
+  "title": "Health Insight: RHR UP, HRV DOWN",
+  "topic_key": "health_pattern_rhr_hrv_relationship",
   "url": ""
 }
