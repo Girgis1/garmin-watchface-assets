@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "birds_of_prey",
-  "cinematic_title": "Birds of Prey",
-  "data_summary": "Sydney trains were checked just weeks before wire fail left hundreds stranded",
-  "expires_at": "2026-08-17T01:00:36+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-16T19:00:36+10:00",
-  "title": "News: Sydney trains were checked just weeks before wire fail left",
-  "topic_key": "interesting_signal_sydney_trains_were_checked_just_week",
-  "url": "https://www.google.com/search?q=Sydney+trains+were+checked+just+weeks+before+wire+fail+left+hundreds+stranded"
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "surrogates",
+  "cinematic_title": "Surrogates",
+  "data_summary": "context phase evening, temp 13C",
+  "expires_at": "2026-08-17T01:20:37+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-16T19:20:37+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
+  "url": ""
 }
