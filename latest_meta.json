@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "dune",
-  "cinematic_title": "Dune",
-  "data_summary": "HRV 68 MS | 3.2 VS PRIOR 7D | Seven-day HRV averages 68.3 ms versus 71.6 ms in the prior seven days; latest status is balanced.",
-  "expires_at": "2026-08-16T19:40:13+10:00",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "evangelion_thrice",
+  "cinematic_title": "Evangelion: 3.0+1.0",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-08-16T20:00:15+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-16T13:40:13+10:00",
-  "title": "Health Insight: HRV 68 MS",
-  "topic_key": "health_hrv_weekly_trend",
+  "published_at": "2026-08-16T14:00:15+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
