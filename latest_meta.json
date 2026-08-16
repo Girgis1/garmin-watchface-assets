@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "top_gun_maverick",
-  "cinematic_title": "Top Gun: Maverick",
-  "data_summary": "Sydney Trains Back on Track After Overnight Repairs Follow Friday 'Freak incident Wiring Chaos'",
-  "expires_at": "2026-08-16T16:40:13+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-16T10:40:13+10:00",
-  "title": "News: Sydney Trains Back on Track After Overnight Repairs Follow Friday",
-  "topic_key": "interesting_signal_sydney_trains_back_on_track_after_ov",
-  "url": "https://www.google.com/search?q=Sydney+Trains+Back+on+Track+After+Overnight+Repairs+Follow+Friday+%27Freak+incident+Wiring+Chaos%27"
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "bill_ted",
+  "cinematic_title": "Bill & Ted's Excellent Adventure",
+  "data_summary": "next-hour temp 16.3C, rain 89%, 0.2 mm",
+  "expires_at": "2026-08-16T17:20:15+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-08-16T11:20:15+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
