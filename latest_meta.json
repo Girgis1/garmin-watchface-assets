@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "total_recall",
-  "cinematic_title": "Total Recall",
-  "data_summary": "morning briefing: ROUGH SLEEP 5.4H; RAIN 72% FROM 9AM",
-  "expires_at": "2026-08-16T15:40:10+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "morning",
-  "published_at": "2026-08-16T09:40:10+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
-  "url": ""
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "harry_potter_stone",
+  "cinematic_title": "Harry Potter and the Philosopher's Stone",
+  "data_summary": "MB to EP leave times: 10:28 10:43 10:58",
+  "expires_at": "2026-08-16T16:20:12+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-16T10:20:12+10:00",
+  "title": "Commute: MB: 10:28 10:43 10:58",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
