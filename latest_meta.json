@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "xmen_last_stand",
-  "cinematic_title": "X-Men: The Last Stand",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "shazam",
+  "cinematic_title": "Shazam!",
   "data_summary": "morning briefing: RAIN 32% FROM 8AM",
-  "expires_at": "2026-08-17T14:20:41+10:00",
+  "expires_at": "2026-08-17T14:40:42+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-17T08:20:41+10:00",
+  "published_at": "2026-08-17T08:40:42+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
