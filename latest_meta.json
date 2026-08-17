@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "detective_pikachu",
-  "cinematic_title": "Detective Pikachu",
-  "data_summary": "context phase evening, temp 12C",
-  "expires_at": "2026-08-18T01:20:33+10:00",
-  "kind": "none",
-  "label": "",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "superman_ii",
+  "cinematic_title": "Superman II",
+  "data_summary": "CN to EP leave times: 19:51 20:01 20:11",
+  "expires_at": "2026-08-18T01:40:34+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-17T19:20:33+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
-  "url": ""
+  "published_at": "2026-08-17T19:40:34+10:00",
+  "title": "Commute: CN: 19:51 20:01 20:11",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
