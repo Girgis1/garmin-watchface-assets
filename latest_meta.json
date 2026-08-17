@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "cowboys_aliens",
-  "cinematic_title": "Cowboys & Aliens",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "jupiter_ascending",
+  "cinematic_title": "Jupiter Ascending",
   "data_summary": "morning briefing: RAIN 27% FROM 12PM",
-  "expires_at": "2026-08-18T14:00:36+10:00",
+  "expires_at": "2026-08-18T14:20:36+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-18T08:00:36+10:00",
+  "published_at": "2026-08-18T08:20:36+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
