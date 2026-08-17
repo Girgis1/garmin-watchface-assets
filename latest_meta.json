@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "across_spiderverse",
-  "cinematic_title": "Spider-Man: Across the Spider-Verse",
-  "data_summary": "BB TREND +1.5/DAY | 17 -> 75 / 14D | Comparable daily Body Battery values moved from 17 to 75, with a fitted trend of +1.5 points per day.",
-  "expires_at": "2026-08-17T17:00:50+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "hellboy_2004",
+  "cinematic_title": "Hellboy",
+  "data_summary": "HRV 68 MS | 3.1 VS PRIOR 7D | Seven-day HRV averages 68.3 ms versus 71.4 ms in the prior seven days; latest status is balanced.",
+  "expires_at": "2026-08-17T17:20:52+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-17T11:00:50+10:00",
-  "title": "Health Insight: BB TREND +1.5/DAY",
-  "topic_key": "health_pattern_body_battery_14d_tren",
+  "published_at": "2026-08-17T11:20:52+10:00",
+  "title": "Health Insight: HRV 68 MS",
+  "topic_key": "health_hrv_weekly_trend",
   "url": ""
 }
