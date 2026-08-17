@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "thor_love_thunder",
-  "cinematic_title": "Thor: Love and Thunder",
-  "data_summary": "context phase night, temp 11C",
-  "expires_at": "2026-08-18T03:00:38+10:00",
-  "kind": "none",
-  "label": "",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "et_extraterrestrial",
+  "cinematic_title": "E.T. the Extra-Terrestrial",
+  "data_summary": "CN to EP leave times: 21:31 21:41 21:51",
+  "expires_at": "2026-08-18T03:20:39+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-17T21:00:38+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
-  "url": ""
+  "published_at": "2026-08-17T21:20:39+10:00",
+  "title": "Commute: CN: 21:31 21:41 21:51",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
