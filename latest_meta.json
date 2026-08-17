@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "batman_under_red_hood",
-  "cinematic_title": "Batman: Under the Red Hood",
-  "data_summary": "context phase sunset, temp 15C",
-  "expires_at": "2026-08-17T22:20:17+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "war_worlds",
+  "cinematic_title": "War of the Worlds",
+  "data_summary": "HRV BALANCED, avg 69 ms, 2 day balanced streak",
+  "expires_at": "2026-08-17T22:40:18+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-17T16:20:17+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-08-17T16:40:18+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
   "url": ""
 }
