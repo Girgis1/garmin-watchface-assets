@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "captain_america_civil_war",
-  "cinematic_title": "Captain America: Civil War",
-  "data_summary": "context phase afternoon, temp 16C",
-  "expires_at": "2026-08-17T20:40:02+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-17T14:40:02+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
-  "url": ""
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "battle_los_angeles",
+  "cinematic_title": "Battle: Los Angeles",
+  "data_summary": "waxing crescent, 16% illuminated",
+  "expires_at": "2026-08-17T21:00:09+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-08-17T15:00:09+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
