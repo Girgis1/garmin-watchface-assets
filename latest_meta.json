@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "akira",
-  "cinematic_title": "Akira",
-  "data_summary": "MB to EP leave times: 11:48 12:03 12:20",
-  "expires_at": "2026-08-17T17:40:54+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-17T11:40:54+10:00",
-  "title": "Commute: MB: 11:48 12:03 12:20",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "ant_man",
+  "cinematic_title": "Ant-Man",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-08-17T18:00:55+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-17T12:00:55+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
+  "url": ""
 }
