@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "thor_2011",
-  "cinematic_title": "Thor",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "blue_beetle",
+  "cinematic_title": "Blue Beetle",
   "data_summary": "morning briefing: RAIN 27% FROM 12PM",
-  "expires_at": "2026-08-18T14:40:38+10:00",
+  "expires_at": "2026-08-18T15:00:39+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-18T08:40:38+10:00",
+  "published_at": "2026-08-18T09:00:39+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
