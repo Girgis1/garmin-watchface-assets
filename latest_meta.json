@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "transformers_revenge_fallen",
-  "cinematic_title": "Transformers: Revenge of the Fallen",
-  "data_summary": "SLEEP 7H34 | +0M VS 4W AVG | Last sleep was 7.6 hours with score 84, versus a four-week average of 7.6 hours.",
-  "expires_at": "2026-08-18T04:20:44+10:00",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "lotr_two_towers",
+  "cinematic_title": "The Lord of the Rings: The Two Towers",
+  "data_summary": "7D SLEEP 7H10 | 32M VS PRIOR 7D | The seven-day sleep average is 7.2 hours, 32 minutes below the prior seven days.",
+  "expires_at": "2026-08-18T04:40:52+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-17T22:20:44+10:00",
-  "title": "Health Insight: SLEEP 7H34",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-08-17T22:40:52+10:00",
+  "title": "Health Insight: 7D SLEEP 7H10",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
