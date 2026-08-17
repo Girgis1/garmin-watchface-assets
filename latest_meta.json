@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "hellboy_2004",
-  "cinematic_title": "Hellboy",
-  "data_summary": "HRV 68 MS | 3.1 VS PRIOR 7D | Seven-day HRV averages 68.3 ms versus 71.4 ms in the prior seven days; latest status is balanced.",
-  "expires_at": "2026-08-17T17:20:52+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-17T11:20:52+10:00",
-  "title": "Health Insight: HRV 68 MS",
-  "topic_key": "health_hrv_weekly_trend",
-  "url": ""
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "akira",
+  "cinematic_title": "Akira",
+  "data_summary": "MB to EP leave times: 11:48 12:03 12:20",
+  "expires_at": "2026-08-17T17:40:54+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-17T11:40:54+10:00",
+  "title": "Commute: MB: 11:48 12:03 12:20",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
