@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "venom",
-  "cinematic_title": "Venom",
-  "data_summary": "training intensity minutes today 0",
-  "expires_at": "2026-08-17T21:40:16+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-17T15:40:16+10:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
-  "url": ""
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "pirates_worlds_end",
+  "cinematic_title": "Pirates of the Caribbean: At World's End",
+  "data_summary": "next-hour temp 15.4C, rain 61%, 0.0 mm",
+  "expires_at": "2026-08-17T22:00:17+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-08-17T16:00:17+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
