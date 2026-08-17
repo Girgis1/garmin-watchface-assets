@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "next_2007",
-  "cinematic_title": "Next",
-  "data_summary": "INTENSITY 326 MIN | +104% VS PRIOR 7D | Weighted intensity minutes total 326 across the last seven days versus 160 in the prior seven-day window.",
-  "expires_at": "2026-08-17T16:20:48+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "green_lantern",
+  "cinematic_title": "Green Lantern",
+  "data_summary": "context phase midday, temp 16C",
+  "expires_at": "2026-08-17T16:40:49+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-17T10:20:48+10:00",
-  "title": "Health Insight: INTENSITY 326 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "lane": "local_signal",
+  "published_at": "2026-08-17T10:40:49+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
