@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "harry_potter_half_blood",
-  "cinematic_title": "Harry Potter and the Half-Blood Prince",
-  "data_summary": "next-hour temp 16.4C, rain 63%, 0.0 mm",
-  "expires_at": "2026-08-17T18:20:55+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-17T12:20:55+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "spiderman_2002",
+  "cinematic_title": "Spider-Man",
+  "data_summary": "Surge in demand for Sydney\u2019s metro trains leaves passengers waiting",
+  "expires_at": "2026-08-17T18:40:56+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-17T12:40:56+10:00",
+  "title": "News: Surge in demand for Sydney\u2019s metro trains leaves passengers waiting",
+  "topic_key": "interesting_signal_surge_in_demand_for_sydney_s_metro_t",
+  "url": "https://www.google.com/search?q=Surge+in+demand+for+Sydney%E2%80%99s+metro+trains+leaves+passengers+waiting"
 }
