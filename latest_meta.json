@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "ant_man",
-  "cinematic_title": "Ant-Man",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-08-17T18:00:55+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-17T12:00:55+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "harry_potter_half_blood",
+  "cinematic_title": "Harry Potter and the Half-Blood Prince",
+  "data_summary": "next-hour temp 16.4C, rain 63%, 0.0 mm",
+  "expires_at": "2026-08-17T18:20:55+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-08-17T12:20:55+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
