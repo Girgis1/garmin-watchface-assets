@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "lotr_two_towers",
-  "cinematic_title": "The Lord of the Rings: The Two Towers",
-  "data_summary": "7D SLEEP 7H10 | 32M VS PRIOR 7D | The seven-day sleep average is 7.2 hours, 32 minutes below the prior seven days.",
-  "expires_at": "2026-08-18T04:40:52+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "swamp_thing_1982",
+  "cinematic_title": "Swamp Thing",
+  "data_summary": "goodnight stage soft: Close a few tabs. Yes, the brain ones too.; no extra alerts",
+  "expires_at": "2026-08-18T05:00:54+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-17T22:40:52+10:00",
-  "title": "Health Insight: 7D SLEEP 7H10",
-  "topic_key": "health_weekly_sleep_trend",
+  "lane": "goodnight",
+  "published_at": "2026-08-17T23:00:54+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
