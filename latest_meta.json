@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "amazing_spiderman",
-  "cinematic_title": "The Amazing Spider-Man",
-  "data_summary": "goodnight stage midnight_strict: GO TO BED. Night has called security.; no extra alerts",
-  "expires_at": "2026-08-18T06:00:57+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "cowboys_aliens",
+  "cinematic_title": "Cowboys & Aliens",
+  "data_summary": "morning briefing: RAIN 27% FROM 12PM",
+  "expires_at": "2026-08-18T14:00:36+10:00",
   "kind": "none",
   "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-08-18T00:00:57+10:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "lane": "morning",
+  "published_at": "2026-08-18T08:00:36+10:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
