@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "harry_potter_hallows_part1",
-  "cinematic_title": "Harry Potter and the Deathly Hallows - Part 1",
-  "data_summary": "CN to EP leave times: 22:51 23:01 23:11",
-  "expires_at": "2026-08-19T04:40:43+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-18T22:40:43+10:00",
-  "title": "Commute: CN: 22:51 23:01 23:11",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "the_rock",
+  "cinematic_title": "The Rock",
+  "data_summary": "goodnight stage soft: Bedtime is in soft launch. Early reviews are excellent.; no extra alerts",
+  "expires_at": "2026-08-19T05:00:44+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "goodnight",
+  "published_at": "2026-08-18T23:00:44+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
+  "url": ""
 }
