@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "rogue_one",
-  "cinematic_title": "Rogue One",
-  "data_summary": "7D SLEEP 7H06 | 28M VS PRIOR 7D | The seven-day sleep average is 7.1 hours, 28 minutes below the prior seven days.",
-  "expires_at": "2026-08-18T23:00:25+10:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "scott_pilgrim",
+  "cinematic_title": "Scott Pilgrim vs. the World",
+  "data_summary": "SLEEP 8H11 | +37M VS 4W AVG | Last sleep was 8.2 hours with score 88, versus a four-week average of 7.6 hours.",
+  "expires_at": "2026-08-18T23:20:26+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-18T17:00:25+10:00",
-  "title": "Health Insight: 7D SLEEP 7H06",
-  "topic_key": "health_weekly_sleep_trend",
+  "published_at": "2026-08-18T17:20:26+10:00",
+  "title": "Health Insight: SLEEP 8H11",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
