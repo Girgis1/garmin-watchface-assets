@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "source_code",
-  "cinematic_title": "Source Code",
-  "data_summary": "context phase sunset, temp 14C",
-  "expires_at": "2026-08-18T23:40:27+10:00",
-  "kind": "none",
-  "label": "",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "dark_knight_rises",
+  "cinematic_title": "The Dark Knight Rises",
+  "data_summary": "CN to EP leave times: 19:51 20:01 20:11",
+  "expires_at": "2026-08-19T01:40:33+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-18T17:40:27+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "published_at": "2026-08-18T19:40:33+10:00",
+  "title": "Commute: CN: 19:51 20:01 20:11",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
