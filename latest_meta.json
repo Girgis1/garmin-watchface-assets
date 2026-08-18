@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "suicide_squad_2016",
-  "cinematic_title": "Suicide Squad",
-  "data_summary": "# Garmin Health Insight Generated: 2026-08-18T10:17:44+10:00 Data through: 2026-08-18 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **NO 80+ BB FINISHES** | BEST EOD: 41 / 30 DAYS | BUILD ",
-  "expires_at": "2026-08-18T16:20:45+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-18T10:20:45+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
-  "url": ""
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "harry_potter_order",
+  "cinematic_title": "Harry Potter and the Order of the Phoenix",
+  "data_summary": "MB to EP leave times: 10:50 11:03 11:18",
+  "expires_at": "2026-08-18T16:40:46+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-18T10:40:46+10:00",
+  "title": "Commute: MB: 10:50 11:03 11:18",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
