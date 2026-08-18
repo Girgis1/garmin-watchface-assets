@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "captain_america_first_avenger",
-  "cinematic_title": "Captain America: The First Avenger",
-  "data_summary": "INTENSITY 300 MIN | +76% VS PRIOR 7D | Weighted intensity minutes total 300 across the last seven days versus 170 in the prior seven-day window.",
-  "expires_at": "2026-08-18T17:00:47+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "matrix_reloaded",
+  "cinematic_title": "The Matrix Reloaded",
+  "data_summary": "HRV 68 MS | 3.4 VS PRIOR 7D | Seven-day HRV averages 68.2 ms versus 71.6 ms in the prior seven days; latest status is balanced.",
+  "expires_at": "2026-08-18T17:20:48+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-18T11:00:47+10:00",
-  "title": "Health Insight: INTENSITY 300 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-08-18T11:20:48+10:00",
+  "title": "Health Insight: HRV 68 MS",
+  "topic_key": "health_hrv_weekly_trend",
   "url": ""
 }
