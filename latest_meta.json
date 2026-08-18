@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "matrix_revolutions",
-  "cinematic_title": "The Matrix Revolutions",
-  "data_summary": "waxing crescent, 25% illuminated",
-  "expires_at": "2026-08-18T21:00:08+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-08-18T15:00:08+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "ex_machina",
+  "cinematic_title": "Ex Machina",
+  "data_summary": "context phase sunset, temp 16C",
+  "expires_at": "2026-08-18T21:20:09+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-18T15:20:09+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
