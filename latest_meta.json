@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "force_awakens",
-  "cinematic_title": "Star Wars: The Force Awakens",
-  "data_summary": "TUE SLEEP +109M | VS WED, 6-WEEK AVG | Across the available history, Tue sleep averages 109 minutes longer than Wed sleep.",
-  "expires_at": "2026-08-18T18:00:50+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "jurassic_park",
+  "cinematic_title": "Jurassic Park",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-08-18T18:20:51+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-18T12:00:50+10:00",
-  "title": "Health Insight: TUE SLEEP +109M",
-  "topic_key": "health_pattern_weekday_sleep",
+  "published_at": "2026-08-18T12:20:51+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
