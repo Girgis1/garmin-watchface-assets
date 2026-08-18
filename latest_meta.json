@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "zack_snyder_justice_league",
-  "cinematic_title": "Zack Snyder's Justice League",
-  "data_summary": "context phase afternoon, temp 17C",
-  "expires_at": "2026-08-18T20:20:06+10:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "aliens",
+  "cinematic_title": "Aliens",
+  "data_summary": "HRV BALANCED, avg 69 ms, 3 day balanced streak",
+  "expires_at": "2026-08-18T20:40:07+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-18T14:20:06+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
+  "lane": "health",
+  "published_at": "2026-08-18T14:40:07+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
   "url": ""
 }
