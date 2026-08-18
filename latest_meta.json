@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "harry_potter_order",
-  "cinematic_title": "Harry Potter and the Order of the Phoenix",
-  "data_summary": "MB to EP leave times: 10:50 11:03 11:18",
-  "expires_at": "2026-08-18T16:40:46+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-18T10:40:46+10:00",
-  "title": "Commute: MB: 10:50 11:03 11:18",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "captain_america_first_avenger",
+  "cinematic_title": "Captain America: The First Avenger",
+  "data_summary": "INTENSITY 300 MIN | +76% VS PRIOR 7D | Weighted intensity minutes total 300 across the last seven days versus 170 in the prior seven-day window.",
+  "expires_at": "2026-08-18T17:00:47+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-18T11:00:47+10:00",
+  "title": "Health Insight: INTENSITY 300 MIN",
+  "topic_key": "health_weekly_intensity_load",
+  "url": ""
 }
