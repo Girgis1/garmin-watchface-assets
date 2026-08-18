@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "underworld",
-  "cinematic_title": "Underworld",
-  "data_summary": "sleep 8.2h, score 88, 21-day avg 7.5h",
-  "expires_at": "2026-08-18T20:00:05+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "zack_snyder_justice_league",
+  "cinematic_title": "Zack Snyder's Justice League",
+  "data_summary": "context phase afternoon, temp 17C",
+  "expires_at": "2026-08-18T20:20:06+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-18T14:00:05+10:00",
-  "title": "Sleep Recovery",
-  "topic_key": "health_sleep_recovery",
+  "lane": "local_signal",
+  "published_at": "2026-08-18T14:20:06+10:00",
+  "title": "Afternoon Context",
+  "topic_key": "ambient_context_afternoon",
   "url": ""
 }
