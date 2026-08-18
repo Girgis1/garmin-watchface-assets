@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "national_treasure",
-  "cinematic_title": "National Treasure",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "edge_of_tomorrow",
+  "cinematic_title": "Edge of Tomorrow",
   "data_summary": "morning briefing: ROUGH SLEEP 5.9H",
-  "expires_at": "2026-08-19T15:20:22+10:00",
+  "expires_at": "2026-08-19T15:40:25+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-19T09:20:22+10:00",
+  "published_at": "2026-08-19T09:40:25+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
