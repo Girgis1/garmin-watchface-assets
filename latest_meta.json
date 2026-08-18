@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "ex_machina",
-  "cinematic_title": "Ex Machina",
-  "data_summary": "context phase sunset, temp 16C",
-  "expires_at": "2026-08-18T21:20:09+10:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "rogue_one",
+  "cinematic_title": "Rogue One",
+  "data_summary": "7D SLEEP 7H06 | 28M VS PRIOR 7D | The seven-day sleep average is 7.1 hours, 28 minutes below the prior seven days.",
+  "expires_at": "2026-08-18T23:00:25+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-18T15:20:09+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-08-18T17:00:25+10:00",
+  "title": "Health Insight: 7D SLEEP 7H06",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
