@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "scott_pilgrim",
-  "cinematic_title": "Scott Pilgrim vs. the World",
-  "data_summary": "SLEEP 8H11 | +37M VS 4W AVG | Last sleep was 8.2 hours with score 88, versus a four-week average of 7.6 hours.",
-  "expires_at": "2026-08-18T23:20:26+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "source_code",
+  "cinematic_title": "Source Code",
+  "data_summary": "context phase sunset, temp 14C",
+  "expires_at": "2026-08-18T23:40:27+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-18T17:20:26+10:00",
-  "title": "Health Insight: SLEEP 8H11",
-  "topic_key": "health_sleep_vs_baseline",
+  "lane": "local_signal",
+  "published_at": "2026-08-18T17:40:27+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
