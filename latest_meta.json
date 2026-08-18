@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "coraline",
-  "cinematic_title": "Coraline",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "wrath_of_khan",
+  "cinematic_title": "Star Trek II: The Wrath of Khan",
   "data_summary": "morning briefing: ROUGH SLEEP 5.9H",
-  "expires_at": "2026-08-19T14:40:19+10:00",
+  "expires_at": "2026-08-19T15:00:21+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-19T08:40:19+10:00",
+  "published_at": "2026-08-19T09:00:21+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
