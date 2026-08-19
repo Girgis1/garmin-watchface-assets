@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "butterfly_effect",
-  "cinematic_title": "The Butterfly Effect",
-  "data_summary": "training intensity minutes today 0",
-  "expires_at": "2026-08-20T02:00:01+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "dredd",
+  "cinematic_title": "Dredd",
+  "data_summary": "context phase evening, temp 14C",
+  "expires_at": "2026-08-20T02:20:03+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-19T20:00:01+10:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
+  "lane": "local_signal",
+  "published_at": "2026-08-19T20:20:03+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
   "url": ""
 }
