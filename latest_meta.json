@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "eternals",
-  "cinematic_title": "Eternals",
-  "data_summary": "sleep debt: 5.9h, score 73, 21-day avg 7.5h",
-  "expires_at": "2026-08-20T02:40:04+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "flashpoint_paradox",
+  "cinematic_title": "Justice League: The Flashpoint Paradox",
+  "data_summary": "HRV BALANCED, avg 69 ms, 4 day balanced streak",
+  "expires_at": "2026-08-20T03:00:05+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-19T20:40:04+10:00",
-  "title": "Sleep Debt",
-  "topic_key": "health_sleep_debt",
+  "published_at": "2026-08-19T21:00:05+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
   "url": ""
 }
