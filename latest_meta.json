@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "man_of_steel",
-  "cinematic_title": "Man of Steel",
-  "data_summary": "NO 80+ BB FINISHES | 41 / 30 DAYS | None of 30 recent complete days finished above Body Battery 80; the best finish was 41. This describes the recent data window, not a diagnosis.",
-  "expires_at": "2026-08-20T04:00:08+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-19T22:00:08+10:00",
-  "title": "Health Insight: NO 80+ BB FINISHES",
-  "topic_key": "health_pattern_body_battery_recovery",
-  "url": ""
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "sicario",
+  "cinematic_title": "Sicario",
+  "data_summary": "CN to EP leave times: 22:31 22:41 22:51",
+  "expires_at": "2026-08-20T04:20:09+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-19T22:20:09+10:00",
+  "title": "Commute: CN: 22:31 22:41 22:51",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
