@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "deadpool_wolverine",
-  "cinematic_title": "Deadpool & Wolverine",
-  "data_summary": "SLEEP 5H55 | 98M VS 4W AVG | Last sleep was 5.9 hours with score 73, versus a four-week average of 7.6 hours.",
-  "expires_at": "2026-08-19T17:20:30+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-19T11:20:30+10:00",
-  "title": "Health Insight: SLEEP 5H55",
-  "topic_key": "health_sleep_vs_baseline",
-  "url": ""
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "king_kong_2005",
+  "cinematic_title": "King Kong",
+  "data_summary": "EnerMech to Support Sydney Metro-Western Sydney Airport Project",
+  "expires_at": "2026-08-19T17:40:31+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-19T11:40:31+10:00",
+  "title": "News: EnerMech to Support Sydney Metro-Western Sydney Airport Project",
+  "topic_key": "interesting_signal_enermech_to_support_sydney_metro_wes",
+  "url": "https://www.google.com/search?q=EnerMech+to+Support+Sydney+Metro-Western+Sydney+Airport+Project"
 }
