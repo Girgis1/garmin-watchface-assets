@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "fantastic_four_2005",
-  "cinematic_title": "Fantastic Four",
-  "data_summary": "# Garmin Health Insight Generated: 2026-08-19T14:57:42+10:00 Data through: 2026-08-19 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND +1.9/DAY** | 17 -> 57 / 14D | DON'T BREAK THE",
-  "expires_at": "2026-08-19T21:00:43+10:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "28_days_later",
+  "cinematic_title": "28 Days Later",
+  "data_summary": "SpO2 98%, respiration 14.0",
+  "expires_at": "2026-08-19T21:20:44+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-19T15:00:43+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-08-19T15:20:44+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
