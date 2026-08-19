@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "ratatouille",
-  "cinematic_title": "Ratatouille",
-  "data_summary": "STRESSFUL BEFORE BED | 6 OF 14 NIGHTS | Garmin's Body Battery feedback marked 6 of 14 recent nights as stressful around sleep preparation.",
-  "expires_at": "2026-08-20T04:40:10+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "mummy_returns",
+  "cinematic_title": "The Mummy Returns",
+  "data_summary": "goodnight stage firm: Close shop. Your last customer is nonsense.; SLEEP DEBT 5.9H",
+  "expires_at": "2026-08-20T05:20:18+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-19T22:40:10+10:00",
-  "title": "Health Insight: STRESSFUL BEFORE BED",
-  "topic_key": "health_pattern_pre_sleep_stress_feed",
+  "lane": "goodnight",
+  "published_at": "2026-08-19T23:20:18+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
