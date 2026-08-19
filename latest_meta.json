@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "mighty_ducks",
-  "cinematic_title": "The Mighty Ducks",
-  "data_summary": "waxing crescent, 35% illuminated",
-  "expires_at": "2026-08-19T21:40:45+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-08-19T15:40:45+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "i_robot",
+  "cinematic_title": "I, Robot",
+  "data_summary": "RHR UP, HRV DOWN | R=-0.72 / N=28 | Across 28 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.72. Treat this as a personal trend signal, not a diagnosis.",
+  "expires_at": "2026-08-19T22:40:50+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-19T16:40:50+10:00",
+  "title": "Health Insight: RHR UP, HRV DOWN",
+  "topic_key": "health_pattern_rhr_hrv_relationship",
+  "url": ""
 }
