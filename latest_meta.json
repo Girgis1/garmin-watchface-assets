@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "minority_report",
-  "cinematic_title": "Minority Report",
-  "data_summary": "TENNIS 114 MIN | +9M VS YOUR AVG | 114 minutes, compared with a recent tennis average of 104 minutes.",
-  "expires_at": "2026-08-20T03:40:07+10:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "man_of_steel",
+  "cinematic_title": "Man of Steel",
+  "data_summary": "NO 80+ BB FINISHES | 41 / 30 DAYS | None of 30 recent complete days finished above Body Battery 80; the best finish was 41. This describes the recent data window, not a diagnosis.",
+  "expires_at": "2026-08-20T04:00:08+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-19T21:40:07+10:00",
-  "title": "Health Insight: TENNIS 114 MIN",
-  "topic_key": "health_activity_24034723249",
+  "published_at": "2026-08-19T22:00:08+10:00",
+  "title": "Health Insight: NO 80+ BB FINISHES",
+  "topic_key": "health_pattern_body_battery_recovery",
   "url": ""
 }
