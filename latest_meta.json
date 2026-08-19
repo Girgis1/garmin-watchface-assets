@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "king_kong_2005",
-  "cinematic_title": "King Kong",
-  "data_summary": "EnerMech to Support Sydney Metro-Western Sydney Airport Project",
-  "expires_at": "2026-08-19T17:40:31+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-19T11:40:31+10:00",
-  "title": "News: EnerMech to Support Sydney Metro-Western Sydney Airport Project",
-  "topic_key": "interesting_signal_enermech_to_support_sydney_metro_wes",
-  "url": "https://www.google.com/search?q=EnerMech+to+Support+Sydney+Metro-Western+Sydney+Airport+Project"
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "batman_robin",
+  "cinematic_title": "Batman & Robin",
+  "data_summary": "BB<20: 19/30 DAYS | 19/19 ALSO STRESS 35+ | Body Battery finished below 20 on 19 of 30 recent complete days; 19 of those days also had average stress of 35 or higher.",
+  "expires_at": "2026-08-19T18:00:32+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-19T12:00:32+10:00",
+  "title": "Health Insight: BB<20: 19/30 DAYS",
+  "topic_key": "health_pattern_low_body_battery_freq",
+  "url": ""
 }
