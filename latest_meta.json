@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "catwoman_2004",
-  "cinematic_title": "Catwoman",
-  "data_summary": "goodnight stage midnight_strict: GO TO BED. Save nothing. Exit anyway.; RAIN 18% 3PM",
-  "expires_at": "2026-08-20T06:00:21+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "avengers_age_ultron",
+  "cinematic_title": "Avengers: Age of Ultron",
+  "data_summary": "morning briefing: no major weather/sleep drama",
+  "expires_at": "2026-08-20T14:00:50+10:00",
   "kind": "none",
   "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-08-20T00:00:21+10:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "lane": "morning",
+  "published_at": "2026-08-20T08:00:50+10:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
