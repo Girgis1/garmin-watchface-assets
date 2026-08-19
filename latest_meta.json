@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "flashpoint_paradox",
-  "cinematic_title": "Justice League: The Flashpoint Paradox",
-  "data_summary": "HRV BALANCED, avg 69 ms, 4 day balanced streak",
-  "expires_at": "2026-08-20T03:00:05+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "in_time",
+  "cinematic_title": "In Time",
+  "data_summary": "context phase night, temp 14C",
+  "expires_at": "2026-08-20T03:20:06+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-19T21:00:05+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_balanced",
+  "lane": "local_signal",
+  "published_at": "2026-08-19T21:20:06+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
   "url": ""
 }
