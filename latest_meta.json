@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "atlantis_lost_empire",
-  "cinematic_title": "Atlantis: The Lost Empire",
-  "data_summary": "INTENSITY 164 MIN | 49% VS PRIOR 7D | Weighted intensity minutes total 164 across the last seven days versus 319 in the prior seven-day window.",
-  "expires_at": "2026-08-19T16:40:28+10:00",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "stardust",
+  "cinematic_title": "Stardust",
+  "data_summary": "HRV 68 MS | 2.5 VS PRIOR 7D | Seven-day HRV averages 68.3 ms versus 70.9 ms in the prior seven days; latest status is balanced.",
+  "expires_at": "2026-08-19T17:00:29+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-19T10:40:28+10:00",
-  "title": "Health Insight: INTENSITY 164 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-08-19T11:00:29+10:00",
+  "title": "Health Insight: HRV 68 MS",
+  "topic_key": "health_hrv_weekly_trend",
   "url": ""
 }
