@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "harry_potter_hallows",
-  "cinematic_title": "Harry Potter and the Deathly Hallows",
-  "data_summary": "context phase sunset, temp 16C",
-  "expires_at": "2026-08-19T23:00:51+10:00",
-  "kind": "none",
-  "label": "",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "primer",
+  "cinematic_title": "Primer",
+  "data_summary": "CN to EP leave times: 19:09 19:13 19:17",
+  "expires_at": "2026-08-20T01:00:58+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-19T17:00:51+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "published_at": "2026-08-19T19:00:58+10:00",
+  "title": "Commute: CN: 19:09 19:13 19:17",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
