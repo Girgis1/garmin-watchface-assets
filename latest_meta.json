@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "wakanda_forever",
-  "cinematic_title": "Black Panther: Wakanda Forever",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-08-19T18:20:33+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "harry_potter_hallows_part2",
+  "cinematic_title": "Harry Potter and the Deathly Hallows - Part 2",
+  "data_summary": "context phase midday, temp 19C",
+  "expires_at": "2026-08-19T18:40:34+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-19T12:20:33+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
+  "lane": "local_signal",
+  "published_at": "2026-08-19T12:40:34+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
