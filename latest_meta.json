@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "sicario",
-  "cinematic_title": "Sicario",
-  "data_summary": "CN to EP leave times: 22:31 22:41 22:51",
-  "expires_at": "2026-08-20T04:20:09+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-19T22:20:09+10:00",
-  "title": "Commute: CN: 22:31 22:41 22:51",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "ratatouille",
+  "cinematic_title": "Ratatouille",
+  "data_summary": "STRESSFUL BEFORE BED | 6 OF 14 NIGHTS | Garmin's Body Battery feedback marked 6 of 14 recent nights as stressful around sleep preparation.",
+  "expires_at": "2026-08-20T04:40:10+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-19T22:40:10+10:00",
+  "title": "Health Insight: STRESSFUL BEFORE BED",
+  "topic_key": "health_pattern_pre_sleep_stress_feed",
+  "url": ""
 }
