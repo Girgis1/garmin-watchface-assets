@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "casino_royale",
-  "cinematic_title": "Casino Royale",
-  "data_summary": "daily phase midday, temp 19C",
-  "expires_at": "2026-08-19T19:20:38+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "fantastic_four_2005",
+  "cinematic_title": "Fantastic Four",
+  "data_summary": "# Garmin Health Insight Generated: 2026-08-19T14:57:42+10:00 Data through: 2026-08-19 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND +1.9/DAY** | 17 -> 57 / 14D | DON'T BREAK THE",
+  "expires_at": "2026-08-19T21:00:43+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-19T13:20:38+10:00",
-  "title": "Daily Context",
-  "topic_key": "daily_context",
+  "lane": "health",
+  "published_at": "2026-08-19T15:00:43+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
