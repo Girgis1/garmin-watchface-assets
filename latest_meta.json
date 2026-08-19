@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "primer",
-  "cinematic_title": "Primer",
-  "data_summary": "CN to EP leave times: 19:09 19:13 19:17",
-  "expires_at": "2026-08-20T01:00:58+10:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "prometheus",
+  "cinematic_title": "Prometheus",
+  "data_summary": "CN to EP leave times: 19:29 19:33 19:37",
+  "expires_at": "2026-08-20T01:20:59+10:00",
   "kind": "rail",
   "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-19T19:00:58+10:00",
-  "title": "Commute: CN: 19:09 19:13 19:17",
+  "published_at": "2026-08-19T19:20:59+10:00",
+  "title": "Commute: CN: 19:29 19:33 19:37",
   "topic_key": "transit_alert",
   "url": "https://transportnsw.info/alerts#/metro-train"
 }
