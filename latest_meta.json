@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "dredd",
-  "cinematic_title": "Dredd",
-  "data_summary": "context phase evening, temp 14C",
-  "expires_at": "2026-08-20T02:20:03+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "eternals",
+  "cinematic_title": "Eternals",
+  "data_summary": "sleep debt: 5.9h, score 73, 21-day avg 7.5h",
+  "expires_at": "2026-08-20T02:40:04+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-19T20:20:03+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
+  "lane": "health",
+  "published_at": "2026-08-19T20:40:04+10:00",
+  "title": "Sleep Debt",
+  "topic_key": "health_sleep_debt",
   "url": ""
 }
