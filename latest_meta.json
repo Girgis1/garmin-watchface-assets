@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "prestige",
-  "cinematic_title": "The Prestige",
-  "data_summary": "CN to EP leave times: 19:51 20:01 20:11",
-  "expires_at": "2026-08-20T01:40:00+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-19T19:40:00+10:00",
-  "title": "Commute: CN: 19:51 20:01 20:11",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "butterfly_effect",
+  "cinematic_title": "The Butterfly Effect",
+  "data_summary": "training intensity minutes today 0",
+  "expires_at": "2026-08-20T02:00:01+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-19T20:00:01+10:00",
+  "title": "Training Nudge",
+  "topic_key": "health_training_minutes",
+  "url": ""
 }
