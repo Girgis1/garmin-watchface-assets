@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "deadpool",
-  "cinematic_title": "Deadpool",
-  "data_summary": "training intensity minutes today 0",
-  "expires_at": "2026-08-20T23:00:09+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "doom_2005",
+  "cinematic_title": "Doom",
+  "data_summary": "context phase sunset, temp 17C",
+  "expires_at": "2026-08-20T23:20:10+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-20T17:00:09+10:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
+  "lane": "local_signal",
+  "published_at": "2026-08-20T17:20:10+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
