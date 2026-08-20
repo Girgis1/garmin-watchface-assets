@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "toy_story_3",
-  "cinematic_title": "Toy Story 3",
-  "data_summary": "SpO2 98%, respiration 15.0",
-  "expires_at": "2026-08-20T19:00:53+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "blade_runner",
+  "cinematic_title": "Blade Runner",
+  "data_summary": "context phase midday, temp 23C",
+  "expires_at": "2026-08-20T19:20:54+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-20T13:00:53+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
+  "lane": "local_signal",
+  "published_at": "2026-08-20T13:20:54+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
