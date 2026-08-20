@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "winter_soldier",
-  "cinematic_title": "Captain America: The Winter Soldier",
-  "data_summary": "daily phase afternoon, temp 23C",
-  "expires_at": "2026-08-20T20:40:58+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-20T14:40:58+10:00",
-  "title": "Daily Context",
-  "topic_key": "daily_context",
-  "url": ""
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "gattaca",
+  "cinematic_title": "Gattaca",
+  "data_summary": "first quarter, 45% illuminated",
+  "expires_at": "2026-08-20T21:00:59+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-08-20T15:00:59+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
