@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "doom_2005",
-  "cinematic_title": "Doom",
-  "data_summary": "context phase sunset, temp 17C",
-  "expires_at": "2026-08-20T23:20:10+10:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "raiders_lost_ark",
+  "cinematic_title": "Raiders of the Lost Ark",
+  "data_summary": "RUNNING 50 MIN | +46M VS YOUR AVG | 50 minutes, compared with a recent running average of 4 minutes.",
+  "expires_at": "2026-08-20T23:40:11+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-20T17:20:10+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-08-20T17:40:11+10:00",
+  "title": "Health Insight: RUNNING 50 MIN",
+  "topic_key": "health_activity_24045209315",
   "url": ""
 }
