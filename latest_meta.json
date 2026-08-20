@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "raiders_lost_ark",
-  "cinematic_title": "Raiders of the Lost Ark",
-  "data_summary": "RUNNING 50 MIN | +46M VS YOUR AVG | 50 minutes, compared with a recent running average of 4 minutes.",
-  "expires_at": "2026-08-20T23:40:11+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "the_island",
+  "cinematic_title": "The Island",
+  "data_summary": "context phase sunset, temp 16C",
+  "expires_at": "2026-08-21T00:00:12+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-20T17:40:11+10:00",
-  "title": "Health Insight: RUNNING 50 MIN",
-  "topic_key": "health_activity_24045209315",
+  "lane": "local_signal",
+  "published_at": "2026-08-20T18:00:12+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
