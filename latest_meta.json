@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "lotr_fellowship",
-  "cinematic_title": "The Lord of the Rings: The Fellowship of the Ring",
-  "data_summary": "CN to EP leave times: 20:31 20:41 20:51",
-  "expires_at": "2026-08-21T02:20:20+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "spiderman_no_way_home",
+  "cinematic_title": "Spider-Man: No Way Home",
+  "data_summary": "context phase evening, temp 15C",
+  "expires_at": "2026-08-21T02:40:21+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-08-20T20:20:20+10:00",
-  "title": "Commute: CN: 20:31 20:41 20:51",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "published_at": "2026-08-20T20:40:21+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
+  "url": ""
 }
