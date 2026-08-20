@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "upgrade",
-  "cinematic_title": "Upgrade",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "the_marvels",
+  "cinematic_title": "The Marvels",
   "data_summary": "morning briefing: RAIN 55% FROM 8AM",
-  "expires_at": "2026-08-21T14:00:14+10:00",
+  "expires_at": "2026-08-21T14:20:15+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-21T08:00:14+10:00",
+  "published_at": "2026-08-21T08:20:15+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
