@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "xmen_apocalypse",
-  "cinematic_title": "X-Men: Apocalypse",
-  "data_summary": "# Garmin Health Insight Generated: 2026-08-20T12:17:47+10:00 Data through: 2026-08-20 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND +1.5/DAY** | 23 -> 43 / 14D | DON'T BREAK THE",
-  "expires_at": "2026-08-20T18:20:49+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "toy_story_3",
+  "cinematic_title": "Toy Story 3",
+  "data_summary": "SpO2 98%, respiration 15.0",
+  "expires_at": "2026-08-20T19:00:53+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-20T12:20:49+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-08-20T13:00:53+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
