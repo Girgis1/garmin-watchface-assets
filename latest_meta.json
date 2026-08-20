@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "ant_man_wasp",
-  "cinematic_title": "Ant-Man and the Wasp",
-  "data_summary": "HRV status unbalanced",
-  "expires_at": "2026-08-20T22:20:07+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-20T16:20:07+10:00",
-  "title": "HRV Balance",
-  "topic_key": "hrv_balance",
-  "url": ""
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "attack_of_clones",
+  "cinematic_title": "Star Wars: Attack of the Clones",
+  "data_summary": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
+  "expires_at": "2026-08-20T22:40:08+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-20T16:40:08+10:00",
+  "title": "News: OpenAI makes ChatGPT less 'human' for teens in new safety",
+  "topic_key": "interesting_signal_openai_makes_chatgpt_less_human_for_",
+  "url": "https://www.google.com/search?q=OpenAI+makes+ChatGPT+less+%27human%27+for+teens+in+new+safety+update"
 }
