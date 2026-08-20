@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "blade_runner",
-  "cinematic_title": "Blade Runner",
-  "data_summary": "context phase midday, temp 23C",
-  "expires_at": "2026-08-20T19:20:54+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "chronicles_riddick",
+  "cinematic_title": "The Chronicles of Riddick",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-08-20T19:40:55+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-20T13:20:54+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-08-20T13:40:55+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
