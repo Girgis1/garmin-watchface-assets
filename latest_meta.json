@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "tenet",
-  "cinematic_title": "Tenet",
-  "data_summary": "sleep debt: 5.5h, score 67, 21-day avg 7.4h",
-  "expires_at": "2026-08-21T04:00:25+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-20T22:00:25+10:00",
-  "title": "Sleep Debt",
-  "topic_key": "health_sleep_debt",
-  "url": ""
+  "cinematic_group": "animation_family",
+  "cinematic_key": "monsters_inc",
+  "cinematic_title": "Monsters, Inc.",
+  "data_summary": "ChatGPT Down: OpenAI Confirms Login And Signup Outage",
+  "expires_at": "2026-08-21T04:20:26+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-20T22:20:26+10:00",
+  "title": "News: OpenAI Confirms Login And Signup Outage",
+  "topic_key": "interesting_signal_openai_confirms_login_and_signup_out",
+  "url": "https://www.google.com/search?q=ChatGPT+Down%3A+OpenAI+Confirms+Login+And+Signup+Outage"
 }
