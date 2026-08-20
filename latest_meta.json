@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "xmen_2000",
-  "cinematic_title": "X-Men",
-  "data_summary": "SLEEP NEED ROSE 4/14 | YOUR BODY ASKED FOR MORE | Garmin increased sleep need on 4 of 14 recent nights, even when total sleep was sometimes adequate.",
-  "expires_at": "2026-08-20T20:20:58+10:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "winter_soldier",
+  "cinematic_title": "Captain America: The Winter Soldier",
+  "data_summary": "daily phase afternoon, temp 23C",
+  "expires_at": "2026-08-20T20:40:58+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-20T14:20:58+10:00",
-  "title": "Health Insight: SLEEP NEED ROSE 4/14",
-  "topic_key": "health_pattern_sleep_need_increased_",
+  "lane": "local_signal",
+  "published_at": "2026-08-20T14:40:58+10:00",
+  "title": "Daily Context",
+  "topic_key": "daily_context",
   "url": ""
 }
