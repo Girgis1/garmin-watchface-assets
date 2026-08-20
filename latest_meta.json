@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "i_am_legend",
-  "cinematic_title": "I Am Legend",
-  "data_summary": "context phase night, temp 14C",
-  "expires_at": "2026-08-21T03:40:24+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "tenet",
+  "cinematic_title": "Tenet",
+  "data_summary": "sleep debt: 5.5h, score 67, 21-day avg 7.4h",
+  "expires_at": "2026-08-21T04:00:25+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-20T21:40:24+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
+  "lane": "health",
+  "published_at": "2026-08-20T22:00:25+10:00",
+  "title": "Sleep Debt",
+  "topic_key": "health_sleep_debt",
   "url": ""
 }
