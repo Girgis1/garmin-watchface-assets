@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "event_horizon",
-  "cinematic_title": "Event Horizon",
-  "data_summary": "HRV UNBALANCED, avg 66 ms, unbalanced today",
-  "expires_at": "2026-08-21T04:40:27+10:00",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "harry_potter_azkaban",
+  "cinematic_title": "Harry Potter and the Prisoner of Azkaban",
+  "data_summary": "goodnight stage soft: House lights are dimming. Take the hint.; SLEEP DEBT 5.5H",
+  "expires_at": "2026-08-21T05:00:28+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-20T22:40:27+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_unbalanced",
+  "lane": "goodnight",
+  "published_at": "2026-08-20T23:00:28+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
