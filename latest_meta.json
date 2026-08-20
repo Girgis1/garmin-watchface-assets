@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "superman_returns",
-  "cinematic_title": "Superman Returns",
-  "data_summary": "SLEEP 5H33 | 118M VS 4W AVG | Last sleep was 5.5 hours with score 67, versus a four-week average of 7.5 hours.",
-  "expires_at": "2026-08-20T17:00:01+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "iron_giant",
+  "cinematic_title": "The Iron Giant",
+  "data_summary": "BB TREND +1.5/DAY | 23 -> 43 / 14D | Comparable daily Body Battery values moved from 23 to 43, with a fitted trend of +1.5 points per day.",
+  "expires_at": "2026-08-20T17:20:02+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-20T11:00:01+10:00",
-  "title": "Health Insight: SLEEP 5H33",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-08-20T11:20:02+10:00",
+  "title": "Health Insight: BB TREND +1.5/DAY",
+  "topic_key": "health_pattern_body_battery_14d_tren",
   "url": ""
 }
