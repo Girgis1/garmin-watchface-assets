@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "tomb_raider",
-  "cinematic_title": "Lara Croft: Tomb Raider",
-  "data_summary": "sleep 5.5h, score 67",
-  "expires_at": "2026-08-20T22:00:03+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "ant_man_wasp",
+  "cinematic_title": "Ant-Man and the Wasp",
+  "data_summary": "HRV status unbalanced",
+  "expires_at": "2026-08-20T22:20:07+10:00",
   "kind": "none",
   "label": "",
-  "lane": "sleep",
-  "published_at": "2026-08-20T16:00:03+10:00",
-  "title": "Sleep Recovery",
-  "topic_key": "sleep",
+  "lane": "local_signal",
+  "published_at": "2026-08-20T16:20:07+10:00",
+  "title": "HRV Balance",
+  "topic_key": "hrv_balance",
   "url": ""
 }
