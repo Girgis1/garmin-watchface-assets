@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "fifth_element",
-  "cinematic_title": "The Fifth Element",
-  "data_summary": "AFTER HARD DAYS -20M | LESS SLEEP IN YOUR DATA | Across 28 matched days, nights after 30+ intensity minutes averaged 20 minutes less sleep than nights after low-load days. This is an association, not proof of cause.",
-  "expires_at": "2026-08-20T21:40:01+10:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "tomb_raider",
+  "cinematic_title": "Lara Croft: Tomb Raider",
+  "data_summary": "sleep 5.5h, score 67",
+  "expires_at": "2026-08-20T22:00:03+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-20T15:40:01+10:00",
-  "title": "Health Insight: AFTER HARD DAYS -20M",
-  "topic_key": "health_pattern_training_next_sleep",
+  "lane": "sleep",
+  "published_at": "2026-08-20T16:00:03+10:00",
+  "title": "Sleep Recovery",
+  "topic_key": "sleep",
   "url": ""
 }
