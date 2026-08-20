@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "gattaca",
-  "cinematic_title": "Gattaca",
-  "data_summary": "first quarter, 45% illuminated",
-  "expires_at": "2026-08-20T21:00:59+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-08-20T15:00:59+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "wonder_woman",
+  "cinematic_title": "Wonder Woman",
+  "data_summary": "context phase sunset, temp 22C",
+  "expires_at": "2026-08-20T21:21:00+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-20T15:21:00+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
