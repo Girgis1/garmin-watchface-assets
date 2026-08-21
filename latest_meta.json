@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "fight_club",
-  "cinematic_title": "Fight Club",
-  "data_summary": "context phase evening, temp 14C",
-  "expires_at": "2026-08-22T02:40:07+10:00",
-  "kind": "none",
-  "label": "",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "narnia",
+  "cinematic_title": "The Chronicles of Narnia",
+  "data_summary": "CN to EP leave times: 21:11 21:21 21:31",
+  "expires_at": "2026-08-22T03:00:08+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-21T20:40:07+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
-  "url": ""
+  "published_at": "2026-08-21T21:00:08+10:00",
+  "title": "Commute: CN: 21:11 21:21 21:31",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
