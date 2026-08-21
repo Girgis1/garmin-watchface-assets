@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "alien",
-  "cinematic_title": "Alien",
-  "data_summary": "CN to EP leave times: 20:31 20:41 20:51",
-  "expires_at": "2026-08-22T02:20:05+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "fight_club",
+  "cinematic_title": "Fight Club",
+  "data_summary": "context phase evening, temp 14C",
+  "expires_at": "2026-08-22T02:40:07+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-08-21T20:20:05+10:00",
-  "title": "Commute: CN: 20:31 20:41 20:51",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "published_at": "2026-08-21T20:40:07+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
+  "url": ""
 }
