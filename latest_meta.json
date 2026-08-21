@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "district_9",
-  "cinematic_title": "District 9",
-  "data_summary": "HRV status unbalanced",
-  "expires_at": "2026-08-21T21:40:46+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "transformers_rise_beasts",
+  "cinematic_title": "Transformers: Rise of the Beasts",
+  "data_summary": "HRV UNBALANCED, avg 65 ms, unbalanced today",
+  "expires_at": "2026-08-21T23:20:52+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-21T15:40:46+10:00",
-  "title": "HRV Balance",
-  "topic_key": "hrv_balance",
+  "lane": "health",
+  "published_at": "2026-08-21T17:20:52+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_unbalanced",
   "url": ""
 }
