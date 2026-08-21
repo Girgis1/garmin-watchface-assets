@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "wonder_woman_1984",
-  "cinematic_title": "Wonder Woman 1984",
-  "data_summary": "# Garmin Health Insight Generated: 2026-08-21T14:17:42+10:00 Data through: 2026-08-21 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND +1.2/DAY** | 12 -> 35 / 14D | DON'T BREAK THE",
-  "expires_at": "2026-08-21T20:20:42+10:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "the_ring",
+  "cinematic_title": "The Ring",
+  "data_summary": "SpO2 98%, respiration 15.0",
+  "expires_at": "2026-08-21T20:40:43+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-21T14:20:42+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-08-21T14:40:43+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
