@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "tron_legacy",
-  "cinematic_title": "TRON: Legacy",
-  "data_summary": "context phase midday, temp 21C",
-  "expires_at": "2026-08-21T19:20:31+10:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "skyfall",
+  "cinematic_title": "Skyfall",
+  "data_summary": "SLEEP 7H04 | 16M VS 4W AVG | Last sleep was 7.1 hours with score 75, versus a four-week average of 7.3 hours.",
+  "expires_at": "2026-08-21T19:40:34+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-21T13:20:31+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-08-21T13:40:34+10:00",
+  "title": "Health Insight: SLEEP 7H04",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
