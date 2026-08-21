@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "last_jedi",
-  "cinematic_title": "Star Wars: The Last Jedi",
-  "data_summary": "context phase sunset, temp 17C",
-  "expires_at": "2026-08-21T23:40:54+10:00",
-  "kind": "none",
-  "label": "",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "matrix",
+  "cinematic_title": "The Matrix",
+  "data_summary": "CN to EP leave times: 18:09 18:13 18:17",
+  "expires_at": "2026-08-22T00:00:58+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-21T17:40:54+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "published_at": "2026-08-21T18:00:58+10:00",
+  "title": "Commute: CN: 18:09 18:13 18:17",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
