@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "hancock",
-  "cinematic_title": "Hancock",
-  "data_summary": "MB to EP leave times: 10:50 11:03 11:18",
-  "expires_at": "2026-08-21T16:40:23+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-21T10:40:23+10:00",
-  "title": "Commute: MB: 10:50 11:03 11:18",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "ghost_rider",
+  "cinematic_title": "Ghost Rider",
+  "data_summary": "7D SLEEP 6H56 | 43M VS PRIOR 7D | The seven-day sleep average is 6.9 hours, 43 minutes below the prior seven days.",
+  "expires_at": "2026-08-21T17:00:24+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-21T11:00:24+10:00",
+  "title": "Health Insight: 7D SLEEP 6H56",
+  "topic_key": "health_weekly_sleep_trend",
+  "url": ""
 }
