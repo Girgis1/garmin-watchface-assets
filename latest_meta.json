@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "narnia",
-  "cinematic_title": "The Chronicles of Narnia",
-  "data_summary": "CN to EP leave times: 21:11 21:21 21:31",
-  "expires_at": "2026-08-22T03:00:08+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "hulk_2003",
+  "cinematic_title": "Hulk",
+  "data_summary": "context phase night, temp 14C",
+  "expires_at": "2026-08-22T03:20:10+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-08-21T21:00:08+10:00",
-  "title": "Commute: CN: 21:11 21:21 21:31",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "published_at": "2026-08-21T21:20:10+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
+  "url": ""
 }
