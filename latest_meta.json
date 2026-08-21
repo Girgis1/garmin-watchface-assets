@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "men_in_black",
-  "cinematic_title": "Men in Black",
-  "data_summary": "TUE SLEEP +109M | VS WED, 6-WEEK AVG | Across the available history, Tue sleep averages 109 minutes longer than Wed sleep.",
-  "expires_at": "2026-08-21T18:20:28+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "enders_game",
+  "cinematic_title": "Ender's Game",
+  "data_summary": "daily phase midday, temp 21C",
+  "expires_at": "2026-08-21T18:40:29+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-21T12:20:28+10:00",
-  "title": "Health Insight: TUE SLEEP +109M",
-  "topic_key": "health_pattern_weekday_sleep",
+  "lane": "local_signal",
+  "published_at": "2026-08-21T12:40:29+10:00",
+  "title": "Daily Context",
+  "topic_key": "daily_context",
   "url": ""
 }
