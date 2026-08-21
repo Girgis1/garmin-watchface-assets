@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "tmnt_1990",
-  "cinematic_title": "Teenage Mutant Ninja Turtles",
-  "data_summary": "CN to EP leave times: 19:51 20:01 20:11",
-  "expires_at": "2026-08-22T01:40:02+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "total_recall",
+  "cinematic_title": "Total Recall",
+  "data_summary": "CN to EP leave times: 20:11 20:21 20:31",
+  "expires_at": "2026-08-22T02:00:04+10:00",
   "kind": "rail",
   "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-21T19:40:02+10:00",
-  "title": "Commute: CN: 19:51 20:01 20:11",
+  "published_at": "2026-08-21T20:00:04+10:00",
+  "title": "Commute: CN: 20:11 20:21 20:31",
   "topic_key": "transit_alert",
   "url": "https://transportnsw.info/alerts#/metro-train"
 }
