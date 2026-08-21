@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "skyfall",
-  "cinematic_title": "Skyfall",
-  "data_summary": "SLEEP 7H04 | 16M VS 4W AVG | Last sleep was 7.1 hours with score 75, versus a four-week average of 7.3 hours.",
-  "expires_at": "2026-08-21T19:40:34+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "return_of_jedi",
+  "cinematic_title": "Star Wars: Return of the Jedi",
+  "data_summary": "context phase afternoon, temp 22C",
+  "expires_at": "2026-08-21T20:00:41+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-21T13:40:34+10:00",
-  "title": "Health Insight: SLEEP 7H04",
-  "topic_key": "health_sleep_vs_baseline",
+  "lane": "local_signal",
+  "published_at": "2026-08-21T14:00:41+10:00",
+  "title": "Afternoon Context",
+  "topic_key": "ambient_context_afternoon",
   "url": ""
 }
