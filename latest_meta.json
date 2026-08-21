@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "enders_game",
-  "cinematic_title": "Ender's Game",
-  "data_summary": "daily phase midday, temp 21C",
-  "expires_at": "2026-08-21T18:40:29+10:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "annihilation",
+  "cinematic_title": "Annihilation",
+  "data_summary": "HRV 68 MS | 1.6 VS PRIOR 7D | Seven-day HRV averages 67.7 ms versus 69.3 ms in the prior seven days; latest status is unbalanced.",
+  "expires_at": "2026-08-21T19:00:30+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-21T12:40:29+10:00",
-  "title": "Daily Context",
-  "topic_key": "daily_context",
+  "lane": "health",
+  "published_at": "2026-08-21T13:00:30+10:00",
+  "title": "Health Insight: HRV 68 MS",
+  "topic_key": "health_hrv_weekly_trend",
   "url": ""
 }
