@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "warcraft",
-  "cinematic_title": "Warcraft",
-  "data_summary": "CN to EP leave times: 21:51 22:01 22:11",
-  "expires_at": "2026-08-22T03:40:13+10:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "oceans_eleven",
+  "cinematic_title": "Ocean's Eleven",
+  "data_summary": "CN to EP leave times: 22:11 22:21 22:31",
+  "expires_at": "2026-08-22T04:00:14+10:00",
   "kind": "rail",
   "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-21T21:40:13+10:00",
-  "title": "Commute: CN: 21:51 22:01 22:11",
+  "published_at": "2026-08-21T22:00:14+10:00",
+  "title": "Commute: CN: 22:11 22:21 22:31",
   "topic_key": "transit_alert",
   "url": "https://transportnsw.info/alerts#/metro-train"
 }
