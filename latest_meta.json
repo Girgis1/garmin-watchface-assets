@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "matrix",
-  "cinematic_title": "The Matrix",
-  "data_summary": "CN to EP leave times: 18:09 18:13 18:17",
-  "expires_at": "2026-08-22T00:00:58+10:00",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "harry_potter_goblet",
+  "cinematic_title": "Harry Potter and the Goblet of Fire",
+  "data_summary": "CN to EP leave times: 18:29 18:33 18:37",
+  "expires_at": "2026-08-22T00:20:58+10:00",
   "kind": "rail",
   "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-21T18:00:58+10:00",
-  "title": "Commute: CN: 18:09 18:13 18:17",
+  "published_at": "2026-08-21T18:20:58+10:00",
+  "title": "Commute: CN: 18:29 18:33 18:37",
   "topic_key": "transit_alert",
   "url": "https://transportnsw.info/alerts#/metro-train"
 }
