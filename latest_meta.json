@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "infinity_war",
-  "cinematic_title": "Avengers: Infinity War",
-  "data_summary": "first quarter, 55% illuminated",
-  "expires_at": "2026-08-21T21:00:44+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-08-21T15:00:44+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "dark_knight_returns_part2",
+  "cinematic_title": "Batman: The Dark Knight Returns, Part 2",
+  "data_summary": "context phase sunset, temp 21C",
+  "expires_at": "2026-08-21T21:20:45+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-21T15:20:45+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
