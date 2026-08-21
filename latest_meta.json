@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "inception",
-  "cinematic_title": "Inception",
-  "data_summary": "CN to EP leave times: 18:49 18:53 18:57",
-  "expires_at": "2026-08-22T00:40:59+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "batman_1989",
+  "cinematic_title": "Batman",
+  "data_summary": "context phase evening, temp 15C",
+  "expires_at": "2026-08-22T01:00:00+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-08-21T18:40:59+10:00",
-  "title": "Commute: CN: 18:49 18:53 18:57",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "published_at": "2026-08-21T19:00:00+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
+  "url": ""
 }
