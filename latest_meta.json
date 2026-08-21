@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "transformers_rise_beasts",
-  "cinematic_title": "Transformers: Rise of the Beasts",
-  "data_summary": "HRV UNBALANCED, avg 65 ms, unbalanced today",
-  "expires_at": "2026-08-21T23:20:52+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "last_jedi",
+  "cinematic_title": "Star Wars: The Last Jedi",
+  "data_summary": "context phase sunset, temp 17C",
+  "expires_at": "2026-08-21T23:40:54+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-21T17:20:52+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_unbalanced",
+  "lane": "local_signal",
+  "published_at": "2026-08-21T17:40:54+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
