@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "batman_1989",
-  "cinematic_title": "Batman",
-  "data_summary": "context phase evening, temp 15C",
-  "expires_at": "2026-08-22T01:00:00+10:00",
-  "kind": "none",
-  "label": "",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "tmnt_1990",
+  "cinematic_title": "Teenage Mutant Ninja Turtles",
+  "data_summary": "CN to EP leave times: 19:51 20:01 20:11",
+  "expires_at": "2026-08-22T01:40:02+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-21T19:00:00+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
-  "url": ""
+  "published_at": "2026-08-21T19:40:02+10:00",
+  "title": "Commute: CN: 19:51 20:01 20:11",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
