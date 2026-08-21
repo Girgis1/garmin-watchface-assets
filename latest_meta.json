@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "hulk_2003",
-  "cinematic_title": "Hulk",
-  "data_summary": "context phase night, temp 14C",
-  "expires_at": "2026-08-22T03:20:10+10:00",
-  "kind": "none",
-  "label": "",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "warcraft",
+  "cinematic_title": "Warcraft",
+  "data_summary": "CN to EP leave times: 21:51 22:01 22:11",
+  "expires_at": "2026-08-22T03:40:13+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-21T21:20:10+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
-  "url": ""
+  "published_at": "2026-08-21T21:40:13+10:00",
+  "title": "Commute: CN: 21:51 22:01 22:11",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
