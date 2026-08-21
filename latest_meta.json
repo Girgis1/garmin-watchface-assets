@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "v_for_vendetta",
-  "cinematic_title": "V for Vendetta",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-08-21T17:20:25+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "big_hero_6",
+  "cinematic_title": "Big Hero 6",
+  "data_summary": "context phase midday, temp 20C",
+  "expires_at": "2026-08-21T17:40:26+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-21T11:20:25+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
+  "lane": "local_signal",
+  "published_at": "2026-08-21T11:40:26+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
