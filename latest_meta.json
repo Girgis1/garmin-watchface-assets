@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "strange_days",
-  "cinematic_title": "Strange Days",
-  "data_summary": "INTENSITY 352 MIN | 11% VS PRIOR 7D | Weighted intensity minutes total 352 across the last seven days versus 396 in the prior seven-day window.",
-  "expires_at": "2026-08-21T18:00:27+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "men_in_black",
+  "cinematic_title": "Men in Black",
+  "data_summary": "TUE SLEEP +109M | VS WED, 6-WEEK AVG | Across the available history, Tue sleep averages 109 minutes longer than Wed sleep.",
+  "expires_at": "2026-08-21T18:20:28+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-21T12:00:27+10:00",
-  "title": "Health Insight: INTENSITY 352 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-08-21T12:20:28+10:00",
+  "title": "Health Insight: TUE SLEEP +109M",
+  "topic_key": "health_pattern_weekday_sleep",
   "url": ""
 }
