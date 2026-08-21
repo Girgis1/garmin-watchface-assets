@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "morbius",
-  "cinematic_title": "Morbius",
-  "data_summary": "CN to EP leave times: 22:31 22:41 22:51",
-  "expires_at": "2026-08-22T04:20:14+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "anchorman",
+  "cinematic_title": "Anchorman",
+  "data_summary": "context phase night, temp 12C",
+  "expires_at": "2026-08-22T04:40:15+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-08-21T22:20:14+10:00",
-  "title": "Commute: CN: 22:31 22:41 22:51",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "published_at": "2026-08-21T22:40:15+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
+  "url": ""
 }
