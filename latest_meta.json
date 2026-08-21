@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "harry_potter_goblet",
-  "cinematic_title": "Harry Potter and the Goblet of Fire",
-  "data_summary": "CN to EP leave times: 18:29 18:33 18:37",
-  "expires_at": "2026-08-22T00:20:58+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "inception",
+  "cinematic_title": "Inception",
+  "data_summary": "CN to EP leave times: 18:49 18:53 18:57",
+  "expires_at": "2026-08-22T00:40:59+10:00",
   "kind": "rail",
   "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-21T18:20:58+10:00",
-  "title": "Commute: CN: 18:29 18:33 18:37",
+  "published_at": "2026-08-21T18:40:59+10:00",
+  "title": "Commute: CN: 18:49 18:53 18:57",
   "topic_key": "transit_alert",
   "url": "https://transportnsw.info/alerts#/metro-train"
 }
