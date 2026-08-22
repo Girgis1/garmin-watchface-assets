@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "spiderman_2",
-  "cinematic_title": "Spider-Man 2",
-  "data_summary": "waxing gibbous, 66% illuminated",
-  "expires_at": "2026-08-22T21:00:09+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-08-22T15:00:09+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "resident_evil_2002",
+  "cinematic_title": "Resident Evil",
+  "data_summary": "sleep 6.3h, score 68",
+  "expires_at": "2026-08-22T21:20:10+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "sleep",
+  "published_at": "2026-08-22T15:20:10+10:00",
+  "title": "Sleep Recovery",
+  "topic_key": "sleep",
+  "url": ""
 }
