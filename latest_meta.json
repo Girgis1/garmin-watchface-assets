@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "guardians_vol2",
-  "cinematic_title": "Guardians of the Galaxy Vol. 2",
-  "data_summary": "context phase evening, temp 13C",
-  "expires_at": "2026-08-23T02:40:37+10:00",
-  "kind": "none",
-  "label": "",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "captain_america_civil_war",
+  "cinematic_title": "Captain America: Civil War",
+  "data_summary": "CN to EP leave times: 21:11 21:21 21:31",
+  "expires_at": "2026-08-23T03:00:39+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-22T20:40:37+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
-  "url": ""
+  "published_at": "2026-08-22T21:00:39+10:00",
+  "title": "Commute: CN: 21:11 21:21 21:31",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
