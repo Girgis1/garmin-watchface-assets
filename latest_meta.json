@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "face_off",
-  "cinematic_title": "Face/Off",
-  "data_summary": "INTENSITY 403 MIN | +13% VS PRIOR 7D | Weighted intensity minutes total 403 across the last seven days versus 356 in the prior seven-day window.",
-  "expires_at": "2026-08-22T18:00:05+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "signs",
+  "cinematic_title": "Signs",
+  "data_summary": "BB<20: 20/30 DAYS | 19/20 ALSO STRESS 35+ | Body Battery finished below 20 on 20 of 30 recent complete days; 19 of those days also had average stress of 35 or higher.",
+  "expires_at": "2026-08-22T18:20:11+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-22T12:00:05+10:00",
-  "title": "Health Insight: INTENSITY 403 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-08-22T12:20:11+10:00",
+  "title": "Health Insight: BB<20: 20/30 DAYS",
+  "topic_key": "health_pattern_low_body_battery_freq",
   "url": ""
 }
