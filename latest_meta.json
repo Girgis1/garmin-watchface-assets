@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "the_fountain",
-  "cinematic_title": "The Fountain",
-  "data_summary": "context phase midday, temp 21C",
-  "expires_at": "2026-08-22T19:40:03+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "close_encounters",
+  "cinematic_title": "Close Encounters of the Third Kind",
+  "data_summary": "HRV UNBALANCED, avg 64 ms, unbalanced today",
+  "expires_at": "2026-08-22T20:00:05+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-22T13:40:03+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-08-22T14:00:05+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_unbalanced",
   "url": ""
 }
