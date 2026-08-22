@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "cowboy_bebop_movie",
-  "cinematic_title": "Cowboy Bebop: The Movie",
-  "data_summary": "context phase night, temp 13C",
-  "expires_at": "2026-08-23T03:20:40+10:00",
-  "kind": "none",
-  "label": "",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "galaxy_quest",
+  "cinematic_title": "Galaxy Quest",
+  "data_summary": "CN to EP leave times: 21:51 22:01 22:11",
+  "expires_at": "2026-08-23T03:40:41+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-22T21:20:40+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
-  "url": ""
+  "published_at": "2026-08-22T21:40:41+10:00",
+  "title": "Commute: CN: 21:51 22:01 22:11",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
