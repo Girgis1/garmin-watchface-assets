@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "iron_man",
-  "cinematic_title": "Iron Man",
-  "data_summary": "SLEEP 6H18 | 59M VS 4W AVG | Last sleep was 6.3 hours with score 68, versus a four-week average of 7.3 hours.",
-  "expires_at": "2026-08-22T17:01:00+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "the_creator",
+  "cinematic_title": "The Creator",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-08-22T17:20:01+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-22T11:01:00+10:00",
-  "title": "Health Insight: SLEEP 6H18",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-08-22T11:20:01+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
