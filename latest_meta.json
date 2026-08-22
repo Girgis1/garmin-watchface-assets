@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "guardians_vol3",
-  "cinematic_title": "Guardians of the Galaxy Vol. 3",
-  "data_summary": "CN to EP leave times: 19:11 19:21 19:31",
-  "expires_at": "2026-08-23T01:00:25+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "chronicle",
+  "cinematic_title": "Chronicle",
+  "data_summary": "context phase evening, temp 14C",
+  "expires_at": "2026-08-23T01:20:26+10:00",
+  "kind": "none",
+  "label": "",
   "lane": "local_signal",
-  "published_at": "2026-08-22T19:00:25+10:00",
-  "title": "Commute: CN: 19:11 19:21 19:31",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "published_at": "2026-08-22T19:20:26+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
+  "url": ""
 }
