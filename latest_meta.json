@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "signs",
-  "cinematic_title": "Signs",
-  "data_summary": "BB<20: 20/30 DAYS | 19/20 ALSO STRESS 35+ | Body Battery finished below 20 on 20 of 30 recent complete days; 19 of those days also had average stress of 35 or higher.",
-  "expires_at": "2026-08-22T18:20:11+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-22T12:20:11+10:00",
-  "title": "Health Insight: BB<20: 20/30 DAYS",
-  "topic_key": "health_pattern_low_body_battery_freq",
-  "url": ""
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "black_panther",
+  "cinematic_title": "Black Panther",
+  "data_summary": "A Strong El Nino Could Bring Sydney A Hotter, Drier Summer And Increased Bushfire Risk",
+  "expires_at": "2026-08-22T18:43:58+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-22T12:43:58+10:00",
+  "title": "News: Strong El Nino Could Bring Sydney A Hotter, Drier Summer",
+  "topic_key": "interesting_signal_strong_el_nino_could_bring_sydney_a_",
+  "url": "https://www.google.com/search?q=A+Strong+El+Nino+Could+Bring+Sydney+A+Hotter%2C+Drier+Summer+And+Increased+Bushfire+Risk"
 }
