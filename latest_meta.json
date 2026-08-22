@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "pirates_caribbean",
-  "cinematic_title": "Pirates of the Caribbean",
-  "data_summary": "context phase sunset, temp 21C",
-  "expires_at": "2026-08-22T22:00:13+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "ant_man",
+  "cinematic_title": "Ant-Man",
+  "data_summary": "HRV status unbalanced",
+  "expires_at": "2026-08-22T22:20:14+10:00",
   "kind": "none",
   "label": "",
   "lane": "local_signal",
-  "published_at": "2026-08-22T16:00:13+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "published_at": "2026-08-22T16:20:14+10:00",
+  "title": "HRV Balance",
+  "topic_key": "hrv_balance",
   "url": ""
 }
