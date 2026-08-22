@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "black_adam",
-  "cinematic_title": "Black Adam",
-  "data_summary": "context phase afternoon, temp 22C",
-  "expires_at": "2026-08-22T20:40:07+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-22T14:40:07+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
-  "url": ""
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "spiderman_2",
+  "cinematic_title": "Spider-Man 2",
+  "data_summary": "waxing gibbous, 66% illuminated",
+  "expires_at": "2026-08-22T21:00:09+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-08-22T15:00:09+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
