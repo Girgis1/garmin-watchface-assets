@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "artificial_intelligence",
-  "cinematic_title": "A.I. Artificial Intelligence",
-  "data_summary": "# Garmin Health Insight Generated: 2026-08-22T12:57:00+10:00 Data through: 2026-08-22 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND -1.2/DAY** | 52 -> 40 / 12D | MAKE TODAY THE ",
-  "expires_at": "2026-08-22T19:00:01+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "new_mutants",
+  "cinematic_title": "The New Mutants",
+  "data_summary": "daily phase midday, temp 21C",
+  "expires_at": "2026-08-22T19:20:02+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-22T13:00:01+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "lane": "local_signal",
+  "published_at": "2026-08-22T13:20:02+10:00",
+  "title": "Daily Context",
+  "topic_key": "daily_context",
   "url": ""
 }
