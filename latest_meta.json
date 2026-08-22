@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "chronicle",
-  "cinematic_title": "Chronicle",
-  "data_summary": "context phase evening, temp 14C",
-  "expires_at": "2026-08-23T01:20:26+10:00",
-  "kind": "none",
-  "label": "",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "dark_knight_returns_part1",
+  "cinematic_title": "Batman: The Dark Knight Returns, Part 1",
+  "data_summary": "CN to EP leave times: 19:51 20:01 20:11",
+  "expires_at": "2026-08-23T01:40:28+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-22T19:20:26+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
-  "url": ""
+  "published_at": "2026-08-22T19:40:28+10:00",
+  "title": "Commute: CN: 19:51 20:01 20:11",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
