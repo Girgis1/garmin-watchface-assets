@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "x2",
-  "cinematic_title": "X2: X-Men United",
-  "data_summary": "context phase sunset, temp 18C",
-  "expires_at": "2026-08-22T23:20:19+10:00",
-  "kind": "none",
-  "label": "",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "willow",
+  "cinematic_title": "Willow",
+  "data_summary": "CN to EP leave times: 18:31 18:41 18:51",
+  "expires_at": "2026-08-23T00:20:22+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-22T17:20:19+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "published_at": "2026-08-22T18:20:22+10:00",
+  "title": "Commute: CN: 18:31 18:41 18:51",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
