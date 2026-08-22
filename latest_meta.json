@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "the_suicide_squad",
-  "cinematic_title": "The Suicide Squad",
-  "data_summary": "RHR UP, HRV DOWN | R=-0.77 / N=28 | Across 28 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.77. Treat this as a personal trend signal, not a diagnosis.",
-  "expires_at": "2026-08-22T23:00:18+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "x2",
+  "cinematic_title": "X2: X-Men United",
+  "data_summary": "context phase sunset, temp 18C",
+  "expires_at": "2026-08-22T23:20:19+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-22T17:00:18+10:00",
-  "title": "Health Insight: RHR UP, HRV DOWN",
-  "topic_key": "health_pattern_rhr_hrv_relationship",
+  "lane": "local_signal",
+  "published_at": "2026-08-22T17:20:19+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
