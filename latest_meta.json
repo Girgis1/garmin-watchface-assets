@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "ant_man_quantumania",
-  "cinematic_title": "Ant-Man and the Wasp: Quantumania",
-  "data_summary": "goodnight stage midnight_strict: GO TO BED. Adult supervision has arrived.; no extra alerts",
-  "expires_at": "2026-08-23T06:00:51+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "serenity",
+  "cinematic_title": "Serenity",
+  "data_summary": "morning briefing: RAIN 23% FROM 12PM",
+  "expires_at": "2026-08-23T14:00:23+10:00",
   "kind": "none",
   "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-08-23T00:00:51+10:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "lane": "morning",
+  "published_at": "2026-08-23T08:00:23+10:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
