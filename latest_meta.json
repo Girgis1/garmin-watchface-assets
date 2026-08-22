@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "dark_knight_returns_part1",
-  "cinematic_title": "Batman: The Dark Knight Returns, Part 1",
-  "data_summary": "CN to EP leave times: 19:51 20:01 20:11",
-  "expires_at": "2026-08-23T01:40:28+10:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "home_alone",
+  "cinematic_title": "Home Alone",
+  "data_summary": "CN to EP leave times: 20:11 20:21 20:31",
+  "expires_at": "2026-08-23T02:00:29+10:00",
   "kind": "rail",
   "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-22T19:40:28+10:00",
-  "title": "Commute: CN: 19:51 20:01 20:11",
+  "published_at": "2026-08-22T20:00:29+10:00",
+  "title": "Commute: CN: 20:11 20:21 20:31",
   "topic_key": "transit_alert",
   "url": "https://transportnsw.info/alerts#/metro-train"
 }
