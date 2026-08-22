@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "resident_evil_2002",
-  "cinematic_title": "Resident Evil",
-  "data_summary": "sleep 6.3h, score 68",
-  "expires_at": "2026-08-22T21:20:10+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "sleep",
-  "published_at": "2026-08-22T15:20:10+10:00",
-  "title": "Sleep Recovery",
-  "topic_key": "sleep",
-  "url": ""
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "justice_league_2017",
+  "cinematic_title": "Justice League",
+  "data_summary": "The first fully automated metro train for Sydney\u2019s new airport line has arrived in Australia",
+  "expires_at": "2026-08-22T21:40:11+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-22T15:40:11+10:00",
+  "title": "News: first fully automated metro train for Sydney\u2019s new airport line",
+  "topic_key": "interesting_signal_first_fully_automated_metro_train_fo",
+  "url": "https://www.google.com/search?q=The+first+fully+automated+metro+train+for+Sydney%E2%80%99s+new+airport+line+has+arrived+in+Australia"
 }
