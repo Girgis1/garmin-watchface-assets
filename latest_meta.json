@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "the_shining",
-  "cinematic_title": "The Shining",
-  "data_summary": "7D SLEEP 6H37 | 65M VS PRIOR 7D | The seven-day sleep average is 6.6 hours, 65 minutes below the prior seven days.",
-  "expires_at": "2026-08-22T16:20:58+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-22T10:20:58+10:00",
-  "title": "Health Insight: 7D SLEEP 6H37",
-  "topic_key": "health_weekly_sleep_trend",
-  "url": ""
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "sky_captain",
+  "cinematic_title": "Sky Captain and the World of Tomorrow",
+  "data_summary": "MB to EP leave times: 10:51 11:01 11:12",
+  "expires_at": "2026-08-22T16:40:59+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-22T10:40:59+10:00",
+  "title": "Commute: MB: 10:51 11:01 11:12",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
