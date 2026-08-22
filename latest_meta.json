@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "black_panther",
-  "cinematic_title": "Black Panther",
-  "data_summary": "A Strong El Nino Could Bring Sydney A Hotter, Drier Summer And Increased Bushfire Risk",
-  "expires_at": "2026-08-22T18:43:58+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-22T12:43:58+10:00",
-  "title": "News: Strong El Nino Could Bring Sydney A Hotter, Drier Summer",
-  "topic_key": "interesting_signal_strong_el_nino_could_bring_sydney_a_",
-  "url": "https://www.google.com/search?q=A+Strong+El+Nino+Could+Bring+Sydney+A+Hotter%2C+Drier+Summer+And+Increased+Bushfire+Risk"
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "artificial_intelligence",
+  "cinematic_title": "A.I. Artificial Intelligence",
+  "data_summary": "# Garmin Health Insight Generated: 2026-08-22T12:57:00+10:00 Data through: 2026-08-22 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND -1.2/DAY** | 52 -> 40 / 12D | MAKE TODAY THE ",
+  "expires_at": "2026-08-22T19:00:01+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-22T13:00:01+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
+  "url": ""
 }
