@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "empire_strikes_back",
-  "cinematic_title": "The Empire Strikes Back",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "star_trek_first_contact",
+  "cinematic_title": "Star Trek: First Contact",
   "data_summary": "morning briefing: RAIN 23% FROM 12PM",
-  "expires_at": "2026-08-23T15:00:27+10:00",
+  "expires_at": "2026-08-23T15:20:28+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-23T09:00:27+10:00",
+  "published_at": "2026-08-23T09:20:28+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
