@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "up",
-  "cinematic_title": "Up",
-  "data_summary": "OpenAI launches ChatGPT for Teens with new safety guardrails",
-  "expires_at": "2026-08-24T04:20:36+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-23T22:20:36+10:00",
-  "title": "News: OpenAI launches ChatGPT for Teens with new safety guardrails",
-  "topic_key": "interesting_signal_openai_launches_chatgpt_for_teens_wi",
-  "url": "https://www.google.com/search?q=OpenAI+launches+ChatGPT+for+Teens+with+new+safety+guardrails"
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "transformers_2007",
+  "cinematic_title": "Transformers",
+  "data_summary": "waxing gibbous, 78% illuminated",
+  "expires_at": "2026-08-24T04:40:37+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-08-23T22:40:37+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
