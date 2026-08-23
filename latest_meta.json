@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "teen_titans_go_movies",
-  "cinematic_title": "Teen Titans Go! To the Movies",
-  "data_summary": "morning briefing: RAIN 23% FROM 12PM",
-  "expires_at": "2026-08-23T15:40:29+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "xmen_dark_phoenix",
+  "cinematic_title": "Dark Phoenix",
+  "data_summary": "training intensity minutes today 0",
+  "expires_at": "2026-08-24T02:37:28+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-08-23T09:40:29+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-08-23T20:37:28+10:00",
+  "title": "Training Nudge",
+  "topic_key": "health_training_minutes",
   "url": ""
 }
