@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "bumblebee",
-  "cinematic_title": "Bumblebee",
-  "data_summary": "# Garmin Health Insight Generated: 2026-08-23T21:17:33+10:00 Data through: 2026-08-23 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND -2.5/DAY** | 68 -> 40 / 12D | MAKE TODAY THE ",
-  "expires_at": "2026-08-24T03:20:33+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-23T21:20:33+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
-  "url": ""
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "dc_super_pets",
+  "cinematic_title": "DC League of Super-Pets",
+  "data_summary": "CN to EP leave times: 21:51 22:01 22:11",
+  "expires_at": "2026-08-24T03:40:34+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-23T21:40:34+10:00",
+  "title": "Commute: CN: 21:51 22:01 22:11",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
