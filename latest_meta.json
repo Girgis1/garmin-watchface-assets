@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "constantine",
-  "cinematic_title": "Constantine",
-  "data_summary": "goodnight stage midnight_strict: GO TO BED. Midnight means it.; no extra alerts",
-  "expires_at": "2026-08-24T06:00:41+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "alita",
+  "cinematic_title": "Alita: Battle Angel",
+  "data_summary": "morning briefing: no major weather/sleep drama",
+  "expires_at": "2026-08-24T14:00:16+10:00",
   "kind": "none",
   "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-08-24T00:00:41+10:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "lane": "morning",
+  "published_at": "2026-08-24T08:00:16+10:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
