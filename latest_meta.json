@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "transformers_2007",
-  "cinematic_title": "Transformers",
-  "data_summary": "waxing gibbous, 78% illuminated",
-  "expires_at": "2026-08-24T04:40:37+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-08-23T22:40:37+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "twenty_eight_weeks",
+  "cinematic_title": "28 Weeks Later",
+  "data_summary": "goodnight stage soft: We're entering the quiet part now. Do try to notice.; no extra alerts",
+  "expires_at": "2026-08-24T05:00:38+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "goodnight",
+  "published_at": "2026-08-23T23:00:38+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
+  "url": ""
 }
