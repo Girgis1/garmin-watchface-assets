@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "xmen_dark_phoenix",
-  "cinematic_title": "Dark Phoenix",
-  "data_summary": "training intensity minutes today 0",
-  "expires_at": "2026-08-24T02:37:28+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "sphere",
+  "cinematic_title": "Sphere",
+  "data_summary": "BB TREND -2.5/DAY | 68 -> 40 / 12D | Comparable wake-time Body Battery values moved from 68 to 40, with a fitted trend of -2.5 points per day.",
+  "expires_at": "2026-08-24T03:00:32+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-23T20:37:28+10:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
+  "published_at": "2026-08-23T21:00:32+10:00",
+  "title": "Health Insight: BB TREND -2.5/DAY",
+  "topic_key": "health_pattern_body_battery_14d_tren",
   "url": ""
 }
