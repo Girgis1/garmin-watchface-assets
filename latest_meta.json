@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "jonah_hex",
-  "cinematic_title": "Jonah Hex",
-  "data_summary": "CN to EP leave times: 20:31 20:41 20:51",
-  "expires_at": "2026-08-25T02:20:39+10:00",
-  "kind": "rail",
-  "label": "OPEN RAIL",
-  "lane": "local_signal",
-  "published_at": "2026-08-24T20:20:39+10:00",
-  "title": "Commute: CN: 20:31 20:41 20:51",
-  "topic_key": "transit_alert",
-  "url": "https://transportnsw.info/alerts#/metro-train"
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "scott_pilgrim",
+  "cinematic_title": "Scott Pilgrim vs. the World",
+  "data_summary": "HRV 53 MS, RHR | TAKE THE EASY DAY | Overnight HRV hit 53 ms versus your 72 ms norm (26% down) while resting heart rate climbed 3 bpm above baseline. Both recovery signals deteriorated together.",
+  "expires_at": "2026-08-25T02:40:40+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-24T20:40:40+10:00",
+  "title": "Health Insight: HRV 53 MS, RHR",
+  "topic_key": "health_alert_recovery_flash",
+  "url": ""
 }
