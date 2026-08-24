@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "thor_2011",
-  "cinematic_title": "Thor",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "dark_knight_rises",
+  "cinematic_title": "The Dark Knight Rises",
   "data_summary": "morning briefing: GOOD SLEEP 8.0H",
-  "expires_at": "2026-08-25T15:20:27+10:00",
+  "expires_at": "2026-08-25T15:40:29+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-25T09:20:27+10:00",
+  "published_at": "2026-08-25T09:40:29+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
