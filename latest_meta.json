@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "green_lantern",
-  "cinematic_title": "Green Lantern",
-  "data_summary": "Rain, storms and flash flooding predicted to hit large parts of Australia in coming days",
-  "expires_at": "2026-08-24T16:40:25+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-24T10:40:25+10:00",
-  "title": "News: Rain, storms and flash flooding predicted to hit large parts",
-  "topic_key": "interesting_signal_rain_storms_and_flash_flooding_predi",
-  "url": "https://www.google.com/search?q=Rain%2C+storms+and+flash+flooding+predicted+to+hit+large+parts+of+Australia+in+coming+days"
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "captain_america_first_avenger",
+  "cinematic_title": "Captain America: The First Avenger",
+  "data_summary": "TENNIS 52 MIN | 54M VS YOUR AVG | 52 minutes, compared with a recent tennis average of 106 minutes.",
+  "expires_at": "2026-08-24T17:00:27+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-24T11:00:27+10:00",
+  "title": "Health Insight: TENNIS 52 MIN",
+  "topic_key": "health_activity_24080088215",
+  "url": ""
 }
