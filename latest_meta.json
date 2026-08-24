@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "force_awakens",
-  "cinematic_title": "Star Wars: The Force Awakens",
-  "data_summary": "Heavy rain and thunderstorms are heading for NSW this week",
-  "expires_at": "2026-08-25T01:00:07+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-24T19:00:07+10:00",
-  "title": "News: Heavy rain and thunderstorms are heading for NSW this week",
-  "topic_key": "interesting_signal_heavy_rain_and_thunderstorms_are_hea",
-  "url": "https://www.google.com/search?q=Heavy+rain+and+thunderstorms+are+heading+for+NSW+this+week"
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "space_odyssey",
+  "cinematic_title": "2001: A Space Odyssey",
+  "data_summary": "SLEEP NEED ROSE 6/14 | YOUR BODY ASKED FOR MORE | Garmin increased sleep need on 6 of 14 recent nights, even when total sleep was sometimes adequate.",
+  "expires_at": "2026-08-25T01:20:08+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-24T19:20:08+10:00",
+  "title": "Health Insight: SLEEP NEED ROSE 6/14",
+  "topic_key": "health_pattern_sleep_need_increased_",
+  "url": ""
 }
