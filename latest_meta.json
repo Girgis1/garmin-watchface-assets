@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "star_wars_new_hope",
-  "cinematic_title": "Star Wars: A New Hope",
-  "data_summary": "morning briefing: ROUGH SLEEP 6.2H",
-  "expires_at": "2026-08-24T15:40:22+10:00",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "pokemon_first_movie",
+  "cinematic_title": "Pokemon: The First Movie",
+  "data_summary": "NO 80+ BB FINISHES | 34 / 30 DAYS | None of 30 recent complete days finished above Body Battery 80; the best finish was 34. This describes the recent data window, not a diagnosis.",
+  "expires_at": "2026-08-24T16:00:23+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-08-24T09:40:22+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-08-24T10:00:23+10:00",
+  "title": "Health Insight: NO 80+ BB FINISHES",
+  "topic_key": "health_pattern_body_battery_recovery",
   "url": ""
 }
