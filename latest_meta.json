@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "lego_movie",
-  "cinematic_title": "The Lego Movie",
-  "data_summary": "Thunderstorm risk across NSW as rain band moves towards Sydney",
-  "expires_at": "2026-08-24T22:40:58+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-24T16:40:58+10:00",
-  "title": "News: Thunderstorm risk across NSW as rain band moves towards Sydney",
-  "topic_key": "interesting_signal_thunderstorm_risk_across_nsw_as_rain",
-  "url": "https://www.google.com/search?q=Thunderstorm+risk+across+NSW+as+rain+band+moves+towards+Sydney"
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "xmen_last_stand",
+  "cinematic_title": "X-Men: The Last Stand",
+  "data_summary": "waxing gibbous, 85% illuminated",
+  "expires_at": "2026-08-24T23:00:59+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-08-24T17:00:59+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
