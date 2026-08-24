@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "space_odyssey",
-  "cinematic_title": "2001: A Space Odyssey",
-  "data_summary": "SLEEP NEED ROSE 6/14 | YOUR BODY ASKED FOR MORE | Garmin increased sleep need on 6 of 14 recent nights, even when total sleep was sometimes adequate.",
-  "expires_at": "2026-08-25T01:20:08+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-24T19:20:08+10:00",
-  "title": "Health Insight: SLEEP NEED ROSE 6/14",
-  "topic_key": "health_pattern_sleep_need_increased_",
-  "url": ""
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "superman_1978",
+  "cinematic_title": "Superman",
+  "data_summary": "CN to EP leave times: 19:51 20:01 20:11",
+  "expires_at": "2026-08-25T01:40:36+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-24T19:40:36+10:00",
+  "title": "Commute: CN: 19:51 20:01 20:11",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
