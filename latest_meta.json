@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "superman_1978",
-  "cinematic_title": "Superman",
-  "data_summary": "CN to EP leave times: 19:51 20:01 20:11",
-  "expires_at": "2026-08-25T01:40:36+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "atlantis_lost_empire",
+  "cinematic_title": "Atlantis: The Lost Empire",
+  "data_summary": "CN to EP leave times: 20:11 20:21 20:31",
+  "expires_at": "2026-08-25T02:00:38+10:00",
   "kind": "rail",
   "label": "OPEN RAIL",
   "lane": "local_signal",
-  "published_at": "2026-08-24T19:40:36+10:00",
-  "title": "Commute: CN: 19:51 20:01 20:11",
+  "published_at": "2026-08-24T20:00:38+10:00",
+  "title": "Commute: CN: 20:11 20:21 20:31",
   "topic_key": "transit_alert",
   "url": "https://transportnsw.info/alerts#/metro-train"
 }
