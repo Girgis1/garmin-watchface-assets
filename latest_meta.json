@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "pokemon_first_movie",
-  "cinematic_title": "Pokemon: The First Movie",
-  "data_summary": "NO 80+ BB FINISHES | 34 / 30 DAYS | None of 30 recent complete days finished above Body Battery 80; the best finish was 34. This describes the recent data window, not a diagnosis.",
-  "expires_at": "2026-08-24T16:00:23+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-24T10:00:23+10:00",
-  "title": "Health Insight: NO 80+ BB FINISHES",
-  "topic_key": "health_pattern_body_battery_recovery",
-  "url": ""
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "avatar",
+  "cinematic_title": "Avatar",
+  "data_summary": "MB to EP leave times: 10:33 10:50 11:03",
+  "expires_at": "2026-08-24T16:20:24+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-24T10:20:24+10:00",
+  "title": "Commute: MB: 10:33 10:50 11:03",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
