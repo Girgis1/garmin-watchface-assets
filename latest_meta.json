@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "apollo_13",
-  "cinematic_title": "Apollo 13",
-  "data_summary": "7D SLEEP 6H37 | 33M VS PRIOR 7D | The seven-day sleep average is 6.6 hours, 33 minutes below the prior seven days.",
-  "expires_at": "2026-08-25T00:00:03+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "ready_player_one",
+  "cinematic_title": "Ready Player One",
+  "data_summary": "context phase sunset, temp 17C",
+  "expires_at": "2026-08-25T00:20:06+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-24T18:00:03+10:00",
-  "title": "Health Insight: 7D SLEEP 6H37",
-  "topic_key": "health_weekly_sleep_trend",
+  "lane": "local_signal",
+  "published_at": "2026-08-24T18:20:06+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
