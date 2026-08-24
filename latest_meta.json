@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "megamind",
-  "cinematic_title": "Megamind",
-  "data_summary": "STRESSFUL BEFORE BED | 7 OF 14 NIGHTS | Garmin's Body Battery feedback marked 7 of 14 recent nights as stressful around sleep preparation.",
-  "expires_at": "2026-08-24T23:40:02+10:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "apollo_13",
+  "cinematic_title": "Apollo 13",
+  "data_summary": "7D SLEEP 6H37 | 33M VS PRIOR 7D | The seven-day sleep average is 6.6 hours, 33 minutes below the prior seven days.",
+  "expires_at": "2026-08-25T00:00:03+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-24T17:40:02+10:00",
-  "title": "Health Insight: STRESSFUL BEFORE BED",
-  "topic_key": "health_pattern_pre_sleep_stress_feed",
+  "published_at": "2026-08-24T18:00:03+10:00",
+  "title": "Health Insight: 7D SLEEP 6H37",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
