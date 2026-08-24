@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "thor_dark_world",
-  "cinematic_title": "Thor: The Dark World",
-  "data_summary": "50 pushups remaining",
-  "expires_at": "2026-08-25T00:40:06+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-24T18:40:06+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "force_awakens",
+  "cinematic_title": "Star Wars: The Force Awakens",
+  "data_summary": "Heavy rain and thunderstorms are heading for NSW this week",
+  "expires_at": "2026-08-25T01:00:07+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-24T19:00:07+10:00",
+  "title": "News: Heavy rain and thunderstorms are heading for NSW this week",
+  "topic_key": "interesting_signal_heavy_rain_and_thunderstorms_are_hea",
+  "url": "https://www.google.com/search?q=Heavy+rain+and+thunderstorms+are+heading+for+NSW+this+week"
 }
