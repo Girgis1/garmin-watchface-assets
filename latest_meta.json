@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "sonic_movie",
-  "cinematic_title": "Sonic the Hedgehog",
-  "data_summary": "SpO2 98%, respiration 14.0",
-  "expires_at": "2026-08-24T22:00:56+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "battle_los_angeles",
+  "cinematic_title": "Battle: Los Angeles",
+  "data_summary": "context phase sunset, temp 19C",
+  "expires_at": "2026-08-24T22:20:57+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-24T16:00:56+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
+  "lane": "local_signal",
+  "published_at": "2026-08-24T16:20:57+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
