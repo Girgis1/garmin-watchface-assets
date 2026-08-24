@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "battle_los_angeles",
-  "cinematic_title": "Battle: Los Angeles",
-  "data_summary": "context phase sunset, temp 19C",
-  "expires_at": "2026-08-24T22:20:57+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-24T16:20:57+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "cinematic_group": "animation_family",
+  "cinematic_key": "lego_movie",
+  "cinematic_title": "The Lego Movie",
+  "data_summary": "Thunderstorm risk across NSW as rain band moves towards Sydney",
+  "expires_at": "2026-08-24T22:40:58+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-24T16:40:58+10:00",
+  "title": "News: Thunderstorm risk across NSW as rain band moves towards Sydney",
+  "topic_key": "interesting_signal_thunderstorm_risk_across_nsw_as_rain",
+  "url": "https://www.google.com/search?q=Thunderstorm+risk+across+NSW+as+rain+band+moves+towards+Sydney"
 }
