@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "oblivion",
-  "cinematic_title": "Oblivion",
-  "data_summary": "training intensity minutes today 0",
-  "expires_at": "2026-08-24T20:40:51+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-24T14:40:51+10:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
-  "url": ""
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "guardians_galaxy",
+  "cinematic_title": "Guardians of the Galaxy",
+  "data_summary": "leave-work temp 16C, rain 82%, 2.6 mm",
+  "expires_at": "2026-08-24T21:00:53+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-08-24T15:00:53+10:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
