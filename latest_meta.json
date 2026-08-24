@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "scott_pilgrim",
-  "cinematic_title": "Scott Pilgrim vs. the World",
-  "data_summary": "HRV 53 MS, RHR | TAKE THE EASY DAY | Overnight HRV hit 53 ms versus your 72 ms norm (26% down) while resting heart rate climbed 3 bpm above baseline. Both recovery signals deteriorated together.",
-  "expires_at": "2026-08-25T02:40:40+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "snowpiercer",
+  "cinematic_title": "Snowpiercer",
+  "data_summary": "CALM DAY PAYS +10 | WAKE BB 78 VS 68 | After days with average stress under 32, morning Body Battery averaged 78; after higher-stress days it was only 68. Today's calm is tomorrow's charge.",
+  "expires_at": "2026-08-25T03:00:42+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-24T20:40:40+10:00",
-  "title": "Health Insight: HRV 53 MS, RHR",
-  "topic_key": "health_alert_recovery_flash",
+  "published_at": "2026-08-24T21:00:42+10:00",
+  "title": "Health Insight: CALM DAY PAYS +10",
+  "topic_key": "health_pattern_calm_day_next_morning",
   "url": ""
 }
