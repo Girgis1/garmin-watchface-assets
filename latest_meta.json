@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "silence_lambs",
-  "cinematic_title": "The Silence of the Lambs",
-  "data_summary": "context phase afternoon, temp 23C",
-  "expires_at": "2026-08-24T20:20:44+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "oblivion",
+  "cinematic_title": "Oblivion",
+  "data_summary": "training intensity minutes today 0",
+  "expires_at": "2026-08-24T20:40:51+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-24T14:20:44+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
+  "lane": "health",
+  "published_at": "2026-08-24T14:40:51+10:00",
+  "title": "Training Nudge",
+  "topic_key": "health_training_minutes",
   "url": ""
 }
