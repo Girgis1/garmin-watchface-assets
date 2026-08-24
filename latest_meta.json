@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "captain_marvel",
-  "cinematic_title": "Captain Marvel",
-  "data_summary": "context phase night, temp 16C",
-  "expires_at": "2026-08-25T03:20:43+10:00",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "howls_moving_castle",
+  "cinematic_title": "Howl's Moving Castle",
+  "data_summary": "BED ~1:31 AM | 34/40 NIGHTS POST-MIDNIGHT | Median true sleep onset is 1:31 AM across 40 nights; 34 of them landed after midnight with a night-to-night spread of 1.3 hours. Earlier nights in this dataset averaged MORE sleep, not less.",
+  "expires_at": "2026-08-25T04:00:46+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-24T21:20:43+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
+  "lane": "health",
+  "published_at": "2026-08-24T22:00:46+10:00",
+  "title": "Health Insight: BED ~1:31 AM",
+  "topic_key": "health_pattern_bedtime_chronic_late",
   "url": ""
 }
