@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "xmen_last_stand",
-  "cinematic_title": "X-Men: The Last Stand",
-  "data_summary": "waxing gibbous, 85% illuminated",
-  "expires_at": "2026-08-24T23:00:59+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-08-24T17:00:59+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "harry_potter_stone",
+  "cinematic_title": "Harry Potter and the Philosopher's Stone",
+  "data_summary": "leave-work temp 16C, rain 82%, 0.2 mm",
+  "expires_at": "2026-08-24T23:20:01+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-08-24T17:20:01+10:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
