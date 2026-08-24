@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "john_wick",
-  "cinematic_title": "John Wick",
-  "data_summary": "SLEEP 6H10 | 61M VS 4W AVG | Last sleep was 6.2 hours with score 72, versus a four-week average of 7.2 hours.",
-  "expires_at": "2026-08-24T17:40:29+10:00",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "one_piece_red",
+  "cinematic_title": "One Piece Film: Red",
+  "data_summary": "HRV 65 MS | 3.3 VS PRIOR 7D | Seven-day HRV averages 65.0 ms versus 68.3 ms in the prior seven days; latest status is low.",
+  "expires_at": "2026-08-24T20:00:37+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-24T11:40:29+10:00",
-  "title": "Health Insight: SLEEP 6H10",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-08-24T14:00:37+10:00",
+  "title": "Health Insight: HRV 65 MS",
+  "topic_key": "health_hrv_weekly_trend",
   "url": ""
 }
