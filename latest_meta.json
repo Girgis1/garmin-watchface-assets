@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "guardians_galaxy",
-  "cinematic_title": "Guardians of the Galaxy",
-  "data_summary": "leave-work temp 16C, rain 82%, 2.6 mm",
-  "expires_at": "2026-08-24T21:00:53+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather_departure",
-  "published_at": "2026-08-24T15:00:53+10:00",
-  "title": "Leave-Work Weather",
-  "topic_key": "leave_work_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "across_spiderverse",
+  "cinematic_title": "Spider-Man: Across the Spider-Verse",
+  "data_summary": "# Garmin Health Insight Generated: 2026-08-24T15:17:54+10:00 Data through: 2026-08-24 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND -2.8/DAY** | 71 -> 46 / 12D | MAKE TODAY THE ",
+  "expires_at": "2026-08-24T21:20:54+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-24T15:20:54+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
+  "url": ""
 }
