@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "howls_moving_castle",
-  "cinematic_title": "Howl's Moving Castle",
-  "data_summary": "BED ~1:31 AM | 34/40 NIGHTS POST-MIDNIGHT | Median true sleep onset is 1:31 AM across 40 nights; 34 of them landed after midnight with a night-to-night spread of 1.3 hours. Earlier nights in this dataset averaged MORE sleep, not less.",
-  "expires_at": "2026-08-25T04:00:46+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-24T22:00:46+10:00",
-  "title": "Health Insight: BED ~1:31 AM",
-  "topic_key": "health_pattern_bedtime_chronic_late",
-  "url": ""
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "next_2007",
+  "cinematic_title": "Next",
+  "data_summary": "CN to EP leave times: 22:31 22:41 22:51",
+  "expires_at": "2026-08-25T04:20:47+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-24T22:20:47+10:00",
+  "title": "Commute: CN: 22:31 22:41 22:51",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
