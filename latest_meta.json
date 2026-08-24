@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "master_commander",
-  "cinematic_title": "Master and Commander",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "cabin_woods",
+  "cinematic_title": "The Cabin in the Woods",
   "data_summary": "morning briefing: no major weather/sleep drama",
-  "expires_at": "2026-08-25T14:00:22+10:00",
+  "expires_at": "2026-08-25T14:20:23+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-25T08:00:22+10:00",
+  "published_at": "2026-08-25T08:20:23+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
