@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "ad_astra",
-  "cinematic_title": "Ad Astra",
-  "data_summary": "# Garmin Health Insight Generated: 2026-08-25T13:17:40+10:00 Data through: 2026-08-25 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND -2.2/DAY** | 50 -> 62 / 12D | MAKE TODAY THE ",
-  "expires_at": "2026-08-25T19:20:40+10:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "dark_knight",
+  "cinematic_title": "The Dark Knight",
+  "data_summary": "context phase midday, temp 17C",
+  "expires_at": "2026-08-25T19:40:41+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-25T13:20:40+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "lane": "local_signal",
+  "published_at": "2026-08-25T13:40:41+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
