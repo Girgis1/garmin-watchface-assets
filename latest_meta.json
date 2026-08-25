@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "mission_fallout",
-  "cinematic_title": "Mission: Impossible - Fallout",
-  "data_summary": "Sydney Trains push to restore timetables ahead of peak-hour commute",
-  "expires_at": "2026-08-26T01:00:02+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-25T19:00:02+10:00",
-  "title": "News: Sydney Trains push to restore timetables ahead of peak-hour commute",
-  "topic_key": "interesting_signal_sydney_trains_push_to_restore_timeta",
-  "url": "https://www.google.com/search?q=Sydney+Trains+push+to+restore+timetables+ahead+of+peak-hour+commute"
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "matrix_reloaded",
+  "cinematic_title": "The Matrix Reloaded",
+  "data_summary": "context phase evening, temp 16C",
+  "expires_at": "2026-08-26T01:20:03+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-25T19:20:03+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
+  "url": ""
 }
