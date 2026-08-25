@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "dark_knight_rises",
-  "cinematic_title": "The Dark Knight Rises",
-  "data_summary": "morning briefing: GOOD SLEEP 8.0H",
-  "expires_at": "2026-08-25T15:40:29+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "batman_forever",
+  "cinematic_title": "Batman Forever",
+  "data_summary": "INTENSITY 548 MIN | +73% VS PRIOR 7D | Weighted intensity minutes total 548 across the last seven days versus 317 in the prior seven-day window.",
+  "expires_at": "2026-08-25T16:00:30+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-08-25T09:40:29+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-08-25T10:00:30+10:00",
+  "title": "Health Insight: INTENSITY 548 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
