@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "dark_knight",
-  "cinematic_title": "The Dark Knight",
-  "data_summary": "context phase midday, temp 17C",
-  "expires_at": "2026-08-25T19:40:41+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "blue_beetle",
+  "cinematic_title": "Blue Beetle",
+  "data_summary": "7D SLEEP 6H35 | 31M VS PRIOR 7D | The seven-day sleep average is 6.6 hours, 31 minutes below the prior seven days.",
+  "expires_at": "2026-08-25T20:00:43+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-25T13:40:41+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-08-25T14:00:43+10:00",
+  "title": "Health Insight: 7D SLEEP 6H35",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
