@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "cars",
-  "cinematic_title": "Cars",
-  "data_summary": "context phase night, temp 15C",
-  "expires_at": "2026-08-26T04:40:15+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "elysium",
+  "cinematic_title": "Elysium",
+  "data_summary": "goodnight stage soft: That 'one last thing' has excellent marketing.; RAIN 98% 11PM",
+  "expires_at": "2026-08-26T05:00:16+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-25T22:40:15+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
+  "lane": "goodnight",
+  "published_at": "2026-08-25T23:00:16+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
