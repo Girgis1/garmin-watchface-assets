@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "underworld",
-  "cinematic_title": "Underworld",
-  "data_summary": "next-hour temp 16.0C, rain 99%, 1.9 mm",
-  "expires_at": "2026-08-26T00:40:01+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-25T18:40:01+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "mission_fallout",
+  "cinematic_title": "Mission: Impossible - Fallout",
+  "data_summary": "Sydney Trains push to restore timetables ahead of peak-hour commute",
+  "expires_at": "2026-08-26T01:00:02+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-25T19:00:02+10:00",
+  "title": "News: Sydney Trains push to restore timetables ahead of peak-hour commute",
+  "topic_key": "interesting_signal_sydney_trains_push_to_restore_timeta",
+  "url": "https://www.google.com/search?q=Sydney+Trains+push+to+restore+timetables+ahead+of+peak-hour+commute"
 }
