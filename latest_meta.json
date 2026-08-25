@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "aquaman_lost_kingdom",
-  "cinematic_title": "Aquaman and the Lost Kingdom",
-  "data_summary": "13 BB | 34 VS 47 OTHER DAYS | Wed Body Battery finishes average 34 versus 47 on every other weekday \u2014 a recurring 13-point weekly trough.",
-  "expires_at": "2026-08-25T17:20:34+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-25T11:20:34+10:00",
-  "title": "Health Insight: 13 BB",
-  "topic_key": "health_pattern_weekly_bb_crash_day",
-  "url": ""
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "endgame",
+  "cinematic_title": "Avengers: Endgame",
+  "data_summary": "MB to EP leave times: 11:48 12:03 12:20",
+  "expires_at": "2026-08-25T17:40:35+10:00",
+  "kind": "rail",
+  "label": "OPEN RAIL",
+  "lane": "local_signal",
+  "published_at": "2026-08-25T11:40:35+10:00",
+  "title": "Commute: MB: 11:48 12:03 12:20",
+  "topic_key": "transit_alert",
+  "url": "https://transportnsw.info/alerts#/metro-train"
 }
