@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "butterfly_effect",
-  "cinematic_title": "The Butterfly Effect",
-  "data_summary": "next-hour temp 16.2C, rain 96%, 1.1 mm",
-  "expires_at": "2026-08-25T22:40:54+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-25T16:40:54+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "golden_compass",
+  "cinematic_title": "The Golden Compass",
+  "data_summary": "context phase sunset, temp 16C",
+  "expires_at": "2026-08-25T23:00:55+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-25T17:00:55+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
