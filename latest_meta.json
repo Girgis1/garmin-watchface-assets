@@ -1,13 +1,13 @@
 {
   "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "transformers_dark_moon",
-  "cinematic_title": "Transformers: Dark of the Moon",
+  "cinematic_key": "harry_potter_half_blood",
+  "cinematic_title": "Harry Potter and the Half-Blood Prince",
   "data_summary": "RHR UP, HRV DOWN | R=-0.76 / N=28 | Across 28 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.76. Treat this as a personal trend signal, not a diagnosis.",
-  "expires_at": "2026-08-26T03:20:11+10:00",
+  "expires_at": "2026-08-26T03:40:12+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-25T21:20:11+10:00",
+  "published_at": "2026-08-25T21:40:12+10:00",
   "title": "Health Insight: RHR UP, HRV DOWN",
   "topic_key": "health_pattern_rhr_hrv_relationship",
   "url": ""
