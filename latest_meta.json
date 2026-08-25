@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "children_of_men",
-  "cinematic_title": "Children of Men",
-  "data_summary": "next-hour temp 19.5C, rain 68%, 0.0 mm",
-  "expires_at": "2026-08-25T18:20:37+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-25T12:20:37+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "ad_astra",
+  "cinematic_title": "Ad Astra",
+  "data_summary": "# Garmin Health Insight Generated: 2026-08-25T13:17:40+10:00 Data through: 2026-08-25 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND -2.2/DAY** | 50 -> 62 / 12D | MAKE TODAY THE ",
+  "expires_at": "2026-08-25T19:20:40+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-25T13:20:40+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
+  "url": ""
 }
