@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "blue_beetle",
-  "cinematic_title": "Blue Beetle",
-  "data_summary": "7D SLEEP 6H35 | 31M VS PRIOR 7D | The seven-day sleep average is 6.6 hours, 31 minutes below the prior seven days.",
-  "expires_at": "2026-08-25T20:00:43+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-25T14:00:43+10:00",
-  "title": "Health Insight: 7D SLEEP 6H35",
-  "topic_key": "health_weekly_sleep_trend",
-  "url": ""
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "robocop",
+  "cinematic_title": "RoboCop",
+  "data_summary": "ChatGPT v ASX GPT: OpenAI in Australian trademark dispute",
+  "expires_at": "2026-08-25T20:20:43+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-25T14:20:43+10:00",
+  "title": "News: OpenAI in Australian trademark dispute",
+  "topic_key": "interesting_signal_openai_in_australian_trademark_dispu",
+  "url": "https://www.google.com/search?q=ChatGPT+v+ASX+GPT%3A+OpenAI+in+Australian+trademark+dispute"
 }
