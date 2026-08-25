@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "lotr_return_king",
-  "cinematic_title": "The Lord of the Rings: The Return of the King",
-  "data_summary": "Sydney Trains overhead wiring support cable snaps",
-  "expires_at": "2026-08-26T04:20:14+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-25T22:20:14+10:00",
-  "title": "News: Sydney Trains overhead wiring support cable snaps",
-  "topic_key": "interesting_signal_sydney_trains_overhead_wiring_suppor",
-  "url": "https://www.google.com/search?q=Sydney+Trains+overhead+wiring+support+cable+snaps"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "cars",
+  "cinematic_title": "Cars",
+  "data_summary": "context phase night, temp 15C",
+  "expires_at": "2026-08-26T04:40:15+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-25T22:40:15+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
+  "url": ""
 }
