@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "batman_forever",
-  "cinematic_title": "Batman Forever",
-  "data_summary": "INTENSITY 548 MIN | +73% VS PRIOR 7D | Weighted intensity minutes total 548 across the last seven days versus 317 in the prior seven-day window.",
-  "expires_at": "2026-08-25T16:00:30+10:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "hook",
+  "cinematic_title": "Hook",
+  "data_summary": "SLEEP 7H57 | +45M VS 4W AVG | Last sleep was 8.0 hours with score 84, versus a four-week average of 7.2 hours.",
+  "expires_at": "2026-08-25T16:20:31+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-25T10:00:30+10:00",
-  "title": "Health Insight: INTENSITY 548 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-08-25T10:20:31+10:00",
+  "title": "Health Insight: SLEEP 7H57",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
