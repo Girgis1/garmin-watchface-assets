@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "robocop",
-  "cinematic_title": "RoboCop",
-  "data_summary": "ChatGPT v ASX GPT: OpenAI in Australian trademark dispute",
-  "expires_at": "2026-08-25T20:20:43+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-25T14:20:43+10:00",
-  "title": "News: OpenAI in Australian trademark dispute",
-  "topic_key": "interesting_signal_openai_in_australian_trademark_dispu",
-  "url": "https://www.google.com/search?q=ChatGPT+v+ASX+GPT%3A+OpenAI+in+Australian+trademark+dispute"
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "matrix_revolutions",
+  "cinematic_title": "The Matrix Revolutions",
+  "data_summary": "waxing gibbous, 91% illuminated",
+  "expires_at": "2026-08-25T21:00:46+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-08-25T15:00:46+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
