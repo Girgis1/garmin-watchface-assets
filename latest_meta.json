@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "zoolander",
-  "cinematic_title": "Zoolander",
-  "data_summary": "# Garmin Health Insight Generated: 2026-08-26T13:37:38+10:00 Data through: 2026-08-26 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND -2.8/DAY** | 68 -> 51 / 12D | MAKE TODAY THE ",
-  "expires_at": "2026-08-26T19:40:39+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "ghost_in_shell",
+  "cinematic_title": "Ghost in the Shell",
+  "data_summary": "training intensity minutes today 0",
+  "expires_at": "2026-08-26T20:00:40+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-26T13:40:39+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-08-26T14:00:40+10:00",
+  "title": "Training Nudge",
+  "topic_key": "health_training_minutes",
   "url": ""
 }
