@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "mortal_kombat_1995",
-  "cinematic_title": "Mortal Kombat",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "rogue_one",
+  "cinematic_title": "Rogue One",
   "data_summary": "morning briefing: no major weather/sleep drama",
-  "expires_at": "2026-08-27T15:20:24+10:00",
+  "expires_at": "2026-08-27T15:40:30+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-27T09:20:24+10:00",
+  "published_at": "2026-08-27T09:40:30+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
