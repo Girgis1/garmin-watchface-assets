@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "wall_e",
-  "cinematic_title": "WALL-E",
-  "data_summary": "goodnight stage firm: Final boarding for bed. Gate is embarrassingly close.; RAIN 98% 11PM",
-  "expires_at": "2026-08-26T05:20:19+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "in_time",
+  "cinematic_title": "In Time",
+  "data_summary": "SLEEP 6H12 | 63M VS 4W AVG | Last sleep was 6.2 hours with score 63, versus a four-week average of 7.3 hours.",
+  "expires_at": "2026-08-26T17:40:32+10:00",
   "kind": "none",
   "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-08-25T23:20:19+10:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "lane": "health",
+  "published_at": "2026-08-26T11:40:32+10:00",
+  "title": "Health Insight: SLEEP 6H12",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
