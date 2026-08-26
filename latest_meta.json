@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "swamp_thing_1982",
-  "cinematic_title": "Swamp Thing",
-  "data_summary": "AFTER HARD DAYS -30M | LESS SLEEP IN YOUR DATA | Across 28 matched days, nights after 30+ intensity minutes averaged 30 minutes less sleep than nights after low-load days. This is an association, not proof of cause.",
-  "expires_at": "2026-08-26T22:40:51+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-26T16:40:51+10:00",
-  "title": "Health Insight: AFTER HARD DAYS -30M",
-  "topic_key": "health_pattern_training_next_sleep",
-  "url": ""
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "harry_potter_hallows_part1",
+  "cinematic_title": "Harry Potter and the Deathly Hallows - Part 1",
+  "data_summary": "waxing gibbous, 96% illuminated",
+  "expires_at": "2026-08-26T23:00:52+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-08-26T17:00:52+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
