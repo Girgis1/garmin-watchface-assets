@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "raiders_lost_ark",
-  "cinematic_title": "Raiders of the Lost Ark",
-  "data_summary": "TENNIS DAY ~101 MIN | USUAL 19:29 ~847 KCAL | The standing Wednesday night match runs about 101 minutes and roughly 847 calories; last outing was 52 minutes, usual start around 19:29.",
-  "expires_at": "2026-08-27T01:00:01+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "thor_love_thunder",
+  "cinematic_title": "Thor: Love and Thunder",
+  "data_summary": "INTENSITY 409 MIN | +32% VS PRIOR 7D | Weighted intensity minutes total 409 across the last seven days versus 309 in the prior seven-day window.",
+  "expires_at": "2026-08-27T01:20:01+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-26T19:00:01+10:00",
-  "title": "Health Insight: TENNIS DAY ~101 MIN",
-  "topic_key": "health_tennis_wednesday",
+  "published_at": "2026-08-26T19:20:01+10:00",
+  "title": "Health Insight: INTENSITY 409 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
