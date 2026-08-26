@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "godzilla_minus_one",
-  "cinematic_title": "Godzilla Minus One",
-  "data_summary": "Sydney trains crippled by second cable failure",
-  "expires_at": "2026-08-26T23:40:54+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-26T17:40:54+10:00",
-  "title": "News: Sydney trains crippled by second cable failure",
-  "topic_key": "interesting_signal_sydney_trains_crippled_by_second_cab",
-  "url": "https://www.google.com/search?q=Sydney+trains+crippled+by+second+cable+failure"
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "legend",
+  "cinematic_title": "Legend",
+  "data_summary": "DEEP 16% FLATLINE | 12/40 NIGHTS UNDER 13% | Deep sleep averaged only 16% of total sleep and fell under the 13% restoration floor on 12 of 40 nights. Physical overnight recovery has been running thin all window.",
+  "expires_at": "2026-08-27T00:21:00+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-26T18:21:00+10:00",
+  "title": "Health Insight: DEEP 16% FLATLINE",
+  "topic_key": "health_pattern_deep_sleep_share_low",
+  "url": ""
 }
