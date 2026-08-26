@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "no_country",
-  "cinematic_title": "No Country for Old Men",
-  "data_summary": "context phase afternoon, temp 18C",
-  "expires_at": "2026-08-26T20:40:45+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "ratatouille",
+  "cinematic_title": "Ratatouille",
+  "data_summary": "7D SLEEP 6H38 | 33M VS PRIOR 7D | The seven-day sleep average is 6.6 hours, 33 minutes below the prior seven days.",
+  "expires_at": "2026-08-26T22:00:50+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-26T14:40:45+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
+  "lane": "health",
+  "published_at": "2026-08-26T16:00:50+10:00",
+  "title": "Health Insight: 7D SLEEP 6H38",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
