@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "spiderman_no_way_home",
-  "cinematic_title": "Spider-Man: No Way Home",
-  "data_summary": "sleep 6.2h, score 63",
-  "expires_at": "2026-08-27T02:40:05+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "harry_potter_order",
+  "cinematic_title": "Harry Potter and the Order of the Phoenix",
+  "data_summary": "context phase night, temp 14C",
+  "expires_at": "2026-08-27T03:00:06+10:00",
   "kind": "none",
   "label": "",
-  "lane": "sleep",
-  "published_at": "2026-08-26T20:40:05+10:00",
-  "title": "Sleep Recovery",
-  "topic_key": "sleep",
+  "lane": "local_signal",
+  "published_at": "2026-08-26T21:00:06+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
   "url": ""
 }
