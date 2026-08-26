@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "legend",
-  "cinematic_title": "Legend",
-  "data_summary": "DEEP 16% FLATLINE | 12/40 NIGHTS UNDER 13% | Deep sleep averaged only 16% of total sleep and fell under the 13% restoration floor on 12 of 40 nights. Physical overnight recovery has been running thin all window.",
-  "expires_at": "2026-08-27T00:21:00+10:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "raiders_lost_ark",
+  "cinematic_title": "Raiders of the Lost Ark",
+  "data_summary": "TENNIS DAY ~101 MIN | USUAL 19:29 ~847 KCAL | The standing Wednesday night match runs about 101 minutes and roughly 847 calories; last outing was 52 minutes, usual start around 19:29.",
+  "expires_at": "2026-08-27T01:00:01+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-26T18:21:00+10:00",
-  "title": "Health Insight: DEEP 16% FLATLINE",
-  "topic_key": "health_pattern_deep_sleep_share_low",
+  "published_at": "2026-08-26T19:00:01+10:00",
+  "title": "Health Insight: TENNIS DAY ~101 MIN",
+  "topic_key": "health_tennis_wednesday",
   "url": ""
 }
