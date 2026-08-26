@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "iron_man_3",
-  "cinematic_title": "Iron Man 3",
-  "data_summary": "HRV 62 MS | 5.9 VS PRIOR 7D | Seven-day HRV averages 62.4 ms versus 68.3 ms in the prior seven days; latest status is low.",
-  "expires_at": "2026-08-26T18:00:34+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-26T12:00:34+10:00",
-  "title": "Health Insight: HRV 62 MS",
-  "topic_key": "health_hrv_weekly_trend",
-  "url": ""
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "rise_planet_apes",
+  "cinematic_title": "Rise of the Planet of the Apes",
+  "data_summary": "next-hour temp 16.4C, rain 73%, 2.7 mm",
+  "expires_at": "2026-08-26T19:20:38+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-08-26T13:20:38+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
