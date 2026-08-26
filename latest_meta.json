@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "coherence",
-  "cinematic_title": "Coherence",
-  "data_summary": "Internal emails expose scale of Anthropic's Australian AI plans",
-  "expires_at": "2026-08-27T02:20:04+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-26T20:20:04+10:00",
-  "title": "News: Internal emails expose scale of Anthropic's Australian AI plans",
-  "topic_key": "interesting_signal_internal_emails_expose_scale_of_anth",
-  "url": "https://www.google.com/search?q=Internal+emails+expose+scale+of+Anthropic%27s+Australian+AI+plans"
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "spiderman_no_way_home",
+  "cinematic_title": "Spider-Man: No Way Home",
+  "data_summary": "sleep 6.2h, score 63",
+  "expires_at": "2026-08-27T02:40:05+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "sleep",
+  "published_at": "2026-08-26T20:40:05+10:00",
+  "title": "Sleep Recovery",
+  "topic_key": "sleep",
+  "url": ""
 }
