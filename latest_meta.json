@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "ghost_in_shell",
-  "cinematic_title": "Ghost in the Shell",
-  "data_summary": "training intensity minutes today 0",
-  "expires_at": "2026-08-26T20:00:40+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "war_worlds",
+  "cinematic_title": "War of the Worlds",
+  "data_summary": "SpO2 97%, respiration 15.0",
+  "expires_at": "2026-08-26T20:20:40+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-26T14:00:40+10:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
+  "published_at": "2026-08-26T14:20:40+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
