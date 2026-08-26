@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "ratatouille",
-  "cinematic_title": "Ratatouille",
-  "data_summary": "7D SLEEP 6H38 | 33M VS PRIOR 7D | The seven-day sleep average is 6.6 hours, 33 minutes below the prior seven days.",
-  "expires_at": "2026-08-26T22:00:50+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "swamp_thing_1982",
+  "cinematic_title": "Swamp Thing",
+  "data_summary": "AFTER HARD DAYS -30M | LESS SLEEP IN YOUR DATA | Across 28 matched days, nights after 30+ intensity minutes averaged 30 minutes less sleep than nights after low-load days. This is an association, not proof of cause.",
+  "expires_at": "2026-08-26T22:40:51+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-26T16:00:50+10:00",
-  "title": "Health Insight: 7D SLEEP 6H38",
-  "topic_key": "health_weekly_sleep_trend",
+  "published_at": "2026-08-26T16:40:51+10:00",
+  "title": "Health Insight: AFTER HARD DAYS -30M",
+  "topic_key": "health_pattern_training_next_sleep",
   "url": ""
 }
