@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "cloudy_meatballs",
-  "cinematic_title": "Cloudy with a Chance of Meatballs",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "upgrade",
+  "cinematic_title": "Upgrade",
   "data_summary": "morning briefing: RAIN 15% FROM 8AM",
-  "expires_at": "2026-08-27T14:00:13+10:00",
+  "expires_at": "2026-08-27T14:20:14+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-27T08:00:13+10:00",
+  "published_at": "2026-08-27T08:20:14+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
