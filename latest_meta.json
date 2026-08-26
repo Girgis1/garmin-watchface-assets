@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "harry_potter_order",
-  "cinematic_title": "Harry Potter and the Order of the Phoenix",
-  "data_summary": "context phase night, temp 14C",
-  "expires_at": "2026-08-27T03:00:06+10:00",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "edward_scissorhands",
+  "cinematic_title": "Edward Scissorhands",
+  "data_summary": "goodnight stage soft: Night has arrived. You may stop performing.; SLEEP DEBT 6.2H; RAIN 26% 11PM",
+  "expires_at": "2026-08-27T05:00:19+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-26T21:00:06+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
+  "lane": "goodnight",
+  "published_at": "2026-08-26T23:00:19+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
