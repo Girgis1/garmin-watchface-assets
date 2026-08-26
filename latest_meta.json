@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "war_worlds",
-  "cinematic_title": "War of the Worlds",
-  "data_summary": "SpO2 97%, respiration 15.0",
-  "expires_at": "2026-08-26T20:20:40+10:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "no_country",
+  "cinematic_title": "No Country for Old Men",
+  "data_summary": "context phase afternoon, temp 18C",
+  "expires_at": "2026-08-26T20:40:45+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-26T14:20:40+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
+  "lane": "local_signal",
+  "published_at": "2026-08-26T14:40:45+10:00",
+  "title": "Afternoon Context",
+  "topic_key": "ambient_context_afternoon",
   "url": ""
 }
