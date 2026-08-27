@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "mummy_returns",
-  "cinematic_title": "The Mummy Returns",
-  "data_summary": "next-hour temp 11.2C; rain below 15% notice threshold",
-  "expires_at": "2026-08-28T04:40:54+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-27T22:40:54+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "puss_last_wish",
+  "cinematic_title": "Puss in Boots: The Last Wish",
+  "data_summary": "goodnight stage soft: You're nearly off duty. Behave like it.; SLEEP DEBT 5.5H",
+  "expires_at": "2026-08-28T05:00:55+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "goodnight",
+  "published_at": "2026-08-27T23:00:55+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
+  "url": ""
 }
