@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "the_thing",
-  "cinematic_title": "The Thing",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "star_trek_beyond",
+  "cinematic_title": "Star Trek Beyond",
   "data_summary": "morning briefing: no major weather/sleep drama",
-  "expires_at": "2026-08-28T14:00:35+10:00",
+  "expires_at": "2026-08-28T14:40:36+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-28T08:00:35+10:00",
+  "published_at": "2026-08-28T08:40:36+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
