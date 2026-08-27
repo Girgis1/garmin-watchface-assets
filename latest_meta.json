@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "skyfall",
-  "cinematic_title": "Skyfall",
-  "data_summary": "context phase afternoon, temp 18C",
-  "expires_at": "2026-08-27T20:20:52+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "xmen_apocalypse",
+  "cinematic_title": "X-Men: Apocalypse",
+  "data_summary": "POST-TENNIS RECOVERY | SLEEP 5.5H VS 7.5 NORM | The morning after a Wed match night you slept 5.5h versus 7.5h on ordinary mornings. Overnight HRV 59 versus your usual ~68. Match nights cost real recovery; spend today accordingly.",
+  "expires_at": "2026-08-27T21:20:55+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-27T14:20:52+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
+  "lane": "health",
+  "published_at": "2026-08-27T15:20:55+10:00",
+  "title": "Health Insight: POST-TENNIS RECOVERY",
+  "topic_key": "health_tennis_recovery",
   "url": ""
 }
