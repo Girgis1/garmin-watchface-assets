@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "fantastic_four_2005",
-  "cinematic_title": "Fantastic Four",
-  "data_summary": "BB TREND -2.8/DAY | 68 -> 51 / 12D | Comparable wake-time Body Battery values moved from 68 to 51, with a fitted trend of -2.8 points per day.",
-  "expires_at": "2026-08-27T17:00:33+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "starship_troopers",
+  "cinematic_title": "Starship Troopers",
+  "data_summary": "TENNIS 310 MIN | +213M VS YOUR AVG | 310 minutes, compared with a recent tennis average of 97 minutes.",
+  "expires_at": "2026-08-27T17:20:34+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-27T11:00:33+10:00",
-  "title": "Health Insight: BB TREND -2.8/DAY",
-  "topic_key": "health_pattern_body_battery_14d_tren",
+  "published_at": "2026-08-27T11:20:34+10:00",
+  "title": "Health Insight: TENNIS 310 MIN",
+  "topic_key": "health_activity_24124279426",
   "url": ""
 }
