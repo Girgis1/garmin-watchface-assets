@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "dune_part_two",
-  "cinematic_title": "Dune: Part Two",
-  "data_summary": "next-hour temp 11.1C; rain below 15% notice threshold",
-  "expires_at": "2026-08-28T04:00:52+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-27T22:00:52+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "superman_returns",
+  "cinematic_title": "Superman Returns",
+  "data_summary": "SLEEP NEED ROSE 8/14 | YOUR BODY ASKED FOR MORE | Garmin increased sleep need on 8 of 14 recent nights, even when total sleep was sometimes adequate.",
+  "expires_at": "2026-08-28T04:20:53+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-27T22:20:53+10:00",
+  "title": "Health Insight: SLEEP NEED ROSE 8/14",
+  "topic_key": "health_pattern_sleep_need_increased_",
+  "url": ""
 }
