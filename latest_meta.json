@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "xmen_apocalypse",
-  "cinematic_title": "X-Men: Apocalypse",
-  "data_summary": "INTENSITY 466 MIN | +32% VS PRIOR 7D | Weighted intensity minutes total 466 across the last seven days versus 353 in the prior seven-day window.",
-  "expires_at": "2026-08-27T23:00:07+10:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "tomb_raider",
+  "cinematic_title": "Lara Croft: Tomb Raider",
+  "data_summary": "TUE SLEEP +127M | VS WED, 6-WEEK AVG | Across the available history, Tue sleep averages 127 minutes longer than Wed sleep.",
+  "expires_at": "2026-08-27T23:20:08+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-27T17:00:07+10:00",
-  "title": "Health Insight: INTENSITY 466 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-08-27T17:20:08+10:00",
+  "title": "Health Insight: TUE SLEEP +127M",
+  "topic_key": "health_pattern_weekday_sleep",
   "url": ""
 }
