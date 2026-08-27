@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "hancock",
-  "cinematic_title": "Hancock",
-  "data_summary": "7D SLEEP 6H48 | 6M VS PRIOR 7D | The seven-day sleep average is 6.8 hours, 6 minutes below the prior seven days.",
-  "expires_at": "2026-08-27T18:00:36+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "her",
+  "cinematic_title": "Her",
+  "data_summary": "70 pushups remaining",
+  "expires_at": "2026-08-27T18:20:37+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-27T12:00:36+10:00",
-  "title": "Health Insight: 7D SLEEP 6H48",
-  "topic_key": "health_weekly_sleep_trend",
+  "published_at": "2026-08-27T12:20:37+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
