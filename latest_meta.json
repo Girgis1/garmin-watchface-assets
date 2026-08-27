@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "step_brothers",
-  "cinematic_title": "Step Brothers",
-  "data_summary": "full moon, 99% illuminated",
-  "expires_at": "2026-08-27T22:40:05+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-08-27T16:40:05+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "xmen_apocalypse",
+  "cinematic_title": "X-Men: Apocalypse",
+  "data_summary": "INTENSITY 466 MIN | +32% VS PRIOR 7D | Weighted intensity minutes total 466 across the last seven days versus 353 in the prior seven-day window.",
+  "expires_at": "2026-08-27T23:00:07+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-27T17:00:07+10:00",
+  "title": "Health Insight: INTENSITY 466 MIN",
+  "topic_key": "health_weekly_intensity_load",
+  "url": ""
 }
