@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "tomb_raider",
-  "cinematic_title": "Lara Croft: Tomb Raider",
-  "data_summary": "TUE SLEEP +127M | VS WED, 6-WEEK AVG | Across the available history, Tue sleep averages 127 minutes longer than Wed sleep.",
-  "expires_at": "2026-08-27T23:20:08+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "real_steel",
+  "cinematic_title": "Real Steel",
+  "data_summary": "context phase sunset, temp 14C",
+  "expires_at": "2026-08-27T23:40:09+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-27T17:20:08+10:00",
-  "title": "Health Insight: TUE SLEEP +127M",
-  "topic_key": "health_pattern_weekday_sleep",
+  "lane": "local_signal",
+  "published_at": "2026-08-27T17:40:09+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
