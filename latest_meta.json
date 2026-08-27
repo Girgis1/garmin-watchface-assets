@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "et_extraterrestrial",
-  "cinematic_title": "E.T. the Extra-Terrestrial",
-  "data_summary": "POST-TENNIS RECOVERY | SLEEP 5.5H VS 7.5 NORM | The morning after a Wed match night you slept 5.5h versus 7.5h on ordinary mornings. Overnight HRV 59 versus your usual ~68. Match nights cost real recovery; spend today accordingly.",
-  "expires_at": "2026-08-27T22:00:57+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "jurassic_park",
+  "cinematic_title": "Jurassic Park",
+  "data_summary": "SLEEP 5H29 | 108M VS 4W AVG | Last sleep was 5.5 hours with score 64, versus a four-week average of 7.3 hours.",
+  "expires_at": "2026-08-27T22:20:01+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-27T16:00:57+10:00",
-  "title": "Health Insight: POST-TENNIS RECOVERY",
-  "topic_key": "health_tennis_recovery",
+  "published_at": "2026-08-27T16:20:01+10:00",
+  "title": "Health Insight: SLEEP 5H29",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
