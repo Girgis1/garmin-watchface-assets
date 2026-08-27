@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "napoleon_dynamite",
-  "cinematic_title": "Napoleon Dynamite",
-  "data_summary": "context phase night, temp 12C",
-  "expires_at": "2026-08-28T03:40:51+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-27T21:40:51+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
-  "url": ""
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "dune_part_two",
+  "cinematic_title": "Dune: Part Two",
+  "data_summary": "next-hour temp 11.1C; rain below 15% notice threshold",
+  "expires_at": "2026-08-28T04:00:52+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-08-27T22:00:52+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
