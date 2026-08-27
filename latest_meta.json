@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "venom",
-  "cinematic_title": "Venom",
-  "data_summary": "CALM DAY PAYS +12 | WAKE BB 78 VS 65 | After days with average stress under 32, morning Body Battery averaged 78; after higher-stress days it was only 65. Today's calm is tomorrow's charge.",
-  "expires_at": "2026-08-28T03:20:50+10:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "napoleon_dynamite",
+  "cinematic_title": "Napoleon Dynamite",
+  "data_summary": "context phase night, temp 12C",
+  "expires_at": "2026-08-28T03:40:51+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-27T21:20:50+10:00",
-  "title": "Health Insight: CALM DAY PAYS +12",
-  "topic_key": "health_pattern_calm_day_next_morning",
+  "lane": "local_signal",
+  "published_at": "2026-08-27T21:40:51+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
   "url": ""
 }
