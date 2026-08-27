@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "real_steel",
-  "cinematic_title": "Real Steel",
-  "data_summary": "context phase sunset, temp 14C",
-  "expires_at": "2026-08-27T23:40:09+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "aeon_flux",
+  "cinematic_title": "Aeon Flux",
+  "data_summary": "STRESSFUL BEFORE BED | 8 OF 14 NIGHTS | Garmin's Body Battery feedback marked 8 of 14 recent nights as stressful around sleep preparation.",
+  "expires_at": "2026-08-28T00:00:10+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-27T17:40:09+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-08-27T18:00:10+10:00",
+  "title": "Health Insight: STRESSFUL BEFORE BED",
+  "topic_key": "health_pattern_pre_sleep_stress_feed",
   "url": ""
 }
