@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "xmen_2000",
-  "cinematic_title": "X-Men",
-  "data_summary": "sleep debt: 5.5h, score 64, 21-day avg 7.0h",
-  "expires_at": "2026-08-28T00:40:12+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "jumper",
+  "cinematic_title": "Jumper",
+  "data_summary": "RUNNING 137 MIN | +125M VS YOUR AVG | 137 minutes, compared with a recent running average of 12 minutes.",
+  "expires_at": "2026-08-28T02:40:49+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-27T18:40:12+10:00",
-  "title": "Sleep Debt",
-  "topic_key": "health_sleep_debt",
+  "published_at": "2026-08-27T20:40:49+10:00",
+  "title": "Health Insight: RUNNING 137 MIN",
+  "topic_key": "health_activity_24133802376",
   "url": ""
 }
