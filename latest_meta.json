@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "austin_powers",
-  "cinematic_title": "Austin Powers",
-  "data_summary": "context phase midday, temp 18C",
-  "expires_at": "2026-08-27T19:40:50+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "pandorum",
+  "cinematic_title": "Pandorum",
+  "data_summary": "training intensity minutes today 0",
+  "expires_at": "2026-08-27T20:00:51+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-27T13:40:50+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-08-27T14:00:51+10:00",
+  "title": "Training Nudge",
+  "topic_key": "health_training_minutes",
   "url": ""
 }
