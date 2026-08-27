@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "harry_potter_goblet",
-  "cinematic_title": "Harry Potter and the Goblet of Fire",
-  "data_summary": "sleep 5.5h, score 64",
-  "expires_at": "2026-08-28T00:20:11+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "xmen_2000",
+  "cinematic_title": "X-Men",
+  "data_summary": "sleep debt: 5.5h, score 64, 21-day avg 7.0h",
+  "expires_at": "2026-08-28T00:40:12+10:00",
   "kind": "none",
   "label": "",
-  "lane": "sleep",
-  "published_at": "2026-08-27T18:20:11+10:00",
-  "title": "Sleep Recovery",
-  "topic_key": "sleep",
+  "lane": "health",
+  "published_at": "2026-08-27T18:40:12+10:00",
+  "title": "Sleep Debt",
+  "topic_key": "health_sleep_debt",
   "url": ""
 }
