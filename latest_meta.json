@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "blade_runner_2049",
-  "cinematic_title": "Blade Runner 2049",
-  "data_summary": "context phase sunset, temp 15C",
-  "expires_at": "2026-08-28T23:00:20+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "iron_man_2",
+  "cinematic_title": "Iron Man 2",
+  "data_summary": "HRV UNBALANCED, avg 63 ms, unbalanced today",
+  "expires_at": "2026-08-29T01:00:30+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-28T17:00:20+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-08-28T19:00:30+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_unbalanced",
   "url": ""
 }
