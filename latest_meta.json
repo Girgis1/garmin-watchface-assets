@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "surrogates",
-  "cinematic_title": "Surrogates",
-  "data_summary": "context phase afternoon, temp 18C",
-  "expires_at": "2026-08-28T20:40:13+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-28T14:40:13+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
-  "url": ""
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "fantastic_four_silver_surfer",
+  "cinematic_title": "Fantastic Four: Rise of the Silver Surfer",
+  "data_summary": "full moon, 100% illuminated",
+  "expires_at": "2026-08-28T21:00:14+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-08-28T15:00:14+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
