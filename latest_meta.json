@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "star_trek_voyage_home",
-  "cinematic_title": "Star Trek IV: The Voyage Home",
-  "data_summary": "SpO2 97%, respiration 15.0",
-  "expires_at": "2026-08-28T20:20:06+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "surrogates",
+  "cinematic_title": "Surrogates",
+  "data_summary": "context phase afternoon, temp 18C",
+  "expires_at": "2026-08-28T20:40:13+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-28T14:20:06+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
+  "lane": "local_signal",
+  "published_at": "2026-08-28T14:40:13+10:00",
+  "title": "Afternoon Context",
+  "topic_key": "ambient_context_afternoon",
   "url": ""
 }
