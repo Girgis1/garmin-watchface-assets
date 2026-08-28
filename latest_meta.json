@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "birds_of_prey",
-  "cinematic_title": "Birds of Prey",
-  "data_summary": "BED ~1:25 AM | 34/40 NIGHTS POST-MIDNIGHT | Median true sleep onset is 1:25 AM across 40 nights; 34 of them landed after midnight with a night-to-night spread of 1.3 hours. Earlier nights in this dataset averaged MORE sleep, not less.",
-  "expires_at": "2026-08-28T18:20:00+10:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "casino_royale",
+  "cinematic_title": "Casino Royale",
+  "data_summary": "INTENSITY 511 MIN | +21% VS PRIOR 7D | Weighted intensity minutes total 511 across the last seven days versus 422 in the prior seven-day window.",
+  "expires_at": "2026-08-28T18:40:01+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-28T12:20:00+10:00",
-  "title": "Health Insight: BED ~1:25 AM",
-  "topic_key": "health_pattern_bedtime_chronic_late",
+  "published_at": "2026-08-28T12:40:01+10:00",
+  "title": "Health Insight: INTENSITY 511 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
