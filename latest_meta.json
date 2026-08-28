@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "primer",
-  "cinematic_title": "Primer",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "mitchells_machines",
+  "cinematic_title": "The Mitchells vs. the Machines",
   "data_summary": "morning briefing: RAIN 18% FROM 1PM",
-  "expires_at": "2026-08-29T15:00:52+10:00",
+  "expires_at": "2026-08-29T15:20:55+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-29T09:00:52+10:00",
+  "published_at": "2026-08-29T09:20:55+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
