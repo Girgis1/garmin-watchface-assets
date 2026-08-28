@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "wakanda_forever",
-  "cinematic_title": "Black Panther: Wakanda Forever",
-  "data_summary": "next-hour temp 11.6C; rain below 15% notice threshold",
-  "expires_at": "2026-08-29T04:40:56+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-08-28T22:40:56+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "aliens",
+  "cinematic_title": "Aliens",
+  "data_summary": "goodnight stage soft: Moon's taking over. Hand in your little clipboard.; no extra alerts",
+  "expires_at": "2026-08-29T05:00:57+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "goodnight",
+  "published_at": "2026-08-28T23:00:57+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
+  "url": ""
 }
