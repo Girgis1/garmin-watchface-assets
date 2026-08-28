@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "last_crusade",
-  "cinematic_title": "Indiana Jones and the Last Crusade",
-  "data_summary": "# Garmin Health Insight Generated: 2026-08-28T09:57:40+10:00 Data through: 2026-08-27 (41 days loaded) ## Watch-Safe Insights Both recovery signals deteriorated together. Treat this as a personal trend signal, not a diagnosis. - **BB TREND ",
-  "expires_at": "2026-08-28T16:00:41+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "passengers",
+  "cinematic_title": "Passengers",
+  "data_summary": "HRV status unbalanced",
+  "expires_at": "2026-08-28T16:20:42+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-28T10:00:41+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "lane": "local_signal",
+  "published_at": "2026-08-28T10:20:42+10:00",
+  "title": "HRV Balance",
+  "topic_key": "hrv_balance",
   "url": ""
 }
