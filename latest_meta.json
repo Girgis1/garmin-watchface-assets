@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "passengers",
-  "cinematic_title": "Passengers",
-  "data_summary": "HRV status unbalanced",
-  "expires_at": "2026-08-28T16:20:42+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-28T10:20:42+10:00",
-  "title": "HRV Balance",
-  "topic_key": "hrv_balance",
-  "url": ""
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "jumanji_1995",
+  "cinematic_title": "Jumanji",
+  "data_summary": "Qantas opens new Sydney safety training centre",
+  "expires_at": "2026-08-28T16:40:48+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-28T10:40:48+10:00",
+  "title": "News: Qantas opens new Sydney safety training centre",
+  "topic_key": "interesting_signal_qantas_opens_new_sydney_safety_train",
+  "url": "https://www.google.com/search?q=Qantas+opens+new+Sydney+safety+training+centre"
 }
