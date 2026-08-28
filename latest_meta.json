@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "black_adam",
-  "cinematic_title": "Black Adam",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "kill_bill",
+  "cinematic_title": "Kill Bill",
   "data_summary": "morning briefing: RAIN 18% FROM 1PM",
-  "expires_at": "2026-08-29T14:20:49+10:00",
+  "expires_at": "2026-08-29T14:40:50+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-08-29T08:20:49+10:00",
+  "published_at": "2026-08-29T08:40:50+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
