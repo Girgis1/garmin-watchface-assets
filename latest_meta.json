@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "batman_under_red_hood",
-  "cinematic_title": "Batman: Under the Red Hood",
-  "data_summary": "context phase midday, temp 20C",
-  "expires_at": "2026-08-28T19:20:03+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "the_marvels",
+  "cinematic_title": "The Marvels",
+  "data_summary": "7D SLEEP 6H45 | 11M VS PRIOR 7D | The seven-day sleep average is 6.7 hours, 11 minutes below the prior seven days.",
+  "expires_at": "2026-08-28T19:40:04+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-28T13:20:03+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-08-28T13:40:04+10:00",
+  "title": "Health Insight: 7D SLEEP 6H45",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
