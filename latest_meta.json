@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "casino_royale",
-  "cinematic_title": "Casino Royale",
-  "data_summary": "INTENSITY 511 MIN | +21% VS PRIOR 7D | Weighted intensity minutes total 511 across the last seven days versus 422 in the prior seven-day window.",
-  "expires_at": "2026-08-28T18:40:01+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "hellboy_2004",
+  "cinematic_title": "Hellboy",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-08-28T19:00:02+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-28T12:40:01+10:00",
-  "title": "Health Insight: INTENSITY 511 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-08-28T13:00:02+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
