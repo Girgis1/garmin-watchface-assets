@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "batman_robin",
-  "cinematic_title": "Batman & Robin",
-  "data_summary": "BB<20: 8/30 DAYS | 8/8 ALSO STRESS 35+ | Body Battery finished below 20 on 8 of 30 recent complete days; 8 of those days also had average stress of 35 or higher.",
-  "expires_at": "2026-08-28T22:00:17+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "blade_runner_2049",
+  "cinematic_title": "Blade Runner 2049",
+  "data_summary": "context phase sunset, temp 15C",
+  "expires_at": "2026-08-28T23:00:20+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-28T16:00:17+10:00",
-  "title": "Health Insight: BB<20: 8/30 DAYS",
-  "topic_key": "health_pattern_low_body_battery_freq",
+  "lane": "local_signal",
+  "published_at": "2026-08-28T17:00:20+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
