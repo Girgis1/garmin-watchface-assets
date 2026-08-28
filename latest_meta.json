@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "iron_man_2",
-  "cinematic_title": "Iron Man 2",
-  "data_summary": "HRV UNBALANCED, avg 63 ms, unbalanced today",
-  "expires_at": "2026-08-29T01:00:30+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "edge_of_tomorrow",
+  "cinematic_title": "Edge of Tomorrow",
+  "data_summary": "context phase evening, temp 13C",
+  "expires_at": "2026-08-29T01:20:31+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-28T19:00:30+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_unbalanced",
+  "lane": "local_signal",
+  "published_at": "2026-08-28T19:20:31+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
   "url": ""
 }
