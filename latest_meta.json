@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "hellboy_2004",
-  "cinematic_title": "Hellboy",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-08-28T19:00:02+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "batman_under_red_hood",
+  "cinematic_title": "Batman: Under the Red Hood",
+  "data_summary": "context phase midday, temp 20C",
+  "expires_at": "2026-08-28T19:20:03+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-28T13:00:02+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
+  "lane": "local_signal",
+  "published_at": "2026-08-28T13:20:03+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
