@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "pirates_dead_mans_chest",
-  "cinematic_title": "Pirates of the Caribbean: Dead Man's Chest",
-  "data_summary": "morning briefing: GOOD SLEEP 7.0H",
-  "expires_at": "2026-08-29T15:40:02+10:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "get_out",
+  "cinematic_title": "Get Out",
+  "data_summary": "RHR UP, HRV DOWN | R=-0.74 / N=28 | Across 28 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.74. Treat this as a personal trend signal, not a diagnosis.",
+  "expires_at": "2026-08-29T16:00:10+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-08-29T09:40:02+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-08-29T10:00:10+10:00",
+  "title": "Health Insight: RHR UP, HRV DOWN",
+  "topic_key": "health_pattern_rhr_hrv_relationship",
   "url": ""
 }
