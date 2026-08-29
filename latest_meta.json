@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "i_am_legend",
-  "cinematic_title": "I Am Legend",
-  "data_summary": "context phase midday, temp 17C",
-  "expires_at": "2026-08-29T16:40:18+10:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "sunshine",
+  "cinematic_title": "Sunshine",
+  "data_summary": "INTENSITY 479 MIN | +3% VS PRIOR 7D | Weighted intensity minutes total 479 across the last seven days versus 465 in the prior seven-day window.",
+  "expires_at": "2026-08-29T17:00:19+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-29T10:40:18+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-08-29T11:00:19+10:00",
+  "title": "Health Insight: INTENSITY 479 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
