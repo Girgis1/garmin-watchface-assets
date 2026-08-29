@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "sunshine",
-  "cinematic_title": "Sunshine",
-  "data_summary": "INTENSITY 479 MIN | +3% VS PRIOR 7D | Weighted intensity minutes total 479 across the last seven days versus 465 in the prior seven-day window.",
-  "expires_at": "2026-08-29T17:00:19+10:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "ghostbusters",
+  "cinematic_title": "Ghostbusters",
+  "data_summary": "HRV 61 MS | 5.9 VS PRIOR 7D | Seven-day HRV averages 61.4 ms versus 67.3 ms in the prior seven days; latest status is unbalanced.",
+  "expires_at": "2026-08-29T17:20:20+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-29T11:00:19+10:00",
-  "title": "Health Insight: INTENSITY 479 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-08-29T11:20:20+10:00",
+  "title": "Health Insight: HRV 61 MS",
+  "topic_key": "health_hrv_weekly_trend",
   "url": ""
 }
