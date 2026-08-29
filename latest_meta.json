@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "superman_ii",
-  "cinematic_title": "Superman II",
-  "data_summary": "context phase midday, temp 19C",
-  "expires_at": "2026-08-29T19:20:27+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "shang_chi",
+  "cinematic_title": "Shang-Chi and the Legend of the Ten Rings",
+  "data_summary": "HRV status unbalanced",
+  "expires_at": "2026-08-29T19:40:28+10:00",
   "kind": "none",
   "label": "",
   "lane": "local_signal",
-  "published_at": "2026-08-29T13:20:27+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "published_at": "2026-08-29T13:40:28+10:00",
+  "title": "HRV Balance",
+  "topic_key": "hrv_balance",
   "url": ""
 }
