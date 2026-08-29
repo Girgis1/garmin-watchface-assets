@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "gundam_hathaway",
-  "cinematic_title": "Mobile Suit Gundam Hathaway",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-08-29T17:40:21+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-29T11:40:21+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "v_for_vendetta",
+  "cinematic_title": "V for Vendetta",
+  "data_summary": "Commuters face \u2018isolated delays\u2019 in afternoon peak after Sydney train chaos",
+  "expires_at": "2026-08-29T18:00:22+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-29T12:00:22+10:00",
+  "title": "News: Commuters face \u2018isolated delays\u2019 in afternoon peak after Sydney",
+  "topic_key": "interesting_signal_commuters_face_isolated_delays_in_af",
+  "url": "https://www.google.com/search?q=Commuters+face+%E2%80%98isolated+delays%E2%80%99+in+afternoon+peak+after+Sydney+train+chaos"
 }
