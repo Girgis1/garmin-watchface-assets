@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "fifth_element",
-  "cinematic_title": "The Fifth Element",
-  "data_summary": "# Garmin Health Insight Generated: 2026-08-29T14:17:33+10:00 Data through: 2026-08-29 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND +1.2/DAY** | 28 -> 82 / 14D | DON'T BREAK THE",
-  "expires_at": "2026-08-29T20:20:33+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "the_wolverine",
+  "cinematic_title": "The Wolverine",
+  "data_summary": "SpO2 98%, respiration 14.0",
+  "expires_at": "2026-08-29T20:40:34+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-29T14:20:33+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-08-29T14:40:34+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
