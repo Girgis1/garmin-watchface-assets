@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "cloverfield",
-  "cinematic_title": "Cloverfield",
-  "data_summary": "context phase sunset, temp 17C",
-  "expires_at": "2026-08-29T21:40:37+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "transformers_revenge_fallen",
+  "cinematic_title": "Transformers: Revenge of the Fallen",
+  "data_summary": "HRV UNBALANCED, avg 65 ms, unbalanced today",
+  "expires_at": "2026-08-29T22:20:39+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-29T15:40:37+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-08-29T16:20:39+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_unbalanced",
   "url": ""
 }
