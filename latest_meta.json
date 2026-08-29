@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "shang_chi",
-  "cinematic_title": "Shang-Chi and the Legend of the Ten Rings",
-  "data_summary": "HRV status unbalanced",
-  "expires_at": "2026-08-29T19:40:28+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "transformers_age_extinction",
+  "cinematic_title": "Transformers: Age of Extinction",
+  "data_summary": "context phase afternoon, temp 18C",
+  "expires_at": "2026-08-29T20:00:32+10:00",
   "kind": "none",
   "label": "",
   "lane": "local_signal",
-  "published_at": "2026-08-29T13:40:28+10:00",
-  "title": "HRV Balance",
-  "topic_key": "hrv_balance",
+  "published_at": "2026-08-29T14:00:32+10:00",
+  "title": "Afternoon Context",
+  "topic_key": "ambient_context_afternoon",
   "url": ""
 }
