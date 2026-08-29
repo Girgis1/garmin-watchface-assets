@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "i_robot",
-  "cinematic_title": "I, Robot",
-  "data_summary": "DEEP 16% FLATLINE | 12/40 NIGHTS UNDER 13% | Deep sleep averaged only 16% of total sleep and fell under the 13% restoration floor on 12 of 40 nights. Physical overnight recovery has been running thin all window.",
-  "expires_at": "2026-08-30T00:40:50+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "star_trek_first_contact",
+  "cinematic_title": "Star Trek: First Contact",
+  "data_summary": "context phase evening, temp 13C",
+  "expires_at": "2026-08-30T01:00:51+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-29T18:40:50+10:00",
-  "title": "Health Insight: DEEP 16% FLATLINE",
-  "topic_key": "health_pattern_deep_sleep_share_low",
+  "lane": "local_signal",
+  "published_at": "2026-08-29T19:00:51+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
   "url": ""
 }
