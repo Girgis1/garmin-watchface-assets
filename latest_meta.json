@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "watchmen",
-  "cinematic_title": "Watchmen",
-  "data_summary": "BEDTIME SWINGS \u00b11.3H | MEDIAN 1:25 | Night-to-night sleep onset varies by 1.3 hours around a median of 1:25. Irregular timing weakens sleep quality even when total duration looks fine.",
-  "expires_at": "2026-08-30T02:00:55+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "the_fountain",
+  "cinematic_title": "The Fountain",
+  "data_summary": "context phase evening, temp 12C",
+  "expires_at": "2026-08-30T02:20:56+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-29T20:00:55+10:00",
-  "title": "Health Insight: BEDTIME SWINGS \u00b11.3H",
-  "topic_key": "health_pattern_bedtime_variable",
+  "lane": "local_signal",
+  "published_at": "2026-08-29T20:20:56+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
   "url": ""
 }
