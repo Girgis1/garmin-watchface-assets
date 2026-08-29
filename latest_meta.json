@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "batman_returns",
-  "cinematic_title": "Batman Returns",
-  "data_summary": "waning gibbous, 99% illuminated",
-  "expires_at": "2026-08-29T21:00:35+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-08-29T15:00:35+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "bumblebee",
+  "cinematic_title": "Bumblebee",
+  "data_summary": "training intensity minutes today 0",
+  "expires_at": "2026-08-29T21:20:36+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-29T15:20:36+10:00",
+  "title": "Training Nudge",
+  "topic_key": "health_training_minutes",
+  "url": ""
 }
