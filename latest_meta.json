@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "v_for_vendetta",
-  "cinematic_title": "V for Vendetta",
-  "data_summary": "Commuters face \u2018isolated delays\u2019 in afternoon peak after Sydney train chaos",
-  "expires_at": "2026-08-29T18:00:22+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-29T12:00:22+10:00",
-  "title": "News: Commuters face \u2018isolated delays\u2019 in afternoon peak after Sydney",
-  "topic_key": "interesting_signal_commuters_face_isolated_delays_in_af",
-  "url": "https://www.google.com/search?q=Commuters+face+%E2%80%98isolated+delays%E2%80%99+in+afternoon+peak+after+Sydney+train+chaos"
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "winter_soldier",
+  "cinematic_title": "Captain America: The Winter Soldier",
+  "data_summary": "13 BB | 35 VS 48 OTHER DAYS | Wed Body Battery finishes average 35 versus 48 on every other weekday \u2014 a recurring 13-point weekly trough.",
+  "expires_at": "2026-08-29T18:20:23+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-29T12:20:23+10:00",
+  "title": "Health Insight: 13 BB",
+  "topic_key": "health_pattern_weekly_bb_crash_day",
+  "url": ""
 }
