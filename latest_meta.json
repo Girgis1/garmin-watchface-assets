@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "matrix",
-  "cinematic_title": "The Matrix",
-  "data_summary": "Getting to WSI before the Sydney Metro arrives: what you need to know",
-  "expires_at": "2026-08-29T23:40:47+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-29T17:40:47+10:00",
-  "title": "News: Getting to WSI before the Sydney Metro arrives: what you",
-  "topic_key": "interesting_signal_getting_to_wsi_before_the_sydney_met",
-  "url": "https://www.google.com/search?q=Getting+to+WSI+before+the+Sydney+Metro+arrives%3A+what+you+need+to+know"
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "captain_america_civil_war",
+  "cinematic_title": "Captain America: Civil War",
+  "data_summary": "AFTER HARD DAYS -33M | LESS SLEEP IN YOUR DATA | Across 30 matched days, nights after 30+ intensity minutes averaged 33 minutes less sleep than nights after low-load days. This is an association, not proof of cause.",
+  "expires_at": "2026-08-30T00:00:49+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-29T18:00:49+10:00",
+  "title": "Health Insight: AFTER HARD DAYS -33M",
+  "topic_key": "health_pattern_training_next_sleep",
+  "url": ""
 }
