@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "transformers_age_extinction",
-  "cinematic_title": "Transformers: Age of Extinction",
-  "data_summary": "context phase afternoon, temp 18C",
-  "expires_at": "2026-08-29T20:00:32+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "fifth_element",
+  "cinematic_title": "The Fifth Element",
+  "data_summary": "# Garmin Health Insight Generated: 2026-08-29T14:17:33+10:00 Data through: 2026-08-29 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND +1.2/DAY** | 28 -> 82 / 14D | DON'T BREAK THE",
+  "expires_at": "2026-08-29T20:20:33+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-29T14:00:32+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
+  "lane": "health",
+  "published_at": "2026-08-29T14:20:33+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
