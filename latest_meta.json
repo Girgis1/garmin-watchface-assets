@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "bumblebee",
-  "cinematic_title": "Bumblebee",
-  "data_summary": "training intensity minutes today 0",
-  "expires_at": "2026-08-29T21:20:36+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "cloverfield",
+  "cinematic_title": "Cloverfield",
+  "data_summary": "context phase sunset, temp 17C",
+  "expires_at": "2026-08-29T21:40:37+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-29T15:20:36+10:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
+  "lane": "local_signal",
+  "published_at": "2026-08-29T15:40:37+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
