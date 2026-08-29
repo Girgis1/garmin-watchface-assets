@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "beetlejuice",
-  "cinematic_title": "Beetlejuice",
-  "data_summary": "context phase night, temp 10C",
-  "expires_at": "2026-08-30T04:20:15+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-29T22:20:15+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
-  "url": ""
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "black_widow",
+  "cinematic_title": "Black Widow",
+  "data_summary": "next-hour temp 10.7C; rain below 15% notice threshold",
+  "expires_at": "2026-08-30T04:40:16+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-08-29T22:40:16+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
