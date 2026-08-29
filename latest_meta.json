@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "into_spiderverse",
-  "cinematic_title": "Spider-Man: Into the Spider-Verse",
-  "data_summary": "SLEEP 7H02 | 11M VS 4W AVG | Last sleep was 7.0 hours with score 81, versus a four-week average of 7.2 hours.",
-  "expires_at": "2026-08-29T16:20:16+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "i_am_legend",
+  "cinematic_title": "I Am Legend",
+  "data_summary": "context phase midday, temp 17C",
+  "expires_at": "2026-08-29T16:40:18+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-29T10:20:16+10:00",
-  "title": "Health Insight: SLEEP 7H02",
-  "topic_key": "health_sleep_vs_baseline",
+  "lane": "local_signal",
+  "published_at": "2026-08-29T10:40:18+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
