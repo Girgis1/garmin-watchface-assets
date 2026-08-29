@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "get_out",
-  "cinematic_title": "Get Out",
-  "data_summary": "RHR UP, HRV DOWN | R=-0.74 / N=28 | Across 28 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.74. Treat this as a personal trend signal, not a diagnosis.",
-  "expires_at": "2026-08-29T16:00:10+10:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "into_spiderverse",
+  "cinematic_title": "Spider-Man: Into the Spider-Verse",
+  "data_summary": "SLEEP 7H02 | 11M VS 4W AVG | Last sleep was 7.0 hours with score 81, versus a four-week average of 7.2 hours.",
+  "expires_at": "2026-08-29T16:20:16+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-29T10:00:10+10:00",
-  "title": "Health Insight: RHR UP, HRV DOWN",
-  "topic_key": "health_pattern_rhr_hrv_relationship",
+  "published_at": "2026-08-29T10:20:16+10:00",
+  "title": "Health Insight: SLEEP 7H02",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
