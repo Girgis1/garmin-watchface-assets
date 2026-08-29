@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "captain_america_civil_war",
-  "cinematic_title": "Captain America: Civil War",
-  "data_summary": "AFTER HARD DAYS -33M | LESS SLEEP IN YOUR DATA | Across 30 matched days, nights after 30+ intensity minutes averaged 33 minutes less sleep than nights after low-load days. This is an association, not proof of cause.",
-  "expires_at": "2026-08-30T00:00:49+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "the_losers",
+  "cinematic_title": "The Losers",
+  "data_summary": "context phase sunset, temp 13C",
+  "expires_at": "2026-08-30T00:20:49+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-29T18:00:49+10:00",
-  "title": "Health Insight: AFTER HARD DAYS -33M",
-  "topic_key": "health_pattern_training_next_sleep",
+  "lane": "local_signal",
+  "published_at": "2026-08-29T18:20:49+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
