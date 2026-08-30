@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "crouching_tiger",
-  "cinematic_title": "Crouching Tiger, Hidden Dragon",
-  "data_summary": "context phase sunset, temp 14C",
-  "expires_at": "2026-08-31T00:20:40+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-30T18:20:40+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "avengers_age_ultron",
+  "cinematic_title": "Avengers: Age of Ultron",
+  "data_summary": "next-hour temp 11.1C; rain below 15% notice threshold",
+  "expires_at": "2026-08-31T03:20:01+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-08-30T21:20:01+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
