@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "silence_lambs",
-  "cinematic_title": "The Silence of the Lambs",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-08-30T17:00:56+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "total_recall",
+  "cinematic_title": "Total Recall",
+  "data_summary": "SLEEP 5H11 | 119M VS 4W AVG | Last sleep was 5.2 hours with score 63, versus a four-week average of 7.2 hours.",
+  "expires_at": "2026-08-30T17:20:57+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-30T11:00:56+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
+  "published_at": "2026-08-30T11:20:57+10:00",
+  "title": "Health Insight: SLEEP 5H11",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
