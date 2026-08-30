@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "guardians_galaxy",
-  "cinematic_title": "Guardians of the Galaxy",
-  "data_summary": "sleep debt: 5.2h, score 63, 21-day avg 6.9h",
-  "expires_at": "2026-08-30T19:20:02+10:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "batman_1989",
+  "cinematic_title": "Batman",
+  "data_summary": "sleep 5.2h, score 63",
+  "expires_at": "2026-08-30T19:40:05+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-30T13:20:02+10:00",
-  "title": "Sleep Debt",
-  "topic_key": "health_sleep_debt",
+  "lane": "sleep",
+  "published_at": "2026-08-30T13:40:05+10:00",
+  "title": "Sleep Recovery",
+  "topic_key": "sleep",
   "url": ""
 }
