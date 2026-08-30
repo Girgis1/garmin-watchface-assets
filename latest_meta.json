@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "john_wick",
-  "cinematic_title": "John Wick",
-  "data_summary": "context phase afternoon, temp 20C",
-  "expires_at": "2026-08-30T20:40:07+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-30T14:40:07+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
-  "url": ""
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "the_creator",
+  "cinematic_title": "The Creator",
+  "data_summary": "waning gibbous, 95% illuminated",
+  "expires_at": "2026-08-30T21:00:09+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-08-30T15:00:09+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
