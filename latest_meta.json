@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "coco",
-  "cinematic_title": "Coco",
-  "data_summary": "context phase sunset, temp 19C",
-  "expires_at": "2026-08-30T21:20:09+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-30T15:20:09+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "constantine",
+  "cinematic_title": "Constantine",
+  "data_summary": "Sydney Metro West Hunter St Open Day",
+  "expires_at": "2026-08-30T22:40:26+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-30T16:40:26+10:00",
+  "title": "News: Sydney Metro West Hunter St Open Day",
+  "topic_key": "interesting_signal_sydney_metro_west_hunter_st_open_day",
+  "url": "https://www.google.com/search?q=Sydney+Metro+West+Hunter+St+Open+Day"
 }
