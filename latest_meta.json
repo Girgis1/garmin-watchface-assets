@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "interstellar",
-  "cinematic_title": "Interstellar",
-  "data_summary": "TUE SLEEP +127M | VS WED, 6-WEEK AVG | Across the available history, Tue sleep averages 127 minutes longer than Wed sleep.",
-  "expires_at": "2026-08-30T23:20:37+10:00",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "one_piece_red",
+  "cinematic_title": "One Piece Film: Red",
+  "data_summary": "context phase sunset, temp 16C",
+  "expires_at": "2026-08-30T23:40:38+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-30T17:20:37+10:00",
-  "title": "Health Insight: TUE SLEEP +127M",
-  "topic_key": "health_pattern_weekday_sleep",
+  "lane": "local_signal",
+  "published_at": "2026-08-30T17:40:38+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
