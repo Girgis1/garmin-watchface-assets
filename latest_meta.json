@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "king_kong_2005",
-  "cinematic_title": "King Kong",
-  "data_summary": "context phase sunset, temp 17C",
-  "expires_at": "2026-08-30T23:00:33+10:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "interstellar",
+  "cinematic_title": "Interstellar",
+  "data_summary": "TUE SLEEP +127M | VS WED, 6-WEEK AVG | Across the available history, Tue sleep averages 127 minutes longer than Wed sleep.",
+  "expires_at": "2026-08-30T23:20:37+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-30T17:00:33+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-08-30T17:20:37+10:00",
+  "title": "Health Insight: TUE SLEEP +127M",
+  "topic_key": "health_pattern_weekday_sleep",
   "url": ""
 }
