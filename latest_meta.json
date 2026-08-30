@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "prisoners",
-  "cinematic_title": "Prisoners",
-  "data_summary": "# Garmin Health Insight Generated: 2026-08-30T09:57:51+10:00 Data through: 2026-08-30 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **SLEEP NEED ROSE 11/14** | YOUR BODY ASKED FOR MORE | M",
-  "expires_at": "2026-08-30T16:00:52+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "spiderman_far_home",
+  "cinematic_title": "Spider-Man: Far From Home",
+  "data_summary": "SpO2 97%, respiration 14.0",
+  "expires_at": "2026-08-30T16:20:54+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-30T10:00:52+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-08-30T10:20:54+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
