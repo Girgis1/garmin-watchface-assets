@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "the_creator",
-  "cinematic_title": "The Creator",
-  "data_summary": "waning gibbous, 95% illuminated",
-  "expires_at": "2026-08-30T21:00:09+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-08-30T15:00:09+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "coco",
+  "cinematic_title": "Coco",
+  "data_summary": "context phase sunset, temp 19C",
+  "expires_at": "2026-08-30T21:20:09+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-08-30T15:20:09+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
