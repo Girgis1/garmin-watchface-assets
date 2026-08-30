@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "batman_1989",
-  "cinematic_title": "Batman",
-  "data_summary": "sleep 5.2h, score 63",
-  "expires_at": "2026-08-30T19:40:05+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "flashpoint_paradox",
+  "cinematic_title": "Justice League: The Flashpoint Paradox",
+  "data_summary": "RUNNING 126 MIN | +92M VS YOUR AVG | 126 minutes, compared with a recent running average of 34 minutes.",
+  "expires_at": "2026-08-30T20:00:06+10:00",
   "kind": "none",
   "label": "",
-  "lane": "sleep",
-  "published_at": "2026-08-30T13:40:05+10:00",
-  "title": "Sleep Recovery",
-  "topic_key": "sleep",
+  "lane": "health",
+  "published_at": "2026-08-30T14:00:06+10:00",
+  "title": "Health Insight: RUNNING 126 MIN",
+  "topic_key": "health_activity_24166863658",
   "url": ""
 }
