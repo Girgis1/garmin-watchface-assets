@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "signs",
-  "cinematic_title": "Signs",
-  "data_summary": "context phase midday, temp 17C",
-  "expires_at": "2026-08-30T16:40:55+10:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "silence_lambs",
+  "cinematic_title": "The Silence of the Lambs",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-08-30T17:00:56+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-30T10:40:55+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-08-30T11:00:56+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
