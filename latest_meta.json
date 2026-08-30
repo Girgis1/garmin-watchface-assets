@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "sonic_2",
-  "cinematic_title": "Sonic the Hedgehog 2",
-  "data_summary": "morning briefing: no major weather/sleep drama",
-  "expires_at": "2026-08-30T15:40:51+10:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "prisoners",
+  "cinematic_title": "Prisoners",
+  "data_summary": "# Garmin Health Insight Generated: 2026-08-30T09:57:51+10:00 Data through: 2026-08-30 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **SLEEP NEED ROSE 11/14** | YOUR BODY ASKED FOR MORE | M",
+  "expires_at": "2026-08-30T16:00:52+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-08-30T09:40:51+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-08-30T10:00:52+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
