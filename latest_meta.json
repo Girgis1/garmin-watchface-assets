@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "xmen_last_stand",
-  "cinematic_title": "X-Men: The Last Stand",
-  "data_summary": "7D SLEEP 6H34 | 15M VS PRIOR 7D | The seven-day sleep average is 6.6 hours, 15 minutes below the prior seven days.",
-  "expires_at": "2026-08-30T20:20:06+10:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "john_wick",
+  "cinematic_title": "John Wick",
+  "data_summary": "context phase afternoon, temp 20C",
+  "expires_at": "2026-08-30T20:40:07+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-30T14:20:06+10:00",
-  "title": "Health Insight: 7D SLEEP 6H34",
-  "topic_key": "health_weekly_sleep_trend",
+  "lane": "local_signal",
+  "published_at": "2026-08-30T14:40:07+10:00",
+  "title": "Afternoon Context",
+  "topic_key": "ambient_context_afternoon",
   "url": ""
 }
