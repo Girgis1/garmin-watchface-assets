@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "ant_man_quantumania",
-  "cinematic_title": "Ant-Man and the Wasp: Quantumania",
-  "data_summary": "daily phase midday, temp 20C",
-  "expires_at": "2026-08-30T18:21:00+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "gattaca",
+  "cinematic_title": "Gattaca",
+  "data_summary": "context phase midday, temp 20C",
+  "expires_at": "2026-08-30T19:00:02+10:00",
   "kind": "none",
   "label": "",
   "lane": "local_signal",
-  "published_at": "2026-08-30T12:21:00+10:00",
-  "title": "Daily Context",
-  "topic_key": "daily_context",
+  "published_at": "2026-08-30T13:00:02+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
