@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "spiderman_far_home",
-  "cinematic_title": "Spider-Man: Far From Home",
-  "data_summary": "SpO2 97%, respiration 14.0",
-  "expires_at": "2026-08-30T16:20:54+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "signs",
+  "cinematic_title": "Signs",
+  "data_summary": "context phase midday, temp 17C",
+  "expires_at": "2026-08-30T16:40:55+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-30T10:20:54+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
+  "lane": "local_signal",
+  "published_at": "2026-08-30T10:40:55+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
