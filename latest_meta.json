@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "spiderman_2",
-  "cinematic_title": "Spider-Man 2",
-  "data_summary": "context phase sunset, temp 19C",
-  "expires_at": "2026-08-31T22:20:43+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-31T16:20:43+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "roger_rabbit",
+  "cinematic_title": "Who Framed Roger Rabbit",
+  "data_summary": "The ibises, sensitive alarms and a four-week wait: The tricky last stage of a Sydney metro line",
+  "expires_at": "2026-08-31T22:40:44+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-31T16:40:44+10:00",
+  "title": "News: ibises, sensitive alarms and a four-week wait: The tricky last",
+  "topic_key": "interesting_signal_ibises_sensitive_alarms_and_a_four_w",
+  "url": "https://www.google.com/search?q=The+ibises%2C+sensitive+alarms+and+a+four-week+wait%3A+The+tricky+last+stage+of+a+Sydney+metro+line"
 }
