@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "super_8",
-  "cinematic_title": "Super 8",
-  "data_summary": "context phase sunset, temp 16C",
-  "expires_at": "2026-08-31T23:40:47+10:00",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "harry_potter_stone",
+  "cinematic_title": "Harry Potter and the Philosopher's Stone",
+  "data_summary": "BB<20: 8/30 DAYS | 8/8 ALSO STRESS 35+ | Body Battery finished below 20 on 8 of 30 recent complete days; 8 of those days also had average stress of 35 or higher.",
+  "expires_at": "2026-09-01T03:40:01+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-31T17:40:47+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-08-31T21:40:01+10:00",
+  "title": "Health Insight: BB<20: 8/30 DAYS",
+  "topic_key": "health_pattern_low_body_battery_freq",
   "url": ""
 }
