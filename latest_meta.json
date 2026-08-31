@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "zack_snyder_justice_league",
-  "cinematic_title": "Zack Snyder's Justice League",
-  "data_summary": "Breaking News: ChatGPT's New Model \"Bel\" Completes Pre-Training with Staggering 10 Trillion Parameters",
-  "expires_at": "2026-08-31T20:00:22+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-08-31T14:00:22+10:00",
-  "title": "News: ChatGPT's New Model \"Bel\" Completes Pre-Training with Staggering 10",
-  "topic_key": "interesting_signal_chatgpt_s_new_model_bel_completes_pr",
-  "url": "https://www.google.com/search?q=Breaking+News%3A+ChatGPT%27s+New+Model+%22Bel%22+Completes+Pre-Training+with+Staggering+10+Trillion+Parameters"
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "revenge_of_sith",
+  "cinematic_title": "Star Wars: Revenge of the Sith",
+  "data_summary": "BED ~1:17 AM | 34/40 NIGHTS POST-MIDNIGHT | Median true sleep onset is 1:17 AM across 40 nights; 34 of them landed after midnight with a night-to-night spread of 1.4 hours. Earlier nights in this dataset averaged MORE sleep, not less.",
+  "expires_at": "2026-08-31T20:20:22+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-31T14:20:22+10:00",
+  "title": "Health Insight: BED ~1:17 AM",
+  "topic_key": "health_pattern_bedtime_chronic_late",
+  "url": ""
 }
