@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "batman_v_superman",
-  "cinematic_title": "Batman v Superman: Dawn of Justice",
-  "data_summary": "context phase night, temp 12C",
-  "expires_at": "2026-09-01T04:00:02+10:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "cabin_woods",
+  "cinematic_title": "The Cabin in the Woods",
+  "data_summary": "goodnight stage soft: Tomorrow won't be impressed by another hour awake.; no extra alerts",
+  "expires_at": "2026-09-01T05:00:07+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-08-31T22:00:02+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
+  "lane": "goodnight",
+  "published_at": "2026-08-31T23:00:07+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
