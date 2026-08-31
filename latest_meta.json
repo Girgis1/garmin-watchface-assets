@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "aquaman_lost_kingdom",
-  "cinematic_title": "Aquaman and the Lost Kingdom",
-  "data_summary": "waning gibbous, 89% illuminated",
-  "expires_at": "2026-08-31T21:00:25+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-08-31T15:00:25+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "face_off",
+  "cinematic_title": "Face/Off",
+  "data_summary": "7D SLEEP 6H47 | +10M VS PRIOR 7D | The seven-day sleep average is 6.8 hours, 10 minutes above the prior seven days.",
+  "expires_at": "2026-08-31T21:40:32+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-08-31T15:40:32+10:00",
+  "title": "Health Insight: 7D SLEEP 6H47",
+  "topic_key": "health_weekly_sleep_trend",
+  "url": ""
 }
