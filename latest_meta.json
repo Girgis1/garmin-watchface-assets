@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "deadpool_wolverine",
-  "cinematic_title": "Deadpool & Wolverine",
-  "data_summary": "goodnight stage stern: You are done. The paperwork is complete.; no extra alerts",
-  "expires_at": "2026-09-01T05:40:09+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "akira",
+  "cinematic_title": "Akira",
+  "data_summary": "morning briefing: no major weather/sleep drama",
+  "expires_at": "2026-09-01T14:00:44+10:00",
   "kind": "none",
   "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-08-31T23:40:09+10:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "lane": "morning",
+  "published_at": "2026-09-01T08:00:44+10:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
