@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "speed",
-  "cinematic_title": "Speed",
-  "data_summary": "INTENSITY 611 MIN | +8% VS PRIOR 7D | Weighted intensity minutes total 611 across the last seven days versus 565 in the prior seven-day window.",
-  "expires_at": "2026-08-31T19:20:20+10:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "alien",
+  "cinematic_title": "Alien",
+  "data_summary": "75 pushups remaining",
+  "expires_at": "2026-08-31T19:40:21+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-31T13:20:20+10:00",
-  "title": "Health Insight: INTENSITY 611 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-08-31T13:40:21+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
