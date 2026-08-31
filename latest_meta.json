@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "shazam_fury_gods",
-  "cinematic_title": "Shazam! Fury of the Gods",
-  "data_summary": "SpO2 98%, respiration 15.0",
-  "expires_at": "2026-08-31T23:00:45+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "deadpool_2",
+  "cinematic_title": "Deadpool 2",
+  "data_summary": "HRV BALANCED, avg 66 ms, balanced today",
+  "expires_at": "2026-08-31T23:20:46+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-31T17:00:45+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
+  "published_at": "2026-08-31T17:20:46+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
   "url": ""
 }
