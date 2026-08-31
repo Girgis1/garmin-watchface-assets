@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "deadpool_2",
-  "cinematic_title": "Deadpool 2",
-  "data_summary": "HRV BALANCED, avg 66 ms, balanced today",
-  "expires_at": "2026-08-31T23:20:46+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "super_8",
+  "cinematic_title": "Super 8",
+  "data_summary": "context phase sunset, temp 16C",
+  "expires_at": "2026-08-31T23:40:47+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-08-31T17:20:46+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_balanced",
+  "lane": "local_signal",
+  "published_at": "2026-08-31T17:40:47+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
