@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "artificial_intelligence",
-  "cinematic_title": "A.I. Artificial Intelligence",
-  "data_summary": "SLEEP NEED ROSE 12/14 | YOUR BODY ASKED FOR MORE | Garmin increased sleep need on 12 of 14 recent nights, even when total sleep was sometimes adequate.",
-  "expires_at": "2026-08-31T16:00:03+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "batman_forever",
+  "cinematic_title": "Batman Forever",
+  "data_summary": "SLEEP 7H40 | +37M VS 4W AVG | Last sleep was 7.7 hours with score 80, versus a four-week average of 7.1 hours.",
+  "expires_at": "2026-08-31T17:00:06+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-08-31T10:00:03+10:00",
-  "title": "Health Insight: SLEEP NEED ROSE 12/14",
-  "topic_key": "health_pattern_sleep_need_increased_",
+  "published_at": "2026-08-31T11:00:06+10:00",
+  "title": "Health Insight: SLEEP 7H40",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
