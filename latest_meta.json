@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "alien",
-  "cinematic_title": "Alien",
-  "data_summary": "75 pushups remaining",
-  "expires_at": "2026-08-31T19:40:21+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-08-31T13:40:21+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "zack_snyder_justice_league",
+  "cinematic_title": "Zack Snyder's Justice League",
+  "data_summary": "Breaking News: ChatGPT's New Model \"Bel\" Completes Pre-Training with Staggering 10 Trillion Parameters",
+  "expires_at": "2026-08-31T20:00:22+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-08-31T14:00:22+10:00",
+  "title": "News: ChatGPT's New Model \"Bel\" Completes Pre-Training with Staggering 10",
+  "topic_key": "interesting_signal_chatgpt_s_new_model_bel_completes_pr",
+  "url": "https://www.google.com/search?q=Breaking+News%3A+ChatGPT%27s+New+Model+%22Bel%22+Completes+Pre-Training+with+Staggering+10+Trillion+Parameters"
 }
