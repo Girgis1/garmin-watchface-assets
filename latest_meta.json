@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "doctor_strange",
-  "cinematic_title": "Doctor Strange",
-  "data_summary": "SpO2 97%, respiration 15.0",
-  "expires_at": "2026-09-01T22:20:15+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-09-01T16:20:15+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
-  "url": ""
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "green_lantern",
+  "cinematic_title": "Green Lantern",
+  "data_summary": "waning gibbous, 81% illuminated",
+  "expires_at": "2026-09-01T22:40:16+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-09-01T16:40:16+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
