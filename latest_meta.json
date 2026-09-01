@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "dark_knight",
-  "cinematic_title": "The Dark Knight",
-  "data_summary": "RHR UP, HRV DOWN | R=-0.74 / N=27 | Across 27 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.74. Treat this as a personal trend signal, not a diagnosis.",
-  "expires_at": "2026-09-01T17:20:57+10:00",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "harry_potter_azkaban",
+  "cinematic_title": "Harry Potter and the Prisoner of Azkaban",
+  "data_summary": "SLEEP 8H33 | +89M VS 4W AVG | Last sleep was 8.6 hours with score 81, versus a four-week average of 7.1 hours.",
+  "expires_at": "2026-09-01T17:40:59+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-01T11:20:57+10:00",
-  "title": "Health Insight: RHR UP, HRV DOWN",
-  "topic_key": "health_pattern_rhr_hrv_relationship",
+  "published_at": "2026-09-01T11:40:59+10:00",
+  "title": "Health Insight: SLEEP 8H33",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
