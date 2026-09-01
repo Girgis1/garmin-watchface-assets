@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "master_commander",
-  "cinematic_title": "Master and Commander",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "the_abyss",
+  "cinematic_title": "The Abyss",
   "data_summary": "morning briefing: no major weather/sleep drama",
-  "expires_at": "2026-09-02T15:20:18+10:00",
+  "expires_at": "2026-09-02T15:40:20+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-09-02T09:20:18+10:00",
+  "published_at": "2026-09-02T09:40:20+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
