@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "frequency",
-  "cinematic_title": "Frequency",
-  "data_summary": "context phase afternoon, temp 26C",
-  "expires_at": "2026-09-01T20:40:08+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "doctor_strange",
+  "cinematic_title": "Doctor Strange",
+  "data_summary": "SpO2 97%, respiration 15.0",
+  "expires_at": "2026-09-01T22:20:15+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-01T14:40:08+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
+  "lane": "health",
+  "published_at": "2026-09-01T16:20:15+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
