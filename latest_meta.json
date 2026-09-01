@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "green_lantern",
-  "cinematic_title": "Green Lantern",
-  "data_summary": "waning gibbous, 81% illuminated",
-  "expires_at": "2026-09-01T22:40:16+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-09-01T16:40:16+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "chappie",
+  "cinematic_title": "Chappie",
+  "data_summary": "ChatGPT suffers major outage as OpenAI reports errors and delays",
+  "expires_at": "2026-09-01T23:00:17+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-01T17:00:17+10:00",
+  "title": "News: ChatGPT suffers major outage as OpenAI reports errors and delays",
+  "topic_key": "interesting_signal_chatgpt_suffers_major_outage_as_open",
+  "url": "https://www.google.com/search?q=ChatGPT+suffers+major+outage+as+OpenAI+reports+errors+and+delays"
 }
