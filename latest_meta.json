@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "harry_potter_azkaban",
-  "cinematic_title": "Harry Potter and the Prisoner of Azkaban",
-  "data_summary": "SLEEP 8H33 | +89M VS 4W AVG | Last sleep was 8.6 hours with score 81, versus a four-week average of 7.1 hours.",
-  "expires_at": "2026-09-01T17:40:59+10:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "truman_show",
+  "cinematic_title": "The Truman Show",
+  "data_summary": "INTENSITY 645 MIN | +17% VS PRIOR 7D | Weighted intensity minutes total 645 across the last seven days versus 552 in the prior seven-day window.",
+  "expires_at": "2026-09-01T18:00:00+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-01T11:40:59+10:00",
-  "title": "Health Insight: SLEEP 8H33",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-09-01T12:00:00+10:00",
+  "title": "Health Insight: INTENSITY 645 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
