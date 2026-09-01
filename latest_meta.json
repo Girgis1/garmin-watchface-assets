@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "alita",
-  "cinematic_title": "Alita: Battle Angel",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-09-01T18:20:01+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "x2",
+  "cinematic_title": "X2: X-Men United",
+  "data_summary": "HRV 63 MS | 0.4 VS PRIOR 7D | Seven-day HRV averages 63.3 ms versus 63.7 ms in the prior seven days; latest status is balanced.",
+  "expires_at": "2026-09-01T18:40:02+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-01T12:20:01+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
+  "published_at": "2026-09-01T12:40:02+10:00",
+  "title": "Health Insight: HRV 63 MS",
+  "topic_key": "health_hrv_weekly_trend",
   "url": ""
 }
