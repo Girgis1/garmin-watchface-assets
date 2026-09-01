@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "anchorman",
-  "cinematic_title": "Anchorman",
-  "data_summary": "BB TREND +2.7/DAY | 22 -> 57 / 14D | Comparable daily Body Battery values moved from 22 to 57, with a fitted trend of +2.7 points per day.",
-  "expires_at": "2026-09-01T19:00:03+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "sky_captain",
+  "cinematic_title": "Sky Captain and the World of Tomorrow",
+  "data_summary": "daily phase midday, temp 26C",
+  "expires_at": "2026-09-01T19:20:04+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-01T13:00:03+10:00",
-  "title": "Health Insight: BB TREND +2.7/DAY",
-  "topic_key": "health_pattern_body_battery_14d_tren",
+  "lane": "local_signal",
+  "published_at": "2026-09-01T13:20:04+10:00",
+  "title": "Daily Context",
+  "topic_key": "daily_context",
   "url": ""
 }
