@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "space_odyssey",
-  "cinematic_title": "2001: A Space Odyssey",
-  "data_summary": "VMA\u2019s Institute of Venue Safety and Security delivers applied training across Sydney venues",
-  "expires_at": "2026-09-01T16:40:52+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-09-01T10:40:52+10:00",
-  "title": "News: VMA\u2019s Institute of Venue Safety and Security delivers applied",
-  "topic_key": "interesting_signal_vma_s_institute_of_venue_safety_and_",
-  "url": "https://www.google.com/search?q=VMA%E2%80%99s+Institute+of+Venue+Safety+and+Security+delivers+applied+training+across+Sydney+venues"
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "rise_planet_apes",
+  "cinematic_title": "Rise of the Planet of the Apes",
+  "data_summary": "RHR UP, HRV DOWN | R=-0.74 / N=27 | Across 27 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.74. Treat this as a personal trend signal, not a diagnosis.",
+  "expires_at": "2026-09-01T17:00:53+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-09-01T11:00:53+10:00",
+  "title": "Health Insight: RHR UP, HRV DOWN",
+  "topic_key": "health_pattern_rhr_hrv_relationship",
+  "url": ""
 }
