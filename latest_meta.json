@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "inception",
-  "cinematic_title": "Inception",
-  "data_summary": "# Garmin Health Insight Generated: 2026-09-01T09:57:50+10:00 Data through: 2026-09-01 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND +1.3/DAY** | 22 -> 8 / 14D | DON'T BREAK THE ",
-  "expires_at": "2026-09-01T16:00:51+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "oblivion",
+  "cinematic_title": "Oblivion",
+  "data_summary": "context phase midday, temp 21C",
+  "expires_at": "2026-09-01T16:20:51+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-01T10:00:51+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "lane": "local_signal",
+  "published_at": "2026-09-01T10:20:51+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
