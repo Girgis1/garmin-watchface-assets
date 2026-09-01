@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "truman_show",
-  "cinematic_title": "The Truman Show",
-  "data_summary": "INTENSITY 645 MIN | +17% VS PRIOR 7D | Weighted intensity minutes total 645 across the last seven days versus 552 in the prior seven-day window.",
-  "expires_at": "2026-09-01T18:00:00+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "alita",
+  "cinematic_title": "Alita: Battle Angel",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-09-01T18:20:01+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-01T12:00:00+10:00",
-  "title": "Health Insight: INTENSITY 645 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-09-01T12:20:01+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
