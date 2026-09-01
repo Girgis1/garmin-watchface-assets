@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "willow",
-  "cinematic_title": "Willow",
-  "data_summary": "7D SLEEP 6H52 | +17M VS PRIOR 7D | The seven-day sleep average is 6.9 hours, 17 minutes above the prior seven days.",
-  "expires_at": "2026-09-01T20:20:07+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "frequency",
+  "cinematic_title": "Frequency",
+  "data_summary": "context phase afternoon, temp 26C",
+  "expires_at": "2026-09-01T20:40:08+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-01T14:20:07+10:00",
-  "title": "Health Insight: 7D SLEEP 6H52",
-  "topic_key": "health_weekly_sleep_trend",
+  "lane": "local_signal",
+  "published_at": "2026-09-01T14:40:08+10:00",
+  "title": "Afternoon Context",
+  "topic_key": "ambient_context_afternoon",
   "url": ""
 }
