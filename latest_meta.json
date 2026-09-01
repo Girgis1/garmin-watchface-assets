@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "spirited_away",
-  "cinematic_title": "Spirited Away",
-  "data_summary": "14 BB | 34 VS 48 OTHER DAYS | Sun Body Battery finishes average 34 versus 48 on every other weekday \u2014 a recurring 14-point weekly trough.",
-  "expires_at": "2026-09-02T03:20:34+10:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "the_rock",
+  "cinematic_title": "The Rock",
+  "data_summary": "context phase night, temp 16C",
+  "expires_at": "2026-09-02T03:40:36+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-01T21:20:34+10:00",
-  "title": "Health Insight: 14 BB",
-  "topic_key": "health_pattern_weekly_bb_crash_day",
+  "lane": "local_signal",
+  "published_at": "2026-09-01T21:40:36+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
   "url": ""
 }
