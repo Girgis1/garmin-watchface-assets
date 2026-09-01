@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "the_rock",
-  "cinematic_title": "The Rock",
-  "data_summary": "context phase night, temp 16C",
-  "expires_at": "2026-09-02T03:40:36+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "shazam",
+  "cinematic_title": "Shazam!",
+  "data_summary": "AFTER HARD DAYS -36M | LESS SLEEP IN YOUR DATA | Across 31 matched days, nights after 30+ intensity minutes averaged 36 minutes less sleep than nights after low-load days. This is an association, not proof of cause.",
+  "expires_at": "2026-09-02T04:00:38+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-01T21:40:36+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
+  "lane": "health",
+  "published_at": "2026-09-01T22:00:38+10:00",
+  "title": "Health Insight: AFTER HARD DAYS -36M",
+  "topic_key": "health_pattern_training_next_sleep",
   "url": ""
 }
