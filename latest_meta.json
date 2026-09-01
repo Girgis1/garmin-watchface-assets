@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "oblivion",
-  "cinematic_title": "Oblivion",
-  "data_summary": "context phase midday, temp 21C",
-  "expires_at": "2026-09-01T16:20:51+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-01T10:20:51+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
-  "url": ""
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "space_odyssey",
+  "cinematic_title": "2001: A Space Odyssey",
+  "data_summary": "VMA\u2019s Institute of Venue Safety and Security delivers applied training across Sydney venues",
+  "expires_at": "2026-09-01T16:40:52+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-01T10:40:52+10:00",
+  "title": "News: VMA\u2019s Institute of Venue Safety and Security delivers applied",
+  "topic_key": "interesting_signal_vma_s_institute_of_venue_safety_and_",
+  "url": "https://www.google.com/search?q=VMA%E2%80%99s+Institute+of+Venue+Safety+and+Security+delivers+applied+training+across+Sydney+venues"
 }
