@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "the_shining",
-  "cinematic_title": "The Shining",
-  "data_summary": "HRV BALANCED, avg 66 ms, 2 day balanced streak",
-  "expires_at": "2026-09-01T23:40:19+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "butterfly_effect",
+  "cinematic_title": "The Butterfly Effect",
+  "data_summary": "context phase sunset, temp 20C",
+  "expires_at": "2026-09-02T00:00:20+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-01T17:40:19+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_balanced",
+  "lane": "local_signal",
+  "published_at": "2026-09-01T18:00:20+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
