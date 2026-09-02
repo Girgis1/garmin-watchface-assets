@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "xmen_first_class",
-  "cinematic_title": "X-Men: First Class",
-  "data_summary": "context phase sunset, temp 26C",
-  "expires_at": "2026-09-02T21:20:59+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-02T15:20:59+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "big_lebowski",
+  "cinematic_title": "The Big Lebowski",
+  "data_summary": "'Freak' electrical fault caused Sydney train chaos, authorities say",
+  "expires_at": "2026-09-02T22:20:02+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-02T16:20:02+10:00",
+  "title": "News: 'Freak' electrical fault caused Sydney train chaos, authorities say",
+  "topic_key": "interesting_signal_freak_electrical_fault_caused_sydney",
+  "url": "https://www.google.com/search?q=%27Freak%27+electrical+fault+caused+Sydney+train+chaos%2C+authorities+say"
 }
