@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "stardust",
-  "cinematic_title": "Stardust",
-  "data_summary": "SpO2 100%, respiration 15.0",
-  "expires_at": "2026-09-02T16:20:22+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "fantastic_four_2005",
+  "cinematic_title": "Fantastic Four",
+  "data_summary": "context phase midday, temp 24C",
+  "expires_at": "2026-09-02T16:40:24+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-02T10:20:22+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
+  "lane": "local_signal",
+  "published_at": "2026-09-02T10:40:24+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
