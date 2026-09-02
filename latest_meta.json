@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "fantastic_four_2005",
-  "cinematic_title": "Fantastic Four",
-  "data_summary": "context phase midday, temp 24C",
-  "expires_at": "2026-09-02T16:40:24+10:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "national_treasure",
+  "cinematic_title": "National Treasure",
+  "data_summary": "TENNIS DAY ~114 MIN | USUAL 19:22 ~916 KCAL | The standing Wednesday night match runs about 114 minutes and roughly 916 calories; last outing was 310 minutes, usual start around 19:22.",
+  "expires_at": "2026-09-02T17:00:29+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-02T10:40:24+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-09-02T11:00:29+10:00",
+  "title": "Health Insight: TENNIS DAY ~114 MIN",
+  "topic_key": "health_tennis_wednesday",
   "url": ""
 }
