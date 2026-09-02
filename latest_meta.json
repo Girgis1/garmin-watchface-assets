@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "big_lebowski",
-  "cinematic_title": "The Big Lebowski",
-  "data_summary": "'Freak' electrical fault caused Sydney train chaos, authorities say",
-  "expires_at": "2026-09-02T22:20:02+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-09-02T16:20:02+10:00",
-  "title": "News: 'Freak' electrical fault caused Sydney train chaos, authorities say",
-  "topic_key": "interesting_signal_freak_electrical_fault_caused_sydney",
-  "url": "https://www.google.com/search?q=%27Freak%27+electrical+fault+caused+Sydney+train+chaos%2C+authorities+say"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "puss_last_wish",
+  "cinematic_title": "Puss in Boots: The Last Wish",
+  "data_summary": "context phase sunset, temp 25C",
+  "expires_at": "2026-09-02T22:40:03+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-09-02T16:40:03+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
