@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "underworld",
-  "cinematic_title": "Underworld",
-  "data_summary": "7D SLEEP 7H01 | +23M VS PRIOR 7D | The seven-day sleep average is 7.0 hours, 23 minutes above the prior seven days.",
-  "expires_at": "2026-09-02T17:20:30+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "dredd",
+  "cinematic_title": "Dredd",
+  "data_summary": "DEEP 16% FLATLINE | 14/40 NIGHTS UNDER 13% | Deep sleep averaged only 16% of total sleep and fell under the 13% restoration floor on 14 of 40 nights. Physical overnight recovery has been running thin all window.",
+  "expires_at": "2026-09-02T17:40:31+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-02T11:20:30+10:00",
-  "title": "Health Insight: 7D SLEEP 7H01",
-  "topic_key": "health_weekly_sleep_trend",
+  "published_at": "2026-09-02T11:40:31+10:00",
+  "title": "Health Insight: DEEP 16% FLATLINE",
+  "topic_key": "health_pattern_deep_sleep_share_low",
   "url": ""
 }
