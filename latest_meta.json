@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "dc_super_pets",
-  "cinematic_title": "DC League of Super-Pets",
-  "data_summary": "STRESSFUL BEFORE BED | 13 OF 14 NIGHTS | Garmin's Body Battery feedback marked 13 of 14 recent nights as stressful around sleep preparation.",
-  "expires_at": "2026-09-03T00:20:09+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "attack_of_clones",
+  "cinematic_title": "Star Wars: Attack of the Clones",
+  "data_summary": "context phase evening, temp 22C",
+  "expires_at": "2026-09-03T01:00:18+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-02T18:20:09+10:00",
-  "title": "Health Insight: STRESSFUL BEFORE BED",
-  "topic_key": "health_pattern_pre_sleep_stress_feed",
+  "lane": "local_signal",
+  "published_at": "2026-09-02T19:00:18+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
   "url": ""
 }
