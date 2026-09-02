@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "donnie_darko",
-  "cinematic_title": "Donnie Darko",
-  "data_summary": "context phase sunset, temp 22C",
-  "expires_at": "2026-09-03T00:00:08+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "dc_super_pets",
+  "cinematic_title": "DC League of Super-Pets",
+  "data_summary": "STRESSFUL BEFORE BED | 13 OF 14 NIGHTS | Garmin's Body Battery feedback marked 13 of 14 recent nights as stressful around sleep preparation.",
+  "expires_at": "2026-09-03T00:20:09+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-02T18:00:08+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-09-02T18:20:09+10:00",
+  "title": "Health Insight: STRESSFUL BEFORE BED",
+  "topic_key": "health_pattern_pre_sleep_stress_feed",
   "url": ""
 }
