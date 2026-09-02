@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "morbius",
-  "cinematic_title": "Morbius",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-09-02T18:40:34+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-09-02T12:40:34+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "legend",
+  "cinematic_title": "Legend",
+  "data_summary": "JUST IN: The testing phase for Sydney Metro's line extension has now wrapped",
+  "expires_at": "2026-09-02T19:00:34+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-02T13:00:34+10:00",
+  "title": "News: testing phase for Sydney Metro's line extension has now wrapped",
+  "topic_key": "interesting_signal_testing_phase_for_sydney_metro_s_lin",
+  "url": "https://www.google.com/search?q=JUST+IN%3A+The+testing+phase+for+Sydney+Metro%27s+line+extension+has+now+wrapped"
 }
