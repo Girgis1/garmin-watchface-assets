@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "spiderman_no_way_home",
-  "cinematic_title": "Spider-Man: No Way Home",
-  "data_summary": "TUE SLEEP +125M | VS WED, 6-WEEK AVG | Across the available history, Tue sleep averages 125 minutes longer than Wed sleep.",
-  "expires_at": "2026-09-02T23:40:07+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "donnie_darko",
+  "cinematic_title": "Donnie Darko",
+  "data_summary": "context phase sunset, temp 22C",
+  "expires_at": "2026-09-03T00:00:08+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-02T17:40:07+10:00",
-  "title": "Health Insight: TUE SLEEP +125M",
-  "topic_key": "health_pattern_weekday_sleep",
+  "lane": "local_signal",
+  "published_at": "2026-09-02T18:00:08+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
