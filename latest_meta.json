@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "puss_last_wish",
-  "cinematic_title": "Puss in Boots: The Last Wish",
-  "data_summary": "context phase sunset, temp 25C",
-  "expires_at": "2026-09-02T22:40:03+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "paprika",
+  "cinematic_title": "Paprika",
+  "data_summary": "HRV BALANCED, avg 67 ms, 3 day balanced streak",
+  "expires_at": "2026-09-02T23:00:05+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-02T16:40:03+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-09-02T17:00:05+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
   "url": ""
 }
