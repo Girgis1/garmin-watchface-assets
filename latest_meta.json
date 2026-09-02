@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "space_jam",
-  "cinematic_title": "Space Jam",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "ratatouille",
+  "cinematic_title": "Ratatouille",
   "data_summary": "morning briefing: RAIN 22% TODAY",
-  "expires_at": "2026-09-03T14:20:21+10:00",
+  "expires_at": "2026-09-03T14:40:22+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-09-03T08:20:21+10:00",
+  "published_at": "2026-09-03T08:40:22+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
