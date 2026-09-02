@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "thor_dark_world",
-  "cinematic_title": "Thor: The Dark World",
-  "data_summary": "INTENSITY 529 MIN | 6% VS PRIOR 7D | Weighted intensity minutes total 529 across the last seven days versus 564 in the prior seven-day window.",
-  "expires_at": "2026-09-02T20:00:37+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "van_helsing",
+  "cinematic_title": "Van Helsing",
+  "data_summary": "context phase afternoon, temp 26C",
+  "expires_at": "2026-09-02T20:20:41+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-02T14:00:37+10:00",
-  "title": "Health Insight: INTENSITY 529 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "lane": "local_signal",
+  "published_at": "2026-09-02T14:20:41+10:00",
+  "title": "Afternoon Context",
+  "topic_key": "ambient_context_afternoon",
   "url": ""
 }
