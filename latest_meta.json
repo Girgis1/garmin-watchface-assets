@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "the_ring",
-  "cinematic_title": "The Ring",
-  "data_summary": "SLEEP 7H15 | +13M VS 4W AVG | Last sleep was 7.2 hours with score 81, versus a four-week average of 7.0 hours.",
-  "expires_at": "2026-09-02T18:20:33+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "morbius",
+  "cinematic_title": "Morbius",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-09-02T18:40:34+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-02T12:20:33+10:00",
-  "title": "Health Insight: SLEEP 7H15",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-09-02T12:40:34+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
