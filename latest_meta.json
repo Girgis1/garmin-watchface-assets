@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "van_helsing",
-  "cinematic_title": "Van Helsing",
-  "data_summary": "context phase afternoon, temp 26C",
-  "expires_at": "2026-09-02T20:20:41+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-02T14:20:41+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
-  "url": ""
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "ad_astra",
+  "cinematic_title": "Ad Astra",
+  "data_summary": "waning gibbous, 73% illuminated",
+  "expires_at": "2026-09-02T21:00:56+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-09-02T15:00:56+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
