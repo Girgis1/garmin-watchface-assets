@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "ad_astra",
-  "cinematic_title": "Ad Astra",
-  "data_summary": "waning gibbous, 73% illuminated",
-  "expires_at": "2026-09-02T21:00:56+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-09-02T15:00:56+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "xmen_first_class",
+  "cinematic_title": "X-Men: First Class",
+  "data_summary": "context phase sunset, temp 26C",
+  "expires_at": "2026-09-02T21:20:59+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-09-02T15:20:59+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
