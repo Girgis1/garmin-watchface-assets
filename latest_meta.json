@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "the_batman",
-  "cinematic_title": "The Batman",
-  "data_summary": "daily phase midday, temp 26C",
-  "expires_at": "2026-09-02T19:20:35+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "men_in_black",
+  "cinematic_title": "Men in Black",
+  "data_summary": "BEDTIME SWINGS \u00b11.4H | MEDIAN 1:18 | Night-to-night sleep onset varies by 1.4 hours around a median of 1:18. Irregular timing weakens sleep quality even when total duration looks fine.",
+  "expires_at": "2026-09-02T19:40:36+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-02T13:20:35+10:00",
-  "title": "Daily Context",
-  "topic_key": "daily_context",
+  "lane": "health",
+  "published_at": "2026-09-02T13:40:36+10:00",
+  "title": "Health Insight: BEDTIME SWINGS \u00b11.4H",
+  "topic_key": "health_pattern_bedtime_variable",
   "url": ""
 }
