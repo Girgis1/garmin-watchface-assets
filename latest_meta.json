@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "paprika",
-  "cinematic_title": "Paprika",
-  "data_summary": "HRV BALANCED, avg 67 ms, 3 day balanced streak",
-  "expires_at": "2026-09-02T23:00:05+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "the_flash",
+  "cinematic_title": "The Flash",
+  "data_summary": "context phase sunset, temp 24C",
+  "expires_at": "2026-09-02T23:20:05+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-02T17:00:05+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_balanced",
+  "lane": "local_signal",
+  "published_at": "2026-09-02T17:20:05+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
