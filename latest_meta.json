@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "across_spiderverse",
-  "cinematic_title": "Spider-Man: Across the Spider-Verse",
-  "data_summary": "7D SLEEP 6H54 | +17M VS PRIOR 7D | The seven-day sleep average is 6.9 hours, 17 minutes above the prior seven days.",
-  "expires_at": "2026-09-03T19:20:26+10:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "step_brothers",
+  "cinematic_title": "Step Brothers",
+  "data_summary": "# Garmin Health Insight Generated: 2026-09-03T13:37:26+10:00 Data through: 2026-09-03 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND +2.9/DAY** | 44 -> 64 / 14D | DON'T BREAK THE",
+  "expires_at": "2026-09-03T19:40:27+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-03T13:20:26+10:00",
-  "title": "Health Insight: 7D SLEEP 6H54",
-  "topic_key": "health_weekly_sleep_trend",
+  "published_at": "2026-09-03T13:40:27+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
