@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "edge_of_tomorrow",
-  "cinematic_title": "Edge of Tomorrow",
-  "data_summary": "SpO2 97%, respiration 15.0",
-  "expires_at": "2026-09-04T02:21:00+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "district_9",
+  "cinematic_title": "District 9",
+  "data_summary": "sleep debt: 4.7h, score 60, 21-day avg 6.8h",
+  "expires_at": "2026-09-04T02:40:03+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-03T20:21:00+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
+  "published_at": "2026-09-03T20:40:03+10:00",
+  "title": "Sleep Debt",
+  "topic_key": "health_sleep_debt",
   "url": ""
 }
