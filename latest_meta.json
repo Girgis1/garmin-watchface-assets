@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "star_trek_2009",
-  "cinematic_title": "Star Trek",
-  "data_summary": "OpenAI Is About to Release Its First AI Model With \u2018Critical\u2019 Cyber Abilities",
-  "expires_at": "2026-09-03T21:20:32+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-09-03T15:20:32+10:00",
-  "title": "News: OpenAI Is About to Release Its First AI Model With",
-  "topic_key": "interesting_signal_openai_is_about_to_release_its_first",
-  "url": "https://www.google.com/search?q=OpenAI+Is+About+to+Release+Its+First+AI+Model+With+%E2%80%98Critical%E2%80%99+Cyber+Abilities"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "shrek",
+  "cinematic_title": "Shrek",
+  "data_summary": "context phase sunset, temp 26C",
+  "expires_at": "2026-09-03T21:40:34+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-09-03T15:40:34+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
