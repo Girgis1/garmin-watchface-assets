@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "suicide_squad_2016",
-  "cinematic_title": "Suicide Squad",
-  "data_summary": "HRV BALANCED, avg 68 ms, 4 day balanced streak",
-  "expires_at": "2026-09-04T03:40:24+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-09-03T21:40:24+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_balanced",
-  "url": ""
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "wakanda_forever",
+  "cinematic_title": "Black Panther: Wakanda Forever",
+  "data_summary": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
+  "expires_at": "2026-09-04T04:02:09+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-03T22:02:09+10:00",
+  "title": "News: Anthropic Admits Security Failures Behind Claude Hacking Incidents",
+  "topic_key": "interesting_signal_anthropic_admits_security_failures_b",
+  "url": "https://www.google.com/search?q=Anthropic+Admits+Security+Failures+Behind+Claude+Hacking+Incidents"
 }
