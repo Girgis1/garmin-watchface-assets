@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "harry_potter_goblet",
-  "cinematic_title": "Harry Potter and the Goblet of Fire",
-  "data_summary": "context phase night, temp 17C",
-  "expires_at": "2026-09-04T03:00:11+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-03T21:00:11+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
-  "url": ""
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "pirates_dead_mans_chest",
+  "cinematic_title": "Pirates of the Caribbean: Dead Man's Chest",
+  "data_summary": "Trump administration backs OpenAI in New York Times' copyright case over training of chatbots",
+  "expires_at": "2026-09-04T03:20:17+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-03T21:20:17+10:00",
+  "title": "News: Trump administration backs OpenAI in New York Times' copyright case",
+  "topic_key": "interesting_signal_trump_administration_backs_openai_in",
+  "url": "https://www.google.com/search?q=Trump+administration+backs+OpenAI+in+New+York+Times%27+copyright+case+over+training+of+chatbots"
 }
