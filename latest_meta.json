@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "it_2017",
-  "cinematic_title": "It",
-  "data_summary": "\u2018Not perfectly aligned\u2019 with human values: Anthropic admits security failures behind AI hacking incidents",
-  "expires_at": "2026-09-03T23:20:51+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-09-03T17:20:51+10:00",
-  "title": "News: \u2018Not perfectly aligned\u2019 with human values: Anthropic admits",
-  "topic_key": "interesting_signal_not_perfectly_aligned_with_human_val",
-  "url": "https://www.google.com/search?q=%E2%80%98Not+perfectly+aligned%E2%80%99+with+human+values%3A+Anthropic+admits+security+failures+behind+AI+hacking+incidents"
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "pandorum",
+  "cinematic_title": "Pandorum",
+  "data_summary": "context phase sunset, temp 23C",
+  "expires_at": "2026-09-03T23:40:52+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-09-03T17:40:52+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
