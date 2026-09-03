@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "dungeons_dragons_honor",
-  "cinematic_title": "Dungeons & Dragons: Honor Among Thieves",
-  "data_summary": "context phase evening, temp 20C",
-  "expires_at": "2026-09-04T01:00:56+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "edge_of_tomorrow",
+  "cinematic_title": "Edge of Tomorrow",
+  "data_summary": "SpO2 97%, respiration 15.0",
+  "expires_at": "2026-09-04T02:21:00+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-03T19:00:56+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
+  "lane": "health",
+  "published_at": "2026-09-03T20:21:00+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
