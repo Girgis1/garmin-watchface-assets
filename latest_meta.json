@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "pirates_dead_mans_chest",
-  "cinematic_title": "Pirates of the Caribbean: Dead Man's Chest",
-  "data_summary": "Trump administration backs OpenAI in New York Times' copyright case over training of chatbots",
-  "expires_at": "2026-09-04T03:20:17+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-09-03T21:20:17+10:00",
-  "title": "News: Trump administration backs OpenAI in New York Times' copyright case",
-  "topic_key": "interesting_signal_trump_administration_backs_openai_in",
-  "url": "https://www.google.com/search?q=Trump+administration+backs+OpenAI+in+New+York+Times%27+copyright+case+over+training+of+chatbots"
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "suicide_squad_2016",
+  "cinematic_title": "Suicide Squad",
+  "data_summary": "HRV BALANCED, avg 68 ms, 4 day balanced streak",
+  "expires_at": "2026-09-04T03:40:24+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-09-03T21:40:24+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
+  "url": ""
 }
