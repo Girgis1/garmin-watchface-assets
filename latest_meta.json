@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "the_suicide_squad",
-  "cinematic_title": "The Suicide Squad",
-  "data_summary": "context phase afternoon, temp 26C",
-  "expires_at": "2026-09-03T20:00:28+10:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "moon",
+  "cinematic_title": "Moon",
+  "data_summary": "BED ~1:27 AM | 35/40 NIGHTS POST-MIDNIGHT | Median true sleep onset is 1:27 AM across 40 nights; 35 of them landed after midnight with a night-to-night spread of 1.4 hours. Earlier nights in this dataset averaged MORE sleep, not less.",
+  "expires_at": "2026-09-03T20:20:29+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-03T14:00:28+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
+  "lane": "health",
+  "published_at": "2026-09-03T14:20:29+10:00",
+  "title": "Health Insight: BED ~1:27 AM",
+  "topic_key": "health_pattern_bedtime_chronic_late",
   "url": ""
 }
