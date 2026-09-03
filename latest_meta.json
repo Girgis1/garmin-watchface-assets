@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "harry_potter_hallows",
-  "cinematic_title": "Harry Potter and the Deathly Hallows",
-  "data_summary": "context phase night, temp 15C",
-  "expires_at": "2026-09-04T04:20:15+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-03T22:20:15+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
-  "url": ""
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "surrogates",
+  "cinematic_title": "Surrogates",
+  "data_summary": "After murder of two innocent people NSW Government Pledges 'Nothing Off the Table' as Police Confront Spate of Sydney Gang Shootings",
+  "expires_at": "2026-09-04T04:40:15+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-03T22:40:15+10:00",
+  "title": "News: After murder of two innocent people NSW Government Pledges 'Nothing",
+  "topic_key": "interesting_signal_after_murder_of_two_innocent_people_",
+  "url": "https://www.google.com/search?q=After+murder+of+two+innocent+people+NSW+Government+Pledges+%27Nothing+Off+the+Table%27+as+Police+Confront+Spate+of+Sydney+Gang+Shootings"
 }
