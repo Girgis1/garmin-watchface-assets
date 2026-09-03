@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "bourne_ultimatum",
-  "cinematic_title": "The Bourne Ultimatum",
-  "data_summary": "HRV 66 MS | +4.3 VS PRIOR 7D | Seven-day HRV averages 65.8 ms versus 61.6 ms in the prior seven days; latest status is balanced.",
-  "expires_at": "2026-09-03T18:00:19+10:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "wrath_of_khan",
+  "cinematic_title": "Star Trek II: The Wrath of Khan",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-09-03T18:20:20+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-03T12:00:19+10:00",
-  "title": "Health Insight: HRV 66 MS",
-  "topic_key": "health_hrv_weekly_trend",
+  "published_at": "2026-09-03T12:20:20+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
