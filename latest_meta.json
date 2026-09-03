@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "warcraft",
-  "cinematic_title": "Warcraft",
-  "data_summary": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
-  "expires_at": "2026-09-04T00:40:55+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-09-03T18:40:55+10:00",
-  "title": "News: OpenAI\u2019s new reasoning technique alarms AI safety experts",
-  "topic_key": "interesting_signal_openai_s_new_reasoning_technique_ala",
-  "url": "https://www.google.com/search?q=OpenAI%E2%80%99s+new+reasoning+technique+alarms+AI+safety+experts"
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "dungeons_dragons_honor",
+  "cinematic_title": "Dungeons & Dragons: Honor Among Thieves",
+  "data_summary": "context phase evening, temp 20C",
+  "expires_at": "2026-09-04T01:00:56+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-09-03T19:00:56+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
+  "url": ""
 }
