@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "wakanda_forever",
-  "cinematic_title": "Black Panther: Wakanda Forever",
-  "data_summary": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
-  "expires_at": "2026-09-04T04:02:09+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-09-03T22:02:09+10:00",
-  "title": "News: Anthropic Admits Security Failures Behind Claude Hacking Incidents",
-  "topic_key": "interesting_signal_anthropic_admits_security_failures_b",
-  "url": "https://www.google.com/search?q=Anthropic+Admits+Security+Failures+Behind+Claude+Hacking+Incidents"
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "harry_potter_hallows",
+  "cinematic_title": "Harry Potter and the Deathly Hallows",
+  "data_summary": "context phase night, temp 15C",
+  "expires_at": "2026-09-04T04:20:15+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-09-03T22:20:15+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
+  "url": ""
 }
