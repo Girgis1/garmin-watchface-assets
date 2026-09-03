@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "punisher_2004",
-  "cinematic_title": "The Punisher",
-  "data_summary": "context phase sunset, temp 21C",
-  "expires_at": "2026-09-04T00:20:54+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-03T18:20:54+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "warcraft",
+  "cinematic_title": "Warcraft",
+  "data_summary": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
+  "expires_at": "2026-09-04T00:40:55+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-03T18:40:55+10:00",
+  "title": "News: OpenAI\u2019s new reasoning technique alarms AI safety experts",
+  "topic_key": "interesting_signal_openai_s_new_reasoning_technique_ala",
+  "url": "https://www.google.com/search?q=OpenAI%E2%80%99s+new+reasoning+technique+alarms+AI+safety+experts"
 }
