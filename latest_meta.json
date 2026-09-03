@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "xmen_2000",
-  "cinematic_title": "X-Men",
-  "data_summary": "Court won't reinstate Sydney Trains apprentice during discrimination complaint",
-  "expires_at": "2026-09-03T18:40:21+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-09-03T12:40:21+10:00",
-  "title": "News: Court won't reinstate Sydney Trains apprentice during",
-  "topic_key": "interesting_signal_court_won_t_reinstate_sydney_trains_",
-  "url": "https://www.google.com/search?q=Court+won%27t+reinstate+Sydney+Trains+apprentice+during+discrimination+complaint"
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "harry_potter_order",
+  "cinematic_title": "Harry Potter and the Order of the Phoenix",
+  "data_summary": "daily phase midday, temp 26C",
+  "expires_at": "2026-09-03T19:00:23+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-09-03T13:00:23+10:00",
+  "title": "Daily Context",
+  "topic_key": "daily_context",
+  "url": ""
 }
