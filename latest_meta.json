@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "minority_report",
-  "cinematic_title": "Minority Report",
-  "data_summary": "SLEEP 4H39 | 145M VS 4W AVG | Last sleep was 4.7 hours with score 60, versus a four-week average of 7.1 hours.",
-  "expires_at": "2026-09-03T17:20:16+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "metropolis_2001",
+  "cinematic_title": "Metropolis",
+  "data_summary": "INTENSITY 488 MIN | 20% VS PRIOR 7D | Weighted intensity minutes total 488 across the last seven days versus 611 in the prior seven-day window.",
+  "expires_at": "2026-09-03T17:40:17+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-03T11:20:16+10:00",
-  "title": "Health Insight: SLEEP 4H39",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-09-03T11:40:17+10:00",
+  "title": "Health Insight: INTENSITY 488 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
