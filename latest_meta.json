@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "wrath_of_khan",
-  "cinematic_title": "Star Trek II: The Wrath of Khan",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-09-03T18:20:20+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-09-03T12:20:20+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "xmen_2000",
+  "cinematic_title": "X-Men",
+  "data_summary": "Court won't reinstate Sydney Trains apprentice during discrimination complaint",
+  "expires_at": "2026-09-03T18:40:21+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-03T12:40:21+10:00",
+  "title": "News: Court won't reinstate Sydney Trains apprentice during",
+  "topic_key": "interesting_signal_court_won_t_reinstate_sydney_trains_",
+  "url": "https://www.google.com/search?q=Court+won%27t+reinstate+Sydney+Trains+apprentice+during+discrimination+complaint"
 }
