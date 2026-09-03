@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "chronicles_riddick",
-  "cinematic_title": "The Chronicles of Riddick",
-  "data_summary": "morning briefing: RAIN 82% TODAY",
-  "expires_at": "2026-09-03T15:40:11+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "harry_potter_hallows_part1",
+  "cinematic_title": "Harry Potter and the Deathly Hallows - Part 1",
+  "data_summary": "context phase midday, temp 25C",
+  "expires_at": "2026-09-03T16:40:14+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-09-03T09:40:11+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "local_signal",
+  "published_at": "2026-09-03T10:40:14+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
