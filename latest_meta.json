@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "ant_man",
-  "cinematic_title": "Ant-Man",
-  "data_summary": "SpO2 98%, respiration 14.0",
-  "expires_at": "2026-09-04T23:40:32+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-09-04T17:40:32+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
-  "url": ""
+  "cinematic_group": "animation_family",
+  "cinematic_key": "lego_batman",
+  "cinematic_title": "The Lego Batman Movie",
+  "data_summary": "leave-work temp 25C, rain 25%, 0.0 mm",
+  "expires_at": "2026-09-05T00:00:36+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-09-04T18:00:36+10:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
