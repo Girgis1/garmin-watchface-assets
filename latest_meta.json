@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "the_losers",
-  "cinematic_title": "The Losers",
-  "data_summary": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-  "expires_at": "2026-09-05T01:00:46+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-09-04T19:00:46+10:00",
-  "title": "News: Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-  "topic_key": "interesting_signal_nobody_is_saying_why_openai_and_anth",
-  "url": "https://www.google.com/search?q=Nobody+Is+Saying+Why+OpenAI+and+Anthropic+Had+Outages+Today"
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "godzilla_minus_one",
+  "cinematic_title": "Godzilla Minus One",
+  "data_summary": "sleep 4.6h, score 60",
+  "expires_at": "2026-09-05T01:20:46+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "sleep",
+  "published_at": "2026-09-04T19:20:46+10:00",
+  "title": "Sleep Recovery",
+  "topic_key": "sleep",
+  "url": ""
 }
