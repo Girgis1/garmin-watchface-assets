@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "big_hero_6",
-  "cinematic_title": "Big Hero 6",
-  "data_summary": "INTENSITY 545 MIN | +1% VS PRIOR 7D | Weighted intensity minutes total 545 across the last seven days versus 541 in the prior seven-day window.",
-  "expires_at": "2026-09-04T17:20:13+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "bumblebee",
+  "cinematic_title": "Bumblebee",
+  "data_summary": "# Garmin Health Insight Generated: 2026-09-04T12:57:18+10:00 Data through: 2026-09-04 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND +2.9/DAY** | 17 -> 48 / 14D | DON'T BREAK THE",
+  "expires_at": "2026-09-04T19:00:18+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-04T11:20:13+10:00",
-  "title": "Health Insight: INTENSITY 545 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-09-04T13:00:18+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
