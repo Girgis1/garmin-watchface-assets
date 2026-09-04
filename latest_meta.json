@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "lego_batman",
-  "cinematic_title": "The Lego Batman Movie",
-  "data_summary": "leave-work temp 25C, rain 25%, 0.0 mm",
-  "expires_at": "2026-09-05T00:00:36+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather_departure",
-  "published_at": "2026-09-04T18:00:36+10:00",
-  "title": "Leave-Work Weather",
-  "topic_key": "leave_work_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "hancock",
+  "cinematic_title": "Hancock",
+  "data_summary": "BB TREND +3.0/DAY | 17 -> 52 / 14D | Comparable daily Body Battery values moved from 17 to 52, with a fitted trend of +3.0 points per day.",
+  "expires_at": "2026-09-05T00:20:42+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-09-04T18:20:42+10:00",
+  "title": "Health Insight: BB TREND +3.0/DAY",
+  "topic_key": "health_pattern_body_battery_14d_tren",
+  "url": ""
 }
