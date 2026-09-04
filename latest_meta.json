@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "batman_beyond_return_joker",
-  "cinematic_title": "Batman Beyond: Return of the Joker",
-  "data_summary": "context phase night, temp 16C",
-  "expires_at": "2026-09-05T04:20:02+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "tenet",
+  "cinematic_title": "Tenet",
+  "data_summary": "goodnight stage soft: The day has had enough of you. Fair enough.; SLEEP DEBT 4.6H",
+  "expires_at": "2026-09-05T05:00:04+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-04T22:20:02+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
+  "lane": "goodnight",
+  "published_at": "2026-09-04T23:00:04+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
