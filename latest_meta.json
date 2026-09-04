@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "war_worlds",
-  "cinematic_title": "War of the Worlds",
-  "data_summary": "context phase sunset, temp 21C",
-  "expires_at": "2026-09-04T22:20:27+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-04T16:20:27+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "gundam_hathaway",
+  "cinematic_title": "Mobile Suit Gundam Hathaway",
+  "data_summary": "Transport NSW: Gap filler cuts Sydney train platform falls by 43 per cent",
+  "expires_at": "2026-09-04T22:40:28+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-04T16:40:28+10:00",
+  "title": "News: Gap filler cuts Sydney train platform falls by 43 per",
+  "topic_key": "interesting_signal_gap_filler_cuts_sydney_train_platfor",
+  "url": "https://www.google.com/search?q=Transport+NSW%3A+Gap+filler+cuts+Sydney+train+platform+falls+by+43+per+cent"
 }
