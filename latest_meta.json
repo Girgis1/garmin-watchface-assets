@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "twenty_eight_weeks",
-  "cinematic_title": "28 Weeks Later",
-  "data_summary": "goodnight stage midnight_strict: GO TO BED. The moon has notes.; no extra alerts",
-  "expires_at": "2026-09-05T06:00:07+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "xmen_dark_phoenix",
+  "cinematic_title": "Dark Phoenix",
+  "data_summary": "morning briefing: RAIN 25% FROM 6PM",
+  "expires_at": "2026-09-05T14:00:35+10:00",
   "kind": "none",
   "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-09-05T00:00:07+10:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "lane": "morning",
+  "published_at": "2026-09-05T08:00:35+10:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
