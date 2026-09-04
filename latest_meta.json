@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "quiet_place",
-  "cinematic_title": "A Quiet Place",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-09-04T19:40:20+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-09-04T13:40:20+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "venom",
+  "cinematic_title": "Venom",
+  "data_summary": "Hitchhiking birds become 'regulars' on Sydney trains",
+  "expires_at": "2026-09-04T20:00:21+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-04T14:00:21+10:00",
+  "title": "News: Hitchhiking birds become 'regulars' on Sydney trains",
+  "topic_key": "interesting_signal_hitchhiking_birds_become_regulars_on",
+  "url": "https://www.google.com/search?q=Hitchhiking+birds+become+%27regulars%27+on+Sydney+trains"
 }
