@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "harry_potter_chamber",
-  "cinematic_title": "Harry Potter and the Chamber of Secrets",
-  "data_summary": "AFTER HARD DAYS -61M | LESS SLEEP IN YOUR DATA | Across 32 matched days, nights after 30+ intensity minutes averaged 61 minutes less sleep than nights after low-load days. This is an association, not proof of cause.",
-  "expires_at": "2026-09-05T04:01:00+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "batman_beyond_return_joker",
+  "cinematic_title": "Batman Beyond: Return of the Joker",
+  "data_summary": "context phase night, temp 16C",
+  "expires_at": "2026-09-05T04:20:02+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-04T22:01:00+10:00",
-  "title": "Health Insight: AFTER HARD DAYS -61M",
-  "topic_key": "health_pattern_training_next_sleep",
+  "lane": "local_signal",
+  "published_at": "2026-09-04T22:20:02+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
   "url": ""
 }
