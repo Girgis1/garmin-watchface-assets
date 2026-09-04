@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "venom",
-  "cinematic_title": "Venom",
-  "data_summary": "Hitchhiking birds become 'regulars' on Sydney trains",
-  "expires_at": "2026-09-04T20:00:21+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-09-04T14:00:21+10:00",
-  "title": "News: Hitchhiking birds become 'regulars' on Sydney trains",
-  "topic_key": "interesting_signal_hitchhiking_birds_become_regulars_on",
-  "url": "https://www.google.com/search?q=Hitchhiking+birds+become+%27regulars%27+on+Sydney+trains"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "incredibles",
+  "cinematic_title": "The Incredibles",
+  "data_summary": "HRV 66 MS | +5.0 VS PRIOR 7D | Seven-day HRV averages 66.3 ms versus 61.3 ms in the prior seven days; latest status is balanced.",
+  "expires_at": "2026-09-04T20:20:21+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-09-04T14:20:21+10:00",
+  "title": "Health Insight: HRV 66 MS",
+  "topic_key": "health_hrv_weekly_trend",
+  "url": ""
 }
