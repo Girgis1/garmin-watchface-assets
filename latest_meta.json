@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "godzilla_minus_one",
-  "cinematic_title": "Godzilla Minus One",
-  "data_summary": "sleep 4.6h, score 60",
-  "expires_at": "2026-09-05T01:20:46+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "tron_legacy",
+  "cinematic_title": "TRON: Legacy",
+  "data_summary": "context phase evening, temp 16C",
+  "expires_at": "2026-09-05T01:40:47+10:00",
   "kind": "none",
   "label": "",
-  "lane": "sleep",
-  "published_at": "2026-09-04T19:20:46+10:00",
-  "title": "Sleep Recovery",
-  "topic_key": "sleep",
+  "lane": "local_signal",
+  "published_at": "2026-09-04T19:40:47+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
   "url": ""
 }
