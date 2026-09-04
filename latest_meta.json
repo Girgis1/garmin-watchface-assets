@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "matrix_revolutions",
-  "cinematic_title": "The Matrix Revolutions",
-  "data_summary": "SLEEP 4H38 | 142M VS 4W AVG | Last sleep was 4.6 hours with score 60, versus a four-week average of 7.0 hours.",
-  "expires_at": "2026-09-04T19:20:19+10:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "quiet_place",
+  "cinematic_title": "A Quiet Place",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-09-04T19:40:20+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-04T13:20:19+10:00",
-  "title": "Health Insight: SLEEP 4H38",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-09-04T13:40:20+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
