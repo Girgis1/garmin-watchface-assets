@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "batman_under_red_hood",
-  "cinematic_title": "Batman: Under the Red Hood",
-  "data_summary": "RHR UP, HRV DOWN | R=-0.65 / N=27 | Across 27 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.65. Treat this as a personal trend signal, not a diagnosis.",
-  "expires_at": "2026-09-04T20:40:23+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-09-04T14:40:23+10:00",
-  "title": "Health Insight: RHR UP, HRV DOWN",
-  "topic_key": "health_pattern_rhr_hrv_relationship",
-  "url": ""
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "passengers",
+  "cinematic_title": "Passengers",
+  "data_summary": "leave-work temp 24C, rain 25%, 0.0 mm",
+  "expires_at": "2026-09-04T21:00:24+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-09-04T15:00:24+10:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
