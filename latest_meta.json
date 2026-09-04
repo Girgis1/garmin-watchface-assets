@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "tron_legacy",
-  "cinematic_title": "TRON: Legacy",
-  "data_summary": "context phase evening, temp 16C",
-  "expires_at": "2026-09-05T01:40:47+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-04T19:40:47+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
-  "url": ""
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "jonah_hex",
+  "cinematic_title": "Jonah Hex",
+  "data_summary": "OpenAI unveils latest AI model amid rising scrutiny and safety concerns",
+  "expires_at": "2026-09-05T02:00:48+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-04T20:00:48+10:00",
+  "title": "News: OpenAI unveils latest AI model amid rising scrutiny and safety",
+  "topic_key": "interesting_signal_openai_unveils_latest_ai_model_amid_",
+  "url": "https://www.google.com/search?q=OpenAI+unveils+latest+AI+model+amid+rising+scrutiny+and+safety+concerns"
 }
