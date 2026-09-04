@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "dune",
-  "cinematic_title": "Dune",
-  "data_summary": "Gamuda-MTR consortium wins Sydney Metro West Parramatta station contract",
-  "expires_at": "2026-09-05T03:40:53+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-09-04T21:40:53+10:00",
-  "title": "News: Gamuda-MTR consortium wins Sydney Metro West Parramatta station",
-  "topic_key": "interesting_signal_gamuda_mtr_consortium_wins_sydney_me",
-  "url": "https://www.google.com/search?q=Gamuda-MTR+consortium+wins+Sydney+Metro+West+Parramatta+station+contract"
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "harry_potter_chamber",
+  "cinematic_title": "Harry Potter and the Chamber of Secrets",
+  "data_summary": "AFTER HARD DAYS -61M | LESS SLEEP IN YOUR DATA | Across 32 matched days, nights after 30+ intensity minutes averaged 61 minutes less sleep than nights after low-load days. This is an association, not proof of cause.",
+  "expires_at": "2026-09-05T04:01:00+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-09-04T22:01:00+10:00",
+  "title": "Health Insight: AFTER HARD DAYS -61M",
+  "topic_key": "health_pattern_training_next_sleep",
+  "url": ""
 }
