@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "get_out",
-  "cinematic_title": "Get Out",
-  "data_summary": "13 BB | 34 VS 48 OTHER DAYS | Sun Body Battery finishes average 34 versus 48 on every other weekday \u2014 a recurring 13-point weekly trough.",
-  "expires_at": "2026-09-05T03:20:52+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-09-04T21:20:52+10:00",
-  "title": "Health Insight: 13 BB",
-  "topic_key": "health_pattern_weekly_bb_crash_day",
-  "url": ""
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "dune",
+  "cinematic_title": "Dune",
+  "data_summary": "Gamuda-MTR consortium wins Sydney Metro West Parramatta station contract",
+  "expires_at": "2026-09-05T03:40:53+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-04T21:40:53+10:00",
+  "title": "News: Gamuda-MTR consortium wins Sydney Metro West Parramatta station",
+  "topic_key": "interesting_signal_gamuda_mtr_consortium_wins_sydney_me",
+  "url": "https://www.google.com/search?q=Gamuda-MTR+consortium+wins+Sydney+Metro+West+Parramatta+station+contract"
 }
