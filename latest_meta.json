@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "pirates_caribbean",
-  "cinematic_title": "Pirates of the Caribbean",
-  "data_summary": "context phase night, temp 15C",
-  "expires_at": "2026-09-05T03:00:51+10:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "get_out",
+  "cinematic_title": "Get Out",
+  "data_summary": "13 BB | 34 VS 48 OTHER DAYS | Sun Body Battery finishes average 34 versus 48 on every other weekday \u2014 a recurring 13-point weekly trough.",
+  "expires_at": "2026-09-05T03:20:52+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-04T21:00:51+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
+  "lane": "health",
+  "published_at": "2026-09-04T21:20:52+10:00",
+  "title": "Health Insight: 13 BB",
+  "topic_key": "health_pattern_weekly_bb_crash_day",
   "url": ""
 }
