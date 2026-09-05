@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "robocop",
-  "cinematic_title": "RoboCop",
-  "data_summary": "# Garmin Health Insight Generated: 2026-09-05T14:17:06+10:00 Data through: 2026-09-05 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND +2.2/DAY** | 12 -> 89 / 14D | DON'T BREAK THE",
-  "expires_at": "2026-09-05T20:20:07+10:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "casino_royale",
+  "cinematic_title": "Casino Royale",
+  "data_summary": "SpO2 98%, respiration 14.0",
+  "expires_at": "2026-09-05T20:40:08+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-05T14:20:07+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-09-05T14:40:08+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
