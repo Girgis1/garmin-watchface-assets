@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "terminator_2",
-  "cinematic_title": "Terminator 2",
-  "data_summary": "morning briefing: RAIN 16% FROM 5PM",
-  "expires_at": "2026-09-05T15:40:43+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "rise_planet_apes",
+  "cinematic_title": "Rise of the Planet of the Apes",
+  "data_summary": "HRV 67 MS | +5.2 VS PRIOR 7D | Seven-day HRV averages 66.6 ms versus 61.4 ms in the prior seven days; latest status is unknown.",
+  "expires_at": "2026-09-05T16:20:45+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-09-05T09:40:43+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-09-05T10:20:45+10:00",
+  "title": "Health Insight: HRV 67 MS",
+  "topic_key": "health_hrv_weekly_trend",
   "url": ""
 }
