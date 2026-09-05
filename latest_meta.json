@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "last_jedi",
-  "cinematic_title": "Star Wars: The Last Jedi",
-  "data_summary": "HRV BALANCED, avg 67 ms, 6 day balanced streak",
-  "expires_at": "2026-09-06T01:00:22+10:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "batman_1989",
+  "cinematic_title": "Batman",
+  "data_summary": "context phase evening, temp 21C",
+  "expires_at": "2026-09-06T01:20:23+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-05T19:00:22+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_balanced",
+  "lane": "local_signal",
+  "published_at": "2026-09-05T19:20:23+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
   "url": ""
 }
