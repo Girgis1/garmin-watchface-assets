@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "strange_days",
-  "cinematic_title": "Strange Days",
-  "data_summary": "next-hour temp 30.0C; rain below 15% notice threshold",
-  "expires_at": "2026-09-05T21:40:11+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-09-05T15:40:11+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "primer",
+  "cinematic_title": "Primer",
+  "data_summary": "BEDTIME SWINGS \u00b11.4H | MEDIAN 1:33 | Night-to-night sleep onset varies by 1.4 hours around a median of 1:33. Irregular timing weakens sleep quality even when total duration looks fine.",
+  "expires_at": "2026-09-05T22:00:12+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-09-05T16:00:12+10:00",
+  "title": "Health Insight: BEDTIME SWINGS \u00b11.4H",
+  "topic_key": "health_pattern_bedtime_variable",
+  "url": ""
 }
