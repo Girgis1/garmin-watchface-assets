@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "i_am_legend",
-  "cinematic_title": "I Am Legend",
-  "data_summary": "context phase sunset, temp 28C",
-  "expires_at": "2026-09-05T22:40:14+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "superman_ii",
+  "cinematic_title": "Superman II",
+  "data_summary": "TUE SLEEP +126M | VS THU, 6-WEEK AVG | Across the available history, Tue sleep averages 126 minutes longer than Thu sleep.",
+  "expires_at": "2026-09-05T23:40:17+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-05T16:40:14+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-09-05T17:40:17+10:00",
+  "title": "Health Insight: TUE SLEEP +126M",
+  "topic_key": "health_pattern_weekday_sleep",
   "url": ""
 }
