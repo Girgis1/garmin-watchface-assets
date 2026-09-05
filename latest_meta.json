@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "winter_soldier",
-  "cinematic_title": "Captain America: The Winter Soldier",
-  "data_summary": "context phase sunset, temp 23C",
-  "expires_at": "2026-09-06T00:00:18+10:00",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "tmnt_mutant_mayhem",
+  "cinematic_title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+  "data_summary": "STRESSFUL BEFORE BED | 13 OF 14 NIGHTS | Garmin's Body Battery feedback marked 13 of 14 recent nights as stressful around sleep preparation.",
+  "expires_at": "2026-09-06T00:20:19+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-05T18:00:18+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-09-05T18:20:19+10:00",
+  "title": "Health Insight: STRESSFUL BEFORE BED",
+  "topic_key": "health_pattern_pre_sleep_stress_feed",
   "url": ""
 }
