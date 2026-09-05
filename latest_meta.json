@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "transformers_age_extinction",
-  "cinematic_title": "Transformers: Age of Extinction",
-  "data_summary": "INTENSITY 605 MIN | +7% VS PRIOR 7D | Weighted intensity minutes total 605 across the last seven days versus 563 in the prior seven-day window.",
-  "expires_at": "2026-09-05T19:00:03+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "ghost_rider",
+  "cinematic_title": "Ghost Rider",
+  "data_summary": "context phase midday, temp 31C",
+  "expires_at": "2026-09-05T19:20:04+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-05T13:00:03+10:00",
-  "title": "Health Insight: INTENSITY 605 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "lane": "local_signal",
+  "published_at": "2026-09-05T13:20:04+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
