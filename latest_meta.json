@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "adjustment_bureau",
-  "cinematic_title": "The Adjustment Bureau",
-  "data_summary": "last quarter, 42% illuminated",
-  "expires_at": "2026-09-05T21:00:09+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-09-05T15:00:09+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "birds_of_prey",
+  "cinematic_title": "Birds of Prey",
+  "data_summary": "context phase sunset, temp 30C",
+  "expires_at": "2026-09-05T21:20:10+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-09-05T15:20:10+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
