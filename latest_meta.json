@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "man_of_steel",
-  "cinematic_title": "Man of Steel",
-  "data_summary": "next-hour temp 29.9C; rain below 15% notice threshold",
-  "expires_at": "2026-09-05T22:20:13+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-09-05T16:20:13+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "i_am_legend",
+  "cinematic_title": "I Am Legend",
+  "data_summary": "context phase sunset, temp 28C",
+  "expires_at": "2026-09-05T22:40:14+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-09-05T16:40:14+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
