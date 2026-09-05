@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "batman_1989",
-  "cinematic_title": "Batman",
-  "data_summary": "context phase evening, temp 21C",
-  "expires_at": "2026-09-06T01:20:23+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "day_after_tomorrow",
+  "cinematic_title": "The Day After Tomorrow",
+  "data_summary": "goodnight stage soft: Start landing the day. Gently, for once.; no extra alerts",
+  "expires_at": "2026-09-06T05:00:36+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-05T19:20:23+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
+  "lane": "goodnight",
+  "published_at": "2026-09-05T23:00:36+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
