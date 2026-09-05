@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "source_code",
-  "cinematic_title": "Source Code",
-  "data_summary": "context phase midday, temp 28C",
-  "expires_at": "2026-09-05T17:20:48+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "inside_out",
+  "cinematic_title": "Inside Out",
+  "data_summary": "SLEEP 7H42 | +49M VS 4W AVG | Last sleep was 7.7 hours with score 81, versus a four-week average of 6.9 hours.",
+  "expires_at": "2026-09-05T17:40:49+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-05T11:20:48+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-09-05T11:40:49+10:00",
+  "title": "Health Insight: SLEEP 7H42",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
