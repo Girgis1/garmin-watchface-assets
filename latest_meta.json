@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "superman_ii",
-  "cinematic_title": "Superman II",
-  "data_summary": "TUE SLEEP +126M | VS THU, 6-WEEK AVG | Across the available history, Tue sleep averages 126 minutes longer than Thu sleep.",
-  "expires_at": "2026-09-05T23:40:17+10:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "winter_soldier",
+  "cinematic_title": "Captain America: The Winter Soldier",
+  "data_summary": "context phase sunset, temp 23C",
+  "expires_at": "2026-09-06T00:00:18+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-05T17:40:17+10:00",
-  "title": "Health Insight: TUE SLEEP +126M",
-  "topic_key": "health_pattern_weekday_sleep",
+  "lane": "local_signal",
+  "published_at": "2026-09-05T18:00:18+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
