@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "spiderman_far_home",
-  "cinematic_title": "Spider-Man: Far From Home",
-  "data_summary": "context phase sunset, temp 22C",
-  "expires_at": "2026-09-06T00:40:20+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "last_jedi",
+  "cinematic_title": "Star Wars: The Last Jedi",
+  "data_summary": "HRV BALANCED, avg 67 ms, 6 day balanced streak",
+  "expires_at": "2026-09-06T01:00:22+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-05T18:40:20+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-09-05T19:00:22+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
   "url": ""
 }
