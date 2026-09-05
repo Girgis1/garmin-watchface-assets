@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "daredevil_2003",
-  "cinematic_title": "Daredevil",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-09-05T17:00:47+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "source_code",
+  "cinematic_title": "Source Code",
+  "data_summary": "context phase midday, temp 28C",
+  "expires_at": "2026-09-05T17:20:48+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-05T11:00:47+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
+  "lane": "local_signal",
+  "published_at": "2026-09-05T11:20:48+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
