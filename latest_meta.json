@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "into_spiderverse",
-  "cinematic_title": "Spider-Man: Into the Spider-Verse",
-  "data_summary": "next-hour temp 30.4C; rain below 15% notice threshold",
-  "expires_at": "2026-09-05T19:40:05+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-09-05T13:40:05+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "robocop",
+  "cinematic_title": "RoboCop",
+  "data_summary": "# Garmin Health Insight Generated: 2026-09-05T14:17:06+10:00 Data through: 2026-09-05 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND +2.2/DAY** | 12 -> 89 / 14D | DON'T BREAK THE",
+  "expires_at": "2026-09-05T20:20:07+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-09-05T14:20:07+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
+  "url": ""
 }
