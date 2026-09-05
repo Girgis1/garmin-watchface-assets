@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "valerian",
-  "cinematic_title": "Valerian and the City of a Thousand Planets",
-  "data_summary": "7D SLEEP 6H19 | 32M VS PRIOR 7D | The seven-day sleep average is 6.3 hours, 32 minutes below the prior seven days.",
-  "expires_at": "2026-09-05T16:40:46+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "daredevil_2003",
+  "cinematic_title": "Daredevil",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-09-05T17:00:47+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-05T10:40:46+10:00",
-  "title": "Health Insight: 7D SLEEP 6H19",
-  "topic_key": "health_weekly_sleep_trend",
+  "published_at": "2026-09-05T11:00:47+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
