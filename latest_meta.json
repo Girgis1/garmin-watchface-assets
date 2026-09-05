@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "inside_out",
-  "cinematic_title": "Inside Out",
-  "data_summary": "SLEEP 7H42 | +49M VS 4W AVG | Last sleep was 7.7 hours with score 81, versus a four-week average of 6.9 hours.",
-  "expires_at": "2026-09-05T17:40:49+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "teen_titans_go_movies",
+  "cinematic_title": "Teen Titans Go! To the Movies",
+  "data_summary": "DEEP 16% FLATLINE | 14/40 NIGHTS UNDER 13% | Deep sleep averaged only 16% of total sleep and fell under the 13% restoration floor on 14 of 40 nights. Physical overnight recovery has been running thin all window.",
+  "expires_at": "2026-09-05T18:00:57+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-05T11:40:49+10:00",
-  "title": "Health Insight: SLEEP 7H42",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-09-05T12:00:57+10:00",
+  "title": "Health Insight: DEEP 16% FLATLINE",
+  "topic_key": "health_pattern_deep_sleep_share_low",
   "url": ""
 }
