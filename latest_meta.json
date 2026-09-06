@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "back_to_future",
-  "cinematic_title": "Back to the Future",
-  "data_summary": "context phase afternoon, temp 24C",
-  "expires_at": "2026-09-06T20:00:50+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "flashpoint_paradox",
+  "cinematic_title": "Justice League: The Flashpoint Paradox",
+  "data_summary": "training intensity minutes today 0",
+  "expires_at": "2026-09-06T20:20:51+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-06T14:00:50+10:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
+  "lane": "health",
+  "published_at": "2026-09-06T14:20:51+10:00",
+  "title": "Training Nudge",
+  "topic_key": "health_training_minutes",
   "url": ""
 }
