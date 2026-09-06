@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "thor_2011",
-  "cinematic_title": "Thor",
-  "data_summary": "SpO2 97%, respiration 15.0",
-  "expires_at": "2026-09-06T19:40:49+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "back_to_future",
+  "cinematic_title": "Back to the Future",
+  "data_summary": "context phase afternoon, temp 24C",
+  "expires_at": "2026-09-06T20:00:50+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-06T13:40:49+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
+  "lane": "local_signal",
+  "published_at": "2026-09-06T14:00:50+10:00",
+  "title": "Afternoon Context",
+  "topic_key": "ambient_context_afternoon",
   "url": ""
 }
