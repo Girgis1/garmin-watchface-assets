@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "austin_powers",
-  "cinematic_title": "Austin Powers",
-  "data_summary": "context phase midday, temp 23C",
-  "expires_at": "2026-09-06T19:00:47+10:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "alien",
+  "cinematic_title": "Alien",
+  "data_summary": "# Garmin Health Insight Generated: 2026-09-06T13:17:47+10:00 Data through: 2026-09-06 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND +1.5/DAY** | 46 -> 68 / 14D | DON'T BREAK THE",
+  "expires_at": "2026-09-06T19:20:48+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-06T13:00:47+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-09-06T13:20:48+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
