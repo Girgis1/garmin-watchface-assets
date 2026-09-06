@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "transformers_revenge_fallen",
-  "cinematic_title": "Transformers: Revenge of the Fallen",
-  "data_summary": "context phase sunset, temp 18C",
-  "expires_at": "2026-09-06T23:40:18+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-06T17:40:18+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "prisoners",
+  "cinematic_title": "Prisoners",
+  "data_summary": "leave-work temp 14C, rain 47%, 0.5 mm",
+  "expires_at": "2026-09-07T00:00:20+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-09-06T18:00:20+10:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
