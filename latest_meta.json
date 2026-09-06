@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "ghost_in_shell",
-  "cinematic_title": "Ghost in the Shell",
-  "data_summary": "daily phase midday, temp 22C",
-  "expires_at": "2026-09-06T18:20:46+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "fantastic_four_silver_surfer",
+  "cinematic_title": "Fantastic Four: Rise of the Silver Surfer",
+  "data_summary": "HRV 67 MS | +5.5 VS PRIOR 7D | Seven-day HRV averages 67.0 ms versus 61.5 ms in the prior seven days; latest status is balanced.",
+  "expires_at": "2026-09-06T18:40:46+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-06T12:20:46+10:00",
-  "title": "Daily Context",
-  "topic_key": "daily_context",
+  "lane": "health",
+  "published_at": "2026-09-06T12:40:46+10:00",
+  "title": "Health Insight: HRV 67 MS",
+  "topic_key": "health_hrv_weekly_trend",
   "url": ""
 }
