@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "flashpoint_paradox",
-  "cinematic_title": "Justice League: The Flashpoint Paradox",
-  "data_summary": "training intensity minutes today 0",
-  "expires_at": "2026-09-06T20:20:51+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-09-06T14:20:51+10:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
-  "url": ""
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "bill_ted",
+  "cinematic_title": "Bill & Ted's Excellent Adventure",
+  "data_summary": "leave-work temp 14C, rain 47%, 0.1 mm",
+  "expires_at": "2026-09-06T21:00:54+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-09-06T15:00:54+10:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
