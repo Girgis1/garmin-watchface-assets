@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "force_awakens",
-  "cinematic_title": "Star Wars: The Force Awakens",
-  "data_summary": "context phase sunset, temp 19C",
-  "expires_at": "2026-09-06T22:20:15+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "justice_league_2017",
+  "cinematic_title": "Justice League",
+  "data_summary": "sleep debt: 5.6h, score 69, 21-day avg 6.7h",
+  "expires_at": "2026-09-06T22:40:16+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-06T16:20:15+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-09-06T16:40:16+10:00",
+  "title": "Sleep Debt",
+  "topic_key": "health_sleep_debt",
   "url": ""
 }
