@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "transformers_dark_moon",
-  "cinematic_title": "Transformers: Dark of the Moon",
-  "data_summary": "SLEEP 5H34 | 77M VS 4W AVG | Last sleep was 5.6 hours with score 69, versus a four-week average of 6.8 hours.",
-  "expires_at": "2026-09-06T16:00:29+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "blue_beetle",
+  "cinematic_title": "Blue Beetle",
+  "data_summary": "INTENSITY 636 MIN | +6% VS PRIOR 7D | Weighted intensity minutes total 636 across the last seven days versus 599 in the prior seven-day window.",
+  "expires_at": "2026-09-06T16:20:30+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-06T10:00:29+10:00",
-  "title": "Health Insight: SLEEP 5H34",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-09-06T10:20:30+10:00",
+  "title": "Health Insight: INTENSITY 636 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
