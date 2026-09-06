@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "fantastic_four_silver_surfer",
-  "cinematic_title": "Fantastic Four: Rise of the Silver Surfer",
-  "data_summary": "HRV 67 MS | +5.5 VS PRIOR 7D | Seven-day HRV averages 67.0 ms versus 61.5 ms in the prior seven days; latest status is balanced.",
-  "expires_at": "2026-09-06T18:40:46+10:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "austin_powers",
+  "cinematic_title": "Austin Powers",
+  "data_summary": "context phase midday, temp 23C",
+  "expires_at": "2026-09-06T19:00:47+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-06T12:40:46+10:00",
-  "title": "Health Insight: HRV 67 MS",
-  "topic_key": "health_hrv_weekly_trend",
+  "lane": "local_signal",
+  "published_at": "2026-09-06T13:00:47+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
