@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "amazing_spiderman_2",
-  "cinematic_title": "The Amazing Spider-Man 2",
-  "data_summary": "sleep 5.6h, score 69",
-  "expires_at": "2026-09-06T23:20:18+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "transformers_revenge_fallen",
+  "cinematic_title": "Transformers: Revenge of the Fallen",
+  "data_summary": "context phase sunset, temp 18C",
+  "expires_at": "2026-09-06T23:40:18+10:00",
   "kind": "none",
   "label": "",
-  "lane": "sleep",
-  "published_at": "2026-09-06T17:20:18+10:00",
-  "title": "Sleep Recovery",
-  "topic_key": "sleep",
+  "lane": "local_signal",
+  "published_at": "2026-09-06T17:40:18+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
