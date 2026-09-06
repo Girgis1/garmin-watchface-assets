@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "return_of_jedi",
-  "cinematic_title": "Star Wars: Return of the Jedi",
-  "data_summary": "context phase sunset, temp 17C",
-  "expires_at": "2026-09-07T00:20:21+10:00",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "neverending_story",
+  "cinematic_title": "The NeverEnding Story",
+  "data_summary": "BED ~1:34 AM | 35/40 NIGHTS POST-MIDNIGHT | Median true sleep onset is 1:34 AM across 40 nights; 35 of them landed after midnight with a night-to-night spread of 1.4 hours. Earlier nights in this dataset averaged MORE sleep, not less.",
+  "expires_at": "2026-09-07T01:40:25+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-06T18:20:21+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-09-06T19:40:25+10:00",
+  "title": "Health Insight: BED ~1:34 AM",
+  "topic_key": "health_pattern_bedtime_chronic_late",
   "url": ""
 }
