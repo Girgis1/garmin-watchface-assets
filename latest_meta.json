@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "justice_league_2017",
-  "cinematic_title": "Justice League",
-  "data_summary": "sleep debt: 5.6h, score 69, 21-day avg 6.7h",
-  "expires_at": "2026-09-06T22:40:16+10:00",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "howls_moving_castle",
+  "cinematic_title": "Howl's Moving Castle",
+  "data_summary": "HRV BALANCED, avg 69 ms, 7 day balanced streak",
+  "expires_at": "2026-09-06T23:00:17+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-06T16:40:16+10:00",
-  "title": "Sleep Debt",
-  "topic_key": "health_sleep_debt",
+  "published_at": "2026-09-06T17:00:17+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
   "url": ""
 }
