@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "serenity",
-  "cinematic_title": "Serenity",
-  "data_summary": "context phase midday, temp 21C",
-  "expires_at": "2026-09-06T17:40:33+10:00",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "narnia",
+  "cinematic_title": "The Chronicles of Narnia",
+  "data_summary": "7D SLEEP 6H34 | +0M VS PRIOR 7D | The seven-day sleep average is 6.6 hours, 0 minutes above the prior seven days.",
+  "expires_at": "2026-09-06T18:00:39+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-06T11:40:33+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-09-06T12:00:39+10:00",
+  "title": "Health Insight: 7D SLEEP 6H34",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
