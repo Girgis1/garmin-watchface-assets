@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "mighty_ducks",
-  "cinematic_title": "The Mighty Ducks",
-  "data_summary": "SpO2 98%, respiration 14.0",
-  "expires_at": "2026-09-07T18:40:25+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "pacific_rim",
+  "cinematic_title": "Pacific Rim",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-09-07T19:00:26+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-07T12:40:25+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
+  "published_at": "2026-09-07T13:00:26+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
