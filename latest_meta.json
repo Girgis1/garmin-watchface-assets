@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "28_days_later",
-  "cinematic_title": "28 Days Later",
-  "data_summary": "context phase evening, temp 16C",
-  "expires_at": "2026-09-07T02:00:25+10:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "mighty_ducks",
+  "cinematic_title": "The Mighty Ducks",
+  "data_summary": "SpO2 98%, respiration 14.0",
+  "expires_at": "2026-09-07T18:40:25+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-06T20:00:25+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
+  "lane": "health",
+  "published_at": "2026-09-07T12:40:25+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
