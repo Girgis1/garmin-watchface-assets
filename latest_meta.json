@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "venom_carnage",
-  "cinematic_title": "Venom: Let There Be Carnage",
-  "data_summary": "OpenAI says ChatGPT outage causes image generation errors",
-  "expires_at": "2026-09-14T17:14:10+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-09-14T11:14:10+10:00",
-  "title": "News: OpenAI says ChatGPT outage causes image generation errors",
-  "topic_key": "interesting_signal_openai_says_chatgpt_outage_causes_im",
-  "url": "https://www.google.com/search?q=OpenAI+says+ChatGPT+outage+causes+image+generation+errors"
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "cowboys_aliens",
+  "cinematic_title": "Cowboys & Aliens",
+  "data_summary": "leave-work temp 16C, rain 6%, 0.1 mm",
+  "expires_at": "2026-09-14T22:40:07+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-09-14T16:40:07+10:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
