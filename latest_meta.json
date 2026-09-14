@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "her",
-  "cinematic_title": "Her",
-  "data_summary": "context phase sunset, temp 23C",
-  "expires_at": "2026-09-14T23:40:10+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "kung_fu_panda",
+  "cinematic_title": "Kung Fu Panda",
+  "data_summary": "INTENSITY 537 MIN | 7% VS PRIOR 7D | Weighted intensity minutes total 537 across the last seven days versus 575 in the prior seven-day window.",
+  "expires_at": "2026-09-15T00:00:13+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-14T17:40:10+10:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-09-14T18:00:13+10:00",
+  "title": "Health Insight: INTENSITY 537 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
