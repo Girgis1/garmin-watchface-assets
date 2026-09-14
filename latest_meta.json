@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "umbrella_academy",
-  "cinematic_title": "The Umbrella Academy",
-  "data_summary": "7D SLEEP 6H30 | 24M VS PRIOR 7D | The seven-day sleep average is 6.5 hours, 24 minutes below the prior seven days.",
-  "expires_at": "2026-09-14T23:00:08+10:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "super_8",
+  "cinematic_title": "Super 8",
+  "data_summary": "BB<20: 8/30 DAYS | 7/8 ALSO STRESS 35+ | Body Battery finished below 20 on 8 of 30 recent complete days; 7 of those days also had average stress of 35 or higher.",
+  "expires_at": "2026-09-14T23:20:09+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-14T17:00:08+10:00",
-  "title": "Health Insight: 7D SLEEP 6H30",
-  "topic_key": "health_weekly_sleep_trend",
+  "published_at": "2026-09-14T17:20:09+10:00",
+  "title": "Health Insight: BB<20: 8/30 DAYS",
+  "topic_key": "health_pattern_low_body_battery_freq",
   "url": ""
 }
