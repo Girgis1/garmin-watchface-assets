@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "truman_show",
-  "cinematic_title": "The Truman Show",
-  "data_summary": "University of Sydney students and staff to receive access to OpenAI\u2019s ChatGPT Edu tool",
-  "expires_at": "2026-09-15T02:20:23+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-09-14T20:20:23+10:00",
-  "title": "News: University of Sydney students and staff to receive access to",
-  "topic_key": "interesting_signal_university_of_sydney_students_and_st",
-  "url": "https://www.google.com/search?q=University+of+Sydney+students+and+staff+to+receive+access+to+OpenAI%E2%80%99s+ChatGPT+Edu+tool"
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "the_sopranos",
+  "cinematic_title": "The Sopranos",
+  "data_summary": "waxing crescent, 7% illuminated",
+  "expires_at": "2026-09-15T02:40:24+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-09-14T20:40:24+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
