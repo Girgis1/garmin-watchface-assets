@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "cowboys_aliens",
-  "cinematic_title": "Cowboys & Aliens",
-  "data_summary": "leave-work temp 16C, rain 6%, 0.1 mm",
-  "expires_at": "2026-09-14T22:40:07+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather_departure",
-  "published_at": "2026-09-14T16:40:07+10:00",
-  "title": "Leave-Work Weather",
-  "topic_key": "leave_work_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "umbrella_academy",
+  "cinematic_title": "The Umbrella Academy",
+  "data_summary": "7D SLEEP 6H30 | 24M VS PRIOR 7D | The seven-day sleep average is 6.5 hours, 24 minutes below the prior seven days.",
+  "expires_at": "2026-09-14T23:00:08+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-09-14T17:00:08+10:00",
+  "title": "Health Insight: 7D SLEEP 6H30",
+  "topic_key": "health_weekly_sleep_trend",
+  "url": ""
 }
