@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "watchmen",
-  "cinematic_title": "Watchmen",
-  "data_summary": "# Garmin Health Insight Generated: 2026-09-07T14:37:31+10:00 Data through: 2026-09-07 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND +1.8/DAY** | 62 -> 93 / 14D | DON'T BREAK THE",
-  "expires_at": "2026-09-07T20:40:31+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "artificial_intelligence",
+  "cinematic_title": "A.I. Artificial Intelligence",
+  "data_summary": "context phase midday, temp 26C",
+  "expires_at": "2026-09-14T17:12:55+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-07T14:40:31+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "lane": "local_signal",
+  "published_at": "2026-09-14T11:12:55+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
