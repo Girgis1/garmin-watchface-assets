@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "wall_e",
-  "cinematic_title": "WALL-E",
-  "data_summary": "context phase evening, temp 20C",
-  "expires_at": "2026-09-15T02:00:22+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-14T20:00:22+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
-  "url": ""
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "truman_show",
+  "cinematic_title": "The Truman Show",
+  "data_summary": "University of Sydney students and staff to receive access to OpenAI\u2019s ChatGPT Edu tool",
+  "expires_at": "2026-09-15T02:20:23+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-14T20:20:23+10:00",
+  "title": "News: University of Sydney students and staff to receive access to",
+  "topic_key": "interesting_signal_university_of_sydney_students_and_st",
+  "url": "https://www.google.com/search?q=University+of+Sydney+students+and+staff+to+receive+access+to+OpenAI%E2%80%99s+ChatGPT+Edu+tool"
 }
