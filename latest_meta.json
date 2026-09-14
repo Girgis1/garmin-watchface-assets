@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "evangelion_thrice",
-  "cinematic_title": "Evangelion: 3.0+1.0",
-  "data_summary": "HRV 72 MS | +5.9 VS PRIOR 7D | Seven-day HRV averages 71.7 ms versus 65.8 ms in the prior seven days; latest status is balanced.",
-  "expires_at": "2026-09-15T01:40:19+10:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "wall_e",
+  "cinematic_title": "WALL-E",
+  "data_summary": "context phase evening, temp 20C",
+  "expires_at": "2026-09-15T02:00:22+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-14T19:40:19+10:00",
-  "title": "Health Insight: HRV 72 MS",
-  "topic_key": "health_hrv_weekly_trend",
+  "lane": "local_signal",
+  "published_at": "2026-09-14T20:00:22+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
   "url": ""
 }
