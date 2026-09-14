@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "midsommar",
-  "cinematic_title": "Midsommar",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-09-15T00:20:14+10:00",
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "hey_arnold",
+  "cinematic_title": "Hey Arnold!",
+  "data_summary": "RHR UP, HRV DOWN | R=-0.51 / N=27 | Across 27 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.51. Treat this as a personal trend signal, not a diagnosis.",
+  "expires_at": "2026-09-15T00:40:15+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-14T18:20:14+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
+  "published_at": "2026-09-14T18:40:15+10:00",
+  "title": "Health Insight: RHR UP, HRV DOWN",
+  "topic_key": "health_pattern_rhr_hrv_relationship",
   "url": ""
 }
