@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "labyrinth",
-  "cinematic_title": "Labyrinth",
-  "data_summary": "training intensity minutes today 0",
-  "expires_at": "2026-09-15T04:00:29+10:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "halloween_1978",
+  "cinematic_title": "Halloween",
+  "data_summary": "SpO2 98%, respiration 14.0",
+  "expires_at": "2026-09-16T01:11:58+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-14T22:00:29+10:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
+  "published_at": "2026-09-15T19:11:58+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
