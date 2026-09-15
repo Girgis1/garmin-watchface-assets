@@ -2,13 +2,13 @@
   "cinematic_group": "horror_thriller",
   "cinematic_key": "halloween_1978",
   "cinematic_title": "Halloween",
-  "data_summary": "SpO2 98%, respiration 14.0",
-  "expires_at": "2026-09-16T01:11:58+10:00",
+  "data_summary": "BB TREND +2.5/DAY | 82 -> 83 / 13D | Comparable wake-time Body Battery values moved from 82 to 83, with a fitted trend of +2.5 points per day.",
+  "expires_at": "2026-09-16T01:14:16+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-15T19:11:58+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
+  "published_at": "2026-09-15T19:14:16+10:00",
+  "title": "Health Insight: BB TREND +2.5/DAY",
+  "topic_key": "health_pattern_body_battery_14d_tren",
   "url": ""
 }
