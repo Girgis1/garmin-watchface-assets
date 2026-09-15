@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "iron_giant",
-  "cinematic_title": "The Iron Giant",
-  "data_summary": "SLEEP 6H49 | +5M VS 4W AVG | Last sleep was 6.8 hours with score 79, versus a four-week average of 6.7 hours.",
-  "expires_at": "2026-09-16T02:20:35+10:00",
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "fargo_series",
+  "cinematic_title": "Fargo",
+  "data_summary": "context phase evening, temp 15C",
+  "expires_at": "2026-09-16T02:40:36+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-15T20:20:35+10:00",
-  "title": "Health Insight: SLEEP 6H49",
-  "topic_key": "health_sleep_vs_baseline",
+  "lane": "local_signal",
+  "published_at": "2026-09-15T20:40:36+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
   "url": ""
 }
