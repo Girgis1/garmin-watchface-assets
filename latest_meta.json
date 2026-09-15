@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "the_rock",
-  "cinematic_title": "The Rock",
-  "data_summary": "STRESSFUL BEFORE BED | 9 OF 14 NIGHTS | Garmin's Body Battery feedback marked 9 of 14 recent nights as stressful around sleep preparation.",
-  "expires_at": "2026-09-16T03:00:38+10:00",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "mortal_kombat_1995",
+  "cinematic_title": "Mortal Kombat",
+  "data_summary": "7D SLEEP 6H52 | +26M VS PRIOR 7D | The seven-day sleep average is 6.9 hours, 26 minutes above the prior seven days.",
+  "expires_at": "2026-09-16T04:20:07+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-15T21:00:38+10:00",
-  "title": "Health Insight: STRESSFUL BEFORE BED",
-  "topic_key": "health_pattern_pre_sleep_stress_feed",
+  "published_at": "2026-09-15T22:20:07+10:00",
+  "title": "Health Insight: 7D SLEEP 6H52",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
