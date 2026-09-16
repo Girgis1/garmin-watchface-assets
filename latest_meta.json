@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "mortal_kombat_1995",
-  "cinematic_title": "Mortal Kombat",
-  "data_summary": "7D SLEEP 6H52 | +26M VS PRIOR 7D | The seven-day sleep average is 6.9 hours, 26 minutes above the prior seven days.",
-  "expires_at": "2026-09-16T04:20:07+10:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "matrix",
+  "cinematic_title": "The Matrix",
+  "data_summary": "goodnight stage firm: Sleep window is open. Try entering it.; no extra alerts",
+  "expires_at": "2026-09-17T05:20:40+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-15T22:20:07+10:00",
-  "title": "Health Insight: 7D SLEEP 6H52",
-  "topic_key": "health_weekly_sleep_trend",
+  "lane": "goodnight",
+  "published_at": "2026-09-16T23:20:40+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
