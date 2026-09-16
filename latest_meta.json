@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "school_rock",
-  "cinematic_title": "School of Rock",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "nightmare_elm_street",
+  "cinematic_title": "A Nightmare on Elm Street",
   "data_summary": "morning briefing: no major weather/sleep drama",
-  "expires_at": "2026-09-17T14:00:04+10:00",
+  "expires_at": "2026-09-17T14:20:05+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-09-17T08:00:04+10:00",
+  "published_at": "2026-09-17T08:20:05+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
