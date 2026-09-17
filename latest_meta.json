@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "supernatural",
-  "cinematic_title": "Supernatural",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "prince_persia",
+  "cinematic_title": "Prince of Persia: The Sands of Time",
   "data_summary": "morning briefing: no major weather/sleep drama",
-  "expires_at": "2026-09-18T13:37:42+10:00",
+  "expires_at": "2026-09-18T14:40:22+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-09-18T07:37:42+10:00",
+  "published_at": "2026-09-18T08:40:22+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
