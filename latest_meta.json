@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "starship_troopers",
-  "cinematic_title": "Starship Troopers",
-  "data_summary": "Government sells ex-Sydney Metro substation site",
-  "expires_at": "2026-09-18T19:40:41+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-09-18T13:40:41+10:00",
-  "title": "News: Government sells ex-Sydney Metro substation site",
-  "topic_key": "interesting_signal_government_sells_ex_sydney_metro_sub",
-  "url": "https://www.google.com/search?q=Government+sells+ex-Sydney+Metro+substation+site"
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "face_off",
+  "cinematic_title": "Face/Off",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-09-18T20:00:42+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-09-18T14:00:42+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
+  "url": ""
 }
