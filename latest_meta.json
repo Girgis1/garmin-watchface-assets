@@ -1,13 +1,13 @@
 {
   "cinematic_group": "tv_animation",
-  "cinematic_key": "scooby_doo",
-  "cinematic_title": "Scooby-Doo",
+  "cinematic_key": "ed_edd_eddy",
+  "cinematic_title": "Ed, Edd n Eddy",
   "data_summary": "SpO2 98%, respiration 14.0",
-  "expires_at": "2026-09-18T22:20:48+10:00",
+  "expires_at": "2026-09-18T22:40:49+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-18T16:20:48+10:00",
+  "published_at": "2026-09-18T16:40:49+10:00",
   "title": "Breathing Steady",
   "topic_key": "health_breathing_steady",
   "url": ""
