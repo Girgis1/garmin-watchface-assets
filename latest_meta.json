@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "happy_feet",
-  "cinematic_title": "Happy Feet",
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "gravity_falls",
+  "cinematic_title": "Gravity Falls",
   "data_summary": "morning briefing: no major weather/sleep drama",
-  "expires_at": "2026-09-19T15:01:00+10:00",
+  "expires_at": "2026-09-19T15:20:00+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-09-19T09:01:00+10:00",
+  "published_at": "2026-09-19T09:20:00+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
