@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "ed_edd_eddy",
-  "cinematic_title": "Ed, Edd n Eddy",
-  "data_summary": "SpO2 98%, respiration 14.0",
-  "expires_at": "2026-09-18T22:40:49+10:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "the_ring",
+  "cinematic_title": "The Ring",
+  "data_summary": "context phase sunset, temp 23C",
+  "expires_at": "2026-09-18T23:00:51+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-18T16:40:49+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
+  "lane": "local_signal",
+  "published_at": "2026-09-18T17:00:51+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
