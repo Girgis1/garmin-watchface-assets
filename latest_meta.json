@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "cloudy_meatballs",
-  "cinematic_title": "Cloudy with a Chance of Meatballs",
-  "data_summary": "# Garmin Health Insight Generated: 2026-09-18T15:57:47+10:00 Data through: 2026-09-18 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND +1.7/DAY** | 62 -> 87 / 13D | DON'T BREAK THE",
-  "expires_at": "2026-09-18T22:00:48+10:00",
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "scooby_doo",
+  "cinematic_title": "Scooby-Doo",
+  "data_summary": "SpO2 98%, respiration 14.0",
+  "expires_at": "2026-09-18T22:20:48+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-18T16:00:48+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-09-18T16:20:48+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
