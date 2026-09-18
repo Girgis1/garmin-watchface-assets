@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "fight_club",
-  "cinematic_title": "Fight Club",
-  "data_summary": "training intensity minutes today 9",
-  "expires_at": "2026-09-19T04:00:19+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "blade_1998",
+  "cinematic_title": "Blade",
+  "data_summary": "HRV BALANCED, avg 76 ms, 15 day balanced streak",
+  "expires_at": "2026-09-19T04:20:20+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-18T22:00:19+10:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
+  "published_at": "2026-09-18T22:20:20+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
   "url": ""
 }
