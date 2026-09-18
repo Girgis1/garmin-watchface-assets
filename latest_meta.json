@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "doctor_who",
-  "cinematic_title": "Doctor Who",
-  "data_summary": "INTENSITY 190 MIN | 68% VS PRIOR 7D | Weighted intensity minutes total 190 across the last seven days versus 600 in the prior seven-day window.",
-  "expires_at": "2026-09-18T17:40:35+10:00",
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "avatar_airbender",
+  "cinematic_title": "Avatar: The Last Airbender",
+  "data_summary": "HRV 76 MS | +8.4 VS PRIOR 7D | Seven-day HRV averages 76.0 ms versus 67.6 ms in the prior seven days; latest status is balanced.",
+  "expires_at": "2026-09-18T18:00:36+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-18T11:40:35+10:00",
-  "title": "Health Insight: INTENSITY 190 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-09-18T12:00:36+10:00",
+  "title": "Health Insight: HRV 76 MS",
+  "topic_key": "health_hrv_weekly_trend",
   "url": ""
 }
