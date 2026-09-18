@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "the_flash",
-  "cinematic_title": "The Flash",
-  "data_summary": "SLEEP 6H57 | +13M VS 4W AVG | Last sleep was 7.0 hours with score 86, versus a four-week average of 6.7 hours.",
-  "expires_at": "2026-09-18T18:40:38+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-09-18T12:40:38+10:00",
-  "title": "Health Insight: SLEEP 6H57",
-  "topic_key": "health_sleep_vs_baseline",
-  "url": ""
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "starship_troopers",
+  "cinematic_title": "Starship Troopers",
+  "data_summary": "Government sells ex-Sydney Metro substation site",
+  "expires_at": "2026-09-18T19:40:41+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-18T13:40:41+10:00",
+  "title": "News: Government sells ex-Sydney Metro substation site",
+  "topic_key": "interesting_signal_government_sells_ex_sydney_metro_sub",
+  "url": "https://www.google.com/search?q=Government+sells+ex-Sydney+Metro+substation+site"
 }
