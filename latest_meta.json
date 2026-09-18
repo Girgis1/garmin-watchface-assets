@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "jumanji_1995",
-  "cinematic_title": "Jumanji",
-  "data_summary": "BB<20: 6/30 DAYS | 5/6 ALSO STRESS 35+ | Body Battery finished below 20 on 6 of 30 recent complete days; 5 of those days also had average stress of 35 or higher.",
-  "expires_at": "2026-09-18T17:00:29+10:00",
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "doctor_who",
+  "cinematic_title": "Doctor Who",
+  "data_summary": "INTENSITY 190 MIN | 68% VS PRIOR 7D | Weighted intensity minutes total 190 across the last seven days versus 600 in the prior seven-day window.",
+  "expires_at": "2026-09-18T17:40:35+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-18T11:00:29+10:00",
-  "title": "Health Insight: BB<20: 6/30 DAYS",
-  "topic_key": "health_pattern_low_body_battery_freq",
+  "published_at": "2026-09-18T11:40:35+10:00",
+  "title": "Health Insight: INTENSITY 190 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
