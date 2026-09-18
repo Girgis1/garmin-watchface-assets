@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "nope",
-  "cinematic_title": "Nope",
-  "data_summary": "7D SLEEP 7H06 | +42M VS PRIOR 7D | The seven-day sleep average is 7.1 hours, 42 minutes above the prior seven days.",
-  "expires_at": "2026-09-19T00:20:03+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-09-18T18:20:03+10:00",
-  "title": "Health Insight: 7D SLEEP 7H06",
-  "topic_key": "health_weekly_sleep_trend",
-  "url": ""
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "tomb_raider",
+  "cinematic_title": "Lara Croft: Tomb Raider",
+  "data_summary": "Security Researchers Hacked Into OpenAI Using Anthropic\u2019s Claude",
+  "expires_at": "2026-09-19T00:40:07+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-18T18:40:07+10:00",
+  "title": "News: Security Researchers Hacked Into OpenAI Using Anthropic\u2019s Claude",
+  "topic_key": "interesting_signal_security_researchers_hacked_into_ope",
+  "url": "https://www.google.com/search?q=Security+Researchers+Hacked+Into+OpenAI+Using+Anthropic%E2%80%99s+Claude"
 }
