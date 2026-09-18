@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "top_gun_maverick",
-  "cinematic_title": "Top Gun: Maverick",
-  "data_summary": "morning briefing: no major weather/sleep drama",
-  "expires_at": "2026-09-18T15:40:25+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "castle_in_the_sky",
+  "cinematic_title": "Castle in the Sky",
+  "data_summary": "context phase midday, temp 20C",
+  "expires_at": "2026-09-18T16:40:28+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-09-18T09:40:25+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "local_signal",
+  "published_at": "2026-09-18T10:40:28+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
