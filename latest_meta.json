@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "face_off",
-  "cinematic_title": "Face/Off",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-09-18T20:00:42+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "ant_man_quantumania",
+  "cinematic_title": "Ant-Man and the Wasp: Quantumania",
+  "data_summary": "RHR UP, HRV DOWN | R=-0.55 / N=28 | Across 28 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.55. Treat this as a personal trend signal, not a diagnosis.",
+  "expires_at": "2026-09-18T20:20:42+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-18T14:00:42+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
+  "published_at": "2026-09-18T14:20:42+10:00",
+  "title": "Health Insight: RHR UP, HRV DOWN",
+  "topic_key": "health_pattern_rhr_hrv_relationship",
   "url": ""
 }
