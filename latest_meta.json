@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "willow",
-  "cinematic_title": "Willow",
-  "data_summary": "context phase night, temp 15C",
-  "expires_at": "2026-09-19T04:40:21+10:00",
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "brooklyn_99",
+  "cinematic_title": "Brooklyn Nine-Nine",
+  "data_summary": "goodnight stage firm: Cease tinkering. The tiny tools are tired.; no extra alerts",
+  "expires_at": "2026-09-19T05:20:23+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-18T22:40:21+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
+  "lane": "goodnight",
+  "published_at": "2026-09-18T23:20:23+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
