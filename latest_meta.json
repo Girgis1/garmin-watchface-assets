@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "dumb_and_dumber",
-  "cinematic_title": "Dumb and Dumber",
-  "data_summary": "BB TREND +1.7/DAY | 62 -> 87 / 13D | Comparable wake-time Body Battery values moved from 62 to 87, with a fitted trend of +1.7 points per day.",
-  "expires_at": "2026-09-19T02:20:12+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "frozen",
+  "cinematic_title": "Frozen",
+  "data_summary": "context phase night, temp 17C",
+  "expires_at": "2026-09-19T03:00:14+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-18T20:20:12+10:00",
-  "title": "Health Insight: BB TREND +1.7/DAY",
-  "topic_key": "health_pattern_body_battery_14d_tren",
+  "lane": "local_signal",
+  "published_at": "2026-09-18T21:00:14+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
   "url": ""
 }
