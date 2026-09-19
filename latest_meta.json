@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "doctor_strange_multiverse",
-  "cinematic_title": "Doctor Strange in the Multiverse of Madness",
-  "data_summary": "SLEEP 4H30 | 133M VS 4W AVG | Last sleep was 4.5 hours with score 50, versus a four-week average of 6.7 hours.",
-  "expires_at": "2026-09-19T17:00:06+10:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "space_odyssey",
+  "cinematic_title": "2001: A Space Odyssey",
+  "data_summary": "BED ~1:33 AM | 34/39 NIGHTS POST-MIDNIGHT | Median true sleep onset is 1:33 AM across 39 nights; 34 of them landed after midnight with a night-to-night spread of 1.4 hours. Earlier nights in this dataset averaged MORE sleep, not less.",
+  "expires_at": "2026-09-19T17:20:10+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-19T11:00:06+10:00",
-  "title": "Health Insight: SLEEP 4H30",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-09-19T11:20:10+10:00",
+  "title": "Health Insight: BED ~1:33 AM",
+  "topic_key": "health_pattern_bedtime_chronic_late",
   "url": ""
 }
