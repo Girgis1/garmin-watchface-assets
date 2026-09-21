@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "sicario",
-  "cinematic_title": "Sicario",
-  "data_summary": "The \u2018optimal\u2019 suburb for major metro train station in Sydney\u2019s north-west",
-  "expires_at": "2026-09-21T20:40:12+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-09-21T14:40:12+10:00",
-  "title": "News: \u2018optimal\u2019 suburb for major metro train station in Sydney\u2019s",
-  "topic_key": "interesting_signal_optimal_suburb_for_major_metro_train",
-  "url": "https://www.google.com/search?q=The+%E2%80%98optimal%E2%80%99+suburb+for+major+metro+train+station+in+Sydney%E2%80%99s+north-west"
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "underworld",
+  "cinematic_title": "Underworld",
+  "data_summary": "7D SLEEP 5H57 | 32M VS PRIOR 7D | The seven-day sleep average is 6.0 hours, 32 minutes below the prior seven days.",
+  "expires_at": "2026-09-21T21:20:14+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-09-21T15:20:14+10:00",
+  "title": "Health Insight: 7D SLEEP 5H57",
+  "topic_key": "health_weekly_sleep_trend",
+  "url": ""
 }
