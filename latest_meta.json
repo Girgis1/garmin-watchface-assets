@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "arcane",
-  "cinematic_title": "Arcane",
-  "data_summary": "INTENSITY 26 MIN | 95% VS PRIOR 7D | Weighted intensity minutes total 26 across the last seven days versus 541 in the prior seven-day window.",
-  "expires_at": "2026-09-22T04:20:43+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "aquaman",
+  "cinematic_title": "Aquaman",
+  "data_summary": "daily phase night, temp 15C",
+  "expires_at": "2026-09-22T04:40:44+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-21T22:20:43+10:00",
-  "title": "Health Insight: INTENSITY 26 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "lane": "local_signal",
+  "published_at": "2026-09-21T22:40:44+10:00",
+  "title": "Daily Context",
+  "topic_key": "daily_context",
   "url": ""
 }
