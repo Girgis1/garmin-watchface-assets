@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "aquaman",
-  "cinematic_title": "Aquaman",
-  "data_summary": "daily phase night, temp 15C",
-  "expires_at": "2026-09-22T04:40:44+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "xmen_first_class",
+  "cinematic_title": "X-Men: First Class",
+  "data_summary": "goodnight stage soft: Close a few tabs. Yes, the brain ones too.; SLEEP DEBT 5.7H",
+  "expires_at": "2026-09-22T05:00:45+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-21T22:40:44+10:00",
-  "title": "Daily Context",
-  "topic_key": "daily_context",
+  "lane": "goodnight",
+  "published_at": "2026-09-21T23:00:45+10:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
