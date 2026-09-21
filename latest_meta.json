@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "rango",
-  "cinematic_title": "Rango",
-  "data_summary": "waxing gibbous, 73% illuminated",
-  "expires_at": "2026-09-22T02:40:38+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-09-21T20:40:38+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "arcane",
+  "cinematic_title": "Arcane",
+  "data_summary": "INTENSITY 26 MIN | 95% VS PRIOR 7D | Weighted intensity minutes total 26 across the last seven days versus 541 in the prior seven-day window.",
+  "expires_at": "2026-09-22T04:20:43+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-09-21T22:20:43+10:00",
+  "title": "Health Insight: INTENSITY 26 MIN",
+  "topic_key": "health_weekly_intensity_load",
+  "url": ""
 }
