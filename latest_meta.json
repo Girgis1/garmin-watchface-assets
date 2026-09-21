@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "underworld",
-  "cinematic_title": "Underworld",
-  "data_summary": "7D SLEEP 5H57 | 32M VS PRIOR 7D | The seven-day sleep average is 6.0 hours, 32 minutes below the prior seven days.",
-  "expires_at": "2026-09-21T21:20:14+10:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "crouching_tiger",
+  "cinematic_title": "Crouching Tiger, Hidden Dragon",
+  "data_summary": "context phase sunset, temp 19C",
+  "expires_at": "2026-09-21T21:40:15+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-21T15:20:14+10:00",
-  "title": "Health Insight: 7D SLEEP 5H57",
-  "topic_key": "health_weekly_sleep_trend",
+  "lane": "local_signal",
+  "published_at": "2026-09-21T15:40:15+10:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
