@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "space_odyssey",
-  "cinematic_title": "2001: A Space Odyssey",
-  "data_summary": "BED ~1:33 AM | 34/39 NIGHTS POST-MIDNIGHT | Median true sleep onset is 1:33 AM across 39 nights; 34 of them landed after midnight with a night-to-night spread of 1.4 hours. Earlier nights in this dataset averaged MORE sleep, not less.",
-  "expires_at": "2026-09-19T17:20:10+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-09-19T11:20:10+10:00",
-  "title": "Health Insight: BED ~1:33 AM",
-  "topic_key": "health_pattern_bedtime_chronic_late",
-  "url": ""
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "sicario",
+  "cinematic_title": "Sicario",
+  "data_summary": "The \u2018optimal\u2019 suburb for major metro train station in Sydney\u2019s north-west",
+  "expires_at": "2026-09-21T20:40:12+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-21T14:40:12+10:00",
+  "title": "News: \u2018optimal\u2019 suburb for major metro train station in Sydney\u2019s",
+  "topic_key": "interesting_signal_optimal_suburb_for_major_metro_train",
+  "url": "https://www.google.com/search?q=The+%E2%80%98optimal%E2%80%99+suburb+for+major+metro+train+station+in+Sydney%E2%80%99s+north-west"
 }
