@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "mad_men",
-  "cinematic_title": "Mad Men",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "psycho",
+  "cinematic_title": "Psycho",
   "data_summary": "morning briefing: no major weather/sleep drama",
-  "expires_at": "2026-09-23T14:20:56+10:00",
+  "expires_at": "2026-09-23T14:40:57+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-09-23T08:20:56+10:00",
+  "published_at": "2026-09-23T08:40:57+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
