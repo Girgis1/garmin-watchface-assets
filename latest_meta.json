@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "martian",
-  "cinematic_title": "The Martian",
-  "data_summary": "goodnight stage midnight_strict: GO TO BED. The internet is closed to you.; RAIN 57% 12AM",
-  "expires_at": "2026-09-23T06:00:18+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "ponyo",
+  "cinematic_title": "Ponyo",
+  "data_summary": "morning briefing: no major weather/sleep drama",
+  "expires_at": "2026-09-23T14:00:55+10:00",
   "kind": "none",
   "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-09-23T00:00:18+10:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "lane": "morning",
+  "published_at": "2026-09-23T08:00:55+10:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
