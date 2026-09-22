@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "enders_game",
-  "cinematic_title": "Ender's Game",
-  "data_summary": "RHR UP, HRV DOWN | R=-0.67 / N=28 | Across 28 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.67. Treat this as a personal trend signal, not a diagnosis.",
-  "expires_at": "2026-09-22T16:00:25+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "encanto",
+  "cinematic_title": "Encanto",
+  "data_summary": "7D SLEEP 6H01 | 51M VS PRIOR 7D | The seven-day sleep average is 6.0 hours, 51 minutes below the prior seven days.",
+  "expires_at": "2026-09-22T16:20:25+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-22T10:00:25+10:00",
-  "title": "Health Insight: RHR UP, HRV DOWN",
-  "topic_key": "health_pattern_rhr_hrv_relationship",
+  "published_at": "2026-09-22T10:20:25+10:00",
+  "title": "Health Insight: 7D SLEEP 6H01",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
