@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "goonies",
-  "cinematic_title": "The Goonies",
-  "data_summary": "waxing gibbous, 80% illuminated",
-  "expires_at": "2026-09-22T23:40:48+10:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-09-22T17:40:48+10:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "hitchhikers_guide",
+  "cinematic_title": "The Hitchhiker's Guide to the Galaxy",
+  "data_summary": "leave-work temp 18C, rain 20%, 0.0 mm",
+  "expires_at": "2026-09-23T00:00:50+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-09-22T18:00:50+10:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
