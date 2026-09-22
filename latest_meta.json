@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "ready_player_one",
-  "cinematic_title": "Ready Player One",
-  "data_summary": "# Garmin Health Insight Generated: 2026-09-22T14:57:39+10:00 Data through: 2026-09-22 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **BB TREND -2.9/DAY** | 89 -> 71 / 13D | MAKE TODAY THE ",
-  "expires_at": "2026-09-22T21:00:40+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-09-22T15:00:40+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
-  "url": ""
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "jurassic_park",
+  "cinematic_title": "Jurassic Park",
+  "data_summary": "leave-work temp 17C, rain 20%, 0.0 mm",
+  "expires_at": "2026-09-22T21:20:41+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-09-22T15:20:41+10:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
