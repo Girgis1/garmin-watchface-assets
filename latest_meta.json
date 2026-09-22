@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "matrix_revolutions",
-  "cinematic_title": "The Matrix Revolutions",
-  "data_summary": "context phase night, temp 15C",
-  "expires_at": "2026-09-23T03:00:09+10:00",
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "dragon_ball_z",
+  "cinematic_title": "Dragon Ball Z",
+  "data_summary": "INTENSITY 54 MIN | 86% VS PRIOR 7D | Weighted intensity minutes total 54 across the last seven days versus 397 in the prior seven-day window.",
+  "expires_at": "2026-09-23T04:00:13+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-22T21:00:09+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
+  "lane": "health",
+  "published_at": "2026-09-22T22:00:13+10:00",
+  "title": "Health Insight: INTENSITY 54 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
