@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "phantom_menace",
-  "cinematic_title": "Star Wars: The Phantom Menace",
-  "data_summary": "training intensity minutes today 2",
-  "expires_at": "2026-09-22T23:00:46+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-09-22T17:00:46+10:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
-  "url": ""
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "sky_captain",
+  "cinematic_title": "Sky Captain and the World of Tomorrow",
+  "data_summary": "next-hour temp 15.2C, rain 70%, 0.3 mm",
+  "expires_at": "2026-09-22T23:20:47+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-09-22T17:20:47+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
