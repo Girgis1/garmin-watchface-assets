@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "skyfall",
-  "cinematic_title": "Skyfall",
-  "data_summary": "context phase evening, temp 15C",
-  "expires_at": "2026-09-23T01:00:04+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-22T19:00:04+10:00",
-  "title": "Evening Context",
-  "topic_key": "ambient_context_evening",
-  "url": ""
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "elysium",
+  "cinematic_title": "Elysium",
+  "data_summary": "next-hour temp 14.9C, rain 85%, 0.2 mm",
+  "expires_at": "2026-09-23T02:00:07+10:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-09-22T20:00:07+10:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
