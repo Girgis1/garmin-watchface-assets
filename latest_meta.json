@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "elysium",
-  "cinematic_title": "Elysium",
-  "data_summary": "next-hour temp 14.9C, rain 85%, 0.2 mm",
-  "expires_at": "2026-09-23T02:00:07+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-09-22T20:00:07+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "street_fighter_1994",
+  "cinematic_title": "Street Fighter",
+  "data_summary": "HRV BALANCED, avg 69 ms, 17 day balanced streak",
+  "expires_at": "2026-09-23T02:40:08+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-09-22T20:40:08+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
+  "url": ""
 }
