@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "mrs_doubtfire",
-  "cinematic_title": "Mrs. Doubtfire",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-09-22T18:00:31+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-09-22T12:00:31+10:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "dune_part_two",
+  "cinematic_title": "Dune: Part Two",
+  "data_summary": "Labor sits on Western Sydney Metro options as infrastructure pipeline runs dry",
+  "expires_at": "2026-09-22T18:20:32+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-22T12:20:32+10:00",
+  "title": "News: Labor sits on Western Sydney Metro options as infrastructure",
+  "topic_key": "interesting_signal_labor_sits_on_western_sydney_metro_o",
+  "url": "https://www.google.com/search?q=Labor+sits+on+Western+Sydney+Metro+options+as+infrastructure+pipeline+runs+dry"
 }
