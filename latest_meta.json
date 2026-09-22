@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "treasure_planet",
-  "cinematic_title": "Treasure Planet",
-  "data_summary": "next-hour temp 15.3C, rain 61%, 0.4 mm",
-  "expires_at": "2026-09-22T22:20:44+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-09-22T16:20:44+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "predator",
+  "cinematic_title": "Predator",
+  "data_summary": "Western Sydney Metro Stations Complete as $3bn Road Deals Signed",
+  "expires_at": "2026-09-22T22:40:45+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-22T16:40:45+10:00",
+  "title": "News: Western Sydney Metro Stations Complete as $3bn Road Deals Signed",
+  "topic_key": "interesting_signal_western_sydney_metro_stations_comple",
+  "url": "https://www.google.com/search?q=Western+Sydney+Metro+Stations+Complete+as+%243bn+Road+Deals+Signed"
 }
