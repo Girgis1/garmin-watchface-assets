@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "raiders_lost_ark",
-  "cinematic_title": "Raiders of the Lost Ark",
-  "data_summary": "HRV 72 MS | BALANCED 19 DAYS | Seven-day HRV averages 72.1 ms versus 73.1 ms in the prior seven days; latest status is balanced.",
-  "expires_at": "2026-09-22T17:00:28+10:00",
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "how_i_met_your_mother",
+  "cinematic_title": "How I Met Your Mother",
+  "data_summary": "SLEEP 7H11 | +41M VS 4W AVG | Last sleep was 7.2 hours with score 65, versus a four-week average of 6.5 hours.",
+  "expires_at": "2026-09-22T17:20:28+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-22T11:00:28+10:00",
-  "title": "Health Insight: HRV 72 MS",
-  "topic_key": "health_hrv_weekly_trend",
+  "published_at": "2026-09-22T11:20:28+10:00",
+  "title": "Health Insight: SLEEP 7H11",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
