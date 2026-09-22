@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "suicide_squad_2016",
-  "cinematic_title": "Suicide Squad",
-  "data_summary": "40 flood rescues in three hours after heavy rain hits Sydney",
-  "expires_at": "2026-09-23T00:41:00+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-09-22T18:41:00+10:00",
-  "title": "News: 40 flood rescues in three hours after heavy rain hits",
-  "topic_key": "interesting_signal_40_flood_rescues_in_three_hours_afte",
-  "url": "https://www.google.com/search?q=40+flood+rescues+in+three+hours+after+heavy+rain+hits+Sydney"
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "skyfall",
+  "cinematic_title": "Skyfall",
+  "data_summary": "context phase evening, temp 15C",
+  "expires_at": "2026-09-23T01:00:04+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-09-22T19:00:04+10:00",
+  "title": "Evening Context",
+  "topic_key": "ambient_context_evening",
+  "url": ""
 }
