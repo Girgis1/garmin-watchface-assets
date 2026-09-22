@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "how_i_met_your_mother",
-  "cinematic_title": "How I Met Your Mother",
-  "data_summary": "SLEEP 7H11 | +41M VS 4W AVG | Last sleep was 7.2 hours with score 65, versus a four-week average of 6.5 hours.",
-  "expires_at": "2026-09-22T17:20:28+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "avengers_age_ultron",
+  "cinematic_title": "Avengers: Age of Ultron",
+  "data_summary": "context phase midday, temp 16C",
+  "expires_at": "2026-09-22T17:40:29+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-22T11:20:28+10:00",
-  "title": "Health Insight: SLEEP 7H11",
-  "topic_key": "health_sleep_vs_baseline",
+  "lane": "local_signal",
+  "published_at": "2026-09-22T11:40:29+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
