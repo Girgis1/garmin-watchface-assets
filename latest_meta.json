@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "avengers_age_ultron",
-  "cinematic_title": "Avengers: Age of Ultron",
-  "data_summary": "context phase midday, temp 16C",
-  "expires_at": "2026-09-22T17:40:29+10:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "mrs_doubtfire",
+  "cinematic_title": "Mrs. Doubtfire",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-09-22T18:00:31+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-22T11:40:29+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-09-22T12:00:31+10:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
