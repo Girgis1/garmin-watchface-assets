@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "sky_captain",
-  "cinematic_title": "Sky Captain and the World of Tomorrow",
-  "data_summary": "next-hour temp 15.2C, rain 70%, 0.3 mm",
-  "expires_at": "2026-09-22T23:20:47+10:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-09-22T17:20:47+10:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "goonies",
+  "cinematic_title": "The Goonies",
+  "data_summary": "waxing gibbous, 80% illuminated",
+  "expires_at": "2026-09-22T23:40:48+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-09-22T17:40:48+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
