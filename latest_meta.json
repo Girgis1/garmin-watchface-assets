@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "spongebob",
-  "cinematic_title": "SpongeBob SquarePants",
-  "data_summary": "morning briefing: no major weather/sleep drama",
-  "expires_at": "2026-09-23T15:20:59+10:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "roger_rabbit",
+  "cinematic_title": "Who Framed Roger Rabbit",
+  "data_summary": "TENNIS DAY ~128 MIN | USUAL 19:22 ~928 KCAL | The standing Wednesday night match runs about 128 minutes and roughly 928 calories; last outing was 310 minutes, usual start around 19:22.",
+  "expires_at": "2026-09-23T16:20:02+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-09-23T09:20:59+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-09-23T10:20:02+10:00",
+  "title": "Health Insight: TENNIS DAY ~128 MIN",
+  "topic_key": "health_tennis_wednesday",
   "url": ""
 }
