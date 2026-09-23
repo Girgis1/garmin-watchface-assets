@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "punisher_2004",
-  "cinematic_title": "The Punisher",
-  "data_summary": "context phase midday, temp 20C",
-  "expires_at": "2026-09-23T16:40:03+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "toy_story_3",
+  "cinematic_title": "Toy Story 3",
+  "data_summary": "morning briefing: GOOD SLEEP 7.0H",
+  "expires_at": "2026-09-24T15:31:28+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-23T10:40:03+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "morning",
+  "published_at": "2026-09-24T09:31:28+10:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
