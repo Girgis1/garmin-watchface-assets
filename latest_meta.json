@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "roger_rabbit",
-  "cinematic_title": "Who Framed Roger Rabbit",
-  "data_summary": "TENNIS DAY ~128 MIN | USUAL 19:22 ~928 KCAL | The standing Wednesday night match runs about 128 minutes and roughly 928 calories; last outing was 310 minutes, usual start around 19:22.",
-  "expires_at": "2026-09-23T16:20:02+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "punisher_2004",
+  "cinematic_title": "The Punisher",
+  "data_summary": "context phase midday, temp 20C",
+  "expires_at": "2026-09-23T16:40:03+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-23T10:20:02+10:00",
-  "title": "Health Insight: TENNIS DAY ~128 MIN",
-  "topic_key": "health_tennis_wednesday",
+  "lane": "local_signal",
+  "published_at": "2026-09-23T10:40:03+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
