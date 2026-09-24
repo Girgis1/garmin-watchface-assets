@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "the_office_us",
-  "cinematic_title": "The Office",
-  "data_summary": "OpenAI contractors were reportedly fired for using AI to train ChatGPT",
-  "expires_at": "2026-09-24T17:40:08+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-09-24T11:40:08+10:00",
-  "title": "News: OpenAI contractors were reportedly fired for using AI to train",
-  "topic_key": "interesting_signal_openai_contractors_were_reportedly_f",
-  "url": "https://www.google.com/search?q=OpenAI+contractors+were+reportedly+fired+for+using+AI+to+train+ChatGPT"
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "master_commander",
+  "cinematic_title": "Master and Commander",
+  "data_summary": "SLEEP 7H02 | +28M VS 4W AVG | Last sleep was 7.0 hours with score 81, versus a four-week average of 6.6 hours.",
+  "expires_at": "2026-09-24T18:00:09+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-09-24T12:00:09+10:00",
+  "title": "Health Insight: SLEEP 7H02",
+  "topic_key": "health_sleep_vs_baseline",
+  "url": ""
 }
