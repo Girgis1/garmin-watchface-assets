@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "the_boys",
-  "cinematic_title": "The Boys",
-  "data_summary": "Heavy rain and thunderstorms are heading for NSW this week",
-  "expires_at": "2026-09-25T04:00:39+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-09-24T22:00:39+10:00",
-  "title": "News: Heavy rain and thunderstorms are heading for NSW this week",
-  "topic_key": "interesting_signal_heavy_rain_and_thunderstorms_are_hea",
-  "url": "https://www.google.com/search?q=Heavy+rain+and+thunderstorms+are+heading+for+NSW+this+week"
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "catwoman_2004",
+  "cinematic_title": "Catwoman",
+  "data_summary": "morning briefing: ROUGH SLEEP 5.3H; RAIN 18% FROM 3PM",
+  "expires_at": "2026-09-25T15:33:08+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "morning",
+  "published_at": "2026-09-25T09:33:08+10:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
+  "url": ""
 }
