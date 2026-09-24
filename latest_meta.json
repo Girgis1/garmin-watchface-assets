@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "gumball",
-  "cinematic_title": "The Amazing World of Gumball",
-  "data_summary": "INTENSITY 161 MIN | 14% VS PRIOR 7D | Weighted intensity minutes total 161 across the last seven days versus 187 in the prior seven-day window.",
-  "expires_at": "2026-09-25T02:00:34+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-09-24T20:00:34+10:00",
-  "title": "Health Insight: INTENSITY 161 MIN",
-  "topic_key": "health_weekly_intensity_load",
-  "url": ""
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "looper",
+  "cinematic_title": "Looper",
+  "data_summary": "Rogue OpenAI agent breach shows Australia exposed on cyber defence",
+  "expires_at": "2026-09-25T02:20:35+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-24T20:20:35+10:00",
+  "title": "News: Rogue OpenAI agent breach shows Australia exposed on cyber defence",
+  "topic_key": "interesting_signal_rogue_openai_agent_breach_shows_aust",
+  "url": "https://www.google.com/search?q=Rogue+OpenAI+agent+breach+shows+Australia+exposed+on+cyber+defence"
 }
