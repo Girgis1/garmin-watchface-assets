@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "princess_mononoke",
-  "cinematic_title": "Princess Mononoke",
-  "data_summary": "SLEEP NEED ROSE 8/14 | YOUR BODY ASKED FOR MORE | Garmin increased sleep need on 8 of 14 recent nights, even when total sleep was sometimes adequate.",
-  "expires_at": "2026-09-25T01:20:32+10:00",
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "gumball",
+  "cinematic_title": "The Amazing World of Gumball",
+  "data_summary": "INTENSITY 161 MIN | 14% VS PRIOR 7D | Weighted intensity minutes total 161 across the last seven days versus 187 in the prior seven-day window.",
+  "expires_at": "2026-09-25T02:00:34+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-24T19:20:32+10:00",
-  "title": "Health Insight: SLEEP NEED ROSE 8/14",
-  "topic_key": "health_pattern_sleep_need_increased_",
+  "published_at": "2026-09-24T20:00:34+10:00",
+  "title": "Health Insight: INTENSITY 161 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
