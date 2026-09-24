@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "x2",
-  "cinematic_title": "X2: X-Men United",
-  "data_summary": "HRV BALANCED, avg 70 ms, 17 day balanced streak",
-  "expires_at": "2026-09-24T21:00:17+10:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "the_conjuring",
+  "cinematic_title": "The Conjuring",
+  "data_summary": "training intensity minutes today 0",
+  "expires_at": "2026-09-24T21:20:18+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-24T15:00:17+10:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_balanced",
+  "published_at": "2026-09-24T15:20:18+10:00",
+  "title": "Training Nudge",
+  "topic_key": "health_training_minutes",
   "url": ""
 }
