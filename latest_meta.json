@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "close_encounters",
-  "cinematic_title": "Close Encounters of the Third Kind",
-  "data_summary": "morning briefing: GOOD SLEEP 7.0H",
-  "expires_at": "2026-09-24T15:40:02+10:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "day_after_tomorrow",
+  "cinematic_title": "The Day After Tomorrow",
+  "data_summary": "TENNIS 159 MIN | +4M VS YOUR AVG | 159 minutes, compared with a recent tennis average of 155 minutes.",
+  "expires_at": "2026-09-24T16:20:06+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-09-24T09:40:02+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-09-24T10:20:06+10:00",
+  "title": "Health Insight: TENNIS 159 MIN",
+  "topic_key": "health_activity_24468426471",
   "url": ""
 }
