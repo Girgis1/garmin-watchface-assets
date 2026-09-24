@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "day_after_tomorrow",
-  "cinematic_title": "The Day After Tomorrow",
-  "data_summary": "TENNIS 159 MIN | +4M VS YOUR AVG | 159 minutes, compared with a recent tennis average of 155 minutes.",
-  "expires_at": "2026-09-24T16:20:06+10:00",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "advent_children",
+  "cinematic_title": "Final Fantasy VII: Advent Children",
+  "data_summary": "STRESSFUL BEFORE BED | 8 OF 14 NIGHTS | Garmin's Body Battery feedback marked 8 of 14 recent nights as stressful around sleep preparation.",
+  "expires_at": "2026-09-24T16:40:07+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-24T10:20:06+10:00",
-  "title": "Health Insight: TENNIS 159 MIN",
-  "topic_key": "health_activity_24468426471",
+  "published_at": "2026-09-24T10:40:07+10:00",
+  "title": "Health Insight: STRESSFUL BEFORE BED",
+  "topic_key": "health_pattern_pre_sleep_stress_feed",
   "url": ""
 }
