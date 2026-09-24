@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "king_kong_2005",
-  "cinematic_title": "King Kong",
-  "data_summary": "POST-TENNIS RECOVERY | SLEEP 7.0H VS 7.0 NORM | The morning after a Wed match night you slept 7.0h versus 7.0h on ordinary mornings. Overnight HRV 72 versus your usual ~69. Match nights cost real recovery; spend today accordingly.",
-  "expires_at": "2026-09-24T19:20:14+10:00",
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "he_man",
+  "cinematic_title": "He-Man and the Masters of the Universe",
+  "data_summary": "context phase midday, temp 23C",
+  "expires_at": "2026-09-24T19:40:15+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-24T13:20:14+10:00",
-  "title": "Health Insight: POST-TENNIS RECOVERY",
-  "topic_key": "health_tennis_recovery",
+  "lane": "local_signal",
+  "published_at": "2026-09-24T13:40:15+10:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
