@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "catwoman_2004",
-  "cinematic_title": "Catwoman",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "dumbo",
+  "cinematic_title": "Dumbo",
   "data_summary": "morning briefing: ROUGH SLEEP 5.3H; RAIN 18% FROM 3PM",
-  "expires_at": "2026-09-25T15:33:08+10:00",
+  "expires_at": "2026-09-25T15:40:46+10:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-09-25T09:33:08+10:00",
+  "published_at": "2026-09-25T09:40:46+10:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
