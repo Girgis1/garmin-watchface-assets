@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "blue_beetle",
-  "cinematic_title": "Blue Beetle",
-  "data_summary": "SpO2 97%, respiration 14.0",
-  "expires_at": "2026-09-24T22:20:23+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-09-24T16:20:23+10:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
-  "url": ""
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "severance",
+  "cinematic_title": "Severance",
+  "data_summary": "waxing gibbous, 94% illuminated",
+  "expires_at": "2026-09-24T22:40:24+10:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-09-24T16:40:24+10:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
