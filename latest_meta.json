@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "atlantis_lost_empire",
-  "cinematic_title": "Atlantis: The Lost Empire",
-  "data_summary": "# Garmin Health Insight Generated: 2026-09-24T14:37:16+10:00 Data through: 2026-09-24 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **POST-TENNIS RECOVERY** | SLEEP 7.0H VS 7.0 NORM | RECO",
-  "expires_at": "2026-09-24T20:40:16+10:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "x2",
+  "cinematic_title": "X2: X-Men United",
+  "data_summary": "HRV BALANCED, avg 70 ms, 17 day balanced streak",
+  "expires_at": "2026-09-24T21:00:17+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-24T14:40:16+10:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-09-24T15:00:17+10:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
   "url": ""
 }
