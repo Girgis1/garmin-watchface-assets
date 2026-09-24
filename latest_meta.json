@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "get_out",
-  "cinematic_title": "Get Out",
-  "data_summary": "7D SLEEP 6H08 | 52M VS PRIOR 7D | The seven-day sleep average is 6.1 hours, 52 minutes below the prior seven days.",
-  "expires_at": "2026-09-24T17:20:08+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-09-24T11:20:08+10:00",
-  "title": "Health Insight: 7D SLEEP 6H08",
-  "topic_key": "health_weekly_sleep_trend",
-  "url": ""
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "the_office_us",
+  "cinematic_title": "The Office",
+  "data_summary": "OpenAI contractors were reportedly fired for using AI to train ChatGPT",
+  "expires_at": "2026-09-24T17:40:08+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-24T11:40:08+10:00",
+  "title": "News: OpenAI contractors were reportedly fired for using AI to train",
+  "topic_key": "interesting_signal_openai_contractors_were_reportedly_f",
+  "url": "https://www.google.com/search?q=OpenAI+contractors+were+reportedly+fired+for+using+AI+to+train+ChatGPT"
 }
