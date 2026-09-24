@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "master_commander",
-  "cinematic_title": "Master and Commander",
-  "data_summary": "SLEEP 7H02 | +28M VS 4W AVG | Last sleep was 7.0 hours with score 81, versus a four-week average of 6.6 hours.",
-  "expires_at": "2026-09-24T18:00:09+10:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "king_kong_2005",
+  "cinematic_title": "King Kong",
+  "data_summary": "POST-TENNIS RECOVERY | SLEEP 7.0H VS 7.0 NORM | The morning after a Wed match night you slept 7.0h versus 7.0h on ordinary mornings. Overnight HRV 72 versus your usual ~69. Match nights cost real recovery; spend today accordingly.",
+  "expires_at": "2026-09-24T19:20:14+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-24T12:00:09+10:00",
-  "title": "Health Insight: SLEEP 7H02",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-09-24T13:20:14+10:00",
+  "title": "Health Insight: POST-TENNIS RECOVERY",
+  "topic_key": "health_tennis_recovery",
   "url": ""
 }
