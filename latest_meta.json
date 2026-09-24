@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "apollo_13",
-  "cinematic_title": "Apollo 13",
-  "data_summary": "context phase night, temp 17C",
-  "expires_at": "2026-09-25T03:40:38+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-24T21:40:38+10:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
-  "url": ""
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "the_boys",
+  "cinematic_title": "The Boys",
+  "data_summary": "Heavy rain and thunderstorms are heading for NSW this week",
+  "expires_at": "2026-09-25T04:00:39+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-24T22:00:39+10:00",
+  "title": "News: Heavy rain and thunderstorms are heading for NSW this week",
+  "topic_key": "interesting_signal_heavy_rain_and_thunderstorms_are_hea",
+  "url": "https://www.google.com/search?q=Heavy+rain+and+thunderstorms+are+heading+for+NSW+this+week"
 }
