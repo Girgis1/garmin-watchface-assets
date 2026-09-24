@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "he_man",
-  "cinematic_title": "He-Man and the Masters of the Universe",
-  "data_summary": "context phase midday, temp 23C",
-  "expires_at": "2026-09-24T19:40:15+10:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "atlantis_lost_empire",
+  "cinematic_title": "Atlantis: The Lost Empire",
+  "data_summary": "# Garmin Health Insight Generated: 2026-09-24T14:37:16+10:00 Data through: 2026-09-24 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. - **POST-TENNIS RECOVERY** | SLEEP 7.0H VS 7.0 NORM | RECO",
+  "expires_at": "2026-09-24T20:40:16+10:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-09-24T13:40:15+10:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-09-24T14:40:16+10:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
