@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "the_conjuring",
-  "cinematic_title": "The Conjuring",
-  "data_summary": "training intensity minutes today 0",
-  "expires_at": "2026-09-24T21:20:18+10:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "blue_beetle",
+  "cinematic_title": "Blue Beetle",
+  "data_summary": "SpO2 97%, respiration 14.0",
+  "expires_at": "2026-09-24T22:20:23+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-24T15:20:18+10:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
+  "published_at": "2026-09-24T16:20:23+10:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
