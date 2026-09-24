@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "28_days_later",
-  "cinematic_title": "28 Days Later",
-  "data_summary": "BB<20: 7/30 DAYS | 6/7 ALSO STRESS 35+ | Body Battery finished below 20 on 7 of 30 recent complete days; 6 of those days also had average stress of 35 or higher.",
-  "expires_at": "2026-09-25T03:20:37+10:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "apollo_13",
+  "cinematic_title": "Apollo 13",
+  "data_summary": "context phase night, temp 17C",
+  "expires_at": "2026-09-25T03:40:38+10:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-09-24T21:20:37+10:00",
-  "title": "Health Insight: BB<20: 7/30 DAYS",
-  "topic_key": "health_pattern_low_body_battery_freq",
+  "lane": "local_signal",
+  "published_at": "2026-09-24T21:40:38+10:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
   "url": ""
 }
