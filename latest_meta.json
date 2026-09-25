@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "dumbo",
-  "cinematic_title": "Dumbo",
-  "data_summary": "morning briefing: ROUGH SLEEP 5.3H; RAIN 18% FROM 3PM",
-  "expires_at": "2026-09-25T15:40:46+10:00",
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "adventure_time",
+  "cinematic_title": "Adventure Time",
+  "data_summary": "RHR UP, HRV DOWN | R=-0.63 / N=28 | Across 28 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.63. Treat this as a personal trend signal, not a diagnosis.",
+  "expires_at": "2026-09-26T00:00:47+10:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-09-25T09:40:46+10:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-09-25T18:00:47+10:00",
+  "title": "Health Insight: RHR UP, HRV DOWN",
+  "topic_key": "health_pattern_rhr_hrv_relationship",
   "url": ""
 }
