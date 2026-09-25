@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "hellboy_2004",
-  "cinematic_title": "Hellboy",
-  "data_summary": "Demands grow for NSW govt to build Southwest Sydney Metro",
-  "expires_at": "2026-09-26T00:40:49+10:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-09-25T18:40:49+10:00",
-  "title": "News: Demands grow for NSW govt to build Southwest Sydney Metro",
-  "topic_key": "interesting_signal_demands_grow_for_nsw_govt_to_build_s",
-  "url": "https://www.google.com/search?q=Demands+grow+for+NSW+govt+to+build+Southwest+Sydney+Metro"
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "quiet_place",
+  "cinematic_title": "A Quiet Place",
+  "data_summary": "7D SLEEP 5H54 | 71M VS PRIOR 7D | The seven-day sleep average is 5.9 hours, 71 minutes below the prior seven days.",
+  "expires_at": "2026-09-26T01:00:50+10:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-09-25T19:00:50+10:00",
+  "title": "Health Insight: 7D SLEEP 5H54",
+  "topic_key": "health_weekly_sleep_trend",
+  "url": ""
 }
