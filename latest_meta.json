@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "adventure_time",
-  "cinematic_title": "Adventure Time",
-  "data_summary": "RHR UP, HRV DOWN | R=-0.63 / N=28 | Across 28 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.63. Treat this as a personal trend signal, not a diagnosis.",
-  "expires_at": "2026-09-26T00:00:47+10:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "hot_fuzz",
+  "cinematic_title": "Hot Fuzz",
+  "data_summary": "SLEEP 5H19 | 74M VS 4W AVG | Last sleep was 5.3 hours with score 69, versus a four-week average of 6.6 hours.",
+  "expires_at": "2026-09-26T00:20:48+10:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-09-25T18:00:47+10:00",
-  "title": "Health Insight: RHR UP, HRV DOWN",
-  "topic_key": "health_pattern_rhr_hrv_relationship",
+  "published_at": "2026-09-25T18:20:48+10:00",
+  "title": "Health Insight: SLEEP 5H19",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
