@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "hot_fuzz",
-  "cinematic_title": "Hot Fuzz",
-  "data_summary": "SLEEP 5H19 | 74M VS 4W AVG | Last sleep was 5.3 hours with score 69, versus a four-week average of 6.6 hours.",
-  "expires_at": "2026-09-26T00:20:48+10:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-09-25T18:20:48+10:00",
-  "title": "Health Insight: SLEEP 5H19",
-  "topic_key": "health_sleep_vs_baseline",
-  "url": ""
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "hellboy_2004",
+  "cinematic_title": "Hellboy",
+  "data_summary": "Demands grow for NSW govt to build Southwest Sydney Metro",
+  "expires_at": "2026-09-26T00:40:49+10:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-09-25T18:40:49+10:00",
+  "title": "News: Demands grow for NSW govt to build Southwest Sydney Metro",
+  "topic_key": "interesting_signal_demands_grow_for_nsw_govt_to_build_s",
+  "url": "https://www.google.com/search?q=Demands+grow+for+NSW+govt+to+build+Southwest+Sydney+Metro"
 }
