@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "lego_movie",
-  "cinematic_title": "The Lego Movie",
-  "data_summary": "HRV BALANCED, avg 75 ms, 21 day balanced streak",
-  "expires_at": "2026-10-04T22:20:08+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-10-04T16:20:08+11:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_balanced",
-  "url": ""
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "twenty_eight_weeks",
+  "cinematic_title": "28 Weeks Later",
+  "data_summary": "leave-work temp 18C, rain 15%, 0.0 mm",
+  "expires_at": "2026-10-04T22:40:09+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-10-04T16:40:09+11:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
