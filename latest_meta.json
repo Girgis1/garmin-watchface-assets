@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "community_series",
-  "cinematic_title": "Community",
-  "data_summary": "context phase afternoon, temp 22C",
-  "expires_at": "2026-10-04T21:40:07+11:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "lego_movie",
+  "cinematic_title": "The Lego Movie",
+  "data_summary": "HRV BALANCED, avg 75 ms, 21 day balanced streak",
+  "expires_at": "2026-10-04T22:20:08+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-04T15:40:07+11:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
+  "lane": "health",
+  "published_at": "2026-10-04T16:20:08+11:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
   "url": ""
 }
