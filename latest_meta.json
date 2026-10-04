@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "matrix",
-  "cinematic_title": "The Matrix",
-  "data_summary": "CALM DAYS +28 BB | 73 VS 45 / 20 DAYS | Across 20 comparable days, Body Battery averaged 45.4 when stress was 35+ versus 73.2 when stress was below 30. This is a personal association, not proof of cause.",
-  "expires_at": "2026-10-04T20:00:04+11:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "deadpool",
+  "cinematic_title": "Deadpool",
+  "data_summary": "# Garmin Health Insight Generated: 2026-10-04T15:17:06+11:00 Data through: 2026-10-04 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +28 BB** | 73 VS 45 / 20 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
+  "expires_at": "2026-10-04T21:20:07+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-04T14:00:04+11:00",
-  "title": "Health Insight: CALM DAYS +28 BB",
-  "topic_key": "health_pattern_stress_body_battery_g",
+  "published_at": "2026-10-04T15:20:07+11:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
