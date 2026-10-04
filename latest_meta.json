@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "a_bugs_life",
-  "cinematic_title": "A Bug's Life",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "sicario",
+  "cinematic_title": "Sicario",
   "data_summary": "morning briefing: RAIN 25% FROM 9AM",
-  "expires_at": "2026-10-05T15:00:53+11:00",
+  "expires_at": "2026-10-05T15:40:55+11:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-10-05T09:00:53+11:00",
+  "published_at": "2026-10-05T09:40:55+11:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
