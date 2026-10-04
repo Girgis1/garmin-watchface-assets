@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "spiderman_far_home",
-  "cinematic_title": "Spider-Man: Far From Home",
-  "data_summary": "training intensity minutes today 0",
-  "expires_at": "2026-10-05T00:20:12+11:00",
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "south_park",
+  "cinematic_title": "South Park",
+  "data_summary": "SLEEP 7H02 | +34M VS 4W AVG | Last sleep was 7.0 hours with score 78, versus a four-week average of 6.5 hours.",
+  "expires_at": "2026-10-05T00:40:13+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-04T18:20:12+11:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
+  "published_at": "2026-10-04T18:40:13+11:00",
+  "title": "Health Insight: SLEEP 7H02",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
