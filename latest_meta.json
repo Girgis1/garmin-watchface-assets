@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "the_island",
-  "cinematic_title": "The Island",
-  "data_summary": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
-  "expires_at": "2026-10-05T01:20:14+11:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-10-04T19:20:14+11:00",
-  "title": "News: OpenAI makes ChatGPT less 'human' for teens in new safety",
-  "topic_key": "interesting_signal_openai_makes_chatgpt_less_human_for_",
-  "url": "https://www.google.com/search?q=OpenAI+makes+ChatGPT+less+%27human%27+for+teens+in+new+safety+update"
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "bridgerton",
+  "cinematic_title": "Bridgerton",
+  "data_summary": "BB<20: 6/30 DAYS | 3/6 ALSO STRESS 35+ | Body Battery finished below 20 on 6 of 30 recent complete days; 3 of those days also had average stress of 35 or higher.",
+  "expires_at": "2026-10-05T01:40:15+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-10-04T19:40:15+11:00",
+  "title": "Health Insight: BB<20: 6/30 DAYS",
+  "topic_key": "health_pattern_low_body_battery_freq",
+  "url": ""
 }
