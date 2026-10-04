@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "groundhog_day",
-  "cinematic_title": "Groundhog Day",
-  "data_summary": "last quarter, 46% illuminated",
-  "expires_at": "2026-10-05T02:00:17+11:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-10-04T20:00:17+11:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "puss_last_wish",
+  "cinematic_title": "Puss in Boots: The Last Wish",
+  "data_summary": "daily phase night, temp 16C",
+  "expires_at": "2026-10-05T03:20:20+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-10-04T21:20:20+11:00",
+  "title": "Daily Context",
+  "topic_key": "daily_context",
+  "url": ""
 }
