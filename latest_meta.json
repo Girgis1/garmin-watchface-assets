@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "deadpool",
-  "cinematic_title": "Deadpool",
-  "data_summary": "# Garmin Health Insight Generated: 2026-10-04T15:17:06+11:00 Data through: 2026-10-04 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +28 BB** | 73 VS 45 / 20 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
-  "expires_at": "2026-10-04T21:20:07+11:00",
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "community_series",
+  "cinematic_title": "Community",
+  "data_summary": "context phase afternoon, temp 22C",
+  "expires_at": "2026-10-04T21:40:07+11:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-10-04T15:20:07+11:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "lane": "local_signal",
+  "published_at": "2026-10-04T15:40:07+11:00",
+  "title": "Afternoon Context",
+  "topic_key": "ambient_context_afternoon",
   "url": ""
 }
