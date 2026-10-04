@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "spiderman_2002",
-  "cinematic_title": "Spider-Man",
-  "data_summary": "SpO2 97%, respiration 14.0",
-  "expires_at": "2026-10-05T04:20:23+11:00",
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "teen_titans",
+  "cinematic_title": "Teen Titans",
+  "data_summary": "goodnight stage soft: Bedtime is in soft launch. Early reviews are excellent.; no extra alerts",
+  "expires_at": "2026-10-05T05:00:25+11:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-10-04T22:20:23+11:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
+  "lane": "goodnight",
+  "published_at": "2026-10-04T23:00:25+11:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
