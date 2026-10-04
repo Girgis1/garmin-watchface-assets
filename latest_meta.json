@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "bridgerton",
-  "cinematic_title": "Bridgerton",
-  "data_summary": "BB<20: 6/30 DAYS | 3/6 ALSO STRESS 35+ | Body Battery finished below 20 on 6 of 30 recent complete days; 3 of those days also had average stress of 35 or higher.",
-  "expires_at": "2026-10-05T01:40:15+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-10-04T19:40:15+11:00",
-  "title": "Health Insight: BB<20: 6/30 DAYS",
-  "topic_key": "health_pattern_low_body_battery_freq",
-  "url": ""
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "groundhog_day",
+  "cinematic_title": "Groundhog Day",
+  "data_summary": "last quarter, 46% illuminated",
+  "expires_at": "2026-10-05T02:00:17+11:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-10-04T20:00:17+11:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
