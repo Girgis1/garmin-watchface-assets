@@ -1,13 +1,13 @@
 {
   "cinematic_group": "tv_animation",
-  "cinematic_key": "teen_titans",
-  "cinematic_title": "Teen Titans",
-  "data_summary": "goodnight stage soft: Bedtime is in soft launch. Early reviews are excellent.; no extra alerts",
-  "expires_at": "2026-10-05T05:00:25+11:00",
+  "cinematic_key": "bojack",
+  "cinematic_title": "BoJack Horseman",
+  "data_summary": "goodnight stage firm: The screens have had enough of you. Mutual feeling.; no extra alerts",
+  "expires_at": "2026-10-05T05:20:27+11:00",
   "kind": "none",
   "label": "",
   "lane": "goodnight",
-  "published_at": "2026-10-04T23:00:25+11:00",
+  "published_at": "2026-10-04T23:20:27+11:00",
   "title": "Goodnight Briefing",
   "topic_key": "goodnight_briefing",
   "url": ""
