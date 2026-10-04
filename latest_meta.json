@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "puss_last_wish",
-  "cinematic_title": "Puss in Boots: The Last Wish",
-  "data_summary": "daily phase night, temp 16C",
-  "expires_at": "2026-10-05T03:20:20+11:00",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "cowboy_bebop_movie",
+  "cinematic_title": "Cowboy Bebop: The Movie",
+  "data_summary": "INTENSITY 384 MIN | 23% VS PRIOR 7D | Weighted intensity minutes total 384 across the last seven days versus 500 in the prior seven-day window.",
+  "expires_at": "2026-10-05T03:40:21+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-04T21:20:20+11:00",
-  "title": "Daily Context",
-  "topic_key": "daily_context",
+  "lane": "health",
+  "published_at": "2026-10-04T21:40:21+11:00",
+  "title": "Health Insight: INTENSITY 384 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
