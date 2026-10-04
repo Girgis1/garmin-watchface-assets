@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "twenty_eight_weeks",
-  "cinematic_title": "28 Weeks Later",
-  "data_summary": "leave-work temp 18C, rain 15%, 0.0 mm",
-  "expires_at": "2026-10-04T22:40:09+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather_departure",
-  "published_at": "2026-10-04T16:40:09+11:00",
-  "title": "Leave-Work Weather",
-  "topic_key": "leave_work_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "spiderman_far_home",
+  "cinematic_title": "Spider-Man: Far From Home",
+  "data_summary": "training intensity minutes today 0",
+  "expires_at": "2026-10-05T00:20:12+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-10-04T18:20:12+11:00",
+  "title": "Training Nudge",
+  "topic_key": "health_training_minutes",
+  "url": ""
 }
