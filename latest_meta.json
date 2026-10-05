@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "captain_marvel",
-  "cinematic_title": "Captain Marvel",
-  "data_summary": "leave-work temp 15C, rain 29%, 0.2 mm",
-  "expires_at": "2026-10-06T00:20:18+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather_departure",
-  "published_at": "2026-10-05T18:20:18+11:00",
-  "title": "Leave-Work Weather",
-  "topic_key": "leave_work_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "across_spiderverse",
+  "cinematic_title": "Spider-Man: Across the Spider-Verse",
+  "data_summary": "waning crescent, 36% illuminated",
+  "expires_at": "2026-10-06T00:40:21+11:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-10-05T18:40:21+11:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
