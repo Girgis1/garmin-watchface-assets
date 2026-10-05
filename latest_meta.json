@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "across_spiderverse",
-  "cinematic_title": "Spider-Man: Across the Spider-Verse",
-  "data_summary": "waning crescent, 36% illuminated",
-  "expires_at": "2026-10-06T00:40:21+11:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-10-05T18:40:21+11:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "knowing",
+  "cinematic_title": "Knowing",
+  "data_summary": "Sydney Trains network to support 80,000 NRL fans",
+  "expires_at": "2026-10-06T01:20:23+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-10-05T19:20:23+11:00",
+  "title": "News: Sydney Trains network to support 80,000 NRL fans",
+  "topic_key": "interesting_signal_sydney_trains_network_to_support_80_",
+  "url": "https://www.google.com/search?q=Sydney+Trains+network+to+support+80%2C000+NRL+fans"
 }
