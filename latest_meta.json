@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "mummy_returns",
-  "cinematic_title": "The Mummy Returns",
-  "data_summary": "context phase midday, temp 17C",
-  "expires_at": "2026-10-05T17:20:59+11:00",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "evangelion_thrice",
+  "cinematic_title": "Evangelion: 3.0+1.0",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-10-05T17:41:00+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-05T11:20:59+11:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-10-05T11:41:00+11:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
