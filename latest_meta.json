@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "knowing",
-  "cinematic_title": "Knowing",
-  "data_summary": "Sydney Trains network to support 80,000 NRL fans",
-  "expires_at": "2026-10-06T01:20:23+11:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-10-05T19:20:23+11:00",
-  "title": "News: Sydney Trains network to support 80,000 NRL fans",
-  "topic_key": "interesting_signal_sydney_trains_network_to_support_80_",
-  "url": "https://www.google.com/search?q=Sydney+Trains+network+to+support+80%2C000+NRL+fans"
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "advent_children",
+  "cinematic_title": "Final Fantasy VII: Advent Children",
+  "data_summary": "context phase sunset, temp 17C",
+  "expires_at": "2026-10-06T02:40:26+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-10-05T20:40:26+11:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
