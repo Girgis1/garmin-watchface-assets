@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "night_at_museum",
-  "cinematic_title": "Night at the Museum",
-  "data_summary": "# Garmin Health Insight Generated: 2026-10-05T10:37:57+11:00 Data through: 2026-10-04 (41 days loaded) ## Watch-Safe Insights - **CALM DAYS +29 BB** | 73 VS 45 / 19 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
-  "expires_at": "2026-10-05T16:40:57+11:00",
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "gravity_falls",
+  "cinematic_title": "Gravity Falls",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-10-05T17:00:59+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-05T10:40:57+11:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-10-05T11:00:59+11:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
