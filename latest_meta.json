@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "fight_club",
-  "cinematic_title": "Fight Club",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "cinderella",
+  "cinematic_title": "Cinderella",
   "data_summary": "morning briefing: no major weather/sleep drama",
-  "expires_at": "2026-10-06T14:20:03+11:00",
+  "expires_at": "2026-10-06T15:00:05+11:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-10-06T08:20:03+11:00",
+  "published_at": "2026-10-06T09:00:05+11:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
