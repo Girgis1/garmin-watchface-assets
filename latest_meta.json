@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "evangelion_thrice",
-  "cinematic_title": "Evangelion: 3.0+1.0",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-10-05T17:41:00+11:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "wall_e",
+  "cinematic_title": "WALL-E",
+  "data_summary": "daily phase midday, temp 20C",
+  "expires_at": "2026-10-05T18:20:02+11:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-10-05T11:41:00+11:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
+  "lane": "local_signal",
+  "published_at": "2026-10-05T12:20:02+11:00",
+  "title": "Daily Context",
+  "topic_key": "daily_context",
   "url": ""
 }
