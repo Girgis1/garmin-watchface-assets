@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "klaus",
-  "cinematic_title": "Klaus",
-  "data_summary": "training intensity minutes today 0",
-  "expires_at": "2026-10-05T20:20:06+11:00",
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "wednesday_series",
+  "cinematic_title": "Wednesday",
+  "data_summary": "context phase afternoon, temp 22C",
+  "expires_at": "2026-10-05T20:40:07+11:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-10-05T14:20:06+11:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
+  "lane": "local_signal",
+  "published_at": "2026-10-05T14:40:07+11:00",
+  "title": "Afternoon Context",
+  "topic_key": "ambient_context_afternoon",
   "url": ""
 }
