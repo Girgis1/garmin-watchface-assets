@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "wall_e",
-  "cinematic_title": "WALL-E",
-  "data_summary": "daily phase midday, temp 20C",
-  "expires_at": "2026-10-05T18:20:02+11:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "serenity",
+  "cinematic_title": "Serenity",
+  "data_summary": "context phase midday, temp 21C",
+  "expires_at": "2026-10-05T19:00:03+11:00",
   "kind": "none",
   "label": "",
   "lane": "local_signal",
-  "published_at": "2026-10-05T12:20:02+11:00",
-  "title": "Daily Context",
-  "topic_key": "daily_context",
+  "published_at": "2026-10-05T13:00:03+11:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
