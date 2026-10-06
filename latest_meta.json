@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "x_files",
-  "cinematic_title": "The X-Files",
-  "data_summary": "HRV 76 MS | +3.7 VS PRIOR 7D | Seven-day HRV averages 76.4 ms versus 72.7 ms in the prior seven days; latest status is balanced.",
-  "expires_at": "2026-10-07T04:00:41+11:00",
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "powerpuff_girls",
+  "cinematic_title": "The Powerpuff Girls",
+  "data_summary": "CALM DAY PAYS +16 | WAKE BB 83 VS 66 | After days with average stress under 32, morning Body Battery averaged 83; after higher-stress days it was only 66. Today's calm is tomorrow's charge.",
+  "expires_at": "2026-10-07T04:20:42+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-06T22:00:41+11:00",
-  "title": "Health Insight: HRV 76 MS",
-  "topic_key": "health_hrv_weekly_trend",
+  "published_at": "2026-10-06T22:20:42+11:00",
+  "title": "Health Insight: CALM DAY PAYS +16",
+  "topic_key": "health_pattern_calm_day_next_morning",
   "url": ""
 }
