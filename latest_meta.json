@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "the_rock",
-  "cinematic_title": "The Rock",
-  "data_summary": "INTENSITY 200 MIN | 70% VS PRIOR 7D | Weighted intensity minutes total 200 across the last seven days versus 672 in the prior seven-day window.",
-  "expires_at": "2026-10-06T19:00:14+11:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "transformers_revenge_fallen",
+  "cinematic_title": "Transformers: Revenge of the Fallen",
+  "data_summary": "SLEEP 5H09 | 84M VS 4W AVG | Last sleep was 5.2 hours with score 68, versus a four-week average of 6.5 hours.",
+  "expires_at": "2026-10-06T20:00:16+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-06T13:00:14+11:00",
-  "title": "Health Insight: INTENSITY 200 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-10-06T14:00:16+11:00",
+  "title": "Health Insight: SLEEP 5H09",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
