@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "batman_forever",
-  "cinematic_title": "Batman Forever",
-  "data_summary": "HRV BALANCED, avg 77 ms, 21 day balanced streak",
-  "expires_at": "2026-10-06T23:20:28+11:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "bambi",
+  "cinematic_title": "Bambi",
+  "data_summary": "SpO2 98%, respiration 13.0",
+  "expires_at": "2026-10-06T23:40:29+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-06T17:20:28+11:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_balanced",
+  "published_at": "2026-10-06T17:40:29+11:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
