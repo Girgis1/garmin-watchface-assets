@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "new_mutants",
-  "cinematic_title": "The New Mutants",
-  "data_summary": "Operational update: NSW SES RESPONDS AS STORM SWEEPS ACROSS COAST, SYDNEY",
-  "expires_at": "2026-10-07T02:00:36+11:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-10-06T20:00:36+11:00",
-  "title": "News: NSW SES RESPONDS AS STORM SWEEPS ACROSS COAST, SYDNEY",
-  "topic_key": "interesting_signal_nsw_ses_responds_as_storm_sweeps_acr",
-  "url": "https://www.google.com/search?q=Operational+update%3A+NSW+SES+RESPONDS+AS+STORM+SWEEPS+ACROSS+COAST%2C+SYDNEY"
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "galaxy_quest",
+  "cinematic_title": "Galaxy Quest",
+  "data_summary": "sleep debt: 5.2h, score 68, 21-day avg 6.5h",
+  "expires_at": "2026-10-07T02:20:37+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-10-06T20:20:37+11:00",
+  "title": "Sleep Debt",
+  "topic_key": "health_sleep_debt",
+  "url": ""
 }
