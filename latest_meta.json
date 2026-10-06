@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "the_mask",
-  "cinematic_title": "The Mask",
-  "data_summary": "7D SLEEP 6H18 | 51M VS PRIOR 7D | The seven-day sleep average is 6.3 hours, 51 minutes below the prior seven days.",
-  "expires_at": "2026-10-07T03:00:39+11:00",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "lotr_return_king",
+  "cinematic_title": "The Lord of the Rings: The Return of the King",
+  "data_summary": "context phase night, temp 19C",
+  "expires_at": "2026-10-07T03:20:40+11:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-10-06T21:00:39+11:00",
-  "title": "Health Insight: 7D SLEEP 6H18",
-  "topic_key": "health_weekly_sleep_trend",
+  "lane": "local_signal",
+  "published_at": "2026-10-06T21:20:40+11:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
   "url": ""
 }
