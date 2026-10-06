@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "galaxy_quest",
-  "cinematic_title": "Galaxy Quest",
-  "data_summary": "sleep debt: 5.2h, score 68, 21-day avg 6.5h",
-  "expires_at": "2026-10-07T02:20:37+11:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "jaws",
+  "cinematic_title": "Jaws",
+  "data_summary": "BB TREND +3.8/DAY | 16 -> 87 / 14D | Comparable daily Body Battery values moved from 16 to 87, with a fitted trend of +3.8 points per day.",
+  "expires_at": "2026-10-07T02:40:38+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-06T20:20:37+11:00",
-  "title": "Sleep Debt",
-  "topic_key": "health_sleep_debt",
+  "published_at": "2026-10-06T20:40:38+11:00",
+  "title": "Health Insight: BB TREND +3.8/DAY",
+  "topic_key": "health_pattern_body_battery_14d_tren",
   "url": ""
 }
