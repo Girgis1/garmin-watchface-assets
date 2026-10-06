@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "minions",
-  "cinematic_title": "Minions",
-  "data_summary": "goodnight stage firm: Bed has a vacancy. Your name's on it.; SLEEP DEBT 5.2H",
-  "expires_at": "2026-10-07T05:20:43+11:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "die_hard",
+  "cinematic_title": "Die Hard",
+  "data_summary": "morning briefing: RAIN 45% TODAY",
+  "expires_at": "2026-10-07T14:00:15+11:00",
   "kind": "none",
   "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-10-06T23:20:43+11:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "lane": "morning",
+  "published_at": "2026-10-07T08:00:15+11:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
