@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "tmnt_1990",
-  "cinematic_title": "Teenage Mutant Ninja Turtles",
-  "data_summary": "morning briefing: GOOD SLEEP 7.4H; RAIN 45% TODAY",
-  "expires_at": "2026-10-07T15:40:19+11:00",
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "one_piece_series",
+  "cinematic_title": "One Piece",
+  "data_summary": "context phase midday, temp 16C",
+  "expires_at": "2026-10-07T16:20:20+11:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-10-07T09:40:19+11:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "local_signal",
+  "published_at": "2026-10-07T10:20:20+11:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
