@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "powerpuff_girls",
-  "cinematic_title": "The Powerpuff Girls",
-  "data_summary": "CALM DAY PAYS +16 | WAKE BB 83 VS 66 | After days with average stress under 32, morning Body Battery averaged 83; after higher-stress days it was only 66. Today's calm is tomorrow's charge.",
-  "expires_at": "2026-10-07T04:20:42+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-10-06T22:20:42+11:00",
-  "title": "Health Insight: CALM DAY PAYS +16",
-  "topic_key": "health_pattern_calm_day_next_morning",
-  "url": ""
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "empire_strikes_back",
+  "cinematic_title": "The Empire Strikes Back",
+  "data_summary": "Sydney\u2019s K Set trains retired",
+  "expires_at": "2026-10-07T04:40:42+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-10-06T22:40:42+11:00",
+  "title": "News: Sydney\u2019s K Set trains retired",
+  "topic_key": "interesting_signal_sydney_s_k_set_trains_retired",
+  "url": "https://www.google.com/search?q=Sydney%E2%80%99s+K+Set+trains+retired"
 }
