@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "danny_phantom",
-  "cinematic_title": "Danny Phantom",
-  "data_summary": "OpenAI Follows Anthropic With Invisible Watermarks On ChatGPT Text",
-  "expires_at": "2026-10-07T01:20:35+11:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-10-06T19:20:35+11:00",
-  "title": "News: OpenAI Follows Anthropic With Invisible Watermarks On ChatGPT Text",
-  "topic_key": "interesting_signal_openai_follows_anthropic_with_invisi",
-  "url": "https://www.google.com/search?q=OpenAI+Follows+Anthropic+With+Invisible+Watermarks+On+ChatGPT+Text"
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "transformers_2007",
+  "cinematic_title": "Transformers",
+  "data_summary": "waning crescent, 26% illuminated",
+  "expires_at": "2026-10-07T01:40:35+11:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-10-06T19:40:35+11:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
