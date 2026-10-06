@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "truman_show",
-  "cinematic_title": "The Truman Show",
-  "data_summary": "First look inside Sydney Metro's new airport trains",
-  "expires_at": "2026-10-06T17:40:11+11:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-10-06T11:40:11+11:00",
-  "title": "News: First look inside Sydney Metro's new airport trains",
-  "topic_key": "interesting_signal_first_look_inside_sydney_metro_s_new",
-  "url": "https://www.google.com/search?q=First+look+inside+Sydney+Metro%27s+new+airport+trains"
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "the_rock",
+  "cinematic_title": "The Rock",
+  "data_summary": "INTENSITY 200 MIN | 70% VS PRIOR 7D | Weighted intensity minutes total 200 across the last seven days versus 672 in the prior seven-day window.",
+  "expires_at": "2026-10-06T19:00:14+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-10-06T13:00:14+11:00",
+  "title": "Health Insight: INTENSITY 200 MIN",
+  "topic_key": "health_weekly_intensity_load",
+  "url": ""
 }
