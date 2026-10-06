@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "transformers_2007",
-  "cinematic_title": "Transformers",
-  "data_summary": "waning crescent, 26% illuminated",
-  "expires_at": "2026-10-07T01:40:35+11:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-10-06T19:40:35+11:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "new_mutants",
+  "cinematic_title": "The New Mutants",
+  "data_summary": "Operational update: NSW SES RESPONDS AS STORM SWEEPS ACROSS COAST, SYDNEY",
+  "expires_at": "2026-10-07T02:00:36+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-10-06T20:00:36+11:00",
+  "title": "News: NSW SES RESPONDS AS STORM SWEEPS ACROSS COAST, SYDNEY",
+  "topic_key": "interesting_signal_nsw_ses_responds_as_storm_sweeps_acr",
+  "url": "https://www.google.com/search?q=Operational+update%3A+NSW+SES+RESPONDS+AS+STORM+SWEEPS+ACROSS+COAST%2C+SYDNEY"
 }
