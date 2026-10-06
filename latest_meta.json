@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "jaws",
-  "cinematic_title": "Jaws",
-  "data_summary": "BB TREND +3.8/DAY | 16 -> 87 / 14D | Comparable daily Body Battery values moved from 16 to 87, with a fitted trend of +3.8 points per day.",
-  "expires_at": "2026-10-07T02:40:38+11:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "the_mask",
+  "cinematic_title": "The Mask",
+  "data_summary": "7D SLEEP 6H18 | 51M VS PRIOR 7D | The seven-day sleep average is 6.3 hours, 51 minutes below the prior seven days.",
+  "expires_at": "2026-10-07T03:00:39+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-06T20:40:38+11:00",
-  "title": "Health Insight: BB TREND +3.8/DAY",
-  "topic_key": "health_pattern_body_battery_14d_tren",
+  "published_at": "2026-10-06T21:00:39+11:00",
+  "title": "Health Insight: 7D SLEEP 6H18",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
