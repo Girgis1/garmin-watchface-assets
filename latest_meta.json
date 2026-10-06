@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "empire_strikes_back",
-  "cinematic_title": "The Empire Strikes Back",
-  "data_summary": "Sydney\u2019s K Set trains retired",
-  "expires_at": "2026-10-07T04:40:42+11:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-10-06T22:40:42+11:00",
-  "title": "News: Sydney\u2019s K Set trains retired",
-  "topic_key": "interesting_signal_sydney_s_k_set_trains_retired",
-  "url": "https://www.google.com/search?q=Sydney%E2%80%99s+K+Set+trains+retired"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "minions",
+  "cinematic_title": "Minions",
+  "data_summary": "goodnight stage firm: Bed has a vacancy. Your name's on it.; SLEEP DEBT 5.2H",
+  "expires_at": "2026-10-07T05:20:43+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "goodnight",
+  "published_at": "2026-10-06T23:20:43+11:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
+  "url": ""
 }
