@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "one_piece_series",
-  "cinematic_title": "One Piece",
-  "data_summary": "context phase midday, temp 16C",
-  "expires_at": "2026-10-07T16:20:20+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-07T10:20:20+11:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
-  "url": ""
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "jumper",
+  "cinematic_title": "Jumper",
+  "data_summary": "OpenAI\u2019s Jason Kwon gave even-toned, reassuring answers to the Australian government. Did \u2026 ChatGPT write this?",
+  "expires_at": "2026-10-07T16:40:23+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-10-07T10:40:23+11:00",
+  "title": "News: OpenAI\u2019s Jason Kwon gave even-toned, reassuring answers to the",
+  "topic_key": "interesting_signal_openai_s_jason_kwon_gave_even_toned_",
+  "url": "https://www.google.com/search?q=OpenAI%E2%80%99s+Jason+Kwon+gave+even-toned%2C+reassuring+answers+to+the+Australian+government.+Did+%E2%80%A6+ChatGPT+write+this%3F"
 }
