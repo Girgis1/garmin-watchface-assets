@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "bill_ted",
-  "cinematic_title": "Bill & Ted's Excellent Adventure",
-  "data_summary": "SpO2 99%, respiration 14.0",
-  "expires_at": "2026-10-08T02:40:05+11:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "gravity",
+  "cinematic_title": "Gravity",
+  "data_summary": "context phase night, temp 14C",
+  "expires_at": "2026-10-08T04:00:07+11:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-10-07T20:40:05+11:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
+  "lane": "local_signal",
+  "published_at": "2026-10-07T22:00:07+11:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
   "url": ""
 }
