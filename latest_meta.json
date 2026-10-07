@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "cars",
-  "cinematic_title": "Cars",
-  "data_summary": "7D SLEEP 6H40 | +0M VS PRIOR 7D | The seven-day sleep average is 6.7 hours, 0 minutes above the prior seven days.",
-  "expires_at": "2026-10-07T22:40:40+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-10-07T16:40:40+11:00",
-  "title": "Health Insight: 7D SLEEP 6H40",
-  "topic_key": "health_weekly_sleep_trend",
-  "url": ""
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "thor_love_thunder",
+  "cinematic_title": "Thor: Love and Thunder",
+  "data_summary": "waning crescent, 18% illuminated",
+  "expires_at": "2026-10-07T23:00:45+11:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-10-07T17:00:45+11:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
