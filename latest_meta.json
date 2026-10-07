@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "gravity",
-  "cinematic_title": "Gravity",
-  "data_summary": "context phase night, temp 14C",
-  "expires_at": "2026-10-08T04:00:07+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-07T22:00:07+11:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
-  "url": ""
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "no_country",
+  "cinematic_title": "No Country for Old Men",
+  "data_summary": "Veris Secures Contract Extension On Sydney Metro Western Sydney Airport SSTOM Project",
+  "expires_at": "2026-10-08T04:20:08+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-10-07T22:20:08+11:00",
+  "title": "News: Veris Secures Contract Extension On Sydney Metro Western Sydney",
+  "topic_key": "interesting_signal_veris_secures_contract_extension_on_",
+  "url": "https://www.google.com/search?q=Veris+Secures+Contract+Extension+On+Sydney+Metro+Western+Sydney+Airport+SSTOM+Project"
 }
