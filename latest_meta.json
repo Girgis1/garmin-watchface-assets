@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "se7en",
-  "cinematic_title": "Se7en",
-  "data_summary": "CALM DAYS +25 BB | 71 VS 47 / 20 DAYS | Across 20 comparable days, Body Battery averaged 46.5 when stress was 35+ versus 71.4 when stress was below 30. This is a personal association, not proof of cause.",
-  "expires_at": "2026-10-07T20:00:33+11:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "aquaman",
+  "cinematic_title": "Aquaman",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-10-07T20:20:33+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-07T14:00:33+11:00",
-  "title": "Health Insight: CALM DAYS +25 BB",
-  "topic_key": "health_pattern_stress_body_battery_g",
+  "published_at": "2026-10-07T14:20:33+11:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
