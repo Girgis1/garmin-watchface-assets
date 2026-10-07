@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "thor_love_thunder",
-  "cinematic_title": "Thor: Love and Thunder",
-  "data_summary": "waning crescent, 18% illuminated",
-  "expires_at": "2026-10-07T23:00:45+11:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-10-07T17:00:45+11:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "castlevania",
+  "cinematic_title": "Castlevania",
+  "data_summary": "# Garmin Health Insight Generated: 2026-10-07T18:57:52+11:00 Data through: 2026-10-07 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +25 BB** | 71 VS 47 / 20 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
+  "expires_at": "2026-10-08T01:00:52+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-10-07T19:00:52+11:00",
+  "title": "Health: HYDRATE",
+  "topic_key": "health_hydrate",
+  "url": ""
 }
