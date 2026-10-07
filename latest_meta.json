@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "emperors_new_groove",
-  "cinematic_title": "The Emperor's New Groove",
-  "data_summary": "TENNIS DAY ~183 MIN | USUAL 19:29 ~916 KCAL | The standing Wednesday night match runs about 183 minutes and roughly 916 calories; last outing was 208 minutes, usual start around 19:29.",
-  "expires_at": "2026-10-07T19:00:28+11:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "mummy_1999",
+  "cinematic_title": "The Mummy",
+  "data_summary": "INTENSITY 40 MIN | 95% VS PRIOR 7D | Weighted intensity minutes total 40 across the last seven days versus 729 in the prior seven-day window.",
+  "expires_at": "2026-10-07T19:20:29+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-07T13:00:28+11:00",
-  "title": "Health Insight: TENNIS DAY ~183 MIN",
-  "topic_key": "health_tennis_wednesday",
+  "published_at": "2026-10-07T13:20:29+11:00",
+  "title": "Health Insight: INTENSITY 40 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
