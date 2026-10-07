@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "legend",
-  "cinematic_title": "Legend",
-  "data_summary": "BB<20: 6/30 DAYS | 3/6 ALSO STRESS 35+ | Body Battery finished below 20 on 6 of 30 recent complete days; 3 of those days also had average stress of 35 or higher.",
-  "expires_at": "2026-10-08T16:00:48+11:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "butterfly_effect",
+  "cinematic_title": "The Butterfly Effect",
+  "data_summary": "INTENSITY 32 MIN | 96% VS PRIOR 7D | Weighted intensity minutes total 32 across the last seven days versus 737 in the prior seven-day window.",
+  "expires_at": "2026-10-08T16:20:49+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-08T10:00:48+11:00",
-  "title": "Health Insight: BB<20: 6/30 DAYS",
-  "topic_key": "health_pattern_low_body_battery_freq",
+  "published_at": "2026-10-08T10:20:49+11:00",
+  "title": "Health Insight: INTENSITY 32 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
