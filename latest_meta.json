@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "aquaman",
-  "cinematic_title": "Aquaman",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-10-07T20:20:33+11:00",
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "parks_and_rec",
+  "cinematic_title": "Parks and Recreation",
+  "data_summary": "SLEEP 7H22 | +48M VS 4W AVG | Last sleep was 7.4 hours with score 86, versus a four-week average of 6.6 hours.",
+  "expires_at": "2026-10-07T20:40:34+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-07T14:20:33+11:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
+  "published_at": "2026-10-07T14:40:34+11:00",
+  "title": "Health Insight: SLEEP 7H22",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
