@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "butterfly_effect",
-  "cinematic_title": "The Butterfly Effect",
-  "data_summary": "INTENSITY 32 MIN | 96% VS PRIOR 7D | Weighted intensity minutes total 32 across the last seven days versus 737 in the prior seven-day window.",
-  "expires_at": "2026-10-08T16:20:49+11:00",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "gundam_hathaway",
+  "cinematic_title": "Mobile Suit Gundam Hathaway",
+  "data_summary": "context phase midday, temp 17C",
+  "expires_at": "2026-10-08T16:40:49+11:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-10-08T10:20:49+11:00",
-  "title": "Health Insight: INTENSITY 32 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "lane": "local_signal",
+  "published_at": "2026-10-08T10:40:49+11:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
