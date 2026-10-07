@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "mortal_kombat_1995",
-  "cinematic_title": "Mortal Kombat",
-  "data_summary": "SLEEP NEED ROSE 9/14 | YOUR BODY ASKED FOR MORE | Garmin increased sleep need on 9 of 14 recent nights, even when total sleep was sometimes adequate.",
-  "expires_at": "2026-10-07T22:00:38+11:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "cars",
+  "cinematic_title": "Cars",
+  "data_summary": "7D SLEEP 6H40 | +0M VS PRIOR 7D | The seven-day sleep average is 6.7 hours, 0 minutes above the prior seven days.",
+  "expires_at": "2026-10-07T22:40:40+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-07T16:00:38+11:00",
-  "title": "Health Insight: SLEEP NEED ROSE 9/14",
-  "topic_key": "health_pattern_sleep_need_increased_",
+  "published_at": "2026-10-07T16:40:40+11:00",
+  "title": "Health Insight: 7D SLEEP 6H40",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
