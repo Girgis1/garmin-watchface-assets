@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "jumper",
-  "cinematic_title": "Jumper",
-  "data_summary": "OpenAI\u2019s Jason Kwon gave even-toned, reassuring answers to the Australian government. Did \u2026 ChatGPT write this?",
-  "expires_at": "2026-10-07T16:40:23+11:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-10-07T10:40:23+11:00",
-  "title": "News: OpenAI\u2019s Jason Kwon gave even-toned, reassuring answers to the",
-  "topic_key": "interesting_signal_openai_s_jason_kwon_gave_even_toned_",
-  "url": "https://www.google.com/search?q=OpenAI%E2%80%99s+Jason+Kwon+gave+even-toned%2C+reassuring+answers+to+the+Australian+government.+Did+%E2%80%A6+ChatGPT+write+this%3F"
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "batman_robin",
+  "cinematic_title": "Batman & Robin",
+  "data_summary": "TENNIS DAY ~183 MIN | USUAL 19:29 ~916 KCAL | The standing Wednesday night match runs about 183 minutes and roughly 916 calories; last outing was 208 minutes, usual start around 19:29.",
+  "expires_at": "2026-10-07T17:00:23+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-10-07T11:00:23+11:00",
+  "title": "Health Insight: TENNIS DAY ~183 MIN",
+  "topic_key": "health_tennis_wednesday",
+  "url": ""
 }
