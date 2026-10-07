@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "mummy_1999",
-  "cinematic_title": "The Mummy",
-  "data_summary": "INTENSITY 40 MIN | 95% VS PRIOR 7D | Weighted intensity minutes total 40 across the last seven days versus 729 in the prior seven-day window.",
-  "expires_at": "2026-10-07T19:20:29+11:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "se7en",
+  "cinematic_title": "Se7en",
+  "data_summary": "CALM DAYS +25 BB | 71 VS 47 / 20 DAYS | Across 20 comparable days, Body Battery averaged 46.5 when stress was 35+ versus 71.4 when stress was below 30. This is a personal association, not proof of cause.",
+  "expires_at": "2026-10-07T20:00:33+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-07T13:20:29+11:00",
-  "title": "Health Insight: INTENSITY 40 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-10-07T14:00:33+11:00",
+  "title": "Health Insight: CALM DAYS +25 BB",
+  "topic_key": "health_pattern_stress_body_battery_g",
   "url": ""
 }
