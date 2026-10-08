@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "gundam_hathaway",
-  "cinematic_title": "Mobile Suit Gundam Hathaway",
-  "data_summary": "context phase midday, temp 17C",
-  "expires_at": "2026-10-08T16:40:49+11:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "princess_and_frog",
+  "cinematic_title": "The Princess and the Frog",
+  "data_summary": "SLEEP 6H06 | 27M VS 4W AVG | Last sleep was 6.1 hours with score 70, versus a four-week average of 6.6 hours.",
+  "expires_at": "2026-10-08T17:40:52+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-08T10:40:49+11:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-10-08T11:40:52+11:00",
+  "title": "Health Insight: SLEEP 6H06",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
