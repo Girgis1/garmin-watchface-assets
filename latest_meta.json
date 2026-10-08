@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "twister",
-  "cinematic_title": "Twister",
-  "data_summary": "context phase night, temp 13C",
-  "expires_at": "2026-10-09T04:40:28+11:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "superman_1978",
+  "cinematic_title": "Superman",
+  "data_summary": "goodnight stage soft: House lights are dimming. Take the hint.; SLEEP DEBT 6.1H",
+  "expires_at": "2026-10-09T05:00:29+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-08T22:40:28+11:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
+  "lane": "goodnight",
+  "published_at": "2026-10-08T23:00:29+11:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
