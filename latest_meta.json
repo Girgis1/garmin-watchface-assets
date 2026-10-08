@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "fantastic_four_silver_surfer",
-  "cinematic_title": "Fantastic Four: Rise of the Silver Surfer",
-  "data_summary": "TENNIS 58 MIN | 168M VS YOUR AVG | 58 minutes, compared with a recent tennis average of 226 minutes.",
-  "expires_at": "2026-10-09T03:00:20+11:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "superbad",
+  "cinematic_title": "Superbad",
+  "data_summary": "context phase night, temp 14C",
+  "expires_at": "2026-10-09T03:20:21+11:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-10-08T21:00:20+11:00",
-  "title": "Health Insight: TENNIS 58 MIN",
-  "topic_key": "health_activity_24649052739",
+  "lane": "local_signal",
+  "published_at": "2026-10-08T21:20:21+11:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
   "url": ""
 }
