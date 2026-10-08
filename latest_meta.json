@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "return_of_jedi",
-  "cinematic_title": "Star Wars: Return of the Jedi",
-  "data_summary": "7D SLEEP 6H24 | 25M VS PRIOR 7D | The seven-day sleep average is 6.4 hours, 25 minutes below the prior seven days.",
-  "expires_at": "2026-10-09T00:00:11+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-10-08T18:00:11+11:00",
-  "title": "Health Insight: 7D SLEEP 6H24",
-  "topic_key": "health_weekly_sleep_trend",
-  "url": ""
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "transformers_g1",
+  "cinematic_title": "Transformers (1984 series)",
+  "data_summary": "waning crescent, 10% illuminated",
+  "expires_at": "2026-10-09T00:20:14+11:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-10-08T18:20:14+11:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
