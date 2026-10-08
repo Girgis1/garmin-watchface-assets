@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "the_conjuring",
-  "cinematic_title": "The Conjuring",
-  "data_summary": "Sydney\u2019s Graffiti Writers And Rail Nerds Unite To Farewell Their Beloved K-Set Trains",
-  "expires_at": "2026-10-08T22:00:05+11:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-10-08T16:00:05+11:00",
-  "title": "News: Sydney\u2019s Graffiti Writers And Rail Nerds Unite To Farewell Their",
-  "topic_key": "interesting_signal_sydney_s_graffiti_writers_and_rail_n",
-  "url": "https://www.google.com/search?q=Sydney%E2%80%99s+Graffiti+Writers+And+Rail+Nerds+Unite+To+Farewell+Their+Beloved+K-Set+Trains"
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "master_commander",
+  "cinematic_title": "Master and Commander",
+  "data_summary": "training intensity minutes today 0",
+  "expires_at": "2026-10-08T22:20:06+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-10-08T16:20:06+11:00",
+  "title": "Training Nudge",
+  "topic_key": "health_training_minutes",
+  "url": ""
 }
