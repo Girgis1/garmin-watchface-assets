@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "bourne_ultimatum",
-  "cinematic_title": "The Bourne Ultimatum",
-  "data_summary": "# Garmin Health Insight Generated: 2026-10-08T11:57:52+11:00 Data through: 2026-10-08 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +27 BB** | 71 VS 44 / 20 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
-  "expires_at": "2026-10-08T18:00:53+11:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "terminator_2",
+  "cinematic_title": "Terminator 2",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-10-08T18:20:55+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-08T12:00:53+11:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-10-08T12:20:55+11:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
