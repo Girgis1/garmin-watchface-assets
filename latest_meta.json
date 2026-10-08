@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "ponyo",
-  "cinematic_title": "Ponyo",
-  "data_summary": "context phase sunset, temp 16C",
-  "expires_at": "2026-10-09T00:40:14+11:00",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "moon",
+  "cinematic_title": "Moon",
+  "data_summary": "8K DAYS, ZERO LOAD | 3/20 BUSY DAYS MISSED | Garmin recorded 8,000+ steps on 20 recent days, but weighted intensity minutes stayed at zero on 3 of them. Walking volume and classified training load are not interchangeable.",
+  "expires_at": "2026-10-09T01:00:15+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-08T18:40:14+11:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-10-08T19:00:15+11:00",
+  "title": "Health Insight: 8K DAYS, ZERO LOAD",
+  "topic_key": "health_pattern_steps_intensity_misma",
   "url": ""
 }
