@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "logan",
-  "cinematic_title": "Logan",
-  "data_summary": "Anthropic is offering startups a free year of Claude Team and $1,000 in credits to kickstart their AI journey",
-  "expires_at": "2026-10-08T20:00:00+11:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-10-08T14:00:00+11:00",
-  "title": "News: Anthropic is offering startups a free year of Claude Team",
-  "topic_key": "interesting_signal_anthropic_is_offering_startups_a_fre",
-  "url": "https://www.google.com/search?q=Anthropic+is+offering+startups+a+free+year+of+Claude+Team+and+%241%2C000+in+credits+to+kickstart+their+AI+journey"
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "sherlock_bbc",
+  "cinematic_title": "Sherlock",
+  "data_summary": "HRV BALANCED, avg 71 ms, 21 day balanced streak",
+  "expires_at": "2026-10-08T20:20:01+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-10-08T14:20:01+11:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
+  "url": ""
 }
