@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "attack_on_titan",
-  "cinematic_title": "Attack on Titan",
-  "data_summary": "INTENSITY 158 MIN | 77% VS PRIOR 7D | Weighted intensity minutes total 158 across the last seven days versus 676 in the prior seven-day window.",
-  "expires_at": "2026-10-09T16:00:02+11:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "casino_royale",
+  "cinematic_title": "Casino Royale",
+  "data_summary": "context phase midday, temp 20C",
+  "expires_at": "2026-10-09T16:40:03+11:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-10-09T10:00:02+11:00",
-  "title": "Health Insight: INTENSITY 158 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "lane": "local_signal",
+  "published_at": "2026-10-09T10:40:03+11:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
