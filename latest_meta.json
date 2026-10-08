@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "xmen_last_stand",
-  "cinematic_title": "X-Men: The Last Stand",
-  "data_summary": "\u2018Drop-kick kids\u2019: Teen train surfers breaking into unmonitored Sydney carriages",
-  "expires_at": "2026-10-08T22:40:07+11:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-10-08T16:40:07+11:00",
-  "title": "News: \u2018Drop-kick kids\u2019: Teen train surfers breaking into unmonitored",
-  "topic_key": "interesting_signal_drop_kick_kids_teen_train_surfers_br",
-  "url": "https://www.google.com/search?q=%E2%80%98Drop-kick+kids%E2%80%99%3A+Teen+train+surfers+breaking+into+unmonitored+Sydney+carriages"
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "better_call_saul",
+  "cinematic_title": "Better Call Saul",
+  "data_summary": "BED ~1:36 AM | 39/41 NIGHTS POST-MIDNIGHT | Median true sleep onset is 1:36 AM across 41 nights; 39 of them landed after midnight with a night-to-night spread of 1.7 hours. Earlier nights in this dataset averaged MORE sleep, not less.",
+  "expires_at": "2026-10-08T23:40:10+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-10-08T17:40:10+11:00",
+  "title": "Health Insight: BED ~1:36 AM",
+  "topic_key": "health_pattern_bedtime_chronic_late",
+  "url": ""
 }
