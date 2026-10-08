@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "superbad",
-  "cinematic_title": "Superbad",
-  "data_summary": "context phase night, temp 14C",
-  "expires_at": "2026-10-09T03:20:21+11:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "zack_snyder_justice_league",
+  "cinematic_title": "Zack Snyder's Justice League",
+  "data_summary": "25 BB | 28 VS 53 OTHER DAYS | Thu Body Battery finishes average 28 versus 53 on every other weekday \u2014 a recurring 25-point weekly trough.",
+  "expires_at": "2026-10-09T04:00:27+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-08T21:20:21+11:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
+  "lane": "health",
+  "published_at": "2026-10-08T22:00:27+11:00",
+  "title": "Health Insight: 25 BB",
+  "topic_key": "health_pattern_weekly_bb_crash_day",
   "url": ""
 }
