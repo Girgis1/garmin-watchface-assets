@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "master_commander",
-  "cinematic_title": "Master and Commander",
-  "data_summary": "training intensity minutes today 0",
-  "expires_at": "2026-10-08T22:20:06+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-10-08T16:20:06+11:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
-  "url": ""
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "xmen_last_stand",
+  "cinematic_title": "X-Men: The Last Stand",
+  "data_summary": "\u2018Drop-kick kids\u2019: Teen train surfers breaking into unmonitored Sydney carriages",
+  "expires_at": "2026-10-08T22:40:07+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-10-08T16:40:07+11:00",
+  "title": "News: \u2018Drop-kick kids\u2019: Teen train surfers breaking into unmonitored",
+  "topic_key": "interesting_signal_drop_kick_kids_teen_train_surfers_br",
+  "url": "https://www.google.com/search?q=%E2%80%98Drop-kick+kids%E2%80%99%3A+Teen+train+surfers+breaking+into+unmonitored+Sydney+carriages"
 }
