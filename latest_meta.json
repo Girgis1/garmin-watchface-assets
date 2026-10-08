@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "terminator_2",
-  "cinematic_title": "Terminator 2",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-10-08T18:20:55+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-10-08T12:20:55+11:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "logan",
+  "cinematic_title": "Logan",
+  "data_summary": "Anthropic is offering startups a free year of Claude Team and $1,000 in credits to kickstart their AI journey",
+  "expires_at": "2026-10-08T20:00:00+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-10-08T14:00:00+11:00",
+  "title": "News: Anthropic is offering startups a free year of Claude Team",
+  "topic_key": "interesting_signal_anthropic_is_offering_startups_a_fre",
+  "url": "https://www.google.com/search?q=Anthropic+is+offering+startups+a+free+year+of+Claude+Team+and+%241%2C000+in+credits+to+kickstart+their+AI+journey"
 }
