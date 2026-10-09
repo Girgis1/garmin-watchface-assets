@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "tomb_raider",
-  "cinematic_title": "Lara Croft: Tomb Raider",
-  "data_summary": "training intensity minutes today 4",
-  "expires_at": "2026-10-09T22:40:20+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-10-09T16:40:20+11:00",
-  "title": "Training Nudge",
-  "topic_key": "health_training_minutes",
-  "url": ""
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "adjustment_bureau",
+  "cinematic_title": "The Adjustment Bureau",
+  "data_summary": "waning crescent, 5% illuminated",
+  "expires_at": "2026-10-09T23:00:21+11:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-10-09T17:00:21+11:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
