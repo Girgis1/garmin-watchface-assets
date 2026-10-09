@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "rick_and_morty",
-  "cinematic_title": "Rick and Morty",
-  "data_summary": "context phase afternoon, temp 23C",
-  "expires_at": "2026-10-09T20:20:13+11:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "artificial_intelligence",
+  "cinematic_title": "A.I. Artificial Intelligence",
+  "data_summary": "BEDTIME SWINGS \u00b11.7H | MEDIAN 1:36 | Night-to-night sleep onset varies by 1.7 hours around a median of 1:36. Irregular timing weakens sleep quality even when total duration looks fine.",
+  "expires_at": "2026-10-09T20:40:14+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-09T14:20:13+11:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
+  "lane": "health",
+  "published_at": "2026-10-09T14:40:14+11:00",
+  "title": "Health Insight: BEDTIME SWINGS \u00b11.7H",
+  "topic_key": "health_pattern_bedtime_variable",
   "url": ""
 }
