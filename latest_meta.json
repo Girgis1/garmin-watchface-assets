@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "sing_movie",
-  "cinematic_title": "Sing",
-  "data_summary": "# Garmin Health Insight Generated: 2026-10-10T09:57:17+11:00 Data through: 2026-10-10 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +29 BB** | 71 VS 42 / 22 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
-  "expires_at": "2026-10-10T16:00:18+11:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "hellboy_golden_army",
+  "cinematic_title": "Hellboy II: The Golden Army",
+  "data_summary": "context phase midday, temp 20C",
+  "expires_at": "2026-10-10T16:20:19+11:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-10-10T10:00:18+11:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "lane": "local_signal",
+  "published_at": "2026-10-10T10:20:19+11:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
