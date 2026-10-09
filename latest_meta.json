@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "aladdin",
-  "cinematic_title": "Aladdin",
-  "data_summary": "# Garmin Health Insight Generated: 2026-10-09T15:57:18+11:00 Data through: 2026-10-09 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +30 BB** | 71 VS 42 / 21 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
-  "expires_at": "2026-10-09T22:00:18+11:00",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "princess_bride",
+  "cinematic_title": "The Princess Bride",
+  "data_summary": "SpO2 98%, respiration 14.0",
+  "expires_at": "2026-10-09T22:20:19+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-09T16:00:18+11:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "published_at": "2026-10-09T16:20:19+11:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
