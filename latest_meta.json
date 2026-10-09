@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "the_marvels",
-  "cinematic_title": "The Marvels",
-  "data_summary": "RHR UP, HRV DOWN | R=-0.57 / N=29 | Across 29 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.57. Treat this as a personal trend signal, not a diagnosis.",
-  "expires_at": "2026-10-09T19:00:10+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-10-09T13:00:10+11:00",
-  "title": "Health Insight: RHR UP, HRV DOWN",
-  "topic_key": "health_pattern_rhr_hrv_relationship",
-  "url": ""
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "batman_returns",
+  "cinematic_title": "Batman Returns",
+  "data_summary": "Millions brace for thunderstorms, flooding",
+  "expires_at": "2026-10-09T19:20:11+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-10-09T13:20:11+11:00",
+  "title": "News: Millions brace for thunderstorms, flooding",
+  "topic_key": "interesting_signal_millions_brace_for_thunderstorms_flo",
+  "url": "https://www.google.com/search?q=Millions+brace+for+thunderstorms%2C+flooding"
 }
