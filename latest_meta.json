@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "casino_royale",
-  "cinematic_title": "Casino Royale",
-  "data_summary": "context phase midday, temp 20C",
-  "expires_at": "2026-10-09T16:40:03+11:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "ace_ventura",
+  "cinematic_title": "Ace Ventura: Pet Detective",
+  "data_summary": "POST-TENNIS RECOVERY | SLEEP 6.1H VS 7.0 NORM | The morning after a Thu match night you slept 6.1h versus 7.0h on ordinary mornings. Overnight HRV 61 versus your usual ~73. Match nights cost real recovery; spend today accordingly.",
+  "expires_at": "2026-10-09T17:00:04+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-09T10:40:03+11:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-10-09T11:00:04+11:00",
+  "title": "Health Insight: POST-TENNIS RECOVERY",
+  "topic_key": "health_tennis_recovery",
   "url": ""
 }
