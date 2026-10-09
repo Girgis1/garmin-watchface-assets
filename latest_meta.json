@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "squid_game",
-  "cinematic_title": "Squid Game",
-  "data_summary": "context phase afternoon, temp 22C",
-  "expires_at": "2026-10-09T21:20:16+11:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "thor_2011",
+  "cinematic_title": "Thor",
+  "data_summary": "TUE SLEEP +67M | VS FRI, 6-WEEK AVG | Across the available history, Tue sleep averages 67 minutes longer than Fri sleep.",
+  "expires_at": "2026-10-09T21:40:17+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-09T15:20:16+11:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
+  "lane": "health",
+  "published_at": "2026-10-09T15:40:17+11:00",
+  "title": "Health Insight: TUE SLEEP +67M",
+  "topic_key": "health_pattern_weekday_sleep",
   "url": ""
 }
