@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "peaky_blinders",
-  "cinematic_title": "Peaky Blinders",
-  "data_summary": "HRV BALANCED, avg 70 ms, 21 day balanced streak",
-  "expires_at": "2026-10-09T23:40:23+11:00",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "swamp_thing_1982",
+  "cinematic_title": "Swamp Thing",
+  "data_summary": "context phase sunset, temp 18C",
+  "expires_at": "2026-10-10T01:00:27+11:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-10-09T17:40:23+11:00",
-  "title": "HRV Signal",
-  "topic_key": "health_hrv_balanced",
+  "lane": "local_signal",
+  "published_at": "2026-10-09T19:00:27+11:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
