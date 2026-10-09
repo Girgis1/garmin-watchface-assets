@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "kubo",
-  "cinematic_title": "Kubo and the Two Strings",
-  "data_summary": "BB TREND -2.2/DAY | 90 -> 50 / 14D | Comparable wake-time Body Battery values moved from 90 to 50, with a fitted trend of -2.2 points per day.",
-  "expires_at": "2026-10-10T03:00:33+11:00",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "zoolander",
+  "cinematic_title": "Zoolander",
+  "data_summary": "context phase night, temp 17C",
+  "expires_at": "2026-10-10T03:20:34+11:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-10-09T21:00:33+11:00",
-  "title": "Health Insight: BB TREND -2.2/DAY",
-  "topic_key": "health_pattern_body_battery_14d_tren",
+  "lane": "local_signal",
+  "published_at": "2026-10-09T21:20:34+11:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
   "url": ""
 }
