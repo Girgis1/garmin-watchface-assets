@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "hot_fuzz",
-  "cinematic_title": "Hot Fuzz",
-  "data_summary": "morning briefing: RAIN 79% FROM 9AM",
-  "expires_at": "2026-10-10T15:40:17+11:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "sing_movie",
+  "cinematic_title": "Sing",
+  "data_summary": "# Garmin Health Insight Generated: 2026-10-10T09:57:17+11:00 Data through: 2026-10-10 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +29 BB** | 71 VS 42 / 22 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
+  "expires_at": "2026-10-10T16:00:18+11:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-10-10T09:40:17+11:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-10-10T10:00:18+11:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
