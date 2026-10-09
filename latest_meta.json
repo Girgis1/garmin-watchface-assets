@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "harry_potter_hallows_part2",
-  "cinematic_title": "Harry Potter and the Deathly Hallows - Part 2",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-10-09T18:00:06+11:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "kung_fu_panda",
+  "cinematic_title": "Kung Fu Panda",
+  "data_summary": "7D SLEEP 6H28 | 23M VS PRIOR 7D | The seven-day sleep average is 6.5 hours, 23 minutes below the prior seven days.",
+  "expires_at": "2026-10-09T18:40:07+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-09T12:00:06+11:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
+  "published_at": "2026-10-09T12:40:07+11:00",
+  "title": "Health Insight: 7D SLEEP 6H28",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
