@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "king_kong_2005",
-  "cinematic_title": "King Kong",
-  "data_summary": "context phase sunset, temp 20C",
-  "expires_at": "2026-10-09T23:20:22+11:00",
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "peaky_blinders",
+  "cinematic_title": "Peaky Blinders",
+  "data_summary": "HRV BALANCED, avg 70 ms, 21 day balanced streak",
+  "expires_at": "2026-10-09T23:40:23+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-09T17:20:22+11:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-10-09T17:40:23+11:00",
+  "title": "HRV Signal",
+  "topic_key": "health_hrv_balanced",
   "url": ""
 }
