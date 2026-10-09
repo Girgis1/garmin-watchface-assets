@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "thor_2011",
-  "cinematic_title": "Thor",
-  "data_summary": "TUE SLEEP +67M | VS FRI, 6-WEEK AVG | Across the available history, Tue sleep averages 67 minutes longer than Fri sleep.",
-  "expires_at": "2026-10-09T21:40:17+11:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "aladdin",
+  "cinematic_title": "Aladdin",
+  "data_summary": "# Garmin Health Insight Generated: 2026-10-09T15:57:18+11:00 Data through: 2026-10-09 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +30 BB** | 71 VS 42 / 21 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
+  "expires_at": "2026-10-09T22:00:18+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-09T15:40:17+11:00",
-  "title": "Health Insight: TUE SLEEP +67M",
-  "topic_key": "health_pattern_weekday_sleep",
+  "published_at": "2026-10-09T16:00:18+11:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
