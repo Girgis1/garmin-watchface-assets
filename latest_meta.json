@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "the_crown",
-  "cinematic_title": "The Crown",
-  "data_summary": "SLEEP 6H05 | 29M VS 4W AVG | Last sleep was 6.1 hours with score 72, versus a four-week average of 6.6 hours.",
-  "expires_at": "2026-10-09T17:40:05+11:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "harry_potter_hallows_part2",
+  "cinematic_title": "Harry Potter and the Deathly Hallows - Part 2",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-10-09T18:00:06+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-09T11:40:05+11:00",
-  "title": "Health Insight: SLEEP 6H05",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-10-09T12:00:06+11:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
