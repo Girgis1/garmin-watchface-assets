@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "princess_bride",
-  "cinematic_title": "The Princess Bride",
-  "data_summary": "SpO2 98%, respiration 14.0",
-  "expires_at": "2026-10-09T22:20:19+11:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "tomb_raider",
+  "cinematic_title": "Lara Croft: Tomb Raider",
+  "data_summary": "training intensity minutes today 4",
+  "expires_at": "2026-10-09T22:40:20+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-09T16:20:19+11:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
+  "published_at": "2026-10-09T16:40:20+11:00",
+  "title": "Training Nudge",
+  "topic_key": "health_training_minutes",
   "url": ""
 }
