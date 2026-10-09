@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "incredible_hulk",
-  "cinematic_title": "The Incredible Hulk",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "hot_fuzz",
+  "cinematic_title": "Hot Fuzz",
   "data_summary": "morning briefing: RAIN 79% FROM 9AM",
-  "expires_at": "2026-10-10T15:20:16+11:00",
+  "expires_at": "2026-10-10T15:40:17+11:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-10-10T09:20:16+11:00",
+  "published_at": "2026-10-10T09:40:17+11:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
