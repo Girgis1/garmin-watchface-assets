@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "hellboy_golden_army",
-  "cinematic_title": "Hellboy II: The Golden Army",
-  "data_summary": "context phase midday, temp 20C",
-  "expires_at": "2026-10-10T16:20:19+11:00",
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "loki_series",
+  "cinematic_title": "Loki",
+  "data_summary": "HRV 61 MS, RHR | TAKE THE EASY DAY | Overnight HRV hit 61 ms versus your 72 ms norm (16% down) while resting heart rate climbed 5 bpm above baseline. Both recovery signals deteriorated together.",
+  "expires_at": "2026-10-10T18:00:33+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-10T10:20:19+11:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-10-10T12:00:33+11:00",
+  "title": "Health Insight: HRV 61 MS, RHR",
+  "topic_key": "health_alert_recovery_flash",
   "url": ""
 }
