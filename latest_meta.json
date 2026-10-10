@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "rise_planet_apes",
-  "cinematic_title": "Rise of the Planet of the Apes",
-  "data_summary": "RUNNING 44 MIN | 60M VS YOUR AVG | 44 minutes, compared with a recent running average of 104 minutes.",
-  "expires_at": "2026-10-10T18:40:34+11:00",
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "gravity_falls",
+  "cinematic_title": "Gravity Falls",
+  "data_summary": "INTENSITY 160 MIN | 66% VS PRIOR 7D | Weighted intensity minutes total 160 across the last seven days versus 470 in the prior seven-day window.",
+  "expires_at": "2026-10-10T19:00:35+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-10T12:40:34+11:00",
-  "title": "Health Insight: RUNNING 44 MIN",
-  "topic_key": "health_activity_24668647170",
+  "published_at": "2026-10-10T13:00:35+11:00",
+  "title": "Health Insight: INTENSITY 160 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
