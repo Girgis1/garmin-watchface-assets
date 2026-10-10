@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "shazam_fury_gods",
-  "cinematic_title": "Shazam! Fury of the Gods",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-10-10T23:40:49+11:00",
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "courage_dog",
+  "cinematic_title": "Courage the Cowardly Dog",
+  "data_summary": "context phase sunset, temp 27C",
+  "expires_at": "2026-10-11T00:00:50+11:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-10-10T17:40:49+11:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
+  "lane": "local_signal",
+  "published_at": "2026-10-10T18:00:50+11:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
   "url": ""
 }
