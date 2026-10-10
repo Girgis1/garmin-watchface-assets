@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "courage_dog",
-  "cinematic_title": "Courage the Cowardly Dog",
-  "data_summary": "context phase sunset, temp 27C",
-  "expires_at": "2026-10-11T00:00:50+11:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "the_fountain",
+  "cinematic_title": "The Fountain",
+  "data_summary": "goodnight stage soft: We're entering the quiet part now. Do try to notice.; SLEEP DEBT 6.3H",
+  "expires_at": "2026-10-11T05:00:08+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-10T18:00:50+11:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "goodnight",
+  "published_at": "2026-10-10T23:00:08+11:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
