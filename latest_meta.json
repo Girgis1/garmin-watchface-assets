@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "loki_series",
-  "cinematic_title": "Loki",
-  "data_summary": "HRV 61 MS, RHR | TAKE THE EASY DAY | Overnight HRV hit 61 ms versus your 72 ms norm (16% down) while resting heart rate climbed 5 bpm above baseline. Both recovery signals deteriorated together.",
-  "expires_at": "2026-10-10T18:00:33+11:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "ready_player_one",
+  "cinematic_title": "Ready Player One",
+  "data_summary": "CALM DAY PAYS +15 | WAKE BB 83 VS 68 | After days with average stress under 32, morning Body Battery averaged 83; after higher-stress days it was only 68. Today's calm is tomorrow's charge.",
+  "expires_at": "2026-10-10T18:20:34+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-10T12:00:33+11:00",
-  "title": "Health Insight: HRV 61 MS, RHR",
-  "topic_key": "health_alert_recovery_flash",
+  "published_at": "2026-10-10T12:20:34+11:00",
+  "title": "Health Insight: CALM DAY PAYS +15",
+  "topic_key": "health_pattern_calm_day_next_morning",
   "url": ""
 }
