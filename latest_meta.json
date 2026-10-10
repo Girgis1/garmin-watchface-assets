@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "dune_part_two",
-  "cinematic_title": "Dune: Part Two",
-  "data_summary": "goodnight stage stern: Bed is happening. Participate voluntarily.; SLEEP DEBT 6.3H",
-  "expires_at": "2026-10-11T05:40:09+11:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "chappie",
+  "cinematic_title": "Chappie",
+  "data_summary": "morning briefing: no major weather/sleep drama",
+  "expires_at": "2026-10-11T14:00:27+11:00",
   "kind": "none",
   "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-10-10T23:40:09+11:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "lane": "morning",
+  "published_at": "2026-10-11T08:00:27+11:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
