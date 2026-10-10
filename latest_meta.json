@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "gravity_falls",
-  "cinematic_title": "Gravity Falls",
-  "data_summary": "INTENSITY 160 MIN | 66% VS PRIOR 7D | Weighted intensity minutes total 160 across the last seven days versus 470 in the prior seven-day window.",
-  "expires_at": "2026-10-10T19:00:35+11:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "the_ring",
+  "cinematic_title": "The Ring",
+  "data_summary": "HRV 73 MS | 3.0 VS PRIOR 7D | Seven-day HRV averages 73.3 ms versus 76.3 ms in the prior seven days; latest status is balanced.",
+  "expires_at": "2026-10-10T19:20:36+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-10T13:00:35+11:00",
-  "title": "Health Insight: INTENSITY 160 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-10-10T13:20:36+11:00",
+  "title": "Health Insight: HRV 73 MS",
+  "topic_key": "health_hrv_weekly_trend",
   "url": ""
 }
