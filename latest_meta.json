@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "rogue_one",
-  "cinematic_title": "Rogue One",
-  "data_summary": "context phase midday, temp 23C",
-  "expires_at": "2026-10-11T16:20:34+11:00",
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "johnny_bravo",
+  "cinematic_title": "Johnny Bravo",
+  "data_summary": "BB<20: 7/30 DAYS | 5/7 ALSO STRESS 35+ | Body Battery finished below 20 on 7 of 30 recent complete days; 5 of those days also had average stress of 35 or higher.",
+  "expires_at": "2026-10-11T16:40:35+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-11T10:20:34+11:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-10-11T10:40:35+11:00",
+  "title": "Health Insight: BB<20: 7/30 DAYS",
+  "topic_key": "health_pattern_low_body_battery_freq",
   "url": ""
 }
