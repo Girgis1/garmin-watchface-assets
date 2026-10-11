@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "money_heist",
-  "cinematic_title": "Money Heist",
-  "data_summary": "# Garmin Health Insight Generated: 2026-10-11T16:57:52+11:00 Data through: 2026-10-11 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +31 BB** | 71 VS 41 / 23 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
-  "expires_at": "2026-10-11T23:00:53+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-10-11T17:00:53+11:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
-  "url": ""
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "the_shining",
+  "cinematic_title": "The Shining",
+  "data_summary": "new moon, 0% illuminated",
+  "expires_at": "2026-10-11T23:20:54+11:00",
+  "kind": "moon",
+  "label": "OPEN MOON",
+  "lane": "moon",
+  "published_at": "2026-10-11T17:20:54+11:00",
+  "title": "Moon Phase",
+  "topic_key": "moon_phase",
+  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
 }
