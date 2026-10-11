@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "samurai_jack",
-  "cinematic_title": "Samurai Jack",
-  "data_summary": "context phase afternoon, temp 26C",
-  "expires_at": "2026-10-11T21:20:48+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-11T15:20:48+11:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
-  "url": ""
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "skyfall",
+  "cinematic_title": "Skyfall",
+  "data_summary": "leave-work temp 28C, rain 38%, 0.4 mm",
+  "expires_at": "2026-10-11T22:00:50+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-10-11T16:00:50+11:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
