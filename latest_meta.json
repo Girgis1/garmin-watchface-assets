@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "shang_chi",
-  "cinematic_title": "Shang-Chi and the Legend of the Ten Rings",
-  "data_summary": "context phase sunset, temp 23C",
-  "expires_at": "2026-10-11T23:40:01+11:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "beauty_and_beast",
+  "cinematic_title": "Beauty and the Beast",
+  "data_summary": "BED ~1:39 AM | 39/41 NIGHTS POST-MIDNIGHT | Median true sleep onset is 1:39 AM across 41 nights; 39 of them landed after midnight with a night-to-night spread of 1.7 hours. Earlier nights in this dataset averaged MORE sleep, not less.",
+  "expires_at": "2026-10-12T00:00:06+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-11T17:40:01+11:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-10-11T18:00:06+11:00",
+  "title": "Health Insight: BED ~1:39 AM",
+  "topic_key": "health_pattern_bedtime_chronic_late",
   "url": ""
 }
