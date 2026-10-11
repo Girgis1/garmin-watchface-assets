@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "the_shining",
-  "cinematic_title": "The Shining",
-  "data_summary": "new moon, 0% illuminated",
-  "expires_at": "2026-10-11T23:20:54+11:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-10-11T17:20:54+11:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "shang_chi",
+  "cinematic_title": "Shang-Chi and the Legend of the Ten Rings",
+  "data_summary": "context phase sunset, temp 23C",
+  "expires_at": "2026-10-11T23:40:01+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-10-11T17:40:01+11:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
