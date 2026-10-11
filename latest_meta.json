@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "one_piece_red",
-  "cinematic_title": "One Piece Film: Red",
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "ozark",
+  "cinematic_title": "Ozark",
   "data_summary": "morning briefing: RAIN 22% FROM 6PM",
-  "expires_at": "2026-10-12T14:00:37+11:00",
+  "expires_at": "2026-10-12T14:20:37+11:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-10-12T08:00:37+11:00",
+  "published_at": "2026-10-12T08:20:37+11:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
