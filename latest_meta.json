@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "star_trek_beyond",
-  "cinematic_title": "Star Trek Beyond",
-  "data_summary": "context phase midday, temp 27C",
-  "expires_at": "2026-10-11T19:40:45+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-11T13:40:45+11:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
-  "url": ""
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "mighty_ducks",
+  "cinematic_title": "The Mighty Ducks",
+  "data_summary": "leave-work temp 28C, rain 23%, 0.4 mm",
+  "expires_at": "2026-10-11T21:00:48+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-10-11T15:00:48+11:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
