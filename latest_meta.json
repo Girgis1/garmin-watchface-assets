@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "scott_pilgrim",
-  "cinematic_title": "Scott Pilgrim vs. the World",
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "arrival",
+  "cinematic_title": "Arrival",
   "data_summary": "morning briefing: RAIN 22% FROM 6PM",
-  "expires_at": "2026-10-12T14:40:39+11:00",
+  "expires_at": "2026-10-12T15:20:42+11:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-10-12T08:40:39+11:00",
+  "published_at": "2026-10-12T09:20:42+11:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
