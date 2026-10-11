@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "games_anime_screen",
-  "cinematic_key": "dragon_ball_broly",
-  "cinematic_title": "Dragon Ball Super: Broly",
-  "data_summary": "8K DAYS, ZERO LOAD | 3/20 BUSY DAYS MISSED | Garmin recorded 8,000+ steps on 20 recent days, but weighted intensity minutes stayed at zero on 3 of them. Walking volume and classified training load are not interchangeable.",
-  "expires_at": "2026-10-12T01:20:08+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-10-11T19:20:08+11:00",
-  "title": "Health Insight: 8K DAYS, ZERO LOAD",
-  "topic_key": "health_pattern_steps_intensity_misma",
-  "url": ""
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "severance",
+  "cinematic_title": "Severance",
+  "data_summary": "leave-work temp 30C, rain 38%, 0.0 mm",
+  "expires_at": "2026-10-12T01:40:08+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-10-11T19:40:08+11:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
