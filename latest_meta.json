@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "scream",
-  "cinematic_title": "Scream",
-  "data_summary": "SpO2 97%, respiration 14.0",
-  "expires_at": "2026-10-12T04:20:13+11:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "punisher_2004",
+  "cinematic_title": "The Punisher",
+  "data_summary": "26 BB | 27 VS 52 OTHER DAYS | Thu Body Battery finishes average 27 versus 52 on every other weekday \u2014 a recurring 26-point weekly trough.",
+  "expires_at": "2026-10-12T04:40:14+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-11T22:20:13+11:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
+  "published_at": "2026-10-11T22:40:14+11:00",
+  "title": "Health Insight: 26 BB",
+  "topic_key": "health_pattern_weekly_bb_crash_day",
   "url": ""
 }
