@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "severance",
-  "cinematic_title": "Severance",
-  "data_summary": "leave-work temp 30C, rain 38%, 0.0 mm",
-  "expires_at": "2026-10-12T01:40:08+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather_departure",
-  "published_at": "2026-10-11T19:40:08+11:00",
-  "title": "Leave-Work Weather",
-  "topic_key": "leave_work_weather",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "star_wars_new_hope",
+  "cinematic_title": "Star Wars: A New Hope",
+  "data_summary": "context phase sunset, temp 21C",
+  "expires_at": "2026-10-12T02:00:09+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-10-11T20:00:09+11:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
