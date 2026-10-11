@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "harry_potter_goblet",
-  "cinematic_title": "Harry Potter and the Goblet of Fire",
-  "data_summary": "leave-work temp 31C, rain 38%, 0.0 mm",
-  "expires_at": "2026-10-12T00:20:06+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather_departure",
-  "published_at": "2026-10-11T18:20:06+11:00",
-  "title": "Leave-Work Weather",
-  "topic_key": "leave_work_weather",
-  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "naruto",
+  "cinematic_title": "Naruto",
+  "data_summary": "context phase sunset, temp 22C",
+  "expires_at": "2026-10-12T00:40:07+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-10-11T18:40:07+11:00",
+  "title": "Sunset Context",
+  "topic_key": "ambient_context_sunset",
+  "url": ""
 }
