@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "raya_last_dragon",
-  "cinematic_title": "Raya and the Last Dragon",
-  "data_summary": "INTENSITY 317 MIN | 17% VS PRIOR 7D | Weighted intensity minutes total 317 across the last seven days versus 384 in the prior seven-day window.",
-  "expires_at": "2026-10-11T18:20:41+11:00",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "tmnt_mutant_mayhem",
+  "cinematic_title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-10-11T18:40:42+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-11T12:20:41+11:00",
-  "title": "Health Insight: INTENSITY 317 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-10-11T12:40:42+11:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
