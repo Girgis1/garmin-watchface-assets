@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "naruto",
-  "cinematic_title": "Naruto",
-  "data_summary": "context phase sunset, temp 22C",
-  "expires_at": "2026-10-12T00:40:07+11:00",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "dragon_ball_broly",
+  "cinematic_title": "Dragon Ball Super: Broly",
+  "data_summary": "8K DAYS, ZERO LOAD | 3/20 BUSY DAYS MISSED | Garmin recorded 8,000+ steps on 20 recent days, but weighted intensity minutes stayed at zero on 3 of them. Walking volume and classified training load are not interchangeable.",
+  "expires_at": "2026-10-12T01:20:08+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-11T18:40:07+11:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
+  "lane": "health",
+  "published_at": "2026-10-11T19:20:08+11:00",
+  "title": "Health Insight: 8K DAYS, ZERO LOAD",
+  "topic_key": "health_pattern_steps_intensity_misma",
   "url": ""
 }
