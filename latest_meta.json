@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "arrival",
-  "cinematic_title": "Arrival",
-  "data_summary": "morning briefing: RAIN 22% FROM 6PM",
-  "expires_at": "2026-10-12T15:20:42+11:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "toy_story_4",
+  "cinematic_title": "Toy Story 4",
+  "data_summary": "INTENSITY 447 MIN | +66% VS PRIOR 7D | Weighted intensity minutes total 447 across the last seven days versus 270 in the prior seven-day window.",
+  "expires_at": "2026-10-12T16:00:44+11:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-10-12T09:20:42+11:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-10-12T10:00:44+11:00",
+  "title": "Health Insight: INTENSITY 447 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
