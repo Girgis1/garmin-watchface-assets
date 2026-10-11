@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "looney_tunes",
-  "cinematic_title": "Looney Tunes",
-  "data_summary": "goodnight stage midnight_strict: GO TO BED. Midnight means it.; RAIN 22% 6PM",
-  "expires_at": "2026-10-12T06:00:18+11:00",
+  "cinematic_group": "games_anime_screen",
+  "cinematic_key": "one_piece_red",
+  "cinematic_title": "One Piece Film: Red",
+  "data_summary": "morning briefing: RAIN 22% FROM 6PM",
+  "expires_at": "2026-10-12T14:00:37+11:00",
   "kind": "none",
   "label": "",
-  "lane": "goodnight",
-  "published_at": "2026-10-12T00:00:18+11:00",
-  "title": "Goodnight Briefing",
-  "topic_key": "goodnight_briefing",
+  "lane": "morning",
+  "published_at": "2026-10-12T08:00:37+11:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
   "url": ""
 }
