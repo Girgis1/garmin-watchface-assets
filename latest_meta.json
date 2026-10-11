@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "surrogates",
-  "cinematic_title": "Surrogates",
-  "data_summary": "SLEEP 6H57 | +25M VS 4W AVG | Last sleep was 7.0 hours with score 76, versus a four-week average of 6.5 hours.",
-  "expires_at": "2026-10-11T17:20:38+11:00",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "raya_last_dragon",
+  "cinematic_title": "Raya and the Last Dragon",
+  "data_summary": "INTENSITY 317 MIN | 17% VS PRIOR 7D | Weighted intensity minutes total 317 across the last seven days versus 384 in the prior seven-day window.",
+  "expires_at": "2026-10-11T18:20:41+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-11T11:20:38+11:00",
-  "title": "Health Insight: SLEEP 6H57",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-10-11T12:20:41+11:00",
+  "title": "Health Insight: INTENSITY 317 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
