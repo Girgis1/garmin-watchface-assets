@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "district_9",
-  "cinematic_title": "District 9",
-  "data_summary": "context phase afternoon, temp 24C",
-  "expires_at": "2026-10-11T22:20:51+11:00",
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "money_heist",
+  "cinematic_title": "Money Heist",
+  "data_summary": "# Garmin Health Insight Generated: 2026-10-11T16:57:52+11:00 Data through: 2026-10-11 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +31 BB** | 71 VS 41 / 23 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
+  "expires_at": "2026-10-11T23:00:53+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-11T16:20:51+11:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
+  "lane": "health",
+  "published_at": "2026-10-11T17:00:53+11:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
