@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "beauty_and_beast",
-  "cinematic_title": "Beauty and the Beast",
-  "data_summary": "BED ~1:39 AM | 39/41 NIGHTS POST-MIDNIGHT | Median true sleep onset is 1:39 AM across 41 nights; 39 of them landed after midnight with a night-to-night spread of 1.7 hours. Earlier nights in this dataset averaged MORE sleep, not less.",
-  "expires_at": "2026-10-12T00:00:06+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-10-11T18:00:06+11:00",
-  "title": "Health Insight: BED ~1:39 AM",
-  "topic_key": "health_pattern_bedtime_chronic_late",
-  "url": ""
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "harry_potter_goblet",
+  "cinematic_title": "Harry Potter and the Goblet of Fire",
+  "data_summary": "leave-work temp 31C, rain 38%, 0.0 mm",
+  "expires_at": "2026-10-12T00:20:06+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-10-11T18:20:06+11:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=Sydney+Meadowbank+weather"
 }
