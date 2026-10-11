@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "johnny_bravo",
-  "cinematic_title": "Johnny Bravo",
-  "data_summary": "BB<20: 7/30 DAYS | 5/7 ALSO STRESS 35+ | Body Battery finished below 20 on 7 of 30 recent complete days; 5 of those days also had average stress of 35 or higher.",
-  "expires_at": "2026-10-11T16:40:35+11:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "last_crusade",
+  "cinematic_title": "Indiana Jones and the Last Crusade",
+  "data_summary": "HRV 72 MS | 3.9 VS PRIOR 7D | Seven-day HRV averages 72.4 ms versus 76.3 ms in the prior seven days; latest status is balanced.",
+  "expires_at": "2026-10-11T17:00:36+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-11T10:40:35+11:00",
-  "title": "Health Insight: BB<20: 7/30 DAYS",
-  "topic_key": "health_pattern_low_body_battery_freq",
+  "published_at": "2026-10-11T11:00:36+11:00",
+  "title": "Health Insight: HRV 72 MS",
+  "topic_key": "health_hrv_weekly_trend",
   "url": ""
 }
