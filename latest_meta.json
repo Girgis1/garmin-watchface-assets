@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "life_2017",
-  "cinematic_title": "Life",
-  "data_summary": "next-hour temp 25.9C, rain 76%, 0.0 mm",
-  "expires_at": "2026-10-13T04:40:30+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-10-12T22:40:30+11:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "dark_knight",
+  "cinematic_title": "The Dark Knight",
+  "data_summary": "goodnight stage soft: That 'one last thing' has excellent marketing.; RAIN 82% 11PM",
+  "expires_at": "2026-10-13T05:00:30+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "goodnight",
+  "published_at": "2026-10-12T23:00:30+11:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
+  "url": ""
 }
