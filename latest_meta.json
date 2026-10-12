@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "quiet_place",
-  "cinematic_title": "A Quiet Place",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-10-12T18:20:54+11:00",
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "oblivion",
+  "cinematic_title": "Oblivion",
+  "data_summary": "# Garmin Health Insight Generated: 2026-10-12T12:37:54+11:00 Data through: 2026-10-12 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +27 BB** | 68 VS 42 / 23 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
+  "expires_at": "2026-10-12T18:40:54+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-12T12:20:54+11:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
+  "published_at": "2026-10-12T12:40:54+11:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
