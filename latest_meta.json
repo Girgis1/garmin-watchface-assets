@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "oblivion",
-  "cinematic_title": "Oblivion",
-  "data_summary": "# Garmin Health Insight Generated: 2026-10-12T12:37:54+11:00 Data through: 2026-10-12 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +27 BB** | 68 VS 42 / 23 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
-  "expires_at": "2026-10-12T18:40:54+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-10-12T12:40:54+11:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
-  "url": ""
+  "cinematic_group": "animation_family",
+  "cinematic_key": "my_neighbor_totoro",
+  "cinematic_title": "My Neighbor Totoro",
+  "data_summary": "OpenAI launches ChatGPT for Teens with new safety features",
+  "expires_at": "2026-10-12T19:20:56+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-10-12T13:20:56+11:00",
+  "title": "News: OpenAI launches ChatGPT for Teens with new safety features",
+  "topic_key": "interesting_signal_openai_launches_chatgpt_for_teens_wi",
+  "url": "https://www.google.com/search?q=OpenAI+launches+ChatGPT+for+Teens+with+new+safety+features"
 }
