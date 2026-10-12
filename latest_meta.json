@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "twin_peaks",
-  "cinematic_title": "Twin Peaks",
-  "data_summary": "AFTER HARD DAYS +34M | MORE SLEEP IN YOUR DATA | Across 39 matched days, nights after 30+ intensity minutes averaged 34 minutes more sleep than nights after low-load days. This is an association, not proof of cause.",
-  "expires_at": "2026-10-12T17:40:49+11:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "quiet_place",
+  "cinematic_title": "A Quiet Place",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-10-12T18:20:54+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-12T11:40:49+11:00",
-  "title": "Health Insight: AFTER HARD DAYS +34M",
-  "topic_key": "health_pattern_training_next_sleep",
+  "published_at": "2026-10-12T12:20:54+11:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
