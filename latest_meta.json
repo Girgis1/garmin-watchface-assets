@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "avatar_way_water",
-  "cinematic_title": "Avatar: The Way of Water",
-  "data_summary": "context phase afternoon, temp 33C",
-  "expires_at": "2026-10-12T20:41:00+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-12T14:41:00+11:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
-  "url": ""
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "brooklyn_99",
+  "cinematic_title": "Brooklyn Nine-Nine",
+  "data_summary": "leave-work temp 17C, rain 80%, 1.4 mm",
+  "expires_at": "2026-10-12T21:00:03+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather_departure",
+  "published_at": "2026-10-12T15:00:03+11:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
+  "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
