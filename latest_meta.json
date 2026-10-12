@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "looper",
-  "cinematic_title": "Looper",
-  "data_summary": "next-hour temp 29.4C; rain below 15% notice threshold",
-  "expires_at": "2026-10-12T17:20:48+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-10-12T11:20:48+11:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "twin_peaks",
+  "cinematic_title": "Twin Peaks",
+  "data_summary": "AFTER HARD DAYS +34M | MORE SLEEP IN YOUR DATA | Across 39 matched days, nights after 30+ intensity minutes averaged 34 minutes more sleep than nights after low-load days. This is an association, not proof of cause.",
+  "expires_at": "2026-10-12T17:40:49+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-10-12T11:40:49+11:00",
+  "title": "Health Insight: AFTER HARD DAYS +34M",
+  "topic_key": "health_pattern_training_next_sleep",
+  "url": ""
 }
