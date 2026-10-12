@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "pans_labyrinth",
-  "cinematic_title": "Pan's Labyrinth",
-  "data_summary": "context phase afternoon, temp 32C",
-  "expires_at": "2026-10-12T22:20:10+11:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "silence_lambs",
+  "cinematic_title": "The Silence of the Lambs",
+  "data_summary": "SpO2 97%, respiration 15.0",
+  "expires_at": "2026-10-12T22:40:11+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-12T16:20:10+11:00",
-  "title": "Afternoon Context",
-  "topic_key": "ambient_context_afternoon",
+  "lane": "health",
+  "published_at": "2026-10-12T16:40:11+11:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
