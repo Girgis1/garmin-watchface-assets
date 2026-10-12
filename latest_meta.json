@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "house_of_the_dragon",
-  "cinematic_title": "House of the Dragon",
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "jumanji_1995",
+  "cinematic_title": "Jumanji",
   "data_summary": "morning briefing: ROUGH SLEEP 4.8H; RAIN 88% FROM 9AM",
-  "expires_at": "2026-10-13T15:20:59+11:00",
+  "expires_at": "2026-10-13T15:41:00+11:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-10-13T09:20:59+11:00",
+  "published_at": "2026-10-13T09:41:00+11:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
