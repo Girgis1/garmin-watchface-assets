@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "wrath_of_khan",
-  "cinematic_title": "Star Trek II: The Wrath of Khan",
-  "data_summary": "7D SLEEP 6H25 | 14M VS PRIOR 7D | The seven-day sleep average is 6.4 hours, 14 minutes below the prior seven days.",
-  "expires_at": "2026-10-13T01:20:19+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-10-12T19:20:19+11:00",
-  "title": "Health Insight: 7D SLEEP 6H25",
-  "topic_key": "health_weekly_sleep_trend",
-  "url": ""
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "school_rock",
+  "cinematic_title": "School of Rock",
+  "data_summary": "Sydney train commuters face rush hour delays due to urgent repairs",
+  "expires_at": "2026-10-13T01:40:20+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-10-12T19:40:20+11:00",
+  "title": "News: Sydney train commuters face rush hour delays after urgent repairs",
+  "topic_key": "interesting_signal_sydney_train_commuters_face_rush_hou",
+  "url": "https://www.google.com/search?q=Sydney+train+commuters+face+rush+hour+delays+due+to+urgent+repairs"
 }
