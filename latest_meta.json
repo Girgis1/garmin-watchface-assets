@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "fullmetal_brotherhood",
-  "cinematic_title": "Fullmetal Alchemist: Brotherhood",
-  "data_summary": "context phase sunset, temp 28C",
-  "expires_at": "2026-10-13T02:40:22+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-12T20:40:22+11:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "deadpool_2",
+  "cinematic_title": "Deadpool 2",
+  "data_summary": "next-hour temp 27.2C, rain 65%, 0.0 mm",
+  "expires_at": "2026-10-13T03:00:25+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-10-12T21:00:25+11:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
