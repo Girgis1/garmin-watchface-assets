@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "jumanji_1995",
-  "cinematic_title": "Jumanji",
-  "data_summary": "morning briefing: ROUGH SLEEP 4.8H; RAIN 88% FROM 9AM",
-  "expires_at": "2026-10-13T15:41:00+11:00",
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "tmnt_1987",
+  "cinematic_title": "Teenage Mutant Ninja Turtles (1987)",
+  "data_summary": "INTENSITY 417 MIN | +99% VS PRIOR 7D | Weighted intensity minutes total 417 across the last seven days versus 210 in the prior seven-day window.",
+  "expires_at": "2026-10-13T16:00:01+11:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-10-13T09:41:00+11:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-10-13T10:00:01+11:00",
+  "title": "Health Insight: INTENSITY 417 MIN",
+  "topic_key": "health_weekly_intensity_load",
   "url": ""
 }
