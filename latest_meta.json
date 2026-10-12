@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "raiders_lost_ark",
-  "cinematic_title": "Raiders of the Lost Ark",
-  "data_summary": "next-hour temp 32.5C; rain below 15% notice threshold",
-  "expires_at": "2026-10-12T21:20:08+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-10-12T15:20:08+11:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "cinematic_group": "space_scifi",
+  "cinematic_key": "event_horizon",
+  "cinematic_title": "Event Horizon",
+  "data_summary": "Sydney train chaos as urgent repairs spark major delays",
+  "expires_at": "2026-10-12T21:40:09+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-10-12T15:40:09+11:00",
+  "title": "News: Sydney train chaos as urgent repairs spark major delays",
+  "topic_key": "interesting_signal_sydney_train_chaos_as_urgent_repairs",
+  "url": "https://www.google.com/search?q=Sydney+train+chaos+as+urgent+repairs+spark+major+delays"
 }
