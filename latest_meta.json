@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "deadpool_2",
-  "cinematic_title": "Deadpool 2",
-  "data_summary": "next-hour temp 27.2C, rain 65%, 0.0 mm",
-  "expires_at": "2026-10-13T03:00:25+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-10-12T21:00:25+11:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "inside_out_2",
+  "cinematic_title": "Inside Out 2",
+  "data_summary": "BB TREND -2.1/DAY | 100 -> 62 / 14D | Comparable wake-time Body Battery values moved from 100 to 62, with a fitted trend of -2.1 points per day.",
+  "expires_at": "2026-10-13T03:20:26+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-10-12T21:20:26+11:00",
+  "title": "Health Insight: BB TREND -2.1/DAY",
+  "topic_key": "health_pattern_body_battery_14d_tren",
+  "url": ""
 }
