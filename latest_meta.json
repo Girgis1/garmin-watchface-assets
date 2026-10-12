@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "aliens",
-  "cinematic_title": "Aliens",
+  "cinematic_group": "dc_movies",
+  "cinematic_key": "batman_under_red_hood",
+  "cinematic_title": "Batman: Under the Red Hood",
   "data_summary": "morning briefing: RAIN 84% FROM 8AM",
-  "expires_at": "2026-10-13T14:20:56+11:00",
+  "expires_at": "2026-10-13T14:40:57+11:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-10-13T08:20:56+11:00",
+  "published_at": "2026-10-13T08:40:57+11:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
