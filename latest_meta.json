@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "waynes_world",
-  "cinematic_title": "Wayne's World",
-  "data_summary": "daily phase midday, temp 33C",
-  "expires_at": "2026-10-12T19:40:57+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-12T13:40:57+11:00",
-  "title": "Daily Context",
-  "topic_key": "daily_context",
-  "url": ""
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "kim_possible",
+  "cinematic_title": "Kim Possible",
+  "data_summary": "next-hour temp 33.1C; rain below 15% notice threshold",
+  "expires_at": "2026-10-12T20:20:59+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-10-12T14:20:59+11:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
