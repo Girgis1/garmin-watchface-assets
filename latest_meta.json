@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "inside_out_2",
-  "cinematic_title": "Inside Out 2",
-  "data_summary": "BB TREND -2.1/DAY | 100 -> 62 / 14D | Comparable wake-time Body Battery values moved from 100 to 62, with a fitted trend of -2.1 points per day.",
-  "expires_at": "2026-10-13T03:20:26+11:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "get_out",
+  "cinematic_title": "Get Out",
+  "data_summary": "context phase night, temp 26C",
+  "expires_at": "2026-10-13T03:40:27+11:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-10-12T21:20:26+11:00",
-  "title": "Health Insight: BB TREND -2.1/DAY",
-  "topic_key": "health_pattern_body_battery_14d_tren",
+  "lane": "local_signal",
+  "published_at": "2026-10-12T21:40:27+11:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
   "url": ""
 }
