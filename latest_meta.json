@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "futurama",
-  "cinematic_title": "Futurama",
-  "data_summary": "SLEEP 6H55 | +24M VS 4W AVG | Last sleep was 6.9 hours with score 80, versus a four-week average of 6.5 hours.",
-  "expires_at": "2026-10-12T17:00:47+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-10-12T11:00:47+11:00",
-  "title": "Health Insight: SLEEP 6H55",
-  "topic_key": "health_sleep_vs_baseline",
-  "url": ""
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "looper",
+  "cinematic_title": "Looper",
+  "data_summary": "next-hour temp 29.4C; rain below 15% notice threshold",
+  "expires_at": "2026-10-12T17:20:48+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-10-12T11:20:48+11:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
