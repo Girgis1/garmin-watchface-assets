@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "friends_sitcom",
-  "cinematic_title": "Friends",
-  "data_summary": "CALM DAY PAYS +16 | WAKE BB 83 VS 67 | After days with average stress under 32, morning Body Battery averaged 83; after higher-stress days it was only 67. Today's calm is tomorrow's charge.",
-  "expires_at": "2026-10-13T20:20:15+11:00",
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "minority_report",
+  "cinematic_title": "Minority Report",
+  "data_summary": "7D SLEEP 6H22 | +4M VS PRIOR 7D | The seven-day sleep average is 6.4 hours, 4 minutes above the prior seven days.",
+  "expires_at": "2026-10-13T20:40:16+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-13T14:20:15+11:00",
-  "title": "Health Insight: CALM DAY PAYS +16",
-  "topic_key": "health_pattern_calm_day_next_morning",
+  "published_at": "2026-10-13T14:40:16+11:00",
+  "title": "Health Insight: 7D SLEEP 6H22",
+  "topic_key": "health_weekly_sleep_trend",
   "url": ""
 }
