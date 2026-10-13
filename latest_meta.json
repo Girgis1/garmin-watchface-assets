@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "eternals",
-  "cinematic_title": "Eternals",
-  "data_summary": "Why Sydney\u2019s metro line won\u2019t be getting longer trains",
-  "expires_at": "2026-10-13T18:40:09+11:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-10-13T12:40:09+11:00",
-  "title": "News: Why Sydney\u2019s metro line won\u2019t be getting longer trains",
-  "topic_key": "interesting_signal_why_sydney_s_metro_line_won_t_be_get",
-  "url": "https://www.google.com/search?q=Why+Sydney%E2%80%99s+metro+line+won%E2%80%99t+be+getting+longer+trains"
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "home_alone",
+  "cinematic_title": "Home Alone",
+  "data_summary": "context phase midday, temp 20C",
+  "expires_at": "2026-10-13T19:00:10+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-10-13T13:00:10+11:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
+  "url": ""
 }
