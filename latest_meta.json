@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "the_creator",
-  "cinematic_title": "The Creator",
-  "data_summary": "sleep debt: 4.8h, score 59, 21-day avg 6.6h",
-  "expires_at": "2026-10-14T04:20:37+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-10-13T22:20:37+11:00",
-  "title": "Sleep Debt",
-  "topic_key": "health_sleep_debt",
-  "url": ""
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "prestige",
+  "cinematic_title": "The Prestige",
+  "data_summary": "Total fire ban for Sydney, with high temperatures and risk of bushfires from \u2018dry lightning\u2019",
+  "expires_at": "2026-10-14T04:40:38+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-10-13T22:40:38+11:00",
+  "title": "News: Total fire ban for Sydney, with high temperatures and risk",
+  "topic_key": "interesting_signal_total_fire_ban_for_sydney_with_high_",
+  "url": "https://www.google.com/search?q=Total+fire+ban+for+Sydney%2C+with+high+temperatures+and+risk+of+bushfires+from+%E2%80%98dry+lightning%E2%80%99"
 }
