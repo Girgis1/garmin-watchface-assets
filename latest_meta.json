@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "prestige",
-  "cinematic_title": "The Prestige",
-  "data_summary": "Total fire ban for Sydney, with high temperatures and risk of bushfires from \u2018dry lightning\u2019",
-  "expires_at": "2026-10-14T04:40:38+11:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-10-13T22:40:38+11:00",
-  "title": "News: Total fire ban for Sydney, with high temperatures and risk",
-  "topic_key": "interesting_signal_total_fire_ban_for_sydney_with_high_",
-  "url": "https://www.google.com/search?q=Total+fire+ban+for+Sydney%2C+with+high+temperatures+and+risk+of+bushfires+from+%E2%80%98dry+lightning%E2%80%99"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "luca",
+  "cinematic_title": "Luca",
+  "data_summary": "goodnight stage firm: Night shift wants the desk. Clear out.; SLEEP DEBT 4.8H; RAIN 98% 11PM",
+  "expires_at": "2026-10-14T05:20:42+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "goodnight",
+  "published_at": "2026-10-13T23:20:42+11:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
+  "url": ""
 }
