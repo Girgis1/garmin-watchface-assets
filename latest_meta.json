@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "inception",
-  "cinematic_title": "Inception",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "the_thing",
+  "cinematic_title": "The Thing",
   "data_summary": "morning briefing: ROUGH SLEEP 5.6H; RAIN 19% FROM 9AM",
-  "expires_at": "2026-10-14T15:20:09+11:00",
+  "expires_at": "2026-10-14T15:40:10+11:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-10-14T09:20:09+11:00",
+  "published_at": "2026-10-14T09:40:10+11:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
