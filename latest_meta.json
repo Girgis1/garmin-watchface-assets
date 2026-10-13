@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "fleabag",
-  "cinematic_title": "Fleabag",
-  "data_summary": "context phase night, temp 16C",
-  "expires_at": "2026-10-14T03:00:34+11:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "dark_knight_rises",
+  "cinematic_title": "The Dark Knight Rises",
+  "data_summary": "SpO2 97%, respiration 14.0",
+  "expires_at": "2026-10-14T04:00:37+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-13T21:00:34+11:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
+  "lane": "health",
+  "published_at": "2026-10-13T22:00:37+11:00",
+  "title": "Breathing Steady",
+  "topic_key": "health_breathing_steady",
   "url": ""
 }
