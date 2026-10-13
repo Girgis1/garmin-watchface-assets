@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "ghostbusters",
-  "cinematic_title": "Ghostbusters",
-  "data_summary": "next-hour temp 16.3C, rain 100%, 1.3 mm",
-  "expires_at": "2026-10-14T02:40:33+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-10-13T20:40:33+11:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "fleabag",
+  "cinematic_title": "Fleabag",
+  "data_summary": "context phase night, temp 16C",
+  "expires_at": "2026-10-14T03:00:34+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-10-13T21:00:34+11:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
+  "url": ""
 }
