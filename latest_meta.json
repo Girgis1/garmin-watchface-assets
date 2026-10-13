@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "the_boys",
-  "cinematic_title": "The Boys",
-  "data_summary": "next-hour temp 18.0C, rain 98%, 0.6 mm",
-  "expires_at": "2026-10-13T23:20:25+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-10-13T17:20:25+11:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "fifth_element",
+  "cinematic_title": "The Fifth Element",
+  "data_summary": "CALM DAYS +25 BB | 68 VS 43 / 24 DAYS | Across 24 comparable days, Body Battery averaged 43.1 when stress was 35+ versus 68.5 when stress was below 30. This is a personal association, not proof of cause.",
+  "expires_at": "2026-10-13T23:40:26+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-10-13T17:40:26+11:00",
+  "title": "Health Insight: CALM DAYS +25 BB",
+  "topic_key": "health_pattern_stress_body_battery_g",
+  "url": ""
 }
