@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "fantasy_magic",
-  "cinematic_key": "stardust",
-  "cinematic_title": "Stardust",
-  "data_summary": "waxing crescent, 4% illuminated",
-  "expires_at": "2026-10-13T23:00:21+11:00",
-  "kind": "moon",
-  "label": "OPEN MOON",
-  "lane": "moon",
-  "published_at": "2026-10-13T17:00:21+11:00",
-  "title": "Moon Phase",
-  "topic_key": "moon_phase",
-  "url": "https://www.timeanddate.com/moon/phases/australia/sydney"
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "the_boys",
+  "cinematic_title": "The Boys",
+  "data_summary": "next-hour temp 18.0C, rain 98%, 0.6 mm",
+  "expires_at": "2026-10-13T23:20:25+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-10-13T17:20:25+11:00",
+  "title": "Next-Hour Weather",
+  "topic_key": "next_hour_weather",
+  "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
