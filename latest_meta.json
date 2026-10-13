@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "war_worlds",
-  "cinematic_title": "War of the Worlds",
-  "data_summary": "HRV status unbalanced",
-  "expires_at": "2026-10-13T16:40:03+11:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "guardians_vol2",
+  "cinematic_title": "Guardians of the Galaxy Vol. 2",
+  "data_summary": "SLEEP 4H49 | 102M VS 4W AVG | Last sleep was 4.8 hours with score 59, versus a four-week average of 6.5 hours.",
+  "expires_at": "2026-10-13T17:00:04+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-13T10:40:03+11:00",
-  "title": "HRV Balance",
-  "topic_key": "hrv_balance",
+  "lane": "health",
+  "published_at": "2026-10-13T11:00:04+11:00",
+  "title": "Health Insight: SLEEP 4H49",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
