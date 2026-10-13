@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "millennial_blockbusters",
-  "cinematic_key": "next_2007",
-  "cinematic_title": "Next",
-  "data_summary": "daily phase afternoon, temp 19C",
-  "expires_at": "2026-10-13T21:40:18+11:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "xmen_apocalypse",
+  "cinematic_title": "X-Men: Apocalypse",
+  "data_summary": "context phase afternoon, temp 19C",
+  "expires_at": "2026-10-13T22:00:19+11:00",
   "kind": "none",
   "label": "",
   "lane": "local_signal",
-  "published_at": "2026-10-13T15:40:18+11:00",
-  "title": "Daily Context",
-  "topic_key": "daily_context",
+  "published_at": "2026-10-13T16:00:19+11:00",
+  "title": "Afternoon Context",
+  "topic_key": "ambient_context_afternoon",
   "url": ""
 }
