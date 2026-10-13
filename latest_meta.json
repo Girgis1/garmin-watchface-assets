@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "the_thing",
-  "cinematic_title": "The Thing",
-  "data_summary": "morning briefing: ROUGH SLEEP 5.6H; RAIN 19% FROM 9AM",
-  "expires_at": "2026-10-14T15:40:10+11:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "mummy_returns",
+  "cinematic_title": "The Mummy Returns",
+  "data_summary": "TENNIS DAY ~159 MIN | USUAL 19:37 ~861 KCAL | The standing Wednesday night match runs about 159 minutes and roughly 861 calories; last outing was 58 minutes, usual start around 19:37.",
+  "expires_at": "2026-10-14T16:00:11+11:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-10-14T09:40:10+11:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-10-14T10:00:11+11:00",
+  "title": "Health Insight: TENNIS DAY ~159 MIN",
+  "topic_key": "health_tennis_wednesday",
   "url": ""
 }
