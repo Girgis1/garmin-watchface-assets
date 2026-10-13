@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "shazam",
-  "cinematic_title": "Shazam!",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-10-13T18:20:08+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-10-13T12:20:08+11:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "eternals",
+  "cinematic_title": "Eternals",
+  "data_summary": "Why Sydney\u2019s metro line won\u2019t be getting longer trains",
+  "expires_at": "2026-10-13T18:40:09+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-10-13T12:40:09+11:00",
+  "title": "News: Why Sydney\u2019s metro line won\u2019t be getting longer trains",
+  "topic_key": "interesting_signal_why_sydney_s_metro_line_won_t_be_get",
+  "url": "https://www.google.com/search?q=Why+Sydney%E2%80%99s+metro+line+won%E2%80%99t+be+getting+longer+trains"
 }
