@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "guardians_vol2",
-  "cinematic_title": "Guardians of the Galaxy Vol. 2",
-  "data_summary": "SLEEP 4H49 | 102M VS 4W AVG | Last sleep was 4.8 hours with score 59, versus a four-week average of 6.5 hours.",
-  "expires_at": "2026-10-13T17:00:04+11:00",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "harry_potter_half_blood",
+  "cinematic_title": "Harry Potter and the Half-Blood Prince",
+  "data_summary": "WED SLEEP +68M | VS FRI, 5-WEEK AVG | Across the available history, Wed sleep averages 68 minutes longer than Fri sleep.",
+  "expires_at": "2026-10-13T18:00:07+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-13T11:00:04+11:00",
-  "title": "Health Insight: SLEEP 4H49",
-  "topic_key": "health_sleep_vs_baseline",
+  "published_at": "2026-10-13T12:00:07+11:00",
+  "title": "Health Insight: WED SLEEP +68M",
+  "topic_key": "health_pattern_weekday_sleep",
   "url": ""
 }
