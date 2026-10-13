@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "american_dad",
-  "cinematic_title": "American Dad!",
-  "data_summary": "leave-work temp 15C, rain 23%, 0.0 mm",
-  "expires_at": "2026-10-13T21:20:17+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather_departure",
-  "published_at": "2026-10-13T15:20:17+11:00",
-  "title": "Leave-Work Weather",
-  "topic_key": "leave_work_weather",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "next_2007",
+  "cinematic_title": "Next",
+  "data_summary": "daily phase afternoon, temp 19C",
+  "expires_at": "2026-10-13T21:40:18+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "local_signal",
+  "published_at": "2026-10-13T15:40:18+11:00",
+  "title": "Daily Context",
+  "topic_key": "daily_context",
+  "url": ""
 }
