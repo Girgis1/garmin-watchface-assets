@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "nostalgia_comedy",
-  "cinematic_key": "home_alone",
-  "cinematic_title": "Home Alone",
-  "data_summary": "context phase midday, temp 20C",
-  "expires_at": "2026-10-13T19:00:10+11:00",
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "friends_sitcom",
+  "cinematic_title": "Friends",
+  "data_summary": "CALM DAY PAYS +16 | WAKE BB 83 VS 67 | After days with average stress under 32, morning Body Battery averaged 83; after higher-stress days it was only 67. Today's calm is tomorrow's charge.",
+  "expires_at": "2026-10-13T20:20:15+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-13T13:00:10+11:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-10-13T14:20:15+11:00",
+  "title": "Health Insight: CALM DAY PAYS +16",
+  "topic_key": "health_pattern_calm_day_next_morning",
   "url": ""
 }
