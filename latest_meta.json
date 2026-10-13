@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "simpsons",
-  "cinematic_title": "The Simpsons",
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "the_wire",
+  "cinematic_title": "The Wire",
   "data_summary": "morning briefing: ROUGH SLEEP 5.6H; RAIN 29% FROM 8AM",
-  "expires_at": "2026-10-14T14:00:05+11:00",
+  "expires_at": "2026-10-14T14:20:06+11:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-10-14T08:00:05+11:00",
+  "published_at": "2026-10-14T08:20:06+11:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
