@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "fantasia",
-  "cinematic_title": "Fantasia",
-  "data_summary": "next-hour temp 19.0C, rain 94%, 0.2 mm",
-  "expires_at": "2026-10-13T21:00:16+11:00",
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "american_dad",
+  "cinematic_title": "American Dad!",
+  "data_summary": "leave-work temp 15C, rain 23%, 0.0 mm",
+  "expires_at": "2026-10-13T21:20:17+11:00",
   "kind": "weather",
   "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-10-13T15:00:16+11:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
+  "lane": "weather_departure",
+  "published_at": "2026-10-13T15:20:17+11:00",
+  "title": "Leave-Work Weather",
+  "topic_key": "leave_work_weather",
   "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
