@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "dark_knight_rises",
-  "cinematic_title": "The Dark Knight Rises",
-  "data_summary": "SpO2 97%, respiration 14.0",
-  "expires_at": "2026-10-14T04:00:37+11:00",
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "the_creator",
+  "cinematic_title": "The Creator",
+  "data_summary": "sleep debt: 4.8h, score 59, 21-day avg 6.6h",
+  "expires_at": "2026-10-14T04:20:37+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-13T22:00:37+11:00",
-  "title": "Breathing Steady",
-  "topic_key": "health_breathing_steady",
+  "published_at": "2026-10-13T22:20:37+11:00",
+  "title": "Sleep Debt",
+  "topic_key": "health_sleep_debt",
   "url": ""
 }
