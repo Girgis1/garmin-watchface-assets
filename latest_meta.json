@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "succession",
-  "cinematic_title": "Succession",
-  "data_summary": "INTENSITY 453 MIN | +1032% VS PRIOR 7D | Weighted intensity minutes total 453 across the last seven days versus 40 in the prior seven-day window.",
-  "expires_at": "2026-10-14T19:00:22+11:00",
+  "cinematic_group": "action_adventure",
+  "cinematic_key": "john_wick",
+  "cinematic_title": "John Wick",
+  "data_summary": "100 pushups remaining",
+  "expires_at": "2026-10-14T19:20:24+11:00",
   "kind": "none",
   "label": "",
   "lane": "health",
-  "published_at": "2026-10-14T13:00:22+11:00",
-  "title": "Health Insight: INTENSITY 453 MIN",
-  "topic_key": "health_weekly_intensity_load",
+  "published_at": "2026-10-14T13:20:24+11:00",
+  "title": "Training Nudge",
+  "topic_key": "pushups",
   "url": ""
 }
