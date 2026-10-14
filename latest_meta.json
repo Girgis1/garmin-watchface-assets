@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "finding_nemo",
-  "cinematic_title": "Finding Nemo",
-  "data_summary": "context phase midday, temp 15C",
-  "expires_at": "2026-10-14T16:20:14+11:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "watchmen",
+  "cinematic_title": "Watchmen",
+  "data_summary": "# Garmin Health Insight Generated: 2026-10-14T10:57:16+11:00 Data through: 2026-10-14 (42 days loaded) ## Watch-Safe Insights - **CALM DAYS +20 BB** | 64 VS 44 / 24 DAYS | PROTECT THE CALM DAYS This is a personal association, not proof of c",
+  "expires_at": "2026-10-14T17:00:16+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-14T10:20:14+11:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-10-14T11:00:16+11:00",
+  "title": "Health: HYDRATE",
+  "topic_key": "health_hydrate",
   "url": ""
 }
