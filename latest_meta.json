@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "action_adventure",
-  "cinematic_key": "john_wick",
-  "cinematic_title": "John Wick",
-  "data_summary": "100 pushups remaining",
-  "expires_at": "2026-10-14T19:20:24+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "health",
-  "published_at": "2026-10-14T13:20:24+11:00",
-  "title": "Training Nudge",
-  "topic_key": "pushups",
-  "url": ""
+  "cinematic_group": "cyberpunk_ai",
+  "cinematic_key": "tron_legacy",
+  "cinematic_title": "TRON: Legacy",
+  "data_summary": "The Incident Room: Sydney trains hit by delays during morning peak",
+  "expires_at": "2026-10-14T19:40:24+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-10-14T13:40:24+11:00",
+  "title": "News: Sydney trains hit by delays during morning peak",
+  "topic_key": "interesting_signal_sydney_trains_hit_by_delays_during_m",
+  "url": "https://www.google.com/search?q=The+Incident+Room%3A+Sydney+trains+hit+by+delays+during+morning+peak"
 }
