@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "superman_returns",
-  "cinematic_title": "Superman Returns",
-  "data_summary": "context phase midday, temp 20C",
-  "expires_at": "2026-10-22T16:20:17+11:00",
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "no_country",
+  "cinematic_title": "No Country for Old Men",
+  "data_summary": "SLEEP 5H44 | 37M VS 4W AVG | Last sleep was 5.7 hours with score 74, versus a four-week average of 6.3 hours.",
+  "expires_at": "2026-10-22T16:40:17+11:00",
   "kind": "none",
   "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-22T10:20:17+11:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
+  "lane": "health",
+  "published_at": "2026-10-22T10:40:17+11:00",
+  "title": "Health Insight: SLEEP 5H44",
+  "topic_key": "health_sleep_vs_baseline",
   "url": ""
 }
