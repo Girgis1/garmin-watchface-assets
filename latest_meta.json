@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "top_gear",
-  "cinematic_title": "Top Gear",
-  "data_summary": "morning briefing: ROUGH SLEEP 5.7H; RAIN 96% FROM 9AM",
-  "expires_at": "2026-10-22T15:40:15+11:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "man_of_steel",
+  "cinematic_title": "Man of Steel",
+  "data_summary": "BB<20: 9/30 DAYS | 7/9 ALSO STRESS 35+ | Body Battery finished below 20 on 9 of 30 recent complete days; 7 of those days also had average stress of 35 or higher.",
+  "expires_at": "2026-10-22T16:00:16+11:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-10-22T09:40:15+11:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-10-22T10:00:16+11:00",
+  "title": "Health Insight: BB<20: 9/30 DAYS",
+  "topic_key": "health_pattern_low_body_battery_freq",
   "url": ""
 }
