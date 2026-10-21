@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "cyberpunk_ai",
-  "cinematic_key": "tron_legacy",
-  "cinematic_title": "TRON: Legacy",
-  "data_summary": "The Incident Room: Sydney trains hit by delays during morning peak",
-  "expires_at": "2026-10-14T19:40:24+11:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-10-14T13:40:24+11:00",
-  "title": "News: Sydney trains hit by delays during morning peak",
-  "topic_key": "interesting_signal_sydney_trains_hit_by_delays_during_m",
-  "url": "https://www.google.com/search?q=The+Incident+Room%3A+Sydney+trains+hit+by+delays+during+morning+peak"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "turning_red",
+  "cinematic_title": "Turning Red",
+  "data_summary": "morning briefing: ROUGH SLEEP 5.7H; RAIN 96% FROM 9AM",
+  "expires_at": "2026-10-22T15:20:15+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "morning",
+  "published_at": "2026-10-22T09:20:15+11:00",
+  "title": "Morning Briefing",
+  "topic_key": "morning_briefing",
+  "url": ""
 }
