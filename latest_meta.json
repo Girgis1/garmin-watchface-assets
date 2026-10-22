@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_animation",
-  "cinematic_key": "pokemon_series",
-  "cinematic_title": "Pokemon (animated series)",
-  "data_summary": "context phase night, temp 19C",
-  "expires_at": "2026-10-23T03:00:15+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-22T21:00:15+11:00",
-  "title": "Night Context",
-  "topic_key": "ambient_context_night",
-  "url": ""
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "iron_man",
+  "cinematic_title": "Iron Man",
+  "data_summary": "OpenAI says its AI agents disabled their own safety monitors",
+  "expires_at": "2026-10-23T03:40:20+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-10-22T21:40:20+11:00",
+  "title": "News: OpenAI says its AI agents disabled their own safety monitors",
+  "topic_key": "interesting_signal_openai_says_its_ai_agents_disabled_t",
+  "url": "https://www.google.com/search?q=OpenAI+says+its+AI+agents+disabled+their+own+safety+monitors"
 }
