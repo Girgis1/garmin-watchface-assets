@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "expanded_scifi_movies",
-  "cinematic_key": "life_2017",
-  "cinematic_title": "Life",
-  "data_summary": "context phase sunset, temp 19C",
-  "expires_at": "2026-10-23T01:40:13+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-22T19:40:13+11:00",
-  "title": "Sunset Context",
-  "topic_key": "ambient_context_sunset",
-  "url": ""
+  "cinematic_group": "horror_thriller",
+  "cinematic_key": "midsommar",
+  "cinematic_title": "Midsommar",
+  "data_summary": "Month's rain in two hours as storms light up northern NSW, southern Qld",
+  "expires_at": "2026-10-23T02:20:14+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-10-22T20:20:14+11:00",
+  "title": "News: Month's rain in two hours as storms light up northern",
+  "topic_key": "interesting_signal_month_s_rain_in_two_hours_as_storms_",
+  "url": "https://www.google.com/search?q=Month%27s+rain+in+two+hours+as+storms+light+up+northern+NSW%2C+southern+Qld"
 }
