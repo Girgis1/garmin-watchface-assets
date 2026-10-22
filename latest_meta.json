@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "midsommar",
-  "cinematic_title": "Midsommar",
-  "data_summary": "Month's rain in two hours as storms light up northern NSW, southern Qld",
-  "expires_at": "2026-10-23T02:20:14+11:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-10-22T20:20:14+11:00",
-  "title": "News: Month's rain in two hours as storms light up northern",
-  "topic_key": "interesting_signal_month_s_rain_in_two_hours_as_storms_",
-  "url": "https://www.google.com/search?q=Month%27s+rain+in+two+hours+as+storms+light+up+northern+NSW%2C+southern+Qld"
+  "cinematic_group": "tv_live_action",
+  "cinematic_key": "house_of_the_dragon",
+  "cinematic_title": "House of the Dragon",
+  "data_summary": "sleep debt: 5.7h, score 74, 21-day avg 6.1h",
+  "expires_at": "2026-10-23T02:40:15+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-10-22T20:40:15+11:00",
+  "title": "Sleep Debt",
+  "topic_key": "health_sleep_debt",
+  "url": ""
 }
