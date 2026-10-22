@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "tv_live_action",
-  "cinematic_key": "house_of_the_dragon",
-  "cinematic_title": "House of the Dragon",
-  "data_summary": "sleep debt: 5.7h, score 74, 21-day avg 6.1h",
-  "expires_at": "2026-10-23T02:40:15+11:00",
+  "cinematic_group": "tv_animation",
+  "cinematic_key": "pokemon_series",
+  "cinematic_title": "Pokemon (animated series)",
+  "data_summary": "context phase night, temp 19C",
+  "expires_at": "2026-10-23T03:00:15+11:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-10-22T20:40:15+11:00",
-  "title": "Sleep Debt",
-  "topic_key": "health_sleep_debt",
+  "lane": "local_signal",
+  "published_at": "2026-10-22T21:00:15+11:00",
+  "title": "Night Context",
+  "topic_key": "ambient_context_night",
   "url": ""
 }
