@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "black_widow",
-  "cinematic_title": "Black Widow",
-  "data_summary": "daily phase sunset, temp 19C",
-  "expires_at": "2026-10-23T01:00:11+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-22T19:00:11+11:00",
-  "title": "Daily Context",
-  "topic_key": "daily_context",
-  "url": ""
+  "cinematic_group": "scifi_adventure",
+  "cinematic_key": "avatar_way_water",
+  "cinematic_title": "Avatar: The Way of Water",
+  "data_summary": "Heavy rain and flash flooding expected across parts of NSW this weekend",
+  "expires_at": "2026-10-23T01:20:12+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-10-22T19:20:12+11:00",
+  "title": "News: Heavy rain and flash flooding expected across parts of NSW",
+  "topic_key": "interesting_signal_heavy_rain_and_flash_flooding_expect",
+  "url": "https://www.google.com/search?q=Heavy+rain+and+flash+flooding+expected+across+parts+of+NSW+this+weekend"
 }
