@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "ponyo",
-  "cinematic_title": "Ponyo",
-  "data_summary": "morning briefing: RAIN 51% FROM 9AM",
-  "expires_at": "2026-10-23T15:40:52+11:00",
+  "cinematic_group": "marvel_movies",
+  "cinematic_key": "daredevil_2003",
+  "cinematic_title": "Daredevil",
+  "data_summary": "# Garmin Health Insight Generated: 2026-10-23T09:57:53+11:00 Data through: 2026-10-23 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. Today's calm is tomorrow's charge. - **SLEEP NEED ROSE 12/",
+  "expires_at": "2026-10-23T16:00:53+11:00",
   "kind": "none",
   "label": "",
-  "lane": "morning",
-  "published_at": "2026-10-23T09:40:52+11:00",
-  "title": "Morning Briefing",
-  "topic_key": "morning_briefing",
+  "lane": "health",
+  "published_at": "2026-10-23T10:00:53+11:00",
+  "title": "Health: RECOVERY",
+  "topic_key": "health_recovery",
   "url": ""
 }
