@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "dc_movies",
-  "cinematic_key": "shazam",
-  "cinematic_title": "Shazam!",
-  "data_summary": "Rain delayed the toss in North Sydney",
-  "expires_at": "2026-10-23T04:20:22+11:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-10-22T22:20:22+11:00",
-  "title": "News: Rain delayed the toss in North Sydney",
-  "topic_key": "interesting_signal_rain_delayed_the_toss_in_north_sydne",
-  "url": "https://www.google.com/search?q=Rain+delayed+the+toss+in+North+Sydney"
+  "cinematic_group": "animation_family",
+  "cinematic_key": "secret_life_pets",
+  "cinematic_title": "The Secret Life of Pets",
+  "data_summary": "RHR UP, HRV DOWN | R=-0.63 / N=30 | Across 30 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.63. Treat this as a personal trend signal, not a diagnosis.",
+  "expires_at": "2026-10-23T04:40:22+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-10-22T22:40:22+11:00",
+  "title": "Health Insight: RHR UP, HRV DOWN",
+  "topic_key": "health_pattern_rhr_hrv_relationship",
+  "url": ""
 }
