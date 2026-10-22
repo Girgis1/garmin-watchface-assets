@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "horror_thriller",
-  "cinematic_key": "us_2019",
-  "cinematic_title": "Us",
+  "cinematic_group": "animation_family",
+  "cinematic_key": "ponyo",
+  "cinematic_title": "Ponyo",
   "data_summary": "morning briefing: RAIN 51% FROM 9AM",
-  "expires_at": "2026-10-23T15:00:51+11:00",
+  "expires_at": "2026-10-23T15:40:52+11:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-10-23T09:00:51+11:00",
+  "published_at": "2026-10-23T09:40:52+11:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
