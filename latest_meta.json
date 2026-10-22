@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "animation_family",
-  "cinematic_key": "secret_life_pets",
-  "cinematic_title": "The Secret Life of Pets",
-  "data_summary": "RHR UP, HRV DOWN | R=-0.63 / N=30 | Across 30 matched days, resting heart rate and overnight HRV had a negative correlation of r=-0.63. Treat this as a personal trend signal, not a diagnosis.",
-  "expires_at": "2026-10-23T04:40:22+11:00",
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "willow",
+  "cinematic_title": "Willow",
+  "data_summary": "goodnight stage soft: Night has arrived. You may stop performing.; SLEEP DEBT 5.7H; RAIN 22% 11PM",
+  "expires_at": "2026-10-23T05:00:23+11:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-10-22T22:40:22+11:00",
-  "title": "Health Insight: RHR UP, HRV DOWN",
-  "topic_key": "health_pattern_rhr_hrv_relationship",
+  "lane": "goodnight",
+  "published_at": "2026-10-22T23:00:23+11:00",
+  "title": "Goodnight Briefing",
+  "topic_key": "goodnight_briefing",
   "url": ""
 }
