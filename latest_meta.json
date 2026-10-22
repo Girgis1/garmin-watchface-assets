@@ -1,13 +1,13 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "interstellar",
-  "cinematic_title": "Interstellar",
+  "cinematic_group": "millennial_blockbusters",
+  "cinematic_key": "hellboy_golden_army",
+  "cinematic_title": "Hellboy II: The Golden Army",
   "data_summary": "morning briefing: RAIN 43% FROM 8AM",
-  "expires_at": "2026-10-23T14:00:47+11:00",
+  "expires_at": "2026-10-23T14:20:48+11:00",
   "kind": "none",
   "label": "",
   "lane": "morning",
-  "published_at": "2026-10-23T08:00:47+11:00",
+  "published_at": "2026-10-23T08:20:48+11:00",
   "title": "Morning Briefing",
   "topic_key": "morning_briefing",
   "url": ""
