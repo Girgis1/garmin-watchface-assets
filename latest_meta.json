@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "marvel_movies",
-  "cinematic_key": "daredevil_2003",
-  "cinematic_title": "Daredevil",
-  "data_summary": "# Garmin Health Insight Generated: 2026-10-23T09:57:53+11:00 Data through: 2026-10-23 (42 days loaded) ## Watch-Safe Insights Treat this as a personal trend signal, not a diagnosis. Today's calm is tomorrow's charge. - **SLEEP NEED ROSE 12/",
-  "expires_at": "2026-10-23T16:00:53+11:00",
+  "cinematic_group": "superhero_comic",
+  "cinematic_key": "superman_1978",
+  "cinematic_title": "Superman",
+  "data_summary": "context phase midday, temp 20C",
+  "expires_at": "2026-10-23T16:20:54+11:00",
   "kind": "none",
   "label": "",
-  "lane": "health",
-  "published_at": "2026-10-23T10:00:53+11:00",
-  "title": "Health: RECOVERY",
-  "topic_key": "health_recovery",
+  "lane": "local_signal",
+  "published_at": "2026-10-23T10:20:54+11:00",
+  "title": "Midday Context",
+  "topic_key": "ambient_context_midday",
   "url": ""
 }
