@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "scifi_adventure",
-  "cinematic_key": "iron_giant",
-  "cinematic_title": "The Iron Giant",
-  "data_summary": "Flood warning as first severe thunderstorm of the season looms near Brisbane",
-  "expires_at": "2026-10-22T17:40:19+11:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-10-22T11:40:19+11:00",
-  "title": "News: Flood warning as first severe thunderstorm of the season looms",
-  "topic_key": "interesting_signal_flood_warning_as_first_severe_thunde",
-  "url": "https://www.google.com/search?q=Flood+warning+as+first+severe+thunderstorm+of+the+season+looms+near+Brisbane"
+  "cinematic_group": "nostalgia_comedy",
+  "cinematic_key": "superbad",
+  "cinematic_title": "Superbad",
+  "data_summary": "INTENSITY 360 MIN | +7% VS PRIOR 7D | Weighted intensity minutes total 360 across the last seven days versus 335 in the prior seven-day window.",
+  "expires_at": "2026-10-22T18:00:20+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-10-22T12:00:20+11:00",
+  "title": "Health Insight: INTENSITY 360 MIN",
+  "topic_key": "health_weekly_intensity_load",
+  "url": ""
 }
