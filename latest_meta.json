@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "superhero_comic",
-  "cinematic_key": "superman_1978",
-  "cinematic_title": "Superman",
-  "data_summary": "context phase midday, temp 20C",
-  "expires_at": "2026-10-23T16:20:54+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "local_signal",
-  "published_at": "2026-10-23T10:20:54+11:00",
-  "title": "Midday Context",
-  "topic_key": "ambient_context_midday",
-  "url": ""
+  "cinematic_group": "expanded_scifi_movies",
+  "cinematic_key": "solo_star_wars",
+  "cinematic_title": "Solo: A Star Wars Story",
+  "data_summary": "Sydney Metro opens next week; Glen Alpine police shooting; Ben Roberts-Smith breaks silence",
+  "expires_at": "2026-10-23T16:40:54+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-10-23T10:40:54+11:00",
+  "title": "News: Sydney Metro opens next week; Glen Alpine police shooting; Ben",
+  "topic_key": "interesting_signal_sydney_metro_opens_next_week_glen_al",
+  "url": "https://www.google.com/search?q=Sydney+Metro+opens+next+week%3B+Glen+Alpine+police+shooting%3B+Ben+Roberts-Smith+breaks+silence"
 }
