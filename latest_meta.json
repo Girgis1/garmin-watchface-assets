@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "DRIER FROM 7PM | NORTH SYDNEY \u00b7 FORECAST",
-  "expires_at": "2026-10-23T20:20:09+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-10-23T14:20:09+11:00",
-  "title": "DRIER FROM 7PM",
-  "topic_key": "briefing_dry_window",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "data_summary": "SLEEP UP 40M | THIS WEEK VS LAST",
+  "expires_at": "2026-10-23T20:40:10+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "weekly",
+  "published_at": "2026-10-23T14:40:10+11:00",
+  "title": "SLEEP UP 40M",
+  "topic_key": "briefing_weekly_sleep_trend",
+  "url": ""
 }
