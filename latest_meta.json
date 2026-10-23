@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "RAIN 88% | NEXT HOUR \u00b7 NORTH SYDNEY",
-  "expires_at": "2026-10-23T18:00:03+11:00",
+  "data_summary": "DRIER FROM 7PM | NORTH SYDNEY \u00b7 FORECAST",
+  "expires_at": "2026-10-23T20:20:09+11:00",
   "kind": "weather",
   "label": "OPEN WEATHER",
   "lane": "weather",
-  "published_at": "2026-10-23T12:00:03+11:00",
-  "title": "RAIN 88%",
-  "topic_key": "briefing_rain",
+  "published_at": "2026-10-23T14:20:09+11:00",
+  "title": "DRIER FROM 7PM",
+  "topic_key": "briefing_dry_window",
   "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
