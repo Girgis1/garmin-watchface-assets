@@ -1,14 +1,14 @@
 {
-  "cinematic_group": "space_scifi",
-  "cinematic_key": "gravity",
-  "cinematic_title": "Gravity",
-  "data_summary": "next-hour temp 21.9C, rain 80%, 0.1 mm",
-  "expires_at": "2026-10-23T17:20:02+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-10-23T11:20:02+11:00",
-  "title": "Next-Hour Weather",
-  "topic_key": "next_hour_weather",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "cinematic_group": "fantasy_magic",
+  "cinematic_key": "harry_potter_azkaban",
+  "cinematic_title": "Harry Potter and the Prisoner of Azkaban",
+  "data_summary": "SLEEP 8H36 | +138M VS 4W AVG | Last sleep was 8.6 hours with score 82, versus a four-week average of 6.3 hours.",
+  "expires_at": "2026-10-23T17:40:02+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "health",
+  "published_at": "2026-10-23T11:40:02+11:00",
+  "title": "Health Insight: SLEEP 8H36",
+  "topic_key": "health_sleep_vs_baseline",
+  "url": ""
 }
