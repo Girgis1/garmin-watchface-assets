@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "",
-  "expires_at": "2026-10-24T19:40:16+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "ambient",
-  "published_at": "2026-10-24T13:40:16+11:00",
-  "title": "Quiet artwork",
-  "topic_key": "briefing_ambient",
-  "url": ""
+  "data_summary": "23\u00b0 NEXT HOUR | RAIN 4% \u00b7 0.1 MM",
+  "expires_at": "2026-10-24T20:00:17+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-10-24T14:00:17+11:00",
+  "title": "23\u00b0 NEXT HOUR",
+  "topic_key": "briefing_temperature",
+  "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
