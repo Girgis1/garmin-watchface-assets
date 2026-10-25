@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "24\u00b0 NEXT HOUR | RAIN 61% \u00b7 0 MM",
-  "expires_at": "2026-10-26T02:40:53+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-10-25T20:40:53+11:00",
-  "title": "24\u00b0 NEXT HOUR",
-  "topic_key": "briefing_temperature",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "data_summary": "SLEEP UP 49M | THIS WEEK VS LAST",
+  "expires_at": "2026-10-26T03:00:54+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "weekly",
+  "published_at": "2026-10-25T21:00:54+11:00",
+  "title": "SLEEP UP 49M",
+  "topic_key": "briefing_weekly_sleep_trend",
+  "url": ""
 }
