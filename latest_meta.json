@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "BEDTIME VARIES | 1.8H SPREAD \u00b7 42 NIGHTS",
-  "expires_at": "2026-10-27T04:21:00+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "timing",
-  "published_at": "2026-10-26T22:21:00+11:00",
-  "title": "BEDTIME VARIES",
-  "topic_key": "briefing_bedtime_variable",
-  "url": ""
+  "data_summary": "18C NEXT HOUR | RAIN 11% \u00b7 0 MM",
+  "expires_at": "2026-10-27T04:40:01+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-10-26T22:40:01+11:00",
+  "title": "18C NEXT HOUR",
+  "topic_key": "briefing_temperature",
+  "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
