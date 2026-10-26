@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "19C NEXT HOUR | RAIN 0% \u00b7 0 MM",
-  "expires_at": "2026-10-26T22:00:40+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-10-26T16:00:40+11:00",
-  "title": "19C NEXT HOUR",
-  "topic_key": "briefing_temperature",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "data_summary": "ACTIVITY +335% | 7 COMPLETE DAYS VS PRIOR 7",
+  "expires_at": "2026-10-26T22:20:41+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "weekly",
+  "published_at": "2026-10-26T16:20:41+11:00",
+  "title": "ACTIVITY +335%",
+  "topic_key": "briefing_weekly_intensity_load",
+  "url": ""
 }
