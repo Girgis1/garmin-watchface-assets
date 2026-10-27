@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "AFTER MIDNIGHT | 40 OF 42 SLEEP STARTS",
-  "expires_at": "2026-10-28T04:00:17+11:00",
+  "data_summary": "BEDTIME VARIES | 1.8H SPREAD \u00b7 42 NIGHTS",
+  "expires_at": "2026-10-28T04:40:19+11:00",
   "kind": "none",
   "label": "",
   "lane": "timing",
-  "published_at": "2026-10-27T22:00:17+11:00",
-  "title": "AFTER MIDNIGHT",
-  "topic_key": "briefing_bedtime_chronic_late",
+  "published_at": "2026-10-27T22:40:19+11:00",
+  "title": "BEDTIME VARIES",
+  "topic_key": "briefing_bedtime_variable",
   "url": ""
 }
