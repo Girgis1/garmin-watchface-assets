@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "WAKE ENERGY TREND | 58 TO 35 \u00b7 14 READINGS",
-  "expires_at": "2026-10-27T16:40:39+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "energy",
-  "published_at": "2026-10-27T10:40:39+11:00",
-  "title": "WAKE ENERGY TREND",
-  "topic_key": "briefing_body_battery_14d_trend",
-  "url": ""
+  "data_summary": "RAIN 90% | NEXT HOUR \u00b7 0.2 MM",
+  "expires_at": "2026-10-27T19:00:48+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-10-27T13:00:48+11:00",
+  "title": "RAIN 90%",
+  "topic_key": "briefing_rain",
+  "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
