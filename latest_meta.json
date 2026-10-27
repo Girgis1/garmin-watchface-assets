@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "16C NEXT HOUR | RAIN 53% \u00b7 0.1 MM",
-  "expires_at": "2026-10-28T06:00:27+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-10-28T00:00:27+11:00",
-  "title": "16C NEXT HOUR",
-  "topic_key": "briefing_temperature",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "data_summary": "CHATGPT\u2019S EXPANDING WORLD OF WORK | OFFICIAL OPENAI UPDATE",
+  "expires_at": "2026-10-28T14:20:53+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-10-28T08:20:53+11:00",
+  "title": "CHATGPT\u2019S EXPANDING WORLD OF WORK",
+  "topic_key": "briefing_news_7fcfe7d35ef4602b2c6e",
+  "url": "https://openai.com/index/chatgpt-expanding-world-of-work"
 }
