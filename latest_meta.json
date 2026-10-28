@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "18C NEXT HOUR | RAIN 0% \u00b7 0 MM",
-  "expires_at": "2026-10-29T02:20:32+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-10-28T20:20:32+11:00",
-  "title": "18C NEXT HOUR",
-  "topic_key": "briefing_temperature",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "data_summary": "PUSH-UPS 8,455 | LEFT \u00b7 131/DAY TO NEW YEAR",
+  "expires_at": "2026-10-29T02:40:33+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "pushups",
+  "published_at": "2026-10-28T20:40:33+11:00",
+  "title": "PUSH-UPS 8,455",
+  "topic_key": "briefing_pushups",
+  "url": ""
 }
