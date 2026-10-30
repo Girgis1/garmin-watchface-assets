@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "GARMIN STRESS FLAGS | 12 OF 14 DAILY REPORTS",
-  "expires_at": "2026-10-31T03:20:16+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "stress",
-  "published_at": "2026-10-30T21:20:16+11:00",
-  "title": "GARMIN STRESS FLAGS",
-  "topic_key": "briefing_pre_sleep_stress_feedback",
-  "url": ""
+  "data_summary": "19C NEXT HOUR | RAIN 0% \u00b7 0 MM",
+  "expires_at": "2026-10-31T03:40:17+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-10-30T21:40:17+11:00",
+  "title": "19C NEXT HOUR",
+  "topic_key": "briefing_temperature",
+  "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
