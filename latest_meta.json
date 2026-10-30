@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "SLEEP DOWN 28M | THIS WEEK VS LAST",
-  "expires_at": "2026-10-30T19:00:47+11:00",
+  "data_summary": "ACTIVITY +29% | 7 COMPLETE DAYS VS PRIOR 7",
+  "expires_at": "2026-10-30T19:20:48+11:00",
   "kind": "none",
   "label": "",
   "lane": "weekly",
-  "published_at": "2026-10-30T13:00:47+11:00",
-  "title": "SLEEP DOWN 28M",
-  "topic_key": "briefing_weekly_sleep_trend",
+  "published_at": "2026-10-30T13:20:48+11:00",
+  "title": "ACTIVITY +29%",
+  "topic_key": "briefing_weekly_intensity_load",
   "url": ""
 }
