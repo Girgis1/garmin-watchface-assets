@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "RAIN 86% | NEXT HOUR \u00b7 0.4 MM",
-  "expires_at": "2026-10-31T23:00:17+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-10-31T17:00:17+11:00",
-  "title": "RAIN 86%",
-  "topic_key": "briefing_rain",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "data_summary": "SLEEP NEED INCREASED | GARMIN: 9 OF 14 NIGHTS",
+  "expires_at": "2026-11-01T01:00:24+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "sleep",
+  "published_at": "2026-10-31T19:00:24+11:00",
+  "title": "SLEEP NEED INCREASED",
+  "topic_key": "briefing_sleep_need_increased_frequency",
+  "url": ""
 }
