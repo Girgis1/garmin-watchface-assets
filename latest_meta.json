@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "PUSH-UPS 8,455 | LEFT \u00b7 141/DAY TO NEW YEAR",
-  "expires_at": "2026-11-02T06:00:36+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "pushups",
-  "published_at": "2026-11-02T00:00:36+11:00",
-  "title": "PUSH-UPS 8,455",
-  "topic_key": "briefing_pushups",
-  "url": ""
+  "data_summary": "DRIER FROM 4PM | NORTH SYDNEY \u00b7 FORECAST",
+  "expires_at": "2026-11-02T14:00:04+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-11-02T08:00:04+11:00",
+  "title": "DRIER FROM 4PM",
+  "topic_key": "briefing_dry_window",
+  "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
