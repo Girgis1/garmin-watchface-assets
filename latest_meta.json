@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "DRIER FROM 5PM | NORTH SYDNEY \u00b7 FORECAST",
-  "expires_at": "2026-11-01T16:40:53+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-11-01T10:40:53+11:00",
-  "title": "DRIER FROM 5PM",
-  "topic_key": "briefing_dry_window",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "data_summary": "LOW EVENING ENERGY | BB UNDER 20 ON 26 OF 28 DAYS",
+  "expires_at": "2026-11-01T17:00:54+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "energy",
+  "published_at": "2026-11-01T11:00:54+11:00",
+  "title": "LOW EVENING ENERGY",
+  "topic_key": "briefing_low_body_battery_frequency",
+  "url": ""
 }
