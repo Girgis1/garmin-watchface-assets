@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "INTRODUCING THE GRID PROTECTORS PROGRAM | OFFICIAL OPENAI UPDATE",
-  "expires_at": "2026-11-04T14:20:51+11:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-11-04T08:20:51+11:00",
-  "title": "INTRODUCING THE GRID PROTECTORS PROGRAM",
-  "topic_key": "briefing_news_b973e58cebf9685ea029",
-  "url": "https://openai.com/index/grid-protectors-program"
+  "data_summary": "DRIER FROM 4PM | NORTH SYDNEY \u00b7 FORECAST",
+  "expires_at": "2026-11-04T14:40:52+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-11-04T08:40:52+11:00",
+  "title": "DRIER FROM 4PM",
+  "topic_key": "briefing_dry_window",
+  "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
