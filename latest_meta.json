@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "SLEEP NEED INCREASED | GARMIN: 7 OF 14 NIGHTS",
-  "expires_at": "2026-11-04T03:40:13+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "sleep",
-  "published_at": "2026-11-03T21:40:13+11:00",
-  "title": "SLEEP NEED INCREASED",
-  "topic_key": "briefing_sleep_need_increased_frequency",
-  "url": ""
+  "data_summary": "DRIER FROM 4PM | NORTH SYDNEY \u00b7 FORECAST",
+  "expires_at": "2026-11-04T14:00:50+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-11-04T08:00:50+11:00",
+  "title": "DRIER FROM 4PM",
+  "topic_key": "briefing_dry_window",
+  "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
