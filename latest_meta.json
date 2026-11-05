@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "WAKE ENERGY TREND | 59 TO 60 \u00b7 11 READINGS",
-  "expires_at": "2026-11-05T22:40:34+11:00",
+  "data_summary": "BEST EVENING BB 25 | IN 28 COMPLETE DAYS",
+  "expires_at": "2026-11-06T00:00:37+11:00",
   "kind": "none",
   "label": "",
   "lane": "energy",
-  "published_at": "2026-11-05T16:40:34+11:00",
-  "title": "WAKE ENERGY TREND",
-  "topic_key": "briefing_body_battery_14d_trend",
+  "published_at": "2026-11-05T18:00:37+11:00",
+  "title": "BEST EVENING BB 25",
+  "topic_key": "briefing_body_battery_recovery_ceiling",
   "url": ""
 }
