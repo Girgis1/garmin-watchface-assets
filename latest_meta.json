@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "INTRODUCING IMAGES 2.6 | OFFICIAL OPENAI UPDATE",
-  "expires_at": "2026-11-06T02:40:46+11:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-11-05T20:40:46+11:00",
-  "title": "INTRODUCING IMAGES 2.6",
-  "topic_key": "briefing_news_17e2c4f18cef7e5d4fb1",
-  "url": "https://openai.com/index/introducing-images-2-6"
+  "data_summary": "PUSH-UPS 8,360 | LEFT \u00b7 147/DAY TO NEW YEAR",
+  "expires_at": "2026-11-06T03:20:47+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "pushups",
+  "published_at": "2026-11-05T21:20:47+11:00",
+  "title": "PUSH-UPS 8,360",
+  "topic_key": "briefing_pushups",
+  "url": ""
 }
