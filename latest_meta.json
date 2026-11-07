@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "BEST EVENING BB 25 | IN 28 COMPLETE DAYS",
-  "expires_at": "2026-11-08T02:20:21+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "energy",
-  "published_at": "2026-11-07T20:20:21+11:00",
-  "title": "BEST EVENING BB 25",
-  "topic_key": "briefing_body_battery_recovery_ceiling",
-  "url": ""
+  "data_summary": "13C NEXT HOUR | RAIN 52% \u00b7 0 MM",
+  "expires_at": "2026-11-08T06:00:34+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-11-08T00:00:34+11:00",
+  "title": "13C NEXT HOUR",
+  "topic_key": "briefing_temperature",
+  "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
