@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "RAIN 56% | NEXT HOUR \u00b7 0.2 MM",
-  "expires_at": "2026-11-09T04:00:39+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-11-08T22:00:39+11:00",
-  "title": "RAIN 56%",
-  "topic_key": "briefing_rain",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "data_summary": "LOW EVENING ENERGY | BB UNDER 20 ON 27 OF 29 DAYS",
+  "expires_at": "2026-11-09T04:20:40+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "energy",
+  "published_at": "2026-11-08T22:20:40+11:00",
+  "title": "LOW EVENING ENERGY",
+  "topic_key": "briefing_low_body_battery_frequency",
+  "url": ""
 }
