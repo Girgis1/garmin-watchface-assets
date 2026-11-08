@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "15C NEXT HOUR | RAIN 0% \u00b7 0 MM",
-  "expires_at": "2026-11-09T15:40:15+11:00",
+  "data_summary": "16C NEXT HOUR | RAIN 2% \u00b7 0 MM",
+  "expires_at": "2026-11-09T16:40:20+11:00",
   "kind": "weather",
   "label": "OPEN WEATHER",
   "lane": "weather",
-  "published_at": "2026-11-09T09:40:15+11:00",
-  "title": "15C NEXT HOUR",
+  "published_at": "2026-11-09T10:40:20+11:00",
+  "title": "16C NEXT HOUR",
   "topic_key": "briefing_temperature",
   "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
