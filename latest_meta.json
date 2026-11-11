@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "PUSH-UPS 8,320 | LEFT \u00b7 164/DAY TO NEW YEAR",
-  "expires_at": "2026-11-12T02:20:18+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "pushups",
-  "published_at": "2026-11-11T20:20:18+11:00",
-  "title": "PUSH-UPS 8,320",
-  "topic_key": "briefing_pushups",
-  "url": ""
+  "data_summary": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS | OFFICIAL OPENAI UPDATE",
+  "expires_at": "2026-11-12T02:40:18+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-11-11T20:40:18+11:00",
+  "title": "CHATGPT PLUS FOR VETERANS AND SERVICEMEMBERS",
+  "topic_key": "briefing_news_d1e491f3c005fe2eafa5",
+  "url": "https://openai.com/index/chatgpt-plus-for-veterans"
 }
