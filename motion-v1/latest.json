@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "x": 238,
+  "y": 166,
+  "width": 100,
+  "height": 74,
+  "tileWidth": 48,
+  "tileHeight": 48,
+  "columns": 8,
+  "rows": 8,
+  "frames": 64,
+  "frameMs": 100,
+  "id": "4605b603872cb834890fa2cd32163e03"
+}
