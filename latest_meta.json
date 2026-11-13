@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "BEST EVENING BB 36 | IN 29 COMPLETE DAYS",
-  "expires_at": "2026-11-13T17:40:15+11:00",
+  "data_summary": "LOW EVENING ENERGY | BB UNDER 20 ON 24 OF 29 DAYS",
+  "expires_at": "2026-11-13T22:20:14+11:00",
   "kind": "none",
   "label": "",
   "lane": "energy",
-  "published_at": "2026-11-13T11:40:15+11:00",
-  "title": "BEST EVENING BB 36",
-  "topic_key": "briefing_body_battery_recovery_ceiling",
+  "published_at": "2026-11-13T16:20:14+11:00",
+  "title": "LOW EVENING ENERGY",
+  "topic_key": "briefing_low_body_battery_frequency",
   "url": ""
 }
