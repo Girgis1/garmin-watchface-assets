@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "RHR AND HRV | INVERSE TREND \u00b7 27 DAYS",
-  "expires_at": "2026-11-14T02:00:27+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "recovery",
-  "published_at": "2026-11-13T20:00:27+11:00",
-  "title": "RHR AND HRV",
-  "topic_key": "briefing_rhr_hrv_relationship",
-  "url": ""
+  "data_summary": "DRIER FROM 6AM | NORTH SYDNEY \u00b7 FORECAST",
+  "expires_at": "2026-11-14T04:00:32+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-11-13T22:00:32+11:00",
+  "title": "DRIER FROM 6AM",
+  "topic_key": "briefing_dry_window",
+  "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
