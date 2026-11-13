@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "RECENT HRV | AVG 71 MS \u00b7 7 READINGS",
-  "expires_at": "2026-11-14T05:00:35+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "recovery",
-  "published_at": "2026-11-13T23:00:35+11:00",
-  "title": "RECENT HRV",
-  "topic_key": "briefing_weekly_hrv_trend",
-  "url": ""
+  "data_summary": "RAIN 56% | NEXT HOUR \u00b7 0.2 MM",
+  "expires_at": "2026-11-14T05:20:37+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-11-13T23:20:37+11:00",
+  "title": "RAIN 56%",
+  "topic_key": "briefing_rain",
+  "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
