@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "RAIN 56% | NEXT HOUR \u00b7 0.2 MM",
-  "expires_at": "2026-11-14T05:20:37+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-11-13T23:20:37+11:00",
-  "title": "RAIN 56%",
-  "topic_key": "briefing_rain",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "data_summary": "GARMIN STRESS FLAGS | 8 OF 14 DAILY REPORTS",
+  "expires_at": "2026-11-14T05:40:39+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "stress",
+  "published_at": "2026-11-13T23:40:39+11:00",
+  "title": "GARMIN STRESS FLAGS",
+  "topic_key": "briefing_pre_sleep_stress_feedback",
+  "url": ""
 }
