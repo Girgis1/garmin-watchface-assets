@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "RAIN 80% | NEXT HOUR \u00b7 0.2 MM",
-  "expires_at": "2026-11-15T03:00:47+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-11-14T21:00:47+11:00",
-  "title": "RAIN 80%",
-  "topic_key": "briefing_rain",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "data_summary": "PUSH-UPS 8,300 | LEFT \u00b7 173/DAY TO NEW YEAR",
+  "expires_at": "2026-11-15T03:40:49+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "pushups",
+  "published_at": "2026-11-14T21:40:49+11:00",
+  "title": "PUSH-UPS 8,300",
+  "topic_key": "briefing_pushups",
+  "url": ""
 }
