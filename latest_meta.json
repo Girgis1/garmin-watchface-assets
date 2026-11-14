@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "26C NEXT HOUR | RAIN 36% \u00b7 0.5 MM",
-  "expires_at": "2026-11-14T22:00:32+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-11-14T16:00:32+11:00",
-  "title": "26C NEXT HOUR",
-  "topic_key": "briefing_temperature",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "data_summary": "INTRODUCING CHATGPT WALLET | OFFICIAL OPENAI UPDATE",
+  "expires_at": "2026-11-14T22:20:32+11:00",
+  "kind": "news",
+  "label": "OPEN STORY",
+  "lane": "news",
+  "published_at": "2026-11-14T16:20:32+11:00",
+  "title": "INTRODUCING CHATGPT WALLET",
+  "topic_key": "briefing_news_c9481a853ae187e8ffc1",
+  "url": "https://openai.com/index/introducing-chatgpt-wallet"
 }
