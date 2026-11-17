@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "15C NEXT HOUR | RAIN 27% \u00b7 0 MM",
-  "expires_at": "2026-11-18T14:00:09+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-11-18T08:00:09+11:00",
-  "title": "15C NEXT HOUR",
-  "topic_key": "briefing_temperature",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "data_summary": "SLEEP 4H 44M | 101M BELOW USUAL",
+  "expires_at": "2026-11-18T15:40:15+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "sleep",
+  "published_at": "2026-11-18T09:40:15+11:00",
+  "title": "SLEEP 4H 44M",
+  "topic_key": "briefing_sleep_vs_4w",
+  "url": ""
 }
