@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "INSIDE THE CODEX SANDBOX | OFFICIAL OPENAI UPDATE",
-  "expires_at": "2026-11-19T21:20:38+11:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-11-19T15:20:38+11:00",
-  "title": "INSIDE THE CODEX SANDBOX",
-  "topic_key": "briefing_news_ecdcbbfe0a6d6b0853bd",
-  "url": "https://openai.com/index/inside-the-codex-sandbox"
+  "data_summary": "24C NEXT HOUR | RAIN 0% \u00b7 0 MM",
+  "expires_at": "2026-11-19T21:40:38+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-11-19T15:40:38+11:00",
+  "title": "24C NEXT HOUR",
+  "topic_key": "briefing_temperature",
+  "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
