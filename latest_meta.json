@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "EXPLORE THE CODEX SECURITY PLUGIN | OFFICIAL OPENAI UPDATE",
-  "expires_at": "2026-11-20T16:40:49+11:00",
-  "kind": "news",
-  "label": "OPEN STORY",
-  "lane": "news",
-  "published_at": "2026-11-20T10:40:49+11:00",
-  "title": "EXPLORE THE CODEX SECURITY PLUGIN",
-  "topic_key": "briefing_news_19f43200500baef49706",
-  "url": "https://openai.com/business/learn/codex-security-plugin-demo"
+  "data_summary": "ACTIVITY +1519% | 7 COMPLETE DAYS VS PRIOR 7",
+  "expires_at": "2026-11-20T17:20:51+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "weekly",
+  "published_at": "2026-11-20T11:20:51+11:00",
+  "title": "ACTIVITY +1519%",
+  "topic_key": "briefing_weekly_intensity_load",
+  "url": ""
 }
