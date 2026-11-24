@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "DRIER FROM 2AM | NORTH SYDNEY \u00b7 FORECAST",
-  "expires_at": "2026-11-25T01:40:42+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-11-24T19:40:42+11:00",
-  "title": "DRIER FROM 2AM",
-  "topic_key": "briefing_dry_window",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "data_summary": "WAKE ENERGY TREND | 90 TO 70 \u00b7 14 READINGS",
+  "expires_at": "2026-11-25T04:00:50+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "energy",
+  "published_at": "2026-11-24T22:00:50+11:00",
+  "title": "WAKE ENERGY TREND",
+  "topic_key": "briefing_body_battery_14d_trend",
+  "url": ""
 }
