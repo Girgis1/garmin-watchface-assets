@@ -3,11 +3,11 @@
   "cinematic_key": null,
   "cinematic_title": null,
   "data_summary": "24C NEXT HOUR | RAIN 8% \u00b7 0 MM",
-  "expires_at": "2026-11-26T21:00:07+11:00",
+  "expires_at": "2026-11-26T21:40:08+11:00",
   "kind": "weather",
   "label": "OPEN WEATHER",
   "lane": "weather",
-  "published_at": "2026-11-26T15:00:07+11:00",
+  "published_at": "2026-11-26T15:40:08+11:00",
   "title": "24C NEXT HOUR",
   "topic_key": "briefing_temperature",
   "url": "https://www.google.com/search?q=North+Sydney+weather"
