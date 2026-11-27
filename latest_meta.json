@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "GARMIN STRESS FLAGS | 8 OF 14 DAILY REPORTS",
-  "expires_at": "2026-11-27T18:40:13+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "stress",
-  "published_at": "2026-11-27T12:40:13+11:00",
-  "title": "GARMIN STRESS FLAGS",
-  "topic_key": "briefing_pre_sleep_stress_feedback",
-  "url": ""
+  "data_summary": "TOMORROW 27C HIGH | LOW 20C \u00b7 NORTH SYDNEY",
+  "expires_at": "2026-11-27T18:48:16+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-11-27T12:48:16+11:00",
+  "title": "TOMORROW 27C HIGH",
+  "topic_key": "briefing_daily_outlook",
+  "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
