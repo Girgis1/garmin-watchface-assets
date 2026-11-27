@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "TODAY 27C HIGH | LOW 21C \u00b7 NORTH SYDNEY",
-  "expires_at": "2026-11-28T15:20:20+11:00",
-  "kind": "weather",
-  "label": "OPEN WEATHER",
-  "lane": "weather",
-  "published_at": "2026-11-28T09:20:20+11:00",
-  "title": "TODAY 27C HIGH",
-  "topic_key": "briefing_daily_outlook",
-  "url": "https://www.google.com/search?q=North+Sydney+weather"
+  "data_summary": "PUSH-UPS 8,255 | LEFT \u00b7 243/DAY TO NEW YEAR",
+  "expires_at": "2026-11-28T15:40:20+11:00",
+  "kind": "none",
+  "label": "",
+  "lane": "pushups",
+  "published_at": "2026-11-28T09:40:20+11:00",
+  "title": "PUSH-UPS 8,255",
+  "topic_key": "briefing_pushups",
+  "url": ""
 }
