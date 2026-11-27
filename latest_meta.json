@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "TOMORROW 27C HIGH | LOW 20C \u00b7 NORTH SYDNEY",
-  "expires_at": "2026-11-27T18:48:16+11:00",
+  "data_summary": "RAIN 45% | NEXT HOUR \u00b7 0.3 MM",
+  "expires_at": "2026-11-27T19:00:16+11:00",
   "kind": "weather",
   "label": "OPEN WEATHER",
   "lane": "weather",
-  "published_at": "2026-11-27T12:48:16+11:00",
-  "title": "TOMORROW 27C HIGH",
-  "topic_key": "briefing_daily_outlook",
+  "published_at": "2026-11-27T13:00:16+11:00",
+  "title": "RAIN 45%",
+  "topic_key": "briefing_rain",
   "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
