@@ -2,13 +2,13 @@
   "cinematic_group": null,
   "cinematic_key": null,
   "cinematic_title": null,
-  "data_summary": "AFTER MIDNIGHT | 38 OF 38 SLEEP STARTS",
-  "expires_at": "2026-11-29T04:40:04+11:00",
-  "kind": "none",
-  "label": "",
-  "lane": "timing",
-  "published_at": "2026-11-28T22:40:04+11:00",
-  "title": "AFTER MIDNIGHT",
-  "topic_key": "briefing_bedtime_chronic_late",
-  "url": ""
+  "data_summary": "DRIER FROM 4AM | NORTH SYDNEY \u00b7 FORECAST",
+  "expires_at": "2026-11-29T05:20:06+11:00",
+  "kind": "weather",
+  "label": "OPEN WEATHER",
+  "lane": "weather",
+  "published_at": "2026-11-28T23:20:06+11:00",
+  "title": "DRIER FROM 4AM",
+  "topic_key": "briefing_dry_window",
+  "url": "https://www.google.com/search?q=North+Sydney+weather"
 }
